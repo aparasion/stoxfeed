@@ -14,7 +14,7 @@
 
 /* Logo */
 .site-logo {
-  display: block;
+  display: inline-block;
 }
 
 .logo-image {
