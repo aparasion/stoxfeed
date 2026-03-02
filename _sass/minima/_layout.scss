@@ -11,6 +11,13 @@
   border-bottom: 1px solid $border-color-01;
 }
 
+.site-header img {
+  position: relative;
+  width: 10%;
+  border-top: 5px solid $border-color-03;
+  border-bottom: 1px solid $border-color-01;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
