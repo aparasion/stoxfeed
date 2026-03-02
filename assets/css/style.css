@@ -1,30 +1,21 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background: #f4f4f4;
-  color: #333;
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+  display: flex;
+  gap: 1.5rem;
 }
 
-.container {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 1rem;
-  background: white;
-}
-
-.site-header, .site-footer {
-  background: #111;
+.site-nav a {
   color: white;
-  padding: 1rem;
-}
-
-.site-header a {
-  color: white;
-  margin-right: 1rem;
   text-decoration: none;
+  font-weight: 500;
 }
 
-.post-meta {
-  color: #777;
-  font-size: 0.9rem;
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-nav a.active {
+  border-bottom: 2px solid white;
 }
