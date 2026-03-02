@@ -3,7 +3,7 @@
  */
 .site-header {
   position: relative;
-  width: 100%;
+  width: 50%;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
   background-color: red;
