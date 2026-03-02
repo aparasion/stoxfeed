@@ -12,6 +12,23 @@
   --border: rgba(255,255,255,0.15);
 }
 
+/* Logo */
+.site-logo {
+  display: inline-block;
+}
+
+.logo-image {
+  max-width: 180px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  transition: opacity 0.2s ease;
+}
+
+.site-logo:hover .logo-image {
+  opacity: 0.8;
+}
+
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
