@@ -1,1 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  color: #333;
+}
 
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: white;
+}
+
+.site-header, .site-footer {
+  background: #111;
+  color: white;
+  padding: 1rem;
+}
+
+.site-header a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.post-meta {
+  color: #777;
+  font-size: 0.9rem;
+}
