@@ -17,14 +17,13 @@
   display: block;
   width: fit-content;
   margin: 0 auto;
-  border-bottom: 1px color: #111;
 }
 
 .logo-image {
   max-width: 284px;
   height: auto;
   display: block;
-  margin: 0 auto 2rem auto;
+  margin: 0 auto 1rem auto;
   transition: opacity 0.2s ease;
 }
 
