@@ -6,8 +6,8 @@ nav_order: 1
 ---
 
 <section class="hero">
-  <h1>Translation and localization news</h1>
-  <p>Articles and information digest delivered in one place.</p>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
 </section>
 
 <section class="post-list">
