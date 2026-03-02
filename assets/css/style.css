@@ -13,6 +13,11 @@
 }
 
 body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #ffffff;
+  color: #111;
+  line-height: 1.7;
   background: var(--bg);
   color: var(--text);
   transition: background 0.3s ease, color 0.3s ease;
@@ -21,6 +26,13 @@ body {
 a {
   color: var(--text);
   border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  border-bottom: 1px solid #111;
 }
 
 .post-meta,
@@ -68,14 +80,6 @@ h2 a:hover {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: 'Inter', sans-serif;
-  background: #ffffff;
-  color: #111;
-  line-height: 1.7;
-}
-
 /* Container */
 .container {
   max-width: 760px;
@@ -97,18 +101,6 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
-}
-
-/* Links */
-a {
-  color: #111;
-  text-decoration: none;
-  border-bottom: 1px solid rgba(0,0,0,0.15);
-  transition: all 0.2s ease;
-}
-
-a:hover {
-  border-bottom: 1px solid #111;
 }
 
 /* Nav */
