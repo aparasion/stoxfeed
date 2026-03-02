@@ -1,7 +1,9 @@
 <header class="site-header">
-  <h1>
-    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-  </h1>
+  <a href="{{ '/' | relative_url }}" class="site-logo">
+    <img src="{{ '/assets/images/logolocreport.png' | relative_url }}"
+         alt="{{ site.title }}"
+         class="logo-image">
+  </a>
 
   {% include nav.html %}
 </header>
