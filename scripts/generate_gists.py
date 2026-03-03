@@ -2,9 +2,9 @@ import feedparser
 import os
 import json
 import datetime
-import requests
 import trafilatura
 import time
+import re
 from urllib.parse import urlparse
 from openai import OpenAI
 
@@ -50,7 +50,11 @@ def get_publisher_domain(url: str) -> str:
         return "Unknown Publisher"
 
 
-seen = json.load(open(SEEN_FILE)) if os.path.exists(SEEN_FILE) else []
+if os.path.exists(SEEN_FILE):
+    with open(SEEN_FILE, "r", encoding="utf-8") as seen_file:
+        seen = json.load(seen_file)
+else:
+    seen = []
 posts = []
 count = 0
 
@@ -68,7 +72,8 @@ for feed_url in FEEDS:
             continue
 
         downloaded = trafilatura.fetch_url(url)
-        text = trafilatura.extract(downloaded, include_comments=False) or entry.description
+        fallback_description = getattr(entry, "description", "")
+        text = trafilatura.extract(downloaded, include_comments=False) or fallback_description
 
         prompt = f"""Create a concise gist (100–200 words) of this article.
 Focus on key facts and implications.
@@ -103,18 +108,25 @@ Keep the writing concise, informative, and easy to scan."""},
         # ────────────────────────────────────────────────
         # Date handling
         # ────────────────────────────────────────────────
-        if 'published_parsed' in entry and entry.published_parsed:
-            pub_dt = datetime.datetime(*entry.published_parsed[:6])
+        if "published_parsed" in entry and entry.published_parsed:
+            pub_dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
         else:
-            pub_dt = datetime.datetime.now()
+            pub_dt = datetime.datetime.now(datetime.timezone.utc)
 
         post_date_str = pub_dt.strftime("%Y-%m-%d")
         time_str = pub_dt.strftime("%H:%M:%S")
 
         # Slug
-        slug_raw = entry.title.lower().replace(" ", "-")
-        slug = "".join(c for c in slug_raw if c.isalnum() or c == "-")[:60].rstrip("-")
+        slug_raw = re.sub(r"\s+", "-", entry.title.lower().strip())
+        slug = "".join(c for c in slug_raw if c.isalnum() or c == "-")[:60].strip("-")
+        if not slug:
+            slug = f"article-{int(pub_dt.timestamp())}"
+
         filename = f"_posts/{post_date_str}-{slug}.md"
+        suffix = 1
+        while os.path.exists(filename):
+            filename = f"_posts/{post_date_str}-{slug}-{suffix}.md"
+            suffix += 1
 
         # Source information
         source_url = entry.link if entry.link else url
@@ -125,6 +137,8 @@ Keep the writing concise, informative, and easy to scan."""},
         # ────────────────────────────────────────────────
         safe_title = yaml_escape(entry.title)
         safe_excerpt = yaml_escape(gist[:160])
+        safe_publisher = yaml_escape(publisher)
+        safe_source_url = yaml_escape(source_url)
 
         md_content = f"""---
 title: "{safe_title}"
@@ -133,13 +147,13 @@ layout: post
 categories: [{YOUR_AREA.lower()}]
 tags: [translation, localization, news, gist]
 excerpt: "{safe_excerpt}..."
-publisher: {publisher}
-source_url: "{source_url}"
+publisher: "{safe_publisher}"
+source_url: "{safe_source_url}"
 ---
 
 {gist}
 
-[→ Read full article via {publisher}]({source_url})
+[→ Read full article via {safe_publisher}]({safe_source_url})
 """
 
         os.makedirs("_posts", exist_ok=True)
