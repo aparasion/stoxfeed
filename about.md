@@ -8,7 +8,7 @@ nav_order: 3
 
 ## About {% include brand-word.html %}
 
-{% include brand-word.html %} is an independent publication tracking the pulse of the language services industry.
+{% include brand-word.html %} is an independent publication portal tracking the pulse of the language services industry.
 
 We cover daily developments in translation, localization, global content strategy, language technology, and cross-border communication. From emerging AI tools to market shifts and operational innovation, our goal is simple:
 
