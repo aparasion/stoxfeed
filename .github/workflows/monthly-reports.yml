@@ -1,0 +1,71 @@
+name: Monthly Reports
+
+on:
+  schedule:
+    - cron: '15 2 1 * *' # 02:15 UTC on day 1 of each month (summarizes previous month)
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "Month to summarize (YYYY-MM). Leave blank for previous month."
+        required: false
+        type: string
+      force:
+        description: "Generate even if report already exists"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  generate-monthly-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install openai
+
+      - name: Generate monthly report
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          INPUT_MONTH: ${{ github.event.inputs.month }}
+          INPUT_FORCE: ${{ github.event.inputs.force }}
+        run: |
+          set -euo pipefail
+
+          args=()
+          if [ -n "${INPUT_MONTH:-}" ]; then
+            args+=(--month "$INPUT_MONTH")
+          fi
+
+          if [ "${INPUT_FORCE:-false}" = "true" ]; then
+            args+=(--force)
+          fi
+
+          python scripts/generate_monthly_summary.py "${args[@]}"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add _posts/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Add monthly report - $(date +%Y-%m-%d)"
+            git push
+          else
+            echo "No monthly report changes to commit"
+          fi
