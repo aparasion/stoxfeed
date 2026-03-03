@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 A curated monthly roundup of the biggest developments across translation, localization, and language technology.
-
+<br /><br />
 {% assign monthly_posts = site.posts | where_exp: "post", "post.categories contains 'monthly-summary'" %}
 
 {% if monthly_posts.size > 0 %}
