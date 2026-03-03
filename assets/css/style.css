@@ -213,8 +213,8 @@ h2 a:hover {
   margin-bottom: 1rem;
 }
 
-/* Drop cap */
-.post-content p:first-of-type::first-letter {
+/* Drop cap only for monthly report posts */
+.monthly-report-post .post-content p:first-of-type::first-letter {
   float: left;
   font-size: 3.5rem;
   line-height: 1;
