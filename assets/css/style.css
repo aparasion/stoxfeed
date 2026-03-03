@@ -226,6 +226,45 @@ h2 a:hover {
   margin-bottom: 1rem;
 }
 
+.post-author-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.author-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.author-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.author-name {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.author-contact-link {
+  width: fit-content;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 640px) {
+  .post-author-footer {
+    align-items: flex-start;
+  }
+}
+
 /* ================= FOOTER ================= */
 
 .site-footer {

@@ -11,4 +11,12 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+
+  <footer class="post-author-footer" aria-label="Author information">
+    <img src="{{ '/assets/images/LR_logo_AI.png' | relative_url }}" alt="LocReport logo" class="author-logo" loading="lazy">
+    <div class="author-info">
+      <p class="author-name">Author: LocReport</p>
+      <a href="{{ '/contact/' | relative_url }}" class="author-contact-link">Contact</a>
+    </div>
+  </footer>
 </article>
