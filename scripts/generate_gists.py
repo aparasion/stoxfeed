@@ -65,6 +65,16 @@ def normalize_text(text: str) -> str:
     return re.sub(r"\s+", " ", (text or "")).strip()
 
 
+def extract_article_text(url: str) -> str:
+    """Fetch and extract readable article text from a URL."""
+    downloaded = trafilatura.fetch_url(url)
+    if not downloaded:
+        return ""
+
+    extracted = trafilatura.extract(downloaded, include_comments=False, include_tables=False) or ""
+    return normalize_text(extracted)
+
+
 def title_keywords(title: str) -> set[str]:
     tokens = re.findall(r"[a-zA-Z]{4,}", (title or "").lower())
     return {token for token in tokens if token not in {"with", "from", "into", "that", "this"}}
@@ -122,11 +132,8 @@ for feed_url in FEEDS:
         if url in seen:
             continue
 
-        downloaded = trafilatura.fetch_url(url)
         fallback_description = normalize_text(getattr(entry, "description", ""))
-        extracted_text = normalize_text(
-            trafilatura.extract(downloaded, include_comments=False, include_tables=False) or ""
-        )
+        extracted_text = extract_article_text(url)
 
         if is_usable_article_text(extracted_text, entry.title):
             text = extracted_text
