@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 <section class="hero">
-  <h1>{{ site.title }}</h1>
+  <h1>{% include brand-word.html %}</h1>
   <p>{{ site.description }}</p>
 </section>
 

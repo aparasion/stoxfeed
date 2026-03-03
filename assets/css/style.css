@@ -45,6 +45,19 @@ a:hover {
   padding: 0 1.5rem;
 }
 
+
+.brand-word {
+  display: inline;
+}
+
+.brand-loc {
+  color: #242586;
+}
+
+.brand-report {
+  color: #66dee5;
+}
+
 /* ================= HEADER ================= */
 
 .site-header {

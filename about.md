@@ -6,19 +6,19 @@ nav: true
 nav_order: 3
 ---
 
-## About LocReport
+## About {% include brand-word.html %}
 
-**LocReport** is an independent publication tracking the pulse of the language services industry.
+**{% include brand-word.html %}** is an independent publication tracking the pulse of the language services industry.
 
 We cover daily developments in translation, localization, global content strategy, language technology, and cross-border communication. From emerging AI tools to market shifts and operational innovation, our goal is simple:
 
 > Capture the trends, movements, and ideas shaping the future of global communication.
 
-The language services industry evolves quickly. New platforms emerge. Workflows transform. Technology redefines what’s possible. LocReport exists to observe, document, and analyze those changes with clarity and perspective.
+The language services industry evolves quickly. New platforms emerge. Workflows transform. Technology redefines what’s possible. {% include brand-word.html %} exists to observe, document, and analyze those changes with clarity and perspective.
 
 ## Why This Exists
 
-LocReport is an experimental publishing project.
+{% include brand-word.html %} is an experimental publishing project.
 
 It was created to explore a focused, signal-over-noise approach to industry reporting — short, relevant, and structured coverage without hype or clutter.
 
@@ -40,4 +40,4 @@ We welcome contributions.
 Reach out through the Contact page and tell us what you’d like to share.
 
 
-LocReport is about tracking what drives global communication — and the people building it.
+{% include brand-word.html %} is about tracking what drives global communication — and the people building it.
