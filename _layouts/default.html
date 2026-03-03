@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   {% assign seo_title = page.title | default: site.title %}
-  {% if page.title and page.title != 'Home' %}
+  {% if page.title %}
     {% assign seo_title = page.title | append: ' | ' | append: site.title %}
   {% endif %}
   {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
