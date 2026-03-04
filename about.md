@@ -45,8 +45,8 @@ Reach out through the Contact page and tell us what you’d like to share.
 
 {% raw %}
 <a class="twitter-timeline"
-   href="https://twitter.com/uberbee">
-   Tweets by Edgar:
+   href="https://twitter.com/BartosiakJacek">
+   Tweets by BartosiakJacek:
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% endraw %}
