@@ -22,8 +22,8 @@ FEEDS = [
     "https://techcrunch.com/tag/translations/feed/",
     "https://rss.app/feeds/cNm8rHSnDFeEYLpt.xml", #gala-blobal news feed
     "https://www.atanet.org/news/industry-news/feed/",
-    "https://elia-association.org/news/feed/"
-    
+    "https://elia-association.org/news/feed/",
+"https://multilingual.com/feed/",
 ]
 
 SEEN_FILE = "seen.json"
