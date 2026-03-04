@@ -1,0 +1,10 @@
+{
+  "name": "FindRFP-Bids",
+  "url": "https://www.findrfp.com/service/search.aspx?s=TRANSLAT&t=FE",
+  "baseUrl": "https://www.findrfp.com",
+  "articleSelector": "table[tabindex='4'] tr:has(td)",
+  "titleSelector": "td:nth-child(2) a",
+  "linkSelector": "td:nth-child(2) a",
+  "descriptionSelector": "td:nth-child(2)",
+  "dateSelector": "td:nth-child(5)"
+}
