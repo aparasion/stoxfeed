@@ -8,6 +8,8 @@ import re
 from urllib.parse import quote, urlparse, urlunparse
 from openai import OpenAI
 
+SIGNALS_FILE = "_data/signals.yml"
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 FEEDS = [
@@ -133,17 +135,26 @@ def is_usable_article_text(text: str, title: str) -> bool:
     return True
 
 
-if os.path.exists(SEEN_FILE):
-    with open(SEEN_FILE, "r", encoding="utf-8") as seen_file:
-        seen = json.load(seen_file)
-else:
-    seen = []
-posts = []
-count = 0
+def parse_signal_ids_from_yaml(path: str) -> list[str]:
+    if not os.path.exists(path):
+        return []
 
-for feed_url in FEEDS:
-    if count >= MAX_ARTICLES:
-        break
+    ids = []
+    with open(path, "r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.strip()
+            if line.startswith("- id:"):
+                ids.append(line.split(":", 1)[1].strip().strip('"').strip("'"))
+    return ids
+
+
+KNOWN_SIGNAL_IDS = set(parse_signal_ids_from_yaml(SIGNALS_FILE))
+SIGNAL_KEYWORDS = {
+    "quality-gap-closure": ["quality", "human", "review", "post-edit", "validation", "mqm", "error"],
+    "governance-in-ai-workflows": ["governance", "audit", "compliance", "control", "policy", "risk", "guardrail"],
+    "localization-operating-system": ["platform", "end-to-end", "workflow", "integration", "api", "orchestration"],
+    "measurable-quality-evaluation": ["mqm", "metric", "evaluation", "benchmark", "score", "assessment"],
+}
 
     normalized_feed_url = normalize_url(feed_url)
     try:
@@ -159,46 +170,19 @@ for feed_url in FEEDS:
         if url in seen:
             continue
 
-        fallback_description = normalize_text(getattr(entry, "description", ""))
-        extracted_text = extract_article_text(url)
+            url = entry.link
+            if url in seen:
+                continue
 
-        if is_usable_article_text(extracted_text, entry.title):
-            text = extracted_text
-        elif is_usable_article_text(fallback_description, entry.title):
-            text = fallback_description
-        else:
-            print(f"Skipping low-quality content for {url}")
-            continue
+            fallback_description = normalize_text(getattr(entry, "description", ""))
+            extracted_text = extract_article_text(url)
 
-        prompt = f"""Create a concise gist (100–200 words) of this article.
-Focus on key facts and implications.
-
-Article text:
-{text[:15000]}"""
-
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[
-                    {"role": "system", "content": """You are a professional news summarizer writing for a digital news platform read by the general public and business professionals.
-Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
-• Open with the most important development in a strong, direct sentence.
-• Focus on verified facts: what happened, who is involved, and why it matters.
-• Include relevant business, economic, or market impact when applicable.
-• Maintain a neutral, professional tone — natural and human, not robotic or overly dramatic.
-• Avoid speculation, opinion, exaggeration, and filler language.
-• Use smooth transitions and varied sentence structure.
-• End with a brief, natural sentence encouraging readers to read the full article for more details.
-• If the provided text appears to be mostly cookie/privacy/legal notice rather than article content, respond exactly with: UNUSABLE_CONTENT
-Keep the writing concise, informative, and easy to scan."""},
-                    {"role": "user", "content": prompt}
-                ],
-                max_tokens=300,
-                temperature=0.3
-            )
-            gist = response.choices[0].message.content.strip()
-            if gist == "UNUSABLE_CONTENT":
-                print(f"Skipping unusable generated content for {url}")
+            if is_usable_article_text(extracted_text, entry.title):
+                text = extracted_text
+            elif is_usable_article_text(fallback_description, entry.title):
+                text = fallback_description
+            else:
+                print(f"Skipping low-quality content for {url}")
                 continue
         except Exception as e:
             print(f"OpenAI API error for {url}: {e}")
@@ -248,6 +232,9 @@ tags: [translation, localization, news, gist]
 excerpt: "{safe_excerpt}..."
 publisher: "{safe_publisher}"
 source_url: "{safe_source_url}"
+signal_ids: [{signal_ids_yaml}]
+signal_stance: {signal_stance}
+signal_confidence: {signal_confidence}
 ---
 
 {gist}
@@ -255,25 +242,29 @@ source_url: "{safe_source_url}"
 [→ Read full article via {safe_publisher}]({safe_source_url})
 """
 
-        os.makedirs("_posts", exist_ok=True)
+            os.makedirs("_posts", exist_ok=True)
 
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(md_content)
+            with open(filename, "w", encoding="utf-8") as f:
+                f.write(md_content)
 
-        posts.append({
-            "title": entry.title,
-            "publisher": publisher,
-            "url": source_url,
-            "gist": gist,
-            "date": post_date_str
-        })
+            posts.append({
+                "title": entry.title,
+                "publisher": publisher,
+                "url": source_url,
+                "gist": gist,
+                "date": post_date_str
+            })
 
-        seen.append(url)
-        count += 1
+            seen.append(url)
+            count += 1
 
-        time.sleep(2)
+            time.sleep(2)
 
-# ────────────────────────────────────────────────
-print(f"Generated {len(posts)} individual gist posts")
-with open(SEEN_FILE, "w", encoding="utf-8") as seen_file:
-    json.dump(seen[-500:], seen_file, indent=2)
+    # ────────────────────────────────────────────────
+    print(f"Generated {len(posts)} individual gist posts")
+    with open(SEEN_FILE, "w", encoding="utf-8") as seen_file:
+        json.dump(seen[-500:], seen_file, indent=2)
+
+
+if __name__ == "__main__":
+    main()

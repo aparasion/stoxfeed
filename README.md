@@ -18,3 +18,18 @@ python scripts/validate_signal_metadata.py
 ## Planning documents
 
 - `docs/signal-tracker-implementation.md` – implementation proposal for Signal Tracker.
+
+
+### Automatic signal tagging for new posts
+
+`python scripts/generate_gists.py` now auto-populates:
+
+- `signal_ids` (keyword-based mapping to known IDs in `_data/signals.yml`)
+- `signal_stance` (`supports`, `mixed`, `contradicts`, or `mentions`)
+- `signal_confidence` (`low`, `medium`, `high`)
+
+After generation, run:
+
+```bash
+python scripts/validate_signal_metadata.py
+```
