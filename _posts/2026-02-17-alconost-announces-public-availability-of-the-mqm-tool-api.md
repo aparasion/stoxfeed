@@ -7,6 +7,9 @@ tags: [translation, localization, news, gist]
 excerpt: "Alconost has announced the public release of the MQM Tool API, enhancing its free web-based MQM Tool for translation quality evaluation. This API introduces aut..."
 publisher: gala-global.org
 source_url: "https://www.gala-global.org/news/alconost-announces-public-availability-of-the-mqm-tool-api"
+signal_ids: [measurable-quality-evaluation, quality-gap-closure]
+signal_stance: supports
+signal_confidence: high
 ---
 
 Alconost has announced the public release of the MQM Tool API, enhancing its free web-based MQM Tool for translation quality evaluation. This API introduces automation capabilities for project orchestration, data import, progress tracking, and structured evaluation results export, while maintaining manual quality assessments by linguists. The MQM Tool is designed for evaluating various translation outputs using the Multidimensional Quality Metrics (MQM) framework.

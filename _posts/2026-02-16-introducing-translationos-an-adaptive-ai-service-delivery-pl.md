@@ -7,6 +7,9 @@ tags: [translation, localization, news, gist]
 excerpt: "Translated has launched TranslationOS, an adaptive AI service delivery platform designed to enhance localization workflows for enterprises. This platform shifts..."
 publisher: gala-global.org
 source_url: "https://www.gala-global.org/news/introducing-translationos-an-adaptive-ai-service-delivery-platform"
+signal_ids: [localization-operating-system, governance-in-ai-workflows]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 Translated has launched TranslationOS, an adaptive AI service delivery platform designed to enhance localization workflows for enterprises. This platform shifts the focus from traditional translation memory (TM)-centric methods to a context-centric approach, enabling organizations to manage the complexities of translation more effectively. By integrating AI with human translators, TranslationOS automates processes like translator availability and data collection, providing teams with real-time visibility into progress, quality, and costs.

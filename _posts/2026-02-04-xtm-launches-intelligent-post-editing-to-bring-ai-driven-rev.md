@@ -7,6 +7,9 @@ tags: [translation, localization, news, gist]
 excerpt: "XTM International has launched Intelligent Post-Editing, an AI-driven feature designed to automate the review and correction of translated content within its XT..."
 publisher: gala-global.org
 source_url: "https://www.gala-global.org/news/xtm-launches-intelligent-post-editing-to-bring-ai-driven-review-automation-to-enterprise-localisatio"
+signal_ids: [quality-gap-closure, governance-in-ai-workflows]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 XTM International has launched Intelligent Post-Editing, an AI-driven feature designed to automate the review and correction of translated content within its XTM Cloud platform. This innovation aims to alleviate the bottleneck caused by manual post-editing in enterprise localization, which can be time-consuming and costly. Intelligent Post-Editing utilizes context-aware, large language model (LLM) edits to enhance translation quality while maintaining essential human oversight. It automates routine linguistic corrections, enforces consistent terminology, and applies locale-specific checks, all while ensuring transparency and governance through auditable changes.

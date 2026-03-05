@@ -8,6 +8,8 @@ import re
 from urllib.parse import urlparse
 from openai import OpenAI
 
+SIGNALS_FILE = "_data/signals.yml"
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 FEEDS = [
@@ -65,6 +67,13 @@ def normalize_text(text: str) -> str:
     return re.sub(r"\s+", " ", (text or "")).strip()
 
 
+def normalize_url(url: str) -> str:
+    cleaned = (url or "").strip()
+    if not cleaned:
+        return ""
+    return cleaned.split("#", 1)[0].rstrip("/")
+
+
 def extract_article_text(url: str) -> str:
     """Fetch and extract readable article text from a URL."""
     downloaded = trafilatura.fetch_url(url)
@@ -111,108 +120,164 @@ def is_usable_article_text(text: str, title: str) -> bool:
     return True
 
 
-if os.path.exists(SEEN_FILE):
-    with open(SEEN_FILE, "r", encoding="utf-8") as seen_file:
-        seen = json.load(seen_file)
-else:
-    seen = []
-posts = []
-count = 0
+def parse_signal_ids_from_yaml(path: str) -> list[str]:
+    if not os.path.exists(path):
+        return []
 
-for feed_url in FEEDS:
-    if count >= MAX_ARTICLES:
-        break
+    ids = []
+    with open(path, "r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.strip()
+            if line.startswith("- id:"):
+                ids.append(line.split(":", 1)[1].strip().strip('"').strip("'"))
+    return ids
 
-    feed = feedparser.parse(feed_url)
-    for entry in feed.entries[:10]:
+
+KNOWN_SIGNAL_IDS = set(parse_signal_ids_from_yaml(SIGNALS_FILE))
+SIGNAL_KEYWORDS = {
+    "quality-gap-closure": ["quality", "human", "review", "post-edit", "validation", "mqm", "error"],
+    "governance-in-ai-workflows": ["governance", "audit", "compliance", "control", "policy", "risk", "guardrail"],
+    "localization-operating-system": ["platform", "end-to-end", "workflow", "integration", "api", "orchestration"],
+    "measurable-quality-evaluation": ["mqm", "metric", "evaluation", "benchmark", "score", "assessment"],
+}
+
+
+NEGATIVE_MARKERS = [
+    "failed", "fails", "lawsuit", "criticized", "criticises", "criticizes", "serious issue", "data quality issues"
+]
+MIXED_MARKERS = ["however", "but", "trade-off", "while"]
+
+
+def infer_signal_tags(title: str, gist: str) -> tuple[list[str], str, str]:
+    text = f"{title} {gist}".lower()
+
+    matched = []
+    for signal_id, keywords in SIGNAL_KEYWORDS.items():
+        if signal_id not in KNOWN_SIGNAL_IDS:
+            continue
+        hits = sum(1 for kw in keywords if kw in text)
+        if hits >= 2:
+            matched.append(signal_id)
+
+    if any(marker in text for marker in NEGATIVE_MARKERS):
+        stance = "contradicts"
+    elif any(marker in text for marker in MIXED_MARKERS):
+        stance = "mixed"
+    else:
+        stance = "supports" if matched else "mentions"
+
+    confidence = "high" if len(matched) >= 2 else "medium" if len(matched) == 1 else "low"
+    return matched, stance, confidence
+
+
+def main() -> None:
+    if os.path.exists(SEEN_FILE):
+        with open(SEEN_FILE, "r", encoding="utf-8") as seen_file:
+            seen = json.load(seen_file)
+    else:
+        seen = []
+
+    normalized_seen = {normalize_url(url) for url in seen}
+    posts = []
+    count = 0
+
+    for feed_url in FEEDS:
         if count >= MAX_ARTICLES:
             break
 
-        url = entry.link
-        if url in seen:
-            continue
+        feed = feedparser.parse(feed_url)
+        for entry in feed.entries[:10]:
+            if count >= MAX_ARTICLES:
+                break
 
-        fallback_description = normalize_text(getattr(entry, "description", ""))
-        extracted_text = extract_article_text(url)
-
-        if is_usable_article_text(extracted_text, entry.title):
-            text = extracted_text
-        elif is_usable_article_text(fallback_description, entry.title):
-            text = fallback_description
-        else:
-            print(f"Skipping low-quality content for {url}")
-            continue
-
-        prompt = f"""Create a concise gist (100–200 words) of this article.
-Focus on key facts and implications.
-
-Article text:
-{text[:15000]}"""
-
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[
-                    {"role": "system", "content": """You are a professional news summarizer writing for a digital news platform read by the general public and business professionals.
-Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
-• Open with the most important development in a strong, direct sentence.
-• Focus on verified facts: what happened, who is involved, and why it matters.
-• Include relevant business, economic, or market impact when applicable.
-• Maintain a neutral, professional tone — natural and human, not robotic or overly dramatic.
-• Avoid speculation, opinion, exaggeration, and filler language.
-• Use smooth transitions and varied sentence structure.
-• End with a brief, natural sentence encouraging readers to read the full article for more details.
-• If the provided text appears to be mostly cookie/privacy/legal notice rather than article content, respond exactly with: UNUSABLE_CONTENT
-Keep the writing concise, informative, and easy to scan."""},
-                    {"role": "user", "content": prompt}
-                ],
-                max_tokens=300,
-                temperature=0.3
-            )
-            gist = response.choices[0].message.content.strip()
-            if gist == "UNUSABLE_CONTENT":
-                print(f"Skipping unusable generated content for {url}")
+            url = entry.link
+            normalized_url = normalize_url(url)
+            if normalized_url in normalized_seen:
                 continue
-        except Exception as e:
-            print(f"OpenAI API error for {url}: {e}")
-            gist = f"Summary generation failed due to API error.\n\nRead the full article below."
 
-        # ────────────────────────────────────────────────
-        # Date handling
-        # ────────────────────────────────────────────────
-        if "published_parsed" in entry and entry.published_parsed:
-            pub_dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
-        else:
-            pub_dt = datetime.datetime.now(datetime.timezone.utc)
+            fallback_description = normalize_text(getattr(entry, "description", ""))
+            extracted_text = extract_article_text(url)
 
-        post_date_str = pub_dt.strftime("%Y-%m-%d")
-        time_str = pub_dt.strftime("%H:%M:%S")
+            if is_usable_article_text(extracted_text, entry.title):
+                text = extracted_text
+            elif is_usable_article_text(fallback_description, entry.title):
+                text = fallback_description
+            else:
+                print(f"Skipping low-quality content for {url}")
+                continue
 
-        # Slug
-        slug_raw = re.sub(r"\s+", "-", entry.title.lower().strip())
-        slug = "".join(c for c in slug_raw if c.isalnum() or c == "-")[:60].strip("-")
-        if not slug:
-            slug = f"article-{int(pub_dt.timestamp())}"
+            prompt = (
+                "Create a concise gist (100–200 words) of this article.\n"
+                "Focus on key facts and implications.\n\n"
+                f"Article text:\n{text[:15000]}"
+            )
 
-        filename = f"_posts/{post_date_str}-{slug}.md"
-        suffix = 1
-        while os.path.exists(filename):
-            filename = f"_posts/{post_date_str}-{slug}-{suffix}.md"
-            suffix += 1
+            try:
+                response = client.chat.completions.create(
+                    model="gpt-4o-mini",
+                    messages=[
+                        {"role": "system", "content": """You are a professional news summarizer writing for a digital news platform read by the general public and business professionals.
+    Write a clear, engaging summary in 3–4 short paragraphs (120–180 words).
+    • Open with the most important development in a strong, direct sentence.
+    • Focus on verified facts: what happened, who is involved, and why it matters.
+    • Include relevant business, economic, or market impact when applicable.
+    • Maintain a neutral, professional tone — natural and human, not robotic or overly dramatic.
+    • Avoid speculation, opinion, exaggeration, and filler language.
+    • Use smooth transitions and varied sentence structure.
+    • End with a brief, natural sentence encouraging readers to read the full article for more details.
+    • If the provided text appears to be mostly cookie/privacy/legal notice rather than article content, respond exactly with: UNUSABLE_CONTENT
+    Keep the writing concise, informative, and easy to scan."""},
+                        {"role": "user", "content": prompt}
+                    ],
+                    max_tokens=300,
+                    temperature=0.3
+                )
+                gist = response.choices[0].message.content.strip()
+                if gist == "UNUSABLE_CONTENT":
+                    print(f"Skipping unusable generated content for {url}")
+                    continue
+            except Exception as e:
+                print(f"OpenAI API error for {url}: {e}")
+                gist = f"Summary generation failed due to API error.\n\nRead the full article below."
 
-        # Source information
-        source_url = entry.link if entry.link else url
-        publisher = get_publisher_domain(source_url)
+            # ────────────────────────────────────────────────
+            # Date handling
+            # ────────────────────────────────────────────────
+            if "published_parsed" in entry and entry.published_parsed:
+                pub_dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
+            else:
+                pub_dt = datetime.datetime.now(datetime.timezone.utc)
 
-        # ────────────────────────────────────────────────
-        # Markdown content — one post per article
-        # ────────────────────────────────────────────────
-        safe_title = yaml_escape(entry.title)
-        safe_excerpt = yaml_escape(gist[:160])
-        safe_publisher = yaml_escape(publisher)
-        safe_source_url = yaml_escape(source_url)
+            post_date_str = pub_dt.strftime("%Y-%m-%d")
+            time_str = pub_dt.strftime("%H:%M:%S")
 
-        md_content = f"""---
+            # Slug
+            slug_raw = re.sub(r"\s+", "-", entry.title.lower().strip())
+            slug = "".join(c for c in slug_raw if c.isalnum() or c == "-")[:60].strip("-")
+            if not slug:
+                slug = f"article-{int(pub_dt.timestamp())}"
+
+            filename = f"_posts/{post_date_str}-{slug}.md"
+            suffix = 1
+            while os.path.exists(filename):
+                filename = f"_posts/{post_date_str}-{slug}-{suffix}.md"
+                suffix += 1
+
+            # Source information
+            source_url = entry.link if entry.link else url
+            publisher = get_publisher_domain(source_url)
+
+            # ────────────────────────────────────────────────
+            # Markdown content — one post per article
+            # ────────────────────────────────────────────────
+            safe_title = yaml_escape(entry.title)
+            safe_excerpt = yaml_escape(gist[:160])
+            safe_publisher = yaml_escape(publisher)
+            safe_source_url = yaml_escape(source_url)
+            signal_ids, signal_stance, signal_confidence = infer_signal_tags(entry.title, gist)
+            signal_ids_yaml = ", ".join(signal_ids)
+
+            md_content = f"""---
 title: "{safe_title}"
 date: {post_date_str}T{time_str}Z
 layout: post
@@ -221,6 +286,9 @@ tags: [translation, localization, news, gist]
 excerpt: "{safe_excerpt}..."
 publisher: "{safe_publisher}"
 source_url: "{safe_source_url}"
+signal_ids: [{signal_ids_yaml}]
+signal_stance: {signal_stance}
+signal_confidence: {signal_confidence}
 ---
 
 {gist}
@@ -228,25 +296,30 @@ source_url: "{safe_source_url}"
 [→ Read full article via {safe_publisher}]({safe_source_url})
 """
 
-        os.makedirs("_posts", exist_ok=True)
+            os.makedirs("_posts", exist_ok=True)
 
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(md_content)
+            with open(filename, "w", encoding="utf-8") as f:
+                f.write(md_content)
 
-        posts.append({
-            "title": entry.title,
-            "publisher": publisher,
-            "url": source_url,
-            "gist": gist,
-            "date": post_date_str
-        })
+            posts.append({
+                "title": entry.title,
+                "publisher": publisher,
+                "url": source_url,
+                "gist": gist,
+                "date": post_date_str
+            })
 
-        seen.append(url)
-        count += 1
+            seen.append(url)
+            normalized_seen.add(normalized_url)
+            count += 1
 
-        time.sleep(2)
+            time.sleep(2)
 
-# ────────────────────────────────────────────────
-print(f"Generated {len(posts)} individual gist posts")
-with open(SEEN_FILE, "w", encoding="utf-8") as seen_file:
-    json.dump(seen[-500:], seen_file, indent=2)
+    # ────────────────────────────────────────────────
+    print(f"Generated {len(posts)} individual gist posts")
+    with open(SEEN_FILE, "w", encoding="utf-8") as seen_file:
+        json.dump(seen[-500:], seen_file, indent=2)
+
+
+if __name__ == "__main__":
+    main()
