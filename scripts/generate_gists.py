@@ -5,7 +5,7 @@ import datetime
 import trafilatura
 import time
 import re
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse, urlunparse
 from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -23,7 +23,7 @@ FEEDS = [
     "https://www.atanet.org/news/industry-news/feed/",
     "https://elia-association.org/news/feed/",
     "https://multilingual.com/feed/",
-    "https://aparasion.github.io/rss-generator/rss/XTM Blog.xml"
+    "https://aparasion.github.io/rss-generator/rss/XTM%20Blog.xml"
 ]
 
 SEEN_FILE = "seen.json"
@@ -64,6 +64,27 @@ def get_publisher_domain(url: str) -> str:
 
 def normalize_text(text: str) -> str:
     return re.sub(r"\s+", " ", (text or "")).strip()
+
+
+def normalize_url(url: str) -> str:
+    """Percent-encode URL path/query fragments that may contain unsafe characters."""
+    try:
+        parsed = urlparse(url)
+        if not parsed.scheme or not parsed.netloc:
+            return url
+
+        return urlunparse(
+            (
+                parsed.scheme,
+                parsed.netloc,
+                quote(parsed.path, safe="/%:@"),
+                quote(parsed.params, safe="=;&"),
+                quote(parsed.query, safe="=&?:,/%+-"),
+                quote(parsed.fragment, safe="=&?:,/%+-"),
+            )
+        )
+    except Exception:
+        return url
 
 
 def extract_article_text(url: str) -> str:
@@ -124,12 +145,17 @@ for feed_url in FEEDS:
     if count >= MAX_ARTICLES:
         break
 
-    feed = feedparser.parse(feed_url)
+    normalized_feed_url = normalize_url(feed_url)
+    try:
+        feed = feedparser.parse(normalized_feed_url)
+    except Exception as e:
+        print(f"Skipping feed due to parse error for {feed_url}: {e}")
+        continue
     for entry in feed.entries[:10]:
         if count >= MAX_ARTICLES:
             break
 
-        url = entry.link
+        url = normalize_url(entry.link)
         if url in seen:
             continue
 
@@ -202,7 +228,7 @@ Keep the writing concise, informative, and easy to scan."""},
             suffix += 1
 
         # Source information
-        source_url = entry.link if entry.link else url
+        source_url = normalize_url(entry.link) if entry.link else url
         publisher = get_publisher_domain(source_url)
 
         # ────────────────────────────────────────────────
