@@ -7,6 +7,9 @@ tags: [translation, localization, news, gist]
 excerpt: "XTM and Vistatec have launched a partnership to create an end-to-end enterprise AI globalisation service aimed at helping organizations streamline their global..."
 publisher: "slator.com"
 source_url: "https://slator.com/xtm-and-vistatec-launch-enterprise-ai-content-globalisation-partnership/"
+signal_ids: [governance-in-ai-workflows, localization-operating-system]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 XTM and Vistatec have launched a partnership to create an end-to-end enterprise AI globalisation service aimed at helping organizations streamline their global content production. This collaboration combines XTM's AI-driven globalisation platform with Vistatec's expertise in translation and localisation, enabling businesses to operationalize AI-driven content while ensuring governance, auditability, and quality control.

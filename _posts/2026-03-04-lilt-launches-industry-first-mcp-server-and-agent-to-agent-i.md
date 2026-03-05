@@ -7,6 +7,9 @@ tags: [translation, localization, news, gist]
 excerpt: "LILT has launched its Model Context Protocol (MCP) Server and Agent-to-Agent (A2A) card, aiming to enhance the quality of AI-generated multilingual content for..."
 publisher: "slator.com"
 source_url: "https://slator.com/lilt-launches-industry-first-mcp-server-and-agent-to-agent-integration/"
+signal_ids: [quality-gap-closure, governance-in-ai-workflows]
+signal_stance: supports
+signal_confidence: medium
 ---
 
 LILT has launched its Model Context Protocol (MCP) Server and Agent-to-Agent (A2A) card, aiming to enhance the quality of AI-generated multilingual content for enterprises. This new integration allows organizations to obtain human-verified translations directly within their AI assistants, addressing the common "quality gap" associated with AI translations. Employees can now request expert validation for critical documents, ensuring accuracy and brand alignment.

@@ -7,6 +7,7 @@ from pathlib import Path
 from openai import OpenAI
 
 POSTS_DIR = Path("_posts")
+SIGNALS_DATA_FILE = Path("_data/signals.yml")
 MONTHLY_CATEGORY = "monthly-summary"
 BASE_CATEGORY = "translation"
 
@@ -117,6 +118,77 @@ def build_article_prompt_rows(articles: list[dict]) -> str:
     return "\n".join(chunks)
 
 
+def parse_inline_list(value: str) -> list[str]:
+    cleaned = (value or "").strip()
+    if not cleaned.startswith("[") or not cleaned.endswith("]"):
+        return []
+    inner = cleaned[1:-1].strip()
+    if not inner:
+        return []
+    return [item.strip().strip('"').strip("'") for item in inner.split(",") if item.strip()]
+
+
+def load_signal_titles() -> dict[str, str]:
+    if not SIGNALS_DATA_FILE.exists():
+        return {}
+
+    current_id = None
+    title_by_id: dict[str, str] = {}
+    for raw in SIGNALS_DATA_FILE.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if line.startswith("- id:"):
+            current_id = line.split(":", 1)[1].strip().strip('"').strip("'")
+            continue
+        if current_id and line.startswith("title:"):
+            title_by_id[current_id] = line.split(":", 1)[1].strip().strip('"').strip("'")
+            current_id = None
+    return title_by_id
+
+
+def collect_signal_updates(period: str) -> dict[str, dict[str, int]]:
+    updates: dict[str, dict[str, int]] = {}
+    for path in sorted(POSTS_DIR.glob("*.md")):
+        if post_month_from_filename(path) != period:
+            continue
+
+        content = path.read_text(encoding="utf-8")
+        front_matter, _ = parse_front_matter(content)
+        if is_monthly_post(front_matter):
+            continue
+
+        signal_ids = parse_inline_list(front_matter.get("signal_ids", ""))
+        if not signal_ids:
+            continue
+
+        stance = front_matter.get("signal_stance", "mentions").strip().strip('"').strip("'")
+        if stance not in {"supports", "contradicts", "mixed", "mentions"}:
+            stance = "mentions"
+
+        for signal_id in signal_ids:
+            updates.setdefault(signal_id, {"supports": 0, "contradicts": 0, "mixed": 0, "mentions": 0})
+            updates[signal_id][stance] += 1
+    return updates
+
+
+def build_signal_updates_section(period: str) -> str:
+    updates = collect_signal_updates(period)
+    if not updates:
+        return ""
+
+    titles = load_signal_titles()
+    lines = ["## Signal Tracker Updates", ""]
+    for signal_id in sorted(updates.keys()):
+        counts = updates[signal_id]
+        label = titles.get(signal_id, signal_id)
+        total = sum(counts.values())
+        lines.append(
+            f"- **{label}** (`{signal_id}`): {total} linked post(s) "
+            f"(supports: {counts['supports']}, contradicts: {counts['contradicts']}, "
+            f"mixed: {counts['mixed']}, mentions: {counts['mentions']})."
+        )
+    return "\n".join(lines)
+
+
 def monthly_post_exists(period: str) -> bool:
     for path in POSTS_DIR.glob(f"{period}-*.md"):
         content = path.read_text(encoding="utf-8")
@@ -195,6 +267,9 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
         temperature=0.3,
     )
     monthly_content = response.choices[0].message.content.strip()
+    signal_updates_section = build_signal_updates_section(period)
+    if signal_updates_section:
+        monthly_content = f"{monthly_content}\n\n{signal_updates_section}"
     out_file = write_monthly_post(period, len(articles), monthly_content)
     print(f"Created monthly report: {out_file}")
     return out_file

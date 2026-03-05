@@ -370,3 +370,27 @@ hr {
 [data-theme="dark"] .form-group textarea {
   background: rgba(255, 255, 255, 0.03);
 }
+
+/* ================= SIGNAL TRACKER ================= */
+.signal-card {
+  margin-bottom: 2rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--bg) 96%, var(--text) 4%);
+}
+
+.signal-card h2 {
+  margin-top: 0.2rem;
+  font-size: 1.25rem;
+}
+
+.signal-evidence-list {
+  margin: 0.75rem 0 0;
+  padding-left: 1.15rem;
+}
+
+.signal-evidence-meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
