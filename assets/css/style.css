@@ -394,3 +394,105 @@ hr {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+/* ================= TOPIC FILTERS ================= */
+.topic-filter-panel {
+  margin-bottom: 1.5rem;
+}
+
+.topic-filter-title {
+  margin: 0 0 0.65rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.topic-filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.topic-filter-button {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--text);
+  padding: 0.4rem 0.75rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.topic-filter-button.active {
+  background: var(--text);
+  color: var(--bg);
+}
+
+.topic-hidden {
+  display: none;
+}
+
+/* ================= GLOSSARY HOVER CARDS ================= */
+.glossary-term {
+  position: relative;
+  display: inline;
+  border-bottom: 1px dashed color-mix(in srgb, var(--text) 45%, transparent);
+  cursor: help;
+}
+
+.glossary-card {
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + 0.45rem);
+  width: min(260px, 70vw);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
+  padding: 0.55rem 0.65rem;
+  color: var(--text);
+  font-size: 0.78rem;
+  line-height: 1.45;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(4px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 30;
+}
+
+.glossary-term:hover .glossary-card,
+.glossary-term:focus .glossary-card,
+.glossary-term:focus-within .glossary-card {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* ================= SCROLL TO TOP BUTTON ================= */
+.scroll-top-button {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--text);
+  color: var(--bg);
+  padding: 0.55rem 0.9rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.16);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(8px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 40;
+}
+
+.scroll-top-button.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}

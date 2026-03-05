@@ -10,10 +10,38 @@ nav_order: 1
   <p>{{ site.description }}</p>
 </section>
 
+<section class="topic-filter-panel" aria-label="Filter posts by topic">
+  <p class="topic-filter-title">Filter by topic:</p>
+  <div class="topic-filter-buttons" role="group" aria-label="Topic filters">
+    <button type="button" class="topic-filter-button active" data-topic-filter="all">All</button>
+    <button type="button" class="topic-filter-button" data-topic-filter="ai">AI</button>
+    <button type="button" class="topic-filter-button" data-topic-filter="lsp">LSP</button>
+    <button type="button" class="topic-filter-button" data-topic-filter="tooling">Tooling</button>
+    <button type="button" class="topic-filter-button" data-topic-filter="policy">Policy</button>
+  </div>
+</section>
+
 <section class="post-list">
 {% for post in site.posts %}
+  {% assign source_text = post.title | append: ' ' | append: post.excerpt | append: ' ' | append: post.content | downcase %}
+  {% assign topics = '' %}
+  {% if source_text contains 'ai' or source_text contains 'llm' or source_text contains 'machine learning' or source_text contains 'neural' %}
+    {% assign topics = topics | append: 'ai,' %}
+  {% endif %}
+  {% if source_text contains 'lsp' or source_text contains 'language service' or source_text contains 'vendor' or source_text contains 'provider' %}
+    {% assign topics = topics | append: 'lsp,' %}
+  {% endif %}
+  {% if source_text contains 'platform' or source_text contains 'api' or source_text contains 'tool' or source_text contains 'workflow' or source_text contains 'software' %}
+    {% assign topics = topics | append: 'tooling,' %}
+  {% endif %}
+  {% if source_text contains 'regulation' or source_text contains 'law' or source_text contains 'compliance' or source_text contains 'government' or source_text contains 'commission' or source_text contains 'policy' %}
+    {% assign topics = topics | append: 'policy,' %}
+  {% endif %}
+  {% if topics == '' %}
+    {% assign topics = 'tooling' %}
+  {% endif %}
 
-  <article class="post-preview">
+  <article class="post-preview" data-topics="{{ topics | strip }}">
     <h2>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h2>

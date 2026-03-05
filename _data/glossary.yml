@@ -1,0 +1,10 @@
+- term: LSP
+  definition: Language Service Provider, a company offering translation, localization, and related language operations services.
+- term: TM
+  definition: Translation Memory, a database that stores previously translated segments for reuse.
+- term: MTPE
+  definition: Machine Translation Post-Editing, where human linguists revise machine-generated translation.
+- term: QA
+  definition: Quality Assurance checks that verify linguistic accuracy, consistency, and formatting.
+- term: NLP
+  definition: Natural Language Processing, AI methods for understanding and generating human language.

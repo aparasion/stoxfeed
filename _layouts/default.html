@@ -91,6 +91,8 @@
     {{ content }}
   </main>
 
+  <button id="scroll-top-button" class="scroll-top-button" type="button" aria-label="Back to top">↑ Top</button>
+
   {% include footer.html %}
 
 <script>
@@ -99,6 +101,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const root = document.documentElement;
   const menuToggle = document.getElementById("menu-toggle");
   const siteNav = document.querySelector(".site-nav");
+  const scrollTopButton = document.getElementById("scroll-top-button");
+  const topicFilterPanels = document.querySelectorAll(".topic-filter-panel");
 
   // Apply saved theme
   const savedTheme = localStorage.getItem("theme");
@@ -119,6 +123,113 @@ document.addEventListener("DOMContentLoaded", function () {
     menuToggle.addEventListener("click", function () {
       const isOpen = siteNav.classList.toggle("menu-open");
       menuToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+  }
+
+  topicFilterPanels.forEach(function (panel) {
+    const buttons = panel.querySelectorAll(".topic-filter-button");
+    const postList = panel.nextElementSibling;
+
+    if (!postList || !postList.classList.contains("post-list")) {
+      return;
+    }
+
+    const postCards = postList.querySelectorAll(".post-preview");
+
+    buttons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        const selectedTopic = button.dataset.topicFilter;
+
+        buttons.forEach(function (btn) {
+          btn.classList.toggle("active", btn === button);
+        });
+
+        postCards.forEach(function (postCard) {
+          const topics = postCard.dataset.topics || "";
+          const shouldShow = selectedTopic === "all" || topics.includes(selectedTopic);
+          postCard.classList.toggle("topic-hidden", !shouldShow);
+        });
+      });
+    });
+  });
+
+  const glossaryItems = {{ site.data.glossary | jsonify }};
+
+  if (glossaryItems && glossaryItems.length > 0) {
+    const termMap = glossaryItems
+      .map(function (item) {
+        return {
+          term: item.term,
+          escapedTerm: item.term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
+          definition: item.definition
+        };
+      })
+      .sort(function (a, b) {
+        return b.term.length - a.term.length;
+      });
+
+    const contentRoots = document.querySelectorAll(".post-content, .page-content, .post-preview p");
+
+    contentRoots.forEach(function (rootEl) {
+      annotateGlossary(rootEl, termMap);
+    });
+  }
+
+  function annotateGlossary(rootEl, termMap) {
+    const walker = document.createTreeWalker(rootEl, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (node) {
+        const parentTag = node.parentElement ? node.parentElement.tagName : "";
+        if (!node.nodeValue.trim()) {
+          return NodeFilter.FILTER_REJECT;
+        }
+        if (["SCRIPT", "STYLE", "A", "BUTTON", "CODE", "PRE", "TEXTAREA"].includes(parentTag)) {
+          return NodeFilter.FILTER_REJECT;
+        }
+        if (node.parentElement && node.parentElement.closest(".glossary-term")) {
+          return NodeFilter.FILTER_REJECT;
+        }
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+
+    const textNodes = [];
+    let currentNode;
+    while ((currentNode = walker.nextNode())) {
+      textNodes.push(currentNode);
+    }
+
+    textNodes.forEach(function (node) {
+      const originalText = node.nodeValue;
+      let updatedText = originalText;
+      let changed = false;
+
+      termMap.forEach(function (item) {
+        const pattern = new RegExp("(^|\\b)(" + item.escapedTerm + ")(\\b)", "g");
+        updatedText = updatedText.replace(pattern, function (match, prefix, term, suffix) {
+          changed = true;
+          return prefix + '<span class="glossary-term" tabindex="0">' + term + '<span class="glossary-card" role="tooltip">' + item.definition + '</span></span>' + suffix;
+        });
+      });
+
+      if (changed && updatedText !== originalText) {
+        const wrapper = document.createElement("span");
+        wrapper.innerHTML = updatedText;
+        node.parentNode.replaceChild(wrapper, node);
+      }
+    });
+  }
+
+  if (scrollTopButton) {
+    const toggleScrollButton = function () {
+      const shouldShow = window.scrollY > 420;
+      scrollTopButton.classList.toggle("is-visible", shouldShow);
+    };
+
+    window.addEventListener("scroll", toggleScrollButton, { passive: true });
+    toggleScrollButton();
+
+    scrollTopButton.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
     });
   }
 });

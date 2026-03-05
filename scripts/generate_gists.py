@@ -5,7 +5,7 @@ import datetime
 import trafilatura
 import time
 import re
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse, urlunparse
 from openai import OpenAI
 
 SIGNALS_FILE = "_data/signals.yml"
@@ -25,6 +25,7 @@ FEEDS = [
     "https://www.atanet.org/news/industry-news/feed/",
     "https://elia-association.org/news/feed/",
     "https://multilingual.com/feed/",
+    "https://aparasion.github.io/rss-generator/rss/XTM%20Blog.xml"
 ]
 
 SEEN_FILE = "seen.json"
@@ -72,6 +73,24 @@ def normalize_url(url: str) -> str:
     if not cleaned:
         return ""
     return cleaned.split("#", 1)[0].rstrip("/")
+    """Percent-encode URL path/query fragments that may contain unsafe characters."""
+    try:
+        parsed = urlparse(url)
+        if not parsed.scheme or not parsed.netloc:
+            return url
+
+        return urlunparse(
+            (
+                parsed.scheme,
+                parsed.netloc,
+                quote(parsed.path, safe="/%:@"),
+                quote(parsed.params, safe="=;&"),
+                quote(parsed.query, safe="=&?:,/%+-"),
+                quote(parsed.fragment, safe="=&?:,/%+-"),
+            )
+        )
+    except Exception:
+        return url
 
 
 def extract_article_text(url: str) -> str:
@@ -193,6 +212,32 @@ def main() -> None:
             url = entry.link
             normalized_url = normalize_url(url)
             if normalized_url in normalized_seen:
+
+
+KNOWN_SIGNAL_IDS = set(parse_signal_ids_from_yaml(SIGNALS_FILE))
+SIGNAL_KEYWORDS = {
+    "quality-gap-closure": ["quality", "human", "review", "post-edit", "validation", "mqm", "error"],
+    "governance-in-ai-workflows": ["governance", "audit", "compliance", "control", "policy", "risk", "guardrail"],
+    "localization-operating-system": ["platform", "end-to-end", "workflow", "integration", "api", "orchestration"],
+    "measurable-quality-evaluation": ["mqm", "metric", "evaluation", "benchmark", "score", "assessment"],
+}
+
+    normalized_feed_url = normalize_url(feed_url)
+    try:
+        feed = feedparser.parse(normalized_feed_url)
+    except Exception as e:
+        print(f"Skipping feed due to parse error for {feed_url}: {e}")
+        continue
+    for entry in feed.entries[:10]:
+        if count >= MAX_ARTICLES:
+            break
+
+        url = normalize_url(entry.link)
+        if url in seen:
+            continue
+
+            url = entry.link
+            if url in seen:
                 continue
 
             fallback_description = normalize_text(getattr(entry, "description", ""))
@@ -278,6 +323,46 @@ def main() -> None:
             signal_ids_yaml = ", ".join(signal_ids)
 
             md_content = f"""---
+        except Exception as e:
+            print(f"OpenAI API error for {url}: {e}")
+            gist = f"Summary generation failed due to API error.\n\nRead the full article below."
+
+        # ────────────────────────────────────────────────
+        # Date handling
+        # ────────────────────────────────────────────────
+        if "published_parsed" in entry and entry.published_parsed:
+            pub_dt = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
+        else:
+            pub_dt = datetime.datetime.now(datetime.timezone.utc)
+
+        post_date_str = pub_dt.strftime("%Y-%m-%d")
+        time_str = pub_dt.strftime("%H:%M:%S")
+
+        # Slug
+        slug_raw = re.sub(r"\s+", "-", entry.title.lower().strip())
+        slug = "".join(c for c in slug_raw if c.isalnum() or c == "-")[:60].strip("-")
+        if not slug:
+            slug = f"article-{int(pub_dt.timestamp())}"
+
+        filename = f"_posts/{post_date_str}-{slug}.md"
+        suffix = 1
+        while os.path.exists(filename):
+            filename = f"_posts/{post_date_str}-{slug}-{suffix}.md"
+            suffix += 1
+
+        # Source information
+        source_url = normalize_url(entry.link) if entry.link else url
+        publisher = get_publisher_domain(source_url)
+
+        # ────────────────────────────────────────────────
+        # Markdown content — one post per article
+        # ────────────────────────────────────────────────
+        safe_title = yaml_escape(entry.title)
+        safe_excerpt = yaml_escape(gist[:160])
+        safe_publisher = yaml_escape(publisher)
+        safe_source_url = yaml_escape(source_url)
+
+        md_content = f"""---
 title: "{safe_title}"
 date: {post_date_str}T{time_str}Z
 layout: post
