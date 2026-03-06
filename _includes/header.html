@@ -1,18 +1,18 @@
 <header class="site-header">
   <div class="header-shell">
-    <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }} home">
-      <img src="{{ '/assets/images/LR_logo.png' | relative_url }}"
-           alt="{{ site.title }}"
-           class="logo-image">
-    </a>
+    <div class="header-top">
+      <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }} home">
+        <img src="{{ '/assets/images/LR_logo.png' | relative_url }}"
+             alt="{{ site.title }}"
+             class="logo-image">
+      </a>
 
-    <a href="{{ '/' | relative_url }}" class="site-brand-block" aria-label="Go to homepage">
-      <span class="site-brand">{{ site.title }}</span>
-      <span class="site-tagline">{{ site.description | default: 'Language Industry Intelligence' }}</span>
-    </a>
+      <a href="{{ '/' | relative_url }}" class="site-brand-block" aria-label="Go to homepage">
+        <span class="site-brand">{{ site.title }}</span>
+        <span class="site-tagline">{{ site.description | default: 'Language Industry Intelligence' }}</span>
+      </a>
+    </div>
 
-      <span class="site-brand">{{ site.title }}</span>
-    </a>
     {% include nav.html %}
   </div>
 </header>
