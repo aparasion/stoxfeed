@@ -5,10 +5,6 @@ nav: true
 nav_order: 1
 ---
 
-<section class="hero">
-  <h1>{% include brand-word.html %}</h1>
-  <p>{{ site.description }}</p>
-</section>
 
 <section class="topic-filter-panel" aria-label="Filter posts by topic">
   <p class="topic-filter-title">Filter by topic:</p>
