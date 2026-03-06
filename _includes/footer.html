@@ -1,3 +1,14 @@
 <footer class="site-footer">
-  <p>&copy; {{ site.time | date: "%Y" }} {% include brand-word.html %}</p>
+  <div class="footer-shell">
+    <p class="footer-brand">&copy; {{ site.time | date: "%Y" }} {% include brand-word.html %}</p>
+
+    <ul class="footer-links" aria-label="Footer navigation">
+      {% assign nav_pages = site.pages | where: "nav", true | sort: "nav_order" %}
+      {% for p in nav_pages %}
+        <li>
+          <a href="{{ p.url | relative_url }}" class="{% if p.url == page.url %}active{% endif %}">{{ p.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </footer>
