@@ -25,7 +25,7 @@ FEEDS = [
     "https://www.atanet.org/news/industry-news/feed/",
     "https://elia-association.org/news/feed/",
     "https://multilingual.com/news/feed",
-    "https://aparasion.github.io/rss-generator/rss/XTM%20Blog.xml",
+    "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
 ]
 
 SEEN_FILE = "seen.json"
