@@ -1,4 +1,4 @@
-<nav class="site-nav">
+<nav class="site-nav" aria-label="Primary navigation">
   <button
     id="menu-toggle"
     class="menu-toggle"
@@ -8,22 +8,21 @@
     aria-label="Toggle navigation menu">
     Menu
   </button>
+
   <ul id="site-menu">
-        {% assign nav_pages = site.pages 
-           | where: "nav", true 
-           | sort: "nav_order" %}
-        
-        {% for p in nav_pages %}
-          <li>
-            <a href="{{ p.url | relative_url }}"
-               class="{% if p.url == page.url %}active{% endif %}">
-               {{ p.title }}
-            </a>
-          </li>
-        {% endfor %}
-    
-        <li>
-          <button id="theme-toggle" class="theme-toggle">☀︎</button>
-        </li>
+    {% assign nav_pages = site.pages | where: "nav", true | sort: "nav_order" %}
+
+    {% for p in nav_pages %}
+      <li>
+        <a href="{{ p.url | relative_url }}"
+           class="{% if p.url == page.url %}active{% endif %}">
+          {{ p.title }}
+        </a>
+      </li>
+    {% endfor %}
+
+    <li>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">☀︎</button>
+    </li>
   </ul>
 </nav>
