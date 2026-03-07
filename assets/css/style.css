@@ -7,9 +7,9 @@
   --surface-strong: #f7f9fc;
   --accent: #233fdb;
   --accent-soft: rgba(35, 63, 219, 0.1);
-  --site-max-width: 1040px;
-  --reading-max-width: 760px;
-  --page-gutter: 1.2rem;
+  --site-max-width: 980px;
+  --reading-max-width: 720px;
+  --page-gutter: 1rem;
 }
 
 [data-theme="dark"] {
@@ -54,7 +54,7 @@ a:hover {
 
 .container {
   max-width: var(--site-max-width);
-  margin: 1.5rem auto;
+  margin: 1rem auto 2rem;
   padding: 0 var(--page-gutter);
 }
 
@@ -80,27 +80,25 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 40;
-  padding: 0.9rem var(--page-gutter) 0;
-  backdrop-filter: blur(12px);
+  padding: 0.75rem var(--page-gutter);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
 }
 
 .header-shell {
   max-width: var(--site-max-width);
   margin: 0 auto;
-  padding: 0.8rem 1rem 1rem;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  background: var(--surface);
-  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 0.85rem;
+  gap: 0.55rem;
 }
 
 .header-top {
   display: flex;
   align-items: center;
-  gap: 0.9rem;
+  gap: 0.75rem;
 }
 
 .site-logo,
@@ -114,10 +112,10 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.75rem;
-  height: 2.75rem;
+  width: 2.35rem;
+  height: 2.35rem;
   border: 1px solid var(--border);
-  border-radius: 12px;
+  border-radius: 8px;
   background: var(--surface-strong);
 }
 
@@ -141,16 +139,16 @@ a:hover {
 }
 
 .site-brand {
-  font-size: 1.02rem;
-  letter-spacing: 0.02em;
+  font-size: 1rem;
+  letter-spacing: 0.01em;
   font-weight: 800;
   line-height: 1.1;
 }
 
 .site-tagline {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.06em;
   color: var(--muted);
   line-height: 1.2;
   white-space: nowrap;
@@ -167,16 +165,11 @@ a:hover {
 .site-nav ul {
   list-style: none;
   margin: 0;
-  padding: 0.35rem;
+  padding: 0;
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
   gap: 0.35rem;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  background: linear-gradient(120deg, var(--surface-strong), color-mix(in srgb, var(--surface-strong) 78%, var(--accent-soft) 22%));
 }
 
 .menu-toggle {
@@ -198,12 +191,13 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 2.1rem;
-  padding: 0 0.95rem;
-  border-radius: 999px;
+  min-height: 2rem;
+  padding: 0 0.8rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
   border-bottom: none;
-  font-size: 0.8rem;
-  letter-spacing: 0.05em;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
   color: var(--muted);
   text-transform: uppercase;
   font-weight: 700;
@@ -211,23 +205,26 @@ a:hover {
 
 .site-nav a:hover {
   color: var(--text);
-  background: var(--bg);
+  border-color: var(--border);
+  background: var(--surface-strong);
 }
 
 .site-nav a.active {
-  color: var(--accent);
-  background: var(--accent-soft);
+  color: var(--text);
+  border-color: var(--border);
+  background: var(--surface-strong);
 }
 
 .theme-toggle {
+  margin-left: auto;
   background: var(--surface-strong);
   border: 1px solid var(--border);
-  border-radius: 999px;
-  width: 2.1rem;
-  height: 2.1rem;
+  border-radius: 8px;
+  width: 2rem;
+  height: 2rem;
   color: var(--text);
   cursor: pointer;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .theme-toggle:hover {
@@ -279,11 +276,10 @@ h2 a:hover {
 .post-list {
   width: 100%;
   margin: 0 auto;
-  padding: 1.4rem 1.6rem;
+  padding: 1.15rem 1.2rem;
   border: 1px solid var(--border);
-  border-radius: 18px;
+  border-radius: 12px;
   background: var(--surface);
-  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.07);
 }
 
 .post-preview {
@@ -300,8 +296,7 @@ h2 a:hover {
 }
 
 .post-preview:hover {
-  transform: translateY(-4px);
-  opacity: 0.95;
+  opacity: 0.92;
 }
 
 .post-meta {
@@ -349,22 +344,20 @@ h2 a:hover {
 }
 
 .site-footer {
-  padding: 1.2rem var(--page-gutter) 1.6rem;
+  padding: 0 var(--page-gutter) 1.2rem;
 }
 
 .footer-shell {
   max-width: var(--site-max-width);
   margin: 0 auto;
-  padding: 0.9rem 1rem;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  background: var(--surface);
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--border);
+  background: transparent;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 0.8rem;
-  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
 }
 
 .footer-brand {
@@ -395,7 +388,7 @@ h2 a:hover {
 .footer-links a:hover,
 .footer-links a.active {
   color: var(--text);
-  background: var(--surface-strong);
+  background: transparent;
 }
 
 hr {
@@ -616,13 +609,12 @@ hr {
   }
 
   .site-header {
-    padding-top: 0.65rem;
+    padding-top: 0.55rem;
+    padding-bottom: 0.55rem;
   }
 
   .header-shell {
-    padding: 0.6rem 0.75rem;
-    border-radius: 14px;
-    gap: 0.65rem;
+    gap: 0.5rem;
   }
 
   .site-brand {
@@ -639,7 +631,7 @@ hr {
 
   .site-nav {
     position: relative;
-    justify-content: flex-end;
+    justify-content: flex-start;
   }
 
   .menu-toggle {
@@ -651,16 +643,16 @@ hr {
   .site-nav ul {
     display: none;
     position: absolute;
-    top: calc(100% + 0.55rem);
+    top: calc(100% + 0.5rem);
     right: 0;
-    width: min(280px, calc(100vw - (var(--page-gutter) * 2)));
-    padding: 0.5rem;
-    border-radius: 14px;
+    width: min(260px, calc(100vw - (var(--page-gutter) * 2)));
+    padding: 0.45rem;
+    border-radius: 10px;
+    border: 1px solid var(--border);
     flex-direction: column;
-    gap: 0.35rem;
+    gap: 0.3rem;
     align-items: stretch;
-    background: var(--surface);
-    box-shadow: 0 14px 28px rgba(15, 23, 42, 0.14);
+    background: var(--bg);
   }
 
   .site-nav.menu-open ul {
@@ -671,19 +663,19 @@ hr {
     width: 100%;
   }
 
-  .site-nav a,
-  .theme-toggle {
+  .site-nav a {
     width: 100%;
-    min-height: 2.35rem;
+    min-height: 2.2rem;
+  }
+
+  .theme-toggle {
+    width: 2rem;
+    min-height: 2rem;
   }
 
   .post-list {
-    padding: 1rem;
-    border-radius: 14px;
-  }
-
-  .footer-shell {
-    border-radius: 14px;
+    padding: 0.9rem;
+    border-radius: 10px;
   }
 }
 
