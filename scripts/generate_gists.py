@@ -5,7 +5,8 @@ import datetime
 import trafilatura
 import time
 import re
-from urllib.parse import quote, urlparse, urlunparse
+import urllib.request
+from urllib.parse import urlparse
 from openai import OpenAI
 
 SIGNALS_FILE = "_data/signals.yml"
@@ -86,17 +87,37 @@ def extract_article_text(url: str) -> str:
     return normalize_text(extracted)
 
 
-def extract_links_from_html(text: str) -> list[str]:
-    if not text:
-        return []
-    return re.findall(r'href=["\'](https?://[^"\']+)["\']', text)
-
-
 def is_google_news_url(url: str) -> bool:
     try:
         return urlparse(url or "").netloc.lower().endswith("news.google.com")
     except Exception:
         return False
+
+
+def resolve_google_news_url(url: str, timeout: int = 10) -> str:
+    """Follow the Google News redirect and return the final article URL.
+
+    Google News RSS links are redirect wrappers (news.google.com/rss/articles/…)
+    that issue a 301/302 to the real publisher URL. urllib follows redirects
+    automatically, so response.url is the resolved destination.
+    Falls back to the original URL on any error.
+    """
+    try:
+        opener = urllib.request.build_opener()
+        opener.addheaders = [("User-Agent", "Mozilla/5.0")]
+        with opener.open(url, timeout=timeout) as response:
+            final = response.url
+        resolved = normalize_url(final)
+        return resolved if resolved and not is_google_news_url(resolved) else url
+    except Exception:
+        return url
+
+
+def extract_links_from_html(text: str) -> list[str]:
+    if not text:
+        return []
+    return re.findall(r'href=["\'](https?://[^"\']+)["\']', text)
+
 
 def candidate_urls_for_entry(entry) -> list[str]:
     candidates = []
@@ -105,18 +126,24 @@ def candidate_urls_for_entry(entry) -> list[str]:
     if primary_link:
         candidates.append(primary_link)
 
-    parsed_primary = urlparse(primary_link) if primary_link else None
-    if parsed_primary and parsed_primary.netloc.endswith("news.google.com"):
-        source = getattr(entry, "source", None)
-        source_href = normalize_url(getattr(source, "href", "")) if source else ""
-        if source_href:
-            candidates.append(source_href)
+    if primary_link and is_google_news_url(primary_link):
+        # 1. Follow the redirect — most reliable, works for any Google News link.
+        resolved = resolve_google_news_url(primary_link)
+        if resolved and resolved != primary_link:
+            candidates.append(resolved)
+        else:
+            # 2. Fallback: source.href embedded in the feed XML.
+            source = getattr(entry, "source", None)
+            source_href = normalize_url(getattr(source, "href", "")) if source else ""
+            if source_href:
+                candidates.append(source_href)
 
-        summary_html = getattr(entry, "summary", "") or getattr(entry, "description", "")
-        for link in extract_links_from_html(summary_html):
-            normalized = normalize_url(link)
-            if normalized and "news.google.com" not in normalized:
-                candidates.append(normalized)
+            # 3. Fallback: links scraped from the summary HTML.
+            summary_html = getattr(entry, "summary", "") or getattr(entry, "description", "")
+            for link in extract_links_from_html(summary_html):
+                normalized = normalize_url(link)
+                if normalized and not is_google_news_url(normalized):
+                    candidates.append(normalized)
 
     deduped = []
     seen = set()
@@ -244,12 +271,11 @@ def main() -> None:
                 continue
 
             url = candidate_urls[0]
-            google_news_source = is_google_news_url(url)
+            google_news_source = is_google_news_url(candidate_urls[0])
 
             # Skip if ANY candidate URL for this entry has already been seen.
-            # This prevents re-processing the same article when the primary URL
-            # (e.g. a news.google.com redirect) differs from the resolved article
-            # URL that was saved in a previous run.
+            # This handles cases where the Google News redirect URL and the
+            # resolved article URL are both recorded across runs.
             if any(c in normalized_seen for c in candidate_urls):
                 continue
 
@@ -380,9 +406,6 @@ signal_confidence: {signal_confidence}
                 }
             )
 
-            # Mark ALL candidate URLs as seen so that any future run — whether it
-            # encounters the Google News redirect URL or the resolved article URL
-            # first — correctly skips this article.
             for candidate in candidate_urls:
                 if candidate not in normalized_seen:
                     seen.append(candidate)
