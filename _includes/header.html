@@ -7,19 +7,9 @@
              alt="{{ site.title }}"
              class="logo-image">
       </a>
-      <div class="site-brand-block">
-        <a href="{{ '/' | relative_url }}" class="site-brand" aria-label="Go to homepage">{% include brand-word.html %}</a>
-        <span class="site-tagline">{{ site.description | default: 'Language Industry Intelligence' }}</span>
-      </div>
     </div>
 
-    <div class="header-nav-row">
-      {% include nav.html %}
-      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">
-        <span class="toggle-icon toggle-icon--light" aria-hidden="true">☀︎</span>
-        <span class="toggle-icon toggle-icon--dark" aria-hidden="true">◗</span>
-      </button>
-    </div>
+    {% include nav.html %}
 
   </div>
 </header>

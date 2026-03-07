@@ -1,5 +1,5 @@
 /* ============================================================
-   LocReport — Editorial Design System
+   LocReport — Text-Based Design
    ============================================================ */
 
 /* ── Tokens ─────────────────────────────────────────────── */
@@ -8,11 +8,7 @@
   --bg:             #ffffff;
   --text:           #0f1115;
   --muted:          #6b7280;
-  --border:         rgba(0, 0, 0, 0.08);
-  --surface:        #ffffff;
-  --surface-strong: #f4f5f7;
   --accent:         #2563eb;
-  --accent-soft:    rgba(37, 99, 235, 0.08);
   --brand-loc:      #1e40af;
   --brand-report:   #0ea5e9;
 
@@ -27,12 +23,6 @@
   --space-8: 3rem;
   --space-10: 4rem;
 
-  /* Radius */
-  --radius-sm:   4px;
-  --radius-md:   8px;
-  --radius-lg:   12px;
-  --radius-pill: 9999px;
-
   /* Layout */
   --site-max-width: 760px;
   --page-gutter:    1.25rem;
@@ -42,11 +32,7 @@
   --bg:             #09090b;
   --text:           #f4f6fa;
   --muted:          #8a9ab5;
-  --border:         rgba(255, 255, 255, 0.09);
-  --surface:        #09090b;
-  --surface-strong: #111316;
   --accent:         #60a5fa;
-  --accent-soft:    rgba(96, 165, 250, 0.12);
   --brand-loc:      #93c5fd;
   --brand-report:   #38bdf8;
 }
@@ -58,8 +44,6 @@
 
 html, body {
   overflow-x: hidden;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -79,12 +63,12 @@ a {
 
 p a, li a:not(.site-nav a) {
   color: var(--text);
-  border-bottom: 1px solid var(--border);
-  transition: border-color 0.2s ease;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 p a:hover, li a:not(.site-nav a):hover {
-  border-bottom-color: var(--text);
+  color: var(--muted);
 }
 
 /* ── Typography ─────────────────────────────────────────── */
@@ -100,13 +84,12 @@ h1 { font-size: 2.2rem; }
 h2 { font-size: 1.5rem; margin-top: var(--space-8); }
 h3 { font-size: 1.2rem; }
 
-h2 a, h3 a { border-bottom: none; }
-h2 a:hover, h3 a:hover { color: var(--accent); }
+h2 a, h3 a { text-decoration: none; }
+h2 a:hover, h3 a:hover { color: var(--muted); }
 
 hr {
   border: none;
-  height: 1px;
-  background: var(--border);
+  height: 0;
   margin: var(--space-8) 0;
 }
 
@@ -122,15 +105,12 @@ hr {
   width: 100%;
 }
 
-/* ── Site Header — Editorial Masthead ───────────────────── */
+/* ── Site Header ────────────────────────────────────────── */
 .site-header {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: color-mix(in srgb, var(--bg) 88%, transparent);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border-bottom: 1px solid var(--border);
+  background: var(--bg);
 }
 
 .header-shell {
@@ -140,26 +120,18 @@ hr {
   padding: 0 var(--page-gutter);
 }
 
-/* Masthead row — logo + brand centred */
+/* Logo centred */
 .header-brand {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: var(--space-3);
-  padding: var(--space-4) 0 var(--space-3);
+  padding: var(--space-4) 0 var(--space-2);
 }
 
-/* Logo mark */
 .site-logo {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
-  transition: opacity 0.2s ease;
-}
-
-.site-logo:hover {
-  opacity: 0.7;
 }
 
 .logo-image {
@@ -168,47 +140,15 @@ hr {
   display: block;
 }
 
-/* Wordmark */
-.site-brand-block {
-  display: flex;
-  flex-direction: column;
-}
-
-.site-brand {
-  font-size: 1.25rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  line-height: 1;
-  color: var(--text);
-  display: block;
-}
-
-.site-tagline {
-  font-size: 0.6rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--muted);
-  margin-top: 4px;
-}
-
 .brand-loc    { color: var(--brand-loc); }
 .brand-report { color: var(--brand-report); }
 
-/* Nav row — nav centred, toggle pinned right */
-.header-nav-row {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  border-top: 1px solid var(--border);
-  padding: var(--space-1) 0;
-}
-
-/* ── Navigation — Clean Text Style ─────────────────────── */
+/* ── Navigation — Pure Text ─────────────────────────────── */
 .site-nav {
   display: flex;
   align-items: center;
+  justify-content: center;
+  padding: var(--space-2) 0 var(--space-4);
 }
 
 .site-nav ul {
@@ -217,36 +157,18 @@ hr {
   padding: 0;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 0;
 }
 
 .site-nav a {
   display: inline-flex;
   align-items: center;
-  height: 2.25rem;
   padding: 0 var(--space-3);
-  font-size: 0.78rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
+  font-size: 0.9rem;
   color: var(--muted);
-  position: relative;
-  transition: color 0.18s ease;
-}
-
-/* Underline indicator */
-.site-nav a::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: var(--space-3);
-  right: var(--space-3);
-  height: 2px;
-  border-radius: 1px;
-  background: var(--accent);
-  opacity: 0;
-  transform: scaleX(0.4);
-  transition: opacity 0.18s ease, transform 0.18s ease;
+  transition: color 0.15s ease;
 }
 
 .site-nav a:hover {
@@ -255,38 +177,26 @@ hr {
 
 .site-nav a.active {
   color: var(--text);
+  font-weight: 700;
 }
 
-.site-nav a.active::after {
-  opacity: 1;
-  transform: scaleX(1);
-}
-
-/* ── Theme Toggle ────────────────────────────────────────── */
+/* ── Theme Toggle — Inline Text Button ──────────────────── */
 .theme-toggle {
-  position: absolute;
-  right: 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2rem;
-  height: 2rem;
-  border-radius: var(--radius-md);
-  border: 1px solid var(--border);
-  background: transparent;
+  padding: 0 var(--space-3);
+  border: none;
+  background: none;
   color: var(--muted);
   cursor: pointer;
   font-size: 0.95rem;
   line-height: 1;
-  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
-  padding: 0;
-  flex-shrink: 0;
+  font-family: inherit;
 }
 
 .theme-toggle:hover {
-  background: var(--surface-strong);
   color: var(--text);
-  border-color: var(--border);
 }
 
 /* Show/hide icons based on theme */
@@ -301,41 +211,28 @@ hr {
   position: fixed;
   bottom: var(--space-6);
   right: var(--space-6);
-  width: 2.5rem;
-  height: 2.5rem;
-  border-radius: var(--radius-pill);
-  border: 1px solid var(--border);
-  background: var(--bg);
+  border: none;
+  background: none;
   color: var(--muted);
   font-size: 1rem;
   font-family: inherit;
   font-weight: 600;
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.10), 0 1px 4px rgba(0, 0, 0, 0.06);
   opacity: 0;
-  transform: translateY(10px) scale(0.9);
-  transition: opacity 0.25s ease, transform 0.25s ease, background 0.18s ease, color 0.18s ease, box-shadow 0.18s ease;
+  transform: translateY(10px);
+  transition: opacity 0.25s ease, transform 0.25s ease, color 0.15s ease;
   pointer-events: none;
   z-index: 30;
 }
 
-[data-theme="dark"] .scroll-top-button {
-  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
-}
-
 .scroll-top-button.is-visible {
   opacity: 1;
-  transform: translateY(0) scale(1);
+  transform: translateY(0);
   pointer-events: auto;
 }
 
 .scroll-top-button:hover {
-  background: var(--surface-strong);
   color: var(--text);
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.14);
 }
 
 /* ── Post Feed ───────────────────────────────────────────── */
@@ -346,15 +243,10 @@ hr {
 .post-preview {
   position: relative;
   padding: var(--space-5) 0;
-  border-bottom: 1px solid var(--border);
 }
 
 .post-preview:first-child {
   padding-top: 0;
-}
-
-.post-preview:last-child {
-  border-bottom: none;
 }
 
 .post-preview h2 {
@@ -365,30 +257,18 @@ hr {
 
 .post-preview h2 a {
   color: var(--text);
+  text-decoration: none;
 }
 
-.post-preview h2 a::after {
-  content: '→';
-  display: inline-block;
-  opacity: 0;
-  transform: translateX(-8px);
-  margin-left: var(--space-2);
-  color: var(--accent);
-  transition: opacity 0.2s ease, transform 0.2s ease;
-}
-
-.post-preview:hover h2 a::after {
-  opacity: 1;
-  transform: translateX(0);
+.post-preview h2 a:hover {
+  color: var(--muted);
 }
 
 .post-meta {
   font-size: 0.75rem;
-  font-weight: 700;
+  font-weight: 600;
   color: var(--muted);
   margin-bottom: var(--space-2);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
 }
 
 .post-preview p {
@@ -405,10 +285,8 @@ hr {
 
 .topic-filter-title {
   margin: 0 0 var(--space-3) 0;
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  font-weight: 600;
   color: var(--muted);
 }
 
@@ -416,24 +294,18 @@ hr {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-2);
-  padding: var(--space-1);
-  background: var(--surface-strong);
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--border);
-  width: fit-content;
 }
 
 .topic-filter-button {
   border: none;
   background: transparent;
   color: var(--muted);
-  padding: var(--space-2) var(--space-4);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  border-radius: var(--radius-md);
+  padding: 0;
+  font-size: 0.85rem;
+  font-weight: 600;
   cursor: pointer;
-  transition: color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+  transition: color 0.15s ease;
+  font-family: inherit;
 }
 
 .topic-filter-button:hover {
@@ -441,13 +313,8 @@ hr {
 }
 
 .topic-filter-button.active {
-  background: var(--bg);
   color: var(--text);
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
-}
-
-[data-theme="dark"] .topic-filter-button.active {
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
+  font-weight: 700;
 }
 
 .topic-hidden {
@@ -472,9 +339,7 @@ article.post h1 {
 
 .post-author-footer {
   margin-top: var(--space-10);
-  padding: var(--space-5);
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
+  padding: var(--space-5) 0;
   display: flex;
   align-items: center;
   gap: var(--space-4);
@@ -483,10 +348,7 @@ article.post h1 {
 .author-logo {
   width: 48px;
   height: 48px;
-  border-radius: var(--radius-pill);
-  border: 1px solid var(--border);
-  padding: 4px;
-  background: var(--surface-strong);
+  border-radius: 50%;
 }
 
 .author-info {
@@ -503,18 +365,17 @@ article.post h1 {
 .author-contact-link {
   font-size: 0.85rem;
   color: var(--muted);
-  font-weight: 600;
 }
 
 .author-contact-link:hover {
-  color: var(--accent);
+  color: var(--text);
+  text-decoration: none;
 }
 
 /* ── Footer ──────────────────────────────────────────────── */
 .site-footer {
   margin-top: var(--space-10);
   padding: var(--space-6) 0;
-  border-top: 1px solid var(--border);
 }
 
 .footer-shell {
@@ -530,7 +391,6 @@ article.post h1 {
 
 .footer-brand {
   font-size: 0.82rem;
-  font-weight: 600;
   color: var(--muted);
   margin: 0;
 }
@@ -546,11 +406,9 @@ article.post h1 {
 
 .footer-links a {
   font-size: 0.75rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
   color: var(--muted);
-  transition: color 0.2s ease;
+  transition: color 0.15s ease;
+  text-decoration: none;
 }
 
 .footer-links a:hover {
@@ -572,10 +430,8 @@ article.post h1 {
 }
 
 .form-group label {
-  font-size: 0.78rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
+  font-size: 0.85rem;
+  font-weight: 600;
   color: var(--muted);
 }
 
@@ -583,45 +439,38 @@ article.post h1 {
 .form-group textarea {
   width: 100%;
   padding: var(--space-3) var(--space-4);
-  border-radius: var(--radius-md);
-  border: 1px solid var(--border);
-  background: var(--surface-strong);
+  border: 1px solid var(--muted);
+  background: var(--bg);
   color: var(--text);
   font-size: 1rem;
   font-family: inherit;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 
 .form-group input:focus,
 .form-group textarea:focus {
-  outline: none;
-  background: var(--bg);
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-soft);
+  outline: 1px solid var(--text);
 }
 
 .btn-submit {
   align-self: flex-start;
   padding: var(--space-3) var(--space-6);
-  border-radius: var(--radius-md);
   border: none;
   background: var(--text);
   color: var(--bg);
   font-size: 0.9rem;
   font-weight: 700;
-  letter-spacing: 0.02em;
   cursor: pointer;
-  transition: opacity 0.2s ease, transform 0.15s ease;
+  font-family: inherit;
+  transition: opacity 0.2s ease;
 }
 
 .btn-submit:hover {
-  opacity: 0.85;
-  transform: translateY(-1px);
+  opacity: 0.8;
 }
 
 /* ── Glossary ────────────────────────────────────────────── */
 .glossary-term {
-  border-bottom: 1px dashed var(--muted);
+  text-decoration: underline dotted var(--muted);
   cursor: help;
   position: relative;
 }
@@ -631,16 +480,14 @@ article.post h1 {
   position: absolute;
   bottom: calc(100% + 6px);
   left: 0;
-  background: var(--surface-strong);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-md);
+  background: var(--bg);
+  border: 1px solid var(--muted);
   padding: var(--space-2) var(--space-3);
   font-size: 0.82rem;
   line-height: 1.5;
   color: var(--text);
   width: 220px;
   z-index: 10;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
 .glossary-term:hover .glossary-card,
@@ -651,24 +498,15 @@ article.post h1 {
 /* ── Mobile Responsive ───────────────────────────────────── */
 @media (max-width: 640px) {
   .header-brand {
-    padding: var(--space-3) 0 var(--space-2);
+    padding: var(--space-3) 0 var(--space-1);
   }
 
-  /* Nav row stays a normal flex row; only the nav scrolls */
-  .header-nav-row {
-    padding: var(--space-1) 0;
-    justify-content: flex-start;
-    gap: var(--space-2);
-  }
-
-  /* Only site-nav scrolls horizontally */
   .site-nav {
-    flex: 1;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
-    -webkit-mask-image: linear-gradient(to right, black 80%, transparent 100%);
-    mask-image: linear-gradient(to right, black 80%, transparent 100%);
+    justify-content: flex-start;
+    padding: var(--space-1) 0 var(--space-3);
   }
 
   .site-nav::-webkit-scrollbar {
@@ -677,14 +515,9 @@ article.post h1 {
 
   .site-nav ul {
     width: max-content;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
     padding-right: var(--space-4);
-  }
-
-  /* Toggle reverts to static so it stays visible next to scrollable nav */
-  .theme-toggle {
-    position: relative;
-    right: auto;
-    flex-shrink: 0;
   }
 
   h1 { font-size: 1.8rem; }
