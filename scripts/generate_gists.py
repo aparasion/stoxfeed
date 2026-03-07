@@ -69,28 +69,11 @@ def normalize_text(text: str) -> str:
 
 
 def normalize_url(url: str) -> str:
+    """Normalize a URL for deduplication: strip fragment and trailing slash."""
     cleaned = (url or "").strip()
     if not cleaned:
         return ""
     return cleaned.split("#", 1)[0].rstrip("/")
-    """Percent-encode URL path/query fragments that may contain unsafe characters."""
-    try:
-        parsed = urlparse(url)
-        if not parsed.scheme or not parsed.netloc:
-            return url
-
-        return urlunparse(
-            (
-                parsed.scheme,
-                parsed.netloc,
-                quote(parsed.path, safe="/%:@"),
-                quote(parsed.params, safe="=;&"),
-                quote(parsed.query, safe="=&?:,/%+-"),
-                quote(parsed.fragment, safe="=&?:,/%+-"),
-            )
-        )
-    except Exception:
-        return url
 
 
 def extract_article_text(url: str) -> str:
@@ -263,7 +246,11 @@ def main() -> None:
             url = candidate_urls[0]
             google_news_source = is_google_news_url(url)
 
-            if url in normalized_seen:
+            # Skip if ANY candidate URL for this entry has already been seen.
+            # This prevents re-processing the same article when the primary URL
+            # (e.g. a news.google.com redirect) differs from the resolved article
+            # URL that was saved in a previous run.
+            if any(c in normalized_seen for c in candidate_urls):
                 continue
 
             fallback_description = normalize_text(getattr(entry, "description", ""))
@@ -386,8 +373,13 @@ signal_confidence: {signal_confidence}
                 }
             )
 
-            seen.append(url)
-            normalized_seen.add(url)
+            # Mark ALL candidate URLs as seen so that any future run — whether it
+            # encounters the Google News redirect URL or the resolved article URL
+            # first — correctly skips this article.
+            for candidate in candidate_urls:
+                if candidate not in normalized_seen:
+                    seen.append(candidate)
+                    normalized_seen.add(candidate)
             count += 1
             time.sleep(2)
 
