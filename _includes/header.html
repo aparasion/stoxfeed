@@ -1,21 +1,25 @@
 <header class="site-header">
   <div class="header-shell">
-    <div class="header-left">
+
+    <div class="header-brand">
       <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }} home">
         <img src="{{ '/assets/images/LR_logo.png' | relative_url }}"
              alt="{{ site.title }}"
              class="logo-image">
       </a>
-
-      <a href="{{ '/' | relative_url }}" class="site-brand-block" aria-label="Go to homepage">
-        <span class="site-brand">{{ site.title }}</span>
+      <div class="site-brand-block">
+        <a href="{{ '/' | relative_url }}" class="site-brand" aria-label="Go to homepage">{% include brand-word.html %}</a>
         <span class="site-tagline">{{ site.description | default: 'Language Industry Intelligence' }}</span>
-      </a>
+      </div>
     </div>
 
-    <div class="header-right">
+    <div class="header-nav-row">
       {% include nav.html %}
-      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">☀︎</button>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">
+        <span class="toggle-icon toggle-icon--light" aria-hidden="true">☀︎</span>
+        <span class="toggle-icon toggle-icon--dark" aria-hidden="true">◗</span>
+      </button>
     </div>
+
   </div>
 </header>

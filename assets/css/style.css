@@ -1,16 +1,16 @@
 /* ============================================================
-   LocReport — Premium Design System
+   LocReport — Editorial Design System
    ============================================================ */
 
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
   /* Colour - Light */
   --bg:             #ffffff;
-  --text:           #0f1115;      /* Near black for extreme crispness */
+  --text:           #0f1115;
   --muted:          #6b7280;
   --border:         rgba(0, 0, 0, 0.08);
   --surface:        #ffffff;
-  --surface-strong: #f9fafb;
+  --surface-strong: #f4f5f7;
   --accent:         #2563eb;
   --accent-soft:    rgba(37, 99, 235, 0.08);
   --brand-loc:      #1e40af;
@@ -34,17 +34,17 @@
   --radius-pill: 9999px;
 
   /* Layout */
-  --site-max-width: 760px; /* ONE strict container width */
+  --site-max-width: 760px;
   --page-gutter:    1.25rem;
 }
 
 [data-theme="dark"] {
-  --bg:             #09090b;      /* Vantablack-esque */
-  --text:           #f8fafc;
-  --muted:          #94a3b8;
-  --border:         rgba(255, 255, 255, 0.1);
+  --bg:             #09090b;
+  --text:           #f4f6fa;
+  --muted:          #8a9ab5;
+  --border:         rgba(255, 255, 255, 0.09);
   --surface:        #09090b;
-  --surface-strong: #111113;
+  --surface-strong: #111316;
   --accent:         #60a5fa;
   --accent-soft:    rgba(96, 165, 250, 0.12);
   --brand-loc:      #93c5fd;
@@ -67,9 +67,9 @@ body {
   font-family: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: var(--bg);
   color: var(--text);
-  line-height: 1.6;
-  font-size: 1.05rem; /* Slightly larger, editorial base font */
-  transition: background 0.3s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  line-height: 1.65;
+  font-size: 1.05rem;
+  transition: background 0.25s ease, color 0.25s ease;
 }
 
 a {
@@ -77,11 +77,10 @@ a {
   text-decoration: none;
 }
 
-/* Base text links get an underline logic */
 p a, li a:not(.site-nav a) {
   color: var(--text);
   border-bottom: 1px solid var(--border);
-  transition: border-color 0.2s ease, opacity 0.2s ease;
+  transition: border-color 0.2s ease;
 }
 
 p a:hover, li a:not(.site-nav a):hover {
@@ -92,8 +91,8 @@ p a:hover, li a:not(.site-nav a):hover {
 h1, h2, h3, h4 {
   margin: var(--space-6) 0 var(--space-3);
   line-height: 1.2;
-  font-weight: 800; /* Bolder headings */
-  letter-spacing: -0.02em; /* Tighter tracking for modern look */
+  font-weight: 800;
+  letter-spacing: -0.025em;
   color: var(--text);
 }
 
@@ -101,13 +100,8 @@ h1 { font-size: 2.2rem; }
 h2 { font-size: 1.5rem; margin-top: var(--space-8); }
 h3 { font-size: 1.2rem; }
 
-h2 a, h3 a {
-  border-bottom: none;
-}
-
-h2 a:hover, h3 a:hover {
-  color: var(--accent);
-}
+h2 a, h3 a { border-bottom: none; }
+h2 a:hover, h3 a:hover { color: var(--accent); }
 
 hr {
   border: none;
@@ -116,7 +110,7 @@ hr {
   margin: var(--space-8) 0;
 }
 
-/* ── Layout Container (Strict) ──────────────────────────── */
+/* ── Layout Container ───────────────────────────────────── */
 .container {
   width: 100%;
   max-width: var(--site-max-width);
@@ -124,21 +118,19 @@ hr {
   padding: 0 var(--page-gutter);
 }
 
-/* Remove any sub-container restrictions */
 .page, .post {
   width: 100%;
 }
 
-/* ── Site Header (Split Design) ─────────────────────────── */
+/* ── Site Header — Editorial Masthead ───────────────────── */
 .site-header {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: color-mix(in srgb, var(--bg) 85%, transparent);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--border);
-  padding: var(--space-3) 0;
 }
 
 .header-shell {
@@ -146,15 +138,15 @@ hr {
   max-width: var(--site-max-width);
   margin: 0 auto;
   padding: 0 var(--page-gutter);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
 }
 
-.header-left, .header-right {
+/* Masthead row — logo + brand centred */
+.header-brand {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: var(--space-3);
+  padding: var(--space-4) 0 var(--space-3);
 }
 
 /* Logo mark */
@@ -162,21 +154,16 @@ hr {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 2.25rem;
-  height: 2.25rem;
-  border-radius: var(--radius-md);
-  background: var(--surface-strong);
-  border: 1px solid var(--border);
   flex-shrink: 0;
-  transition: transform 0.2s ease;
+  transition: opacity 0.2s ease;
 }
 
 .site-logo:hover {
-  transform: scale(1.05);
+  opacity: 0.7;
 }
 
 .logo-image {
-  width: 24px;
+  width: 28px;
   height: auto;
   display: block;
 }
@@ -188,25 +175,37 @@ hr {
 }
 
 .site-brand {
-  font-size: 1.05rem;
+  font-size: 1.25rem;
   font-weight: 800;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.03em;
   line-height: 1;
+  color: var(--text);
+  display: block;
 }
 
 .site-tagline {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   color: var(--muted);
-  margin-top: 2px;
+  margin-top: 4px;
 }
 
-.brand-loc { color: var(--brand-loc); }
+.brand-loc    { color: var(--brand-loc); }
 .brand-report { color: var(--brand-report); }
 
-/* ── Navigation (Horizontal Scroll on Mobile) ───────────── */
+/* Nav row — nav centred, toggle pinned right */
+.header-nav-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  border-top: 1px solid var(--border);
+  padding: var(--space-1) 0;
+}
+
+/* ── Navigation — Clean Text Style ─────────────────────── */
 .site-nav {
   display: flex;
   align-items: center;
@@ -218,50 +217,128 @@ hr {
   padding: 0;
   display: flex;
   align-items: center;
-  gap: var(--space-1);
+  gap: 0;
 }
 
 .site-nav a {
   display: inline-flex;
   align-items: center;
   height: 2.25rem;
-  padding: 0 var(--space-2);
-  border-radius: var(--radius-md);
-  font-size: 0.8rem;
+  padding: 0 var(--space-3);
+  font-size: 0.78rem;
   font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
   color: var(--muted);
-  transition: color 0.2s ease, background 0.2s ease;
+  position: relative;
+  transition: color 0.18s ease;
 }
 
-.site-nav a:hover,
+/* Underline indicator */
+.site-nav a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: var(--space-3);
+  right: var(--space-3);
+  height: 2px;
+  border-radius: 1px;
+  background: var(--accent);
+  opacity: 0;
+  transform: scaleX(0.4);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+
+.site-nav a:hover {
+  color: var(--text);
+}
+
 .site-nav a.active {
   color: var(--text);
-  background: var(--surface-strong);
 }
 
-/* Theme toggle */
+.site-nav a.active::after {
+  opacity: 1;
+  transform: scaleX(1);
+}
+
+/* ── Theme Toggle ────────────────────────────────────────── */
 .theme-toggle {
+  position: absolute;
+  right: 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.25rem;
-  height: 2.25rem;
+  width: 2rem;
+  height: 2rem;
   border-radius: var(--radius-md);
   border: 1px solid var(--border);
   background: transparent;
-  color: var(--text);
+  color: var(--muted);
   cursor: pointer;
-  font-size: 1rem;
-  transition: background 0.2s ease, border-color 0.2s ease;
-  flex-shrink: 0;
+  font-size: 0.95rem;
+  line-height: 1;
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
   padding: 0;
+  flex-shrink: 0;
 }
 
 .theme-toggle:hover {
   background: var(--surface-strong);
+  color: var(--text);
+  border-color: var(--border);
 }
 
-/* ── Post Feed (Slick & Editorial) ──────────────────────── */
+/* Show/hide icons based on theme */
+.toggle-icon { display: flex; align-items: center; justify-content: center; }
+.toggle-icon--dark  { display: none; }
+
+[data-theme="dark"] .toggle-icon--light { display: none; }
+[data-theme="dark"] .toggle-icon--dark  { display: flex; }
+
+/* ── Scroll-to-top Button ────────────────────────────────── */
+.scroll-top-button {
+  position: fixed;
+  bottom: var(--space-6);
+  right: var(--space-6);
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--muted);
+  font-size: 1rem;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.10), 0 1px 4px rgba(0, 0, 0, 0.06);
+  opacity: 0;
+  transform: translateY(10px) scale(0.9);
+  transition: opacity 0.25s ease, transform 0.25s ease, background 0.18s ease, color 0.18s ease, box-shadow 0.18s ease;
+  pointer-events: none;
+  z-index: 30;
+}
+
+[data-theme="dark"] .scroll-top-button {
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
+}
+
+.scroll-top-button.is-visible {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: auto;
+}
+
+.scroll-top-button:hover {
+  background: var(--surface-strong);
+  color: var(--text);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.14);
+}
+
+/* ── Post Feed ───────────────────────────────────────────── */
 .post-list {
   margin-top: var(--space-6);
 }
@@ -270,7 +347,6 @@ hr {
   position: relative;
   padding: var(--space-5) 0;
   border-bottom: 1px solid var(--border);
-  transition: transform 0.2s ease;
 }
 
 .post-preview:first-child {
@@ -291,12 +367,11 @@ hr {
   color: var(--text);
 }
 
-/* The hover arrow effect */
 .post-preview h2 a::after {
   content: '→';
   display: inline-block;
   opacity: 0;
-  transform: translateX(-10px);
+  transform: translateX(-8px);
   margin-left: var(--space-2);
   color: var(--accent);
   transition: opacity 0.2s ease, transform 0.2s ease;
@@ -308,32 +383,32 @@ hr {
 }
 
 .post-meta {
-  font-family: inherit;
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 0.75rem;
+  font-weight: 700;
   color: var(--muted);
   margin-bottom: var(--space-2);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.06em;
 }
 
 .post-preview p {
   margin: 0;
   color: var(--text);
-  opacity: 0.85;
+  opacity: 0.8;
+  line-height: 1.6;
 }
 
-/* ── Topic Filter (Pill segmented control) ──────────────── */
+/* ── Topic Filter ────────────────────────────────────────── */
 .topic-filter-panel {
   margin: var(--space-6) 0;
 }
 
 .topic-filter-title {
   margin: 0 0 var(--space-3) 0;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   color: var(--muted);
 }
 
@@ -353,12 +428,12 @@ hr {
   background: transparent;
   color: var(--muted);
   padding: var(--space-2) var(--space-4);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
   border-radius: var(--radius-md);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
 }
 
 .topic-filter-button:hover {
@@ -368,18 +443,18 @@ hr {
 .topic-filter-button.active {
   background: var(--bg);
   color: var(--text);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
 }
 
 [data-theme="dark"] .topic-filter-button.active {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
 }
 
 .topic-hidden {
   display: none !important;
 }
 
-/* ── Article Pages ──────────────────────────────────────── */
+/* ── Article Pages ───────────────────────────────────────── */
 article.post {
   margin-top: var(--space-6);
 }
@@ -403,13 +478,12 @@ article.post h1 {
   display: flex;
   align-items: center;
   gap: var(--space-4);
-  background: transparent;
 }
 
 .author-logo {
   width: 48px;
   height: 48px;
-  border-radius: var(--radius-full);
+  border-radius: var(--radius-pill);
   border: 1px solid var(--border);
   padding: 4px;
   background: var(--surface-strong);
@@ -436,7 +510,7 @@ article.post h1 {
   color: var(--accent);
 }
 
-/* ── Footer ─────────────────────────────────────────────── */
+/* ── Footer ──────────────────────────────────────────────── */
 .site-footer {
   margin-top: var(--space-10);
   padding: var(--space-6) 0;
@@ -455,7 +529,7 @@ article.post h1 {
 }
 
 .footer-brand {
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   font-weight: 600;
   color: var(--muted);
   margin: 0;
@@ -471,10 +545,10 @@ article.post h1 {
 }
 
 .footer-links a {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.06em;
   color: var(--muted);
   transition: color 0.2s ease;
 }
@@ -483,7 +557,7 @@ article.post h1 {
   color: var(--text);
 }
 
-/* ── Contact Form ───────────────────────────────────────── */
+/* ── Contact Form ────────────────────────────────────────── */
 .contact-form {
   margin-top: var(--space-6);
   display: flex;
@@ -498,22 +572,24 @@ article.post h1 {
 }
 
 .form-group label {
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 700;
-  color: var(--text);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
 }
 
 .form-group input,
 .form-group textarea {
   width: 100%;
-  padding: var(--space-3);
+  padding: var(--space-3) var(--space-4);
   border-radius: var(--radius-md);
   border: 1px solid var(--border);
   background: var(--surface-strong);
   color: var(--text);
   font-size: 1rem;
   font-family: inherit;
-  transition: all 0.2s ease;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 
 .form-group input:focus,
@@ -531,62 +607,84 @@ article.post h1 {
   border: none;
   background: var(--text);
   color: var(--bg);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-weight: 700;
+  letter-spacing: 0.02em;
   cursor: pointer;
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  transition: opacity 0.2s ease, transform 0.15s ease;
 }
 
 .btn-submit:hover {
-  opacity: 0.9;
+  opacity: 0.85;
   transform: translateY(-1px);
 }
 
-/* ── Mobile Responsive (Slick scroll) ───────────────────── */
+/* ── Glossary ────────────────────────────────────────────── */
+.glossary-term {
+  border-bottom: 1px dashed var(--muted);
+  cursor: help;
+  position: relative;
+}
+
+.glossary-card {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 0;
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-2) var(--space-3);
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--text);
+  width: 220px;
+  z-index: 10;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.glossary-term:hover .glossary-card,
+.glossary-term:focus .glossary-card {
+  display: block;
+}
+
+/* ── Mobile Responsive ───────────────────────────────────── */
 @media (max-width: 640px) {
-  .site-header {
-    padding: var(--space-2) 0;
+  .header-brand {
+    padding: var(--space-3) 0 var(--space-2);
   }
 
-  .header-shell {
-    flex-wrap: wrap;
-    gap: var(--space-3);
-  }
-  
-  .header-left {
-    width: 100%;
-    justify-content: space-between;
-  }
-  
-  .header-right {
-    width: 100%;
-    justify-content: space-between;
-    overflow-x: auto;
-    padding-bottom: 2px; /* Scrollbar clearance */
-    scrollbar-width: none; /* Firefox */
-  }
-  
-  .header-right::-webkit-scrollbar {
-    display: none; /* Chrome/Safari */
+  /* Nav row stays a normal flex row; only the nav scrolls */
+  .header-nav-row {
+    padding: var(--space-1) 0;
+    justify-content: flex-start;
+    gap: var(--space-2);
   }
 
-  /* Make nav horizontally scrollable and prominent */
+  /* Only site-nav scrolls horizontally */
   .site-nav {
-    flex-grow: 1;
+    flex: 1;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    mask-image: linear-gradient(to right, black 85%, transparent 100%);
+    scrollbar-width: none;
+    -webkit-mask-image: linear-gradient(to right, black 80%, transparent 100%);
+    mask-image: linear-gradient(to right, black 80%, transparent 100%);
+  }
+
+  .site-nav::-webkit-scrollbar {
+    display: none;
   }
 
   .site-nav ul {
     width: max-content;
-    padding-right: var(--space-6);
+    padding-right: var(--space-4);
   }
-  
+
+  /* Toggle reverts to static so it stays visible next to scrollable nav */
   .theme-toggle {
-    position: absolute;
-    right: var(--page-gutter);
-    top: auto;
+    position: relative;
+    right: auto;
+    flex-shrink: 0;
   }
 
   h1 { font-size: 1.8rem; }
@@ -596,5 +694,10 @@ article.post h1 {
     flex-direction: column;
     align-items: flex-start;
     gap: var(--space-3);
+  }
+
+  .scroll-top-button {
+    bottom: var(--space-4);
+    right: var(--space-4);
   }
 }
