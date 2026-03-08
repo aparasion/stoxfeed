@@ -2,7 +2,7 @@ name: Daily News Gists
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    - cron: "0 0,6,12,18 * * *"  # 01:00, 07:00, 13:00, 19:00 CET (UTC+1)
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
 jobs:
