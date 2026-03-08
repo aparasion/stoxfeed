@@ -28,6 +28,7 @@ FEEDS = [
     "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
     "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
     "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
+    "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
 ]
 
 SEEN_FILE = "seen.json"
