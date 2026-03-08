@@ -1,6 +1,6 @@
 ---
 title: "Todd Unger: The ten seconds to win or lose a customer"
-date: 2026-03-08T22:48:44Z
+date: 2026-03-05T22:48:44Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
