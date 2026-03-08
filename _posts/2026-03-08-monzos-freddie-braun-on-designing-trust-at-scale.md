@@ -1,6 +1,6 @@
 ---
 title: "Monzo’s Freddie Braun on designing trust at scale"
-date: 2026-03-08T22:49:20Z
+date: 2026-02-19T22:49:20Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
