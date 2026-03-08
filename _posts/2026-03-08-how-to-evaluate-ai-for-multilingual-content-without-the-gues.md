@@ -1,6 +1,6 @@
 ---
 title: "How to evaluate AI for multilingual content without the guesswork"
-date: 2026-03-08T22:49:13Z
+date: 2026-02-24T22:49:13Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
