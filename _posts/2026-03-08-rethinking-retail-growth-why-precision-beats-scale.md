@@ -1,6 +1,6 @@
 ---
 title: "Rethinking retail growth: why precision beats scale"
-date: 2026-03-08T22:48:53Z
+date: 2026-03-03T22:48:53Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
