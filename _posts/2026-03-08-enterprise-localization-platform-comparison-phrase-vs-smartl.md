@@ -1,6 +1,6 @@
 ---
 title: "Enterprise localization platform comparison: Phrase vs Smartling, XTM, Lokalise and more"
-date: 2026-03-08T22:49:00Z
+date: 2026-02-27T22:49:00Z
 layout: post
 categories: [translation]
 tags: [translation, localization, news, gist]
