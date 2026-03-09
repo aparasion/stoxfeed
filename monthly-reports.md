@@ -7,20 +7,7 @@ nav_order: 2
 ---
 
 A curated monthly roundup of the biggest developments across translation, localization, and language technology.
-<br /><br />
-{% assign monthly_posts = site.posts | where_exp: "post", "post.categories contains 'monthly-summary'" %}
-
-<section class="topic-filter-panel" aria-label="Filter monthly reports by topic">
-  <p class="topic-filter-title">Filter by topic:</p>
-  <div class="topic-filter-buttons" role="group" aria-label="Monthly topic filters">
-    <button type="button" class="topic-filter-button active" data-topic-filter="all">All</button>
-    <button type="button" class="topic-filter-button" data-topic-filter="ai">AI</button>
-    <button type="button" class="topic-filter-button" data-topic-filter="lsp">LSP</button>
-    <button type="button" class="topic-filter-button" data-topic-filter="tooling">Tooling</button>
-    <button type="button" class="topic-filter-button" data-topic-filter="policy">Policy</button>
-  </div>
-</section>
-
+<br />
 {% if monthly_posts.size > 0 %}
   <section class="post-list">
   {% for post in monthly_posts %}
