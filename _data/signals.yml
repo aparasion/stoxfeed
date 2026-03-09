@@ -2,7 +2,7 @@
   title: AI quality gap can be reduced with human-in-the-loop validation
   category: quality
   first_seen: 2026-02-04
-  current_status: mixed
+  current_status: supported
   description: Tracks claims that blended AI + human review improves production quality at scale.
 
 - id: governance-in-ai-workflows

@@ -30,11 +30,14 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}    # ← fixed: use correct secret name
 
+      - name: Update signal statuses
+        run: python scripts/update_signal_status.py
+
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add _posts/ seen.json
+          git add _posts/ seen.json _data/signals.yml
           if ! git diff --cached --quiet; then
             git commit -m "Update AI news gists - $(date +%Y-%m-%d)"
             git push
