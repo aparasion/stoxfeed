@@ -6,6 +6,7 @@ import trafilatura
 import time
 import re
 import urllib.request
+import requests as req_lib
 from urllib.parse import urlparse
 from openai import OpenAI
 
@@ -84,6 +85,12 @@ def normalize_url(url: str) -> str:
     return cleaned.split("#", 1)[0].rstrip("/")
 
 
+def strip_html(text: str) -> str:
+    """Remove HTML tags and decode common HTML entities."""
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    return text.replace("&nbsp;", " ").replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+
+
 def fetch_feed(url: str) -> feedparser.FeedParserDict:
     """Fetch a feed URL with a browser-like User-Agent and parse with feedparser.
 
@@ -103,9 +110,31 @@ def fetch_feed(url: str) -> feedparser.FeedParserDict:
         return feedparser.FeedParserDict(entries=[])
 
 
+_BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
 def extract_article_text(url: str) -> str:
-    """Fetch and extract readable article text from a URL."""
+    """Fetch and extract readable article text from a URL.
+
+    Tries trafilatura's built-in fetcher first; falls back to requests with a
+    full browser User-Agent for sites that block trafilatura's default UA.
+    """
     downloaded = trafilatura.fetch_url(url)
+    if not downloaded:
+        try:
+            resp = req_lib.get(url, headers=_BROWSER_HEADERS, timeout=15, allow_redirects=True)
+            if resp.ok:
+                downloaded = resp.text
+        except Exception:
+            pass
     if not downloaded:
         return ""
 
@@ -124,19 +153,27 @@ def resolve_google_news_url(url: str, timeout: int = 10) -> str:
     """Follow the Google News redirect and return the final article URL.
 
     Google News RSS links are redirect wrappers (news.google.com/rss/articles/…)
-    that issue a 301/302 to the real publisher URL. urllib follows redirects
-    automatically, so response.url is the resolved destination.
+    that issue a 301/302 to the real publisher URL. Uses requests (with a browser
+    User-Agent) as the primary resolver since Google sometimes rejects minimal UAs;
+    falls back to urllib on requests failure.
     Falls back to the original URL on any error.
     """
-    try:
-        opener = urllib.request.build_opener()
-        opener.addheaders = [("User-Agent", "Mozilla/5.0")]
-        with opener.open(url, timeout=timeout) as response:
-            final = response.url
-        resolved = normalize_url(final)
-        return resolved if resolved and not is_google_news_url(resolved) else url
-    except Exception:
-        return url
+    for attempt in ("requests", "urllib"):
+        try:
+            if attempt == "requests":
+                resp = req_lib.get(url, headers=_BROWSER_HEADERS, timeout=timeout, allow_redirects=True)
+                final = resp.url
+            else:
+                opener = urllib.request.build_opener()
+                opener.addheaders = [("User-Agent", "Mozilla/5.0")]
+                with opener.open(url, timeout=timeout) as response:
+                    final = response.url
+            resolved = normalize_url(final)
+            if resolved and not is_google_news_url(resolved):
+                return resolved
+        except Exception:
+            continue
+    return url
 
 
 def extract_links_from_html(text: str) -> list[str]:
@@ -306,7 +343,12 @@ def main() -> None:
             if any(c in normalized_seen for c in candidate_urls):
                 continue
 
-            fallback_description = normalize_text(getattr(entry, "description", ""))
+            # entry.summary is feedparser's canonical name for RSS <description>;
+            # fall back to entry.description as alias. Strip HTML so the text is
+            # usable both for quality checks and as GPT input.
+            fallback_raw = getattr(entry, "summary", "") or getattr(entry, "description", "")
+            fallback_description = normalize_text(strip_html(fallback_raw))
+
             extracted_text = ""
             for candidate_url in candidate_urls:
                 extracted_text = extract_article_text(candidate_url)
@@ -326,7 +368,11 @@ def main() -> None:
             elif google_news_source and fallback_description:
                 text = fallback_description
             else:
-                print(f"Skipping low-quality content for {url}")
+                print(
+                    f"Skipping (no usable content): '{getattr(entry, 'title', url)[:70]}' | "
+                    f"extracted={len(extracted_text)}c, fallback={len(fallback_description)}c, "
+                    f"gnews={google_news_source}"
+                )
                 continue
 
             prompt = (
