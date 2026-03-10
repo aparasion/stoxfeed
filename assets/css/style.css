@@ -425,88 +425,89 @@ hr {
   color: #fca5a5;
 }
 
-/* ── Signal Directory ────────────────────────────────────── */
-.signal-directory {
-  margin: var(--space-6) 0 var(--space-8);
-}
-
-.signal-directory__heading {
-  font-size: 1.1rem;
-  font-weight: 700;
-  margin: 0 0 var(--space-4);
-  color: var(--muted);
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  font-size: 0.75rem;
-}
-
-.signal-directory__grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: var(--space-3);
-}
-
-.signal-tile {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-2);
-  padding: var(--space-4);
-  border: 1px solid color-mix(in srgb, var(--muted) 25%, transparent);
-  border-radius: 8px;
-  text-decoration: none;
-  color: var(--text);
-  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
-}
-
-.signal-tile:hover {
-  border-color: var(--accent);
-  box-shadow: 0 2px 12px color-mix(in srgb, var(--accent) 12%, transparent);
-  transform: translateY(-2px);
-}
-
+/* ── Signal Shared ───────────────────────────────────────── */
 .signal-tile__category {
   font-size: 0.65rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--accent);
-}
-
-.signal-tile__title {
-  font-size: 0.95rem;
-  font-weight: 700;
-  line-height: 1.35;
-  flex: 1;
-}
-
-.signal-tile__footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: var(--space-1);
+  flex-shrink: 0;
 }
 
 .signal-tile__count {
   font-size: 0.7rem;
   color: var(--muted);
   font-weight: 600;
+  white-space: nowrap;
 }
 
-/* ── Signal Cards (detail sections) ─────────────────────── */
-.signal-card {
-  padding: var(--space-5) 0;
-  scroll-margin-top: 80px;
+/* ── Signal Accordion ────────────────────────────────────── */
+.signal-accordion-list {
+  margin: var(--space-6) 0;
 }
 
-.signal-card + .signal-card {
+.signal-accordion {
   border-top: 1px solid color-mix(in srgb, var(--muted) 15%, transparent);
 }
 
-.signal-card h2 {
-  margin-top: 0;
-  font-size: 1.3rem;
+.signal-accordion:last-child {
+  border-bottom: 1px solid color-mix(in srgb, var(--muted) 15%, transparent);
 }
 
+.signal-accordion__summary {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-4) 0;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.signal-accordion__summary::-webkit-details-marker {
+  display: none;
+}
+
+.signal-accordion__summary::marker {
+  display: none;
+}
+
+.signal-accordion__summary:hover .signal-accordion__title {
+  color: var(--muted);
+}
+
+.signal-accordion__title {
+  flex: 1;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.signal-accordion__meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-shrink: 0;
+}
+
+.signal-accordion__chevron {
+  font-size: 1rem;
+  color: var(--muted);
+  transition: transform 0.2s ease;
+  display: inline-block;
+  line-height: 1;
+}
+
+details[open] .signal-accordion__chevron {
+  transform: rotate(180deg);
+}
+
+.signal-accordion__body {
+  padding: 0 0 var(--space-5) calc(var(--space-3) + 0.65rem + var(--space-3));
+}
+
+/* ── Signal Cards (shared styles) ───────────────────────── */
 .signal-card__empty {
   color: var(--muted);
   font-style: italic;
@@ -535,8 +536,18 @@ hr {
 }
 
 @media (max-width: 640px) {
-  .signal-directory__grid {
-    grid-template-columns: 1fr;
+  .signal-accordion__summary {
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .signal-accordion__meta {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .signal-accordion__body {
+    padding-left: 0;
   }
 }
 
