@@ -15,6 +15,7 @@ SIGNALS_FILE = "_data/signals.yml"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 FEEDS = [
+    "https://multilingual.com/feed/",
     "https://www.nimdzi.com/feed/",
     "https://slator.com/feed/",
     "https://techcrunch.com/tag/translation/feed/",
