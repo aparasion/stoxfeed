@@ -37,6 +37,15 @@
   --brand-report:   #38bdf8;
 }
 
+[data-theme="gray"] {
+  --bg:             #f0f0f2;
+  --text:           #3a3d47;
+  --muted:          #8b8fa8;
+  --accent:         #8b9fd4;
+  --brand-loc:      #7b8fc9;
+  --brand-report:   #85b5d0;
+}
+
 /* ── Reset ──────────────────────────────────────────────── */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -234,12 +243,92 @@ hr {
   color: var(--text);
 }
 
-/* Show/hide icons based on theme */
-.toggle-icon { display: flex; align-items: center; justify-content: center; }
-.toggle-icon--dark  { display: none; }
+/* ── Theme Menu ─────────────────────────────────────────── */
+.theme-menu {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
 
-[data-theme="dark"] .toggle-icon--light { display: none; }
-[data-theme="dark"] .toggle-icon--dark  { display: flex; }
+.theme-menu-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  padding: 0 var(--space-3);
+  border: none;
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: inherit;
+  line-height: 1;
+  transition: color 0.15s ease;
+}
+
+.theme-menu-trigger:hover {
+  color: var(--text);
+}
+
+.theme-menu-trigger .theme-icon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.theme-menu-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: var(--bg);
+  border: 1.5px solid color-mix(in srgb, var(--muted) 25%, transparent);
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  padding: 6px;
+  min-width: 130px;
+  z-index: 100;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.theme-menu-dropdown.is-open {
+  display: flex;
+}
+
+.theme-option {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 7px 10px;
+  border: none;
+  background: none;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: inherit;
+  font-weight: 500;
+  border-radius: 7px;
+  width: 100%;
+  text-align: left;
+  transition: background 0.12s ease, color 0.12s ease;
+  white-space: nowrap;
+}
+
+.theme-option:hover {
+  background: color-mix(in srgb, var(--muted) 12%, transparent);
+  color: var(--text);
+}
+
+.theme-option.is-active {
+  color: var(--text);
+  font-weight: 700;
+  background: color-mix(in srgb, var(--muted) 10%, transparent);
+}
+
+.theme-option .option-icon {
+  font-size: 0.95rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
 
 /* ── Scroll-to-top Button ────────────────────────────────── */
 .scroll-top-button {
@@ -423,6 +512,31 @@ hr {
 [data-theme="dark"] .stance-badge--contradicts {
   background: #450a0a;
   color: #fca5a5;
+}
+
+/* gray theme badge overrides */
+[data-theme="gray"] .status-badge--supported,
+[data-theme="gray"] .stance-badge--supports {
+  background: #d4ead9;
+  color: #3a7a50;
+}
+
+[data-theme="gray"] .status-badge--mixed,
+[data-theme="gray"] .stance-badge--mixed {
+  background: #f0e8cc;
+  color: #7a6020;
+}
+
+[data-theme="gray"] .status-badge--emerging,
+[data-theme="gray"] .stance-badge--mentions {
+  background: #e2e5ed;
+  color: #5a6070;
+}
+
+[data-theme="gray"] .status-badge--challenged,
+[data-theme="gray"] .stance-badge--contradicts {
+  background: #f0d8d8;
+  color: #8a3030;
 }
 
 /* ── Signal Shared ───────────────────────────────────────── */
