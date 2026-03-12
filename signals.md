@@ -11,7 +11,7 @@ A living tracker of high-impact claims in localization and AI, with linked evide
 <div class="signal-accordion-list">
   {% for signal in site.data.signals %}
     {% assign evidence_posts = site.posts | where_exp: "post", "post.signal_ids contains signal.id" %}
-    <details class="signal-accordion">
+    <details class="signal-accordion" id="{{ signal.id }}">
       <summary class="signal-accordion__summary">
         <span class="signal-tile__category">{{ signal.category }}</span>
         <span class="signal-accordion__title">{{ signal.title }}</span>
