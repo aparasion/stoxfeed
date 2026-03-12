@@ -175,31 +175,6 @@ def generate_digest(posts: list[dict], signals: dict[str, dict], period_label: s
     return response.choices[0].message.content.strip()
 
 
-def send_via_buttondown(subject: str, body: str, api_key: str) -> dict:
-    payload = json.dumps({
-        "subject": subject,
-        "body": body,
-        "status": "draft",
-    }).encode("utf-8")
-
-    req = Request(
-        "https://api.buttondown.com/v1/emails",
-        data=payload,
-        headers={
-            "Authorization": f"Token {api_key}",
-            "Content-Type": "application/json",
-        },
-        method="POST",
-    )
-
-    try:
-        with urlopen(req) as resp:
-            return json.loads(resp.read().decode("utf-8"))
-    except HTTPError as e:
-        error_body = e.read().decode("utf-8") if e.fp else ""
-        print(f"Buttondown API error {e.code}: {error_body}", file=sys.stderr)
-        raise
-
 
 def main():
     parser = argparse.ArgumentParser(description="Generate and send weekly newsletter digest.")
@@ -250,13 +225,17 @@ def main():
         "status": payload_status,
     }).encode("utf-8")
 
+    headers = {
+        "Authorization": f"Token {api_key}",
+        "Content-Type": "application/json",
+    }
+    if args.send:
+        headers["X-Buttondown-Live-Dangerously"] = "true"
+
     req = Request(
         "https://api.buttondown.com/v1/emails",
         data=payload,
-        headers={
-            "Authorization": f"Token {api_key}",
-            "Content-Type": "application/json",
-        },
+        headers=headers,
         method="POST",
     )
 
