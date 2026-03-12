@@ -89,6 +89,13 @@ def normalize_url(url: str) -> str:
     return cleaned.split("#", 1)[0].rstrip("/")
 
 
+def normalize_title(title: str) -> str:
+    """Normalize an article title for deduplication: lowercase, collapse whitespace, strip punctuation."""
+    lowered = (title or "").lower()
+    stripped = re.sub(r"[^a-z0-9\s]", "", lowered)
+    return re.sub(r"\s+", " ", stripped).strip()
+
+
 def strip_html(text: str) -> str:
     """Remove HTML tags and decode common HTML entities."""
     text = re.sub(r"<[^>]+>", " ", text or "")
@@ -373,7 +380,9 @@ def main() -> None:
     else:
         seen = []
 
-    normalized_seen = {normalize_url(url) for url in seen}
+    # Separate URL entries from title entries (title entries use "title::" prefix).
+    normalized_seen = {normalize_url(e) for e in seen if not e.startswith("title::")}
+    seen_titles = {e[len("title::"):] for e in seen if e.startswith("title::")}
     posts = []
     count = 0
 
@@ -398,6 +407,14 @@ def main() -> None:
             # This handles cases where the Google News redirect URL and the
             # resolved article URL are both recorded across runs.
             if any(c in normalized_seen for c in candidate_urls):
+                continue
+
+            # Skip if the same article title has already been published,
+            # even when it arrives from a different source (e.g. gala-global
+            # and slator both carrying the same press release).
+            entry_title_norm = normalize_title(getattr(entry, "title", ""))
+            if entry_title_norm and entry_title_norm in seen_titles:
+                print(f"Skipping duplicate title: '{getattr(entry, 'title', '')[:70]}'")
                 continue
 
             # entry.summary is feedparser's canonical name for RSS <description>;
@@ -540,6 +557,9 @@ signal_confidence: {signal_confidence}
                 if candidate not in normalized_seen:
                     seen.append(candidate)
                     normalized_seen.add(candidate)
+            if entry_title_norm and entry_title_norm not in seen_titles:
+                seen.append(f"title::{entry_title_norm}")
+                seen_titles.add(entry_title_norm)
             count += 1
             time.sleep(2)
 
