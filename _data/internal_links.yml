@@ -2,35 +2,48 @@
 # The JS in default.html converts the first occurrence of each term
 # into an <a> link inside .post-content. Max 3 links per article.
 
+# Generic signal tracker links (keep pointing to /signals/)
 - term: "signal tracker"
   url: "/signals/"
 - term: "localization signals"
   url: "/signals/"
-- term: "translation memory"
-  url: "/signals/#translation-memory-obsolescence"
-- term: "AI governance"
-  url: "/signals/#governance-in-ai-workflows"
-- term: "agentic localization"
-  url: "/signals/#agentic-localization-workflows"
-- term: "agentic workflows"
-  url: "/signals/#agentic-localization-workflows"
+
+# Quality topic
 - term: "quality evaluation"
-  url: "/signals/#measurable-quality-evaluation"
+  url: "/topics/quality/"
 - term: "MQM"
-  url: "/signals/#measurable-quality-evaluation"
+  url: "/topics/quality/"
 - term: "human-in-the-loop"
-  url: "/signals/#quality-gap-closure"
-- term: "post-editing"
-  url: "/signals/#human-post-editing-contraction"
-- term: "MTPE"
-  url: "/signals/#human-post-editing-contraction"
-- term: "localization-first"
-  url: "/signals/#localization-first-content-design"
-- term: "regulatory fragmentation"
-  url: "/signals/#regulatory-fragmentation"
-- term: "EU AI Act"
-  url: "/signals/#regulatory-fragmentation"
+  url: "/topics/quality/"
+
+# Operations topic
+- term: "translation memory"
+  url: "/topics/operations/"
+- term: "agentic localization"
+  url: "/topics/operations/"
+- term: "agentic workflows"
+  url: "/topics/operations/"
 - term: "multimodal localization"
-  url: "/signals/#multimodal-content-localization"
+  url: "/topics/operations/"
+
+# Governance topic
+- term: "AI governance"
+  url: "/topics/governance/"
+- term: "regulatory fragmentation"
+  url: "/topics/governance/"
+- term: "EU AI Act"
+  url: "/topics/governance/"
+
+# Market topic
+- term: "post-editing"
+  url: "/topics/market/"
+- term: "MTPE"
+  url: "/topics/market/"
+
+# Strategy topic
+- term: "localization-first"
+  url: "/topics/strategy/"
+
+# Other internal pages
 - term: "monthly report"
   url: "/monthly-reports/"
