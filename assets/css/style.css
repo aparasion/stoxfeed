@@ -395,6 +395,11 @@ hr {
   padding: var(--space-8) 0 var(--space-6);
   text-align: center;
   overflow: hidden;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .hero::before {
