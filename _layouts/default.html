@@ -314,6 +314,111 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
+  // ── Topics page: client-side filtering ──────────────────
+  var topicsGrid = document.getElementById("topics-post-grid");
+  if (topicsGrid) {
+    var topicPills = document.querySelectorAll(".topic-filter-panel [data-topic]");
+    var allTopicCards = Array.from(topicsGrid.querySelectorAll(".post-card"));
+    var TOPIC_BATCH = 12;
+
+    function resetTopicsAutoload(visibleCards) {
+      // Remove old loader/sentinel
+      var oldLoader = topicsGrid.parentNode.querySelector(".autoload-loader");
+      var oldSentinel = topicsGrid.parentNode.querySelector(".autoload-sentinel");
+      if (oldLoader) oldLoader.remove();
+      if (oldSentinel) oldSentinel.remove();
+
+      if (visibleCards.length > TOPIC_BATCH) {
+        visibleCards.slice(TOPIC_BATCH).forEach(function (p) {
+          p.classList.add("autoload-hidden");
+        });
+
+        var tLoader = document.createElement("div");
+        tLoader.className = "autoload-loader";
+        tLoader.textContent = "Loading more\u2026";
+        topicsGrid.parentNode.insertBefore(tLoader, topicsGrid.nextSibling);
+
+        var tSentinel = document.createElement("div");
+        tSentinel.className = "autoload-sentinel";
+        topicsGrid.parentNode.insertBefore(tSentinel, tLoader.nextSibling);
+
+        var tObserver = new IntersectionObserver(function (entries) {
+          if (entries[0].isIntersecting) {
+            var pending = visibleCards.filter(function (p) {
+              return p.classList.contains("autoload-hidden");
+            });
+            if (pending.length === 0) return;
+
+            tLoader.classList.add("is-active");
+            setTimeout(function () {
+              pending.slice(0, TOPIC_BATCH).forEach(function (p) {
+                p.classList.remove("autoload-hidden");
+                p.style.opacity = "0";
+                p.style.transform = "translateY(16px)";
+                requestAnimationFrame(function () {
+                  p.style.transition = "opacity 0.4s ease, transform 0.4s ease";
+                  p.style.opacity = "1";
+                  p.style.transform = "translateY(0)";
+                });
+              });
+              tLoader.classList.remove("is-active");
+            }, 100);
+          }
+        }, { rootMargin: "300px" });
+
+        tObserver.observe(tSentinel);
+      }
+    }
+
+    function filterTopics(topic) {
+      var visibleCards = [];
+      allTopicCards.forEach(function (card) {
+        card.classList.remove("autoload-hidden");
+        if (topic === "all") {
+          card.style.display = "";
+          visibleCards.push(card);
+        } else {
+          var cardTopics = (card.getAttribute("data-topics") || "").split(/\s+/);
+          if (cardTopics.indexOf(topic) !== -1) {
+            card.style.display = "";
+            visibleCards.push(card);
+          } else {
+            card.style.display = "none";
+          }
+        }
+      });
+      resetTopicsAutoload(visibleCards);
+    }
+
+    topicPills.forEach(function (pill) {
+      pill.addEventListener("click", function (e) {
+        e.preventDefault();
+        topicPills.forEach(function (p) { p.classList.remove("active"); });
+        pill.classList.add("active");
+        var topic = pill.getAttribute("data-topic");
+        filterTopics(topic);
+        // Update URL hash
+        if (topic === "all") {
+          history.replaceState(null, "", window.location.pathname);
+        } else {
+          history.replaceState(null, "", "#" + topic);
+        }
+      });
+    });
+
+    // Check URL hash on load
+    var initialHash = window.location.hash.replace("#", "");
+    if (initialHash && ["quality", "operations", "governance", "market", "strategy"].indexOf(initialHash) !== -1) {
+      topicPills.forEach(function (p) { p.classList.remove("active"); });
+      var matchingPill = document.querySelector('.topic-filter-panel [data-topic="' + initialHash + '"]');
+      if (matchingPill) matchingPill.classList.add("active");
+      filterTopics(initialHash);
+    } else {
+      // Default: show all with autoload
+      filterTopics("all");
+    }
+  }
+
   // ── Glossary annotation ──────────────────────────────────
   var glossaryItems = {{ site.data.glossary | jsonify }};
 

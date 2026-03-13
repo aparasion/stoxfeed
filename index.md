@@ -26,28 +26,115 @@ nav_order: 1
   </div>
 </section>
 
-{% include topic-nav.html %}
+{% comment %}
+  Collect the last 3 unique days that have published content.
+  Posts are already sorted newest-first by Jekyll.
+{% endcomment %}
+{% assign day_count = 0 %}
+{% assign current_day = "" %}
+{% assign day1 = "" %}
+{% assign day2 = "" %}
+{% assign day3 = "" %}
 
-{% assign latest_date = site.posts.first.date | date: "%Y-%m-%d" %}
+{% for post in site.posts %}
+  {% assign post_day = post.date | date: "%Y-%m-%d" %}
+  {% if post_day != current_day %}
+    {% assign current_day = post_day %}
+    {% assign day_count = day_count | plus: 1 %}
+    {% if day_count == 1 %}
+      {% assign day1 = post_day %}
+    {% elsif day_count == 2 %}
+      {% assign day2 = post_day %}
+    {% elsif day_count == 3 %}
+      {% assign day3 = post_day %}
+    {% endif %}
+  {% endif %}
+  {% if day_count > 3 %}{% break %}{% endif %}
+{% endfor %}
 
-<section class="articles-section">
+{% comment %} Day 1: Most recent — featured first article + grid of remaining {% endcomment %}
+{% assign day1_first = true %}
+<section class="day-section">
+  <h2 class="day-header">{{ site.posts.first.date | date: "%B %d, %Y" }}</h2>
 
-  <article class="featured-article reveal">
-    <span class="featured-badge">Latest</span>
-    <h2><a href="{{ site.posts.first.url | relative_url }}">{{ site.posts.first.title }}</a></h2>
-    <p class="post-meta">{{ site.posts.first.date | date: "%B %d, %Y" }}</p>
-    <p>{{ site.posts.first.excerpt | strip_html | truncate: 200 }}</p>
-  </article>
+  {% for post in site.posts %}
+    {% assign post_day = post.date | date: "%Y-%m-%d" %}
+    {% if post_day != day1 %}{% continue %}{% endif %}
 
-  <div class="post-grid reveal-stagger">
-    {% for post in site.posts offset:1 %}
+    {% if day1_first %}
+      {% assign day1_first = false %}
+      <article class="featured-article reveal">
+        <span class="featured-badge">Latest</span>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+      </article>
+
+      <div class="post-grid reveal-stagger">
+    {% else %}
       <article class="post-card">
-        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}{% assign post_date = post.date | date: "%Y-%m-%d" %}{% if post_date == latest_date %}<span class="new-badge">NEW</span>{% endif %}</p>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}<span class="new-badge">NEW</span></p>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <span class="read-more">Read more &rarr;</span>
+      </article>
+    {% endif %}
+  {% endfor %}
+      </div>
+</section>
+
+{% comment %} Day 2 {% endcomment %}
+{% if day2 != "" %}
+<section class="day-section">
+  {% for post in site.posts %}
+    {% assign post_day = post.date | date: "%Y-%m-%d" %}
+    {% if post_day == day2 %}
+      {% assign day2_display = post.date | date: "%B %d, %Y" %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  <h2 class="day-header">{{ day2_display }}</h2>
+  <div class="post-grid reveal-stagger">
+    {% for post in site.posts %}
+      {% assign post_day = post.date | date: "%Y-%m-%d" %}
+      {% if post_day != day2 %}{% continue %}{% endif %}
+      <article class="post-card">
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
         <span class="read-more">Read more &rarr;</span>
       </article>
     {% endfor %}
   </div>
-
 </section>
+{% endif %}
+
+{% comment %} Day 3 {% endcomment %}
+{% if day3 != "" %}
+<section class="day-section">
+  {% for post in site.posts %}
+    {% assign post_day = post.date | date: "%Y-%m-%d" %}
+    {% if post_day == day3 %}
+      {% assign day3_display = post.date | date: "%B %d, %Y" %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  <h2 class="day-header">{{ day3_display }}</h2>
+  <div class="post-grid reveal-stagger">
+    {% for post in site.posts %}
+      {% assign post_day = post.date | date: "%Y-%m-%d" %}
+      {% if post_day != day3 %}{% continue %}{% endif %}
+      <article class="post-card">
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <span class="read-more">Read more &rarr;</span>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<div class="view-all-cta">
+  <a href="/topics/" class="view-all-link">View all articles &rarr;</a>
+</div>

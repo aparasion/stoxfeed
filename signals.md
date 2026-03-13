@@ -3,7 +3,7 @@ layout: page
 title: Signal Tracker
 permalink: /signals/
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 A living tracker of high-impact claims in localization and AI, with linked evidence from published coverage.
