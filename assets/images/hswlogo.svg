@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280">
+  <defs>
+    <linearGradient id="strand1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4DB6AC"/>
+      <stop offset="50%" stop-color="#3D9B94"/>
+      <stop offset="100%" stop-color="#2E7D73"/>
+    </linearGradient>
+    <linearGradient id="strand2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#81C784"/>
+      <stop offset="100%" stop-color="#66BB6A"/>
+    </linearGradient>
+    <linearGradient id="rung" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4DB6AC"/>
+      <stop offset="100%" stop-color="#81C784"/>
+    </linearGradient>
+  </defs>
+  <!-- DNA Double Helix -->
+  <g transform="translate(100,140)">
+    <!-- Left strand -->
+    <path d="M-35,-120 C-35,-80 35,-40 35,0 C35,40 -35,80 -35,120" 
+          fill="none" stroke="url(#strand1)" stroke-width="12" stroke-linecap="round"/>
+    <!-- Right strand -->
+    <path d="M35,-120 C35,-80 -35,-40 -35,0 C-35,40 35,80 35,120" 
+          fill="none" stroke="url(#strand2)" stroke-width="12" stroke-linecap="round"/>
+    <!-- Rungs -->
+    <line x1="-20" y1="-95" x2="20" y2="-95" stroke="url(#rung)" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+    <line x1="-30" y1="-65" x2="30" y2="-65" stroke="url(#rung)" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+    <line x1="-35" y1="-35" x2="35" y2="-35" stroke="url(#rung)" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+    <line x1="-30" y1="35" x2="30" y2="35" stroke="url(#rung)" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+    <line x1="-35" y1="65" x2="35" y2="65" stroke="url(#rung)" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+    <line x1="-20" y1="95" x2="20" y2="95" stroke="url(#rung)" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+  </g>
+</svg>

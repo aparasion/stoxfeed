@@ -1,69 +1,69 @@
-- id: quality-gap-closure
-  title: AI quality gap can be reduced with human-in-the-loop validation
-  category: quality
-  first_seen: 2026-02-04
-  current_status: supported
-  description: Tracks claims that blended AI + human review improves production quality at scale.
-
-- id: governance-in-ai-workflows
-  title: Translation governance is moving into AI assistant and platform workflows
-  category: governance
-  first_seen: 2026-02-04
-  current_status: supported
-  description: Tracks evidence of auditable controls, policy enforcement, and review workflows in AI localization stacks.
-
-- id: localization-operating-system
-  title: End-to-end AI localization operating systems are replacing point tools
-  category: operations
-  first_seen: 2026-02-16
-  current_status: supported
-  description: Tracks platform-level offerings that unify workflow, quality, and cost visibility.
-
-- id: measurable-quality-evaluation
-  title: MQM-style quality evaluation is becoming API-native and operationalized
-  category: quality
-  first_seen: 2026-02-17
-  current_status: supported
-  description: Tracks whether formal quality evaluation is integrated directly into enterprise workflows.
-
-- id: translation-memory-obsolescence
-  title: Traditional TM architectures are being displaced by LLM-native approaches
-  category: operations
-  first_seen: 2026-03-09
+- id: senolytic-clinical-validation
+  title: Senolytic therapies are showing clinical efficacy in human trials
+  category: therapeutics
+  first_seen: 2026-03-14
   current_status: emerging
-  description: Tracks evidence that LLM-based translation is reducing reliance on segment-level TM matching, challenging incumbent CAT tool architectures.
+  description: Tracks evidence that drugs targeting senescent cells (senolytics like dasatinib+quercetin, fisetin) are demonstrating measurable benefits in human clinical trials.
 
-- id: human-post-editing-contraction
-  title: MTPE volume is declining in high-resource language pairs
-  category: market
-  first_seen: 2026-03-09
-  current_status: supported
-  description: Tracks whether AI quality improvements are reducing demand for human post-editing, reshaping translator employment and rate structures.
-
-- id: agentic-localization-workflows
-  title: AI agents are autonomously managing end-to-end localization pipelines
-  category: operations
-  first_seen: 2026-03-09
+- id: rapamycin-healthspan-extension
+  title: mTOR inhibition is extending healthspan in clinical settings
+  category: therapeutics
+  first_seen: 2026-03-14
   current_status: emerging
-  description: Tracks emergence of autonomous AI agents that trigger, route, review, and publish localized content with minimal human handoffs.
+  description: Tracks clinical and preclinical evidence that rapamycin and rapalogs improve age-related outcomes and extend healthy lifespan.
 
-- id: multimodal-content-localization
-  title: Localization scope is expanding beyond text to video, audio, and interactive content
-  category: operations
-  first_seen: 2026-03-09
-  current_status: challenged
-  description: Tracks whether tooling and business models are adapting as localization expands to dubbing, subtitling, image, and interactive content at scale.
-
-- id: regulatory-fragmentation
-  title: Diverging regional AI and language regulations are creating compliance complexity
-  category: governance
-  first_seen: 2026-03-09
+- id: epigenetic-clock-adoption
+  title: Epigenetic clocks are becoming standard biological age measures
+  category: biomarkers
+  first_seen: 2026-03-14
   current_status: supported
-  description: Tracks how different national and regional AI regulations (EU AI Act, etc.) impose language-related compliance requirements that localizers must navigate.
+  description: Tracks adoption of DNA methylation-based aging clocks (Horvath, GrimAge, DunedinPACE) as validated biomarkers in research and clinical practice.
 
-- id: localization-first-content-design
-  title: Organizations are designing content with localization built in from the start
-  category: strategy
-  first_seen: 2026-03-09
+- id: blood-biomarker-panels
+  title: Multi-omic blood panels are enabling personalized aging assessments
+  category: biomarkers
+  first_seen: 2026-03-14
   current_status: emerging
-  description: Tracks evidence that content is being created locale-aware from the start — transcreation briefs, structured content, internationalized UX — rather than localization being a downstream afterthought.
+  description: Tracks whether composite blood biomarker panels (proteomics, metabolomics) are being validated for predicting biological age and disease risk.
+
+- id: caloric-restriction-mimetics
+  title: Caloric restriction mimetics are advancing toward clinical use
+  category: nutrition
+  first_seen: 2026-03-14
+  current_status: emerging
+  description: Tracks compounds that mimic fasting or caloric restriction benefits (metformin, spermidine, NAD+ precursors) moving through trials and adoption.
+
+- id: gut-microbiome-aging
+  title: Microbiome composition is linked to aging trajectories
+  category: nutrition
+  first_seen: 2026-03-14
+  current_status: supported
+  description: Tracks research connecting gut microbiome diversity and specific microbial signatures to healthspan, inflammaging, and age-related disease.
+
+- id: ai-drug-discovery-aging
+  title: AI is accelerating drug discovery for age-related diseases
+  category: technology
+  first_seen: 2026-03-14
+  current_status: supported
+  description: Tracks how machine learning and AI platforms are identifying novel longevity drug candidates, repurposing existing drugs, and shortening development timelines.
+
+- id: gene-therapy-aging
+  title: Gene therapies targeting aging pathways are entering clinical development
+  category: technology
+  first_seen: 2026-03-14
+  current_status: emerging
+  description: Tracks gene therapy approaches (telomerase activation, Yamanaka factors, CRISPR-based interventions) aimed at reversing or slowing biological aging.
+
+- id: longevity-regulatory-frameworks
+  title: Regulatory bodies are beginning to recognize aging as a treatable condition
+  category: policy
+  first_seen: 2026-03-14
+  current_status: emerging
+  description: Tracks regulatory developments (FDA, EMA) around classifying aging as an indication and creating pathways for longevity therapeutics approval.
+
+- id: longevity-funding-surge
+  title: Venture capital and public funding for longevity research is accelerating
+  category: policy
+  first_seen: 2026-03-14
+  current_status: supported
+  description: Tracks investment trends in longevity biotech, including VC rounds, government grants, and corporate R&D commitments to aging research.

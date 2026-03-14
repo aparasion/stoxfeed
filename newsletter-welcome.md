@@ -5,12 +5,12 @@ permalink: /newsletter/welcome/
 nav: false
 ---
 
-Your subscription is confirmed — welcome to LocReport.
+Your subscription is confirmed — welcome to HealthspanWire.
 
 **Here's what to expect:**
 
-- A **weekly digest** every Monday with the top stories and signal shifts from the localization and language technology industry.
-- A **monthly report** with our editorial take on the trends shaping the sector.
+- A **weekly digest** every Monday with the top stories and signal shifts from longevity science and healthspan research.
+- A **monthly report** with our editorial take on the trends shaping the field.
 
 While you wait for the first issue, catch up on what you've missed:
 

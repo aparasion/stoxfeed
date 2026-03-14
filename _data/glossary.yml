@@ -1,10 +1,10 @@
-- term: LSP
-  definition: Language Service Provider, a company offering translation, localization, and related language operations services.
-- term: TM
-  definition: Translation Memory, a database that stores previously translated segments for reuse.
-- term: MTPE
-  definition: Machine Translation Post-Editing, where human linguists revise machine-generated translation.
-- term: QA
-  definition: Quality Assurance checks that verify linguistic accuracy, consistency, and formatting.
-- term: NLP
-  definition: Natural Language Processing, AI methods for understanding and generating human language.
+- term: NAD+
+  definition: Nicotinamide adenine dinucleotide, a coenzyme critical for cellular energy metabolism that declines with age. NAD+ precursors like NMN and NR are studied as longevity interventions.
+- term: mTOR
+  definition: Mechanistic target of rapamycin, a key nutrient-sensing pathway that regulates cell growth and aging. Inhibiting mTOR (e.g., with rapamycin) has shown lifespan extension in multiple organisms.
+- term: Senolytic
+  definition: A class of drugs that selectively eliminate senescent (aged, dysfunctional) cells to reduce inflammation and improve tissue function.
+- term: Epigenetic clock
+  definition: A biomarker based on DNA methylation patterns that estimates biological age, often more predictive of health outcomes than chronological age.
+- term: Healthspan
+  definition: The period of life spent in good health, free from chronic diseases and disability associated with aging.

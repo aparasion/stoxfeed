@@ -1,21 +1,21 @@
-# LocReport
-> Daily localization and translation industry intelligence
+# HealthspanWire
+> Daily longevity science and healthspan research intelligence
 
-LocReport is an independent publication tracking the language services industry.
-We cover AI translation, localization platforms, quality evaluation, regulatory
-developments, and market shifts affecting global communication professionals.
+HealthspanWire is an independent publication tracking the frontiers of longevity
+science. We cover aging biology, longevity therapeutics, biomarkers, nutrition
+science, gene therapy, and the technologies extending human healthspan.
 
 ## Key Resources
-- Signal Tracker: /signals/ — 10 tracked industry signals with evidence
+- Signal Tracker: /signals/ — 10 tracked research signals with evidence
 - Monthly Reports: /monthly-reports/ — editorial synthesis of monthly trends
 - Daily Coverage: / — curated news with professional analysis
 - Newsletter: /newsletter/ — weekly digest and signal alerts
 
 ## Topics Covered
-Translation management, machine translation, post-editing (MTPE), AI agents in
-localization, quality evaluation (MQM, COMET), TMS platforms, language regulation,
-localization-first design, multimodal content localization, LSP market dynamics.
+Senolytic therapies, rapamycin, epigenetic clocks, biological age biomarkers,
+caloric restriction mimetics, NAD+ precursors, gut microbiome aging, AI drug
+discovery, gene therapy, CRISPR, longevity regulatory frameworks, funding trends.
 
 ## Audience
-Localization managers, language technology professionals, translation service
-providers, enterprise globalization teams, and language industry analysts.
+Longevity researchers, biotech professionals, aging biology scientists,
+healthspan clinicians, biotech investors, and longevity industry analysts.

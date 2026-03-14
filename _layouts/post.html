@@ -58,7 +58,7 @@ layout: default
 
   {% if related.size > 0 %}
   <nav class="related-articles" aria-label="Related articles">
-    <h3>Related on LocReport</h3>
+    <h3>Related on HealthspanWire</h3>
     <ul>
       {% for post in related limit:5 %}
       <li>
@@ -71,9 +71,9 @@ layout: default
   {% endif %}
 
   <footer class="post-author-footer" aria-label="Author information">
-    <img src="{{ '/assets/images/LR_logo_AI.png' | relative_url }}" alt="LocReport logo" class="author-logo" loading="lazy">
+    <img src="{{ '/assets/images/hswlogo.svg' | relative_url }}" alt="HealthspanWire logo" class="author-logo" loading="lazy">
     <div class="author-info">
-      <p class="author-name">Author: LocReport</p>
+      <p class="author-name">Author: HealthspanWire</p>
       <a href="{{ '/contact/' | relative_url }}" class="author-contact-link">Contact</a>
     </div>
   </footer>

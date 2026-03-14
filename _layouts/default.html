@@ -8,7 +8,7 @@
   {% endif %}
   {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
   {% assign seo_description = seo_description | truncate: 160 %}
-  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/logolocreport.png' %}
+  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/hswlogo.png' %}
   {% assign seo_image_url = seo_image | absolute_url %}
   {% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
 
@@ -16,7 +16,7 @@
   <meta name="description" content="{{ seo_description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-  <meta name="author" content="{{ site.author | default: 'LocReport' }}">
+  <meta name="author" content="{{ site.author | default: 'HealthspanWire' }}">
   <link rel="canonical" href="{{ canonical_url }}">
 
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
@@ -78,14 +78,14 @@
     "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
     "author": {
       "@type": "Organization",
-      "name": {{ site.author | default: 'LocReport' | jsonify }}
+      "name": {{ site.author | default: 'HealthspanWire' | jsonify }}
     },
     "publisher": {
       "@type": "Organization",
       "name": {{ site.title | jsonify }},
       "logo": {
         "@type": "ImageObject",
-        "url": {{ site.social_image | default: '/assets/images/logolocreport.png' | absolute_url | jsonify }}
+        "url": {{ site.social_image | default: '/assets/images/hswlogo.png' | absolute_url | jsonify }}
       }
     }{% endif %}
   }
@@ -104,7 +104,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -120,59 +120,8 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  var root = document.documentElement;
   var scrollTopButton = document.getElementById("scroll-top-button");
   var topicFilterPanels = document.querySelectorAll(".topic-filter-panel");
-
-  // ── Theme menu ───────────────────────────────────────────
-  var themeMenu       = document.getElementById("theme-menu");
-  var menuTrigger     = document.getElementById("theme-menu-trigger");
-  var menuDropdown    = document.getElementById("theme-menu-dropdown");
-  var currentIcon     = document.getElementById("theme-current-icon");
-  var themeOptions    = menuDropdown ? menuDropdown.querySelectorAll(".theme-option") : [];
-
-  var THEME_ICONS = { light: "\u2606", gray: "\u25D1", dark: "\u25D7" };
-
-  function applyTheme(theme) {
-    root.setAttribute("data-theme", theme);
-    localStorage.setItem("theme", theme);
-    if (currentIcon) currentIcon.textContent = THEME_ICONS[theme] || THEME_ICONS.light;
-    themeOptions.forEach(function (btn) {
-      btn.classList.toggle("is-active", btn.dataset.themeValue === theme);
-    });
-  }
-
-  var savedTheme = localStorage.getItem("theme") || "light";
-  applyTheme(savedTheme);
-
-  function closeMenu() {
-    if (!menuDropdown) return;
-    menuDropdown.classList.remove("is-open");
-    if (menuTrigger) menuTrigger.setAttribute("aria-expanded", "false");
-  }
-
-  if (menuTrigger && menuDropdown) {
-    menuTrigger.addEventListener("click", function (e) {
-      e.stopPropagation();
-      var isOpen = menuDropdown.classList.toggle("is-open");
-      menuTrigger.setAttribute("aria-expanded", isOpen ? "true" : "false");
-    });
-
-    themeOptions.forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        applyTheme(btn.dataset.themeValue);
-        closeMenu();
-      });
-    });
-
-    document.addEventListener("click", function (e) {
-      if (themeMenu && !themeMenu.contains(e.target)) closeMenu();
-    });
-
-    document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape") closeMenu();
-    });
-  }
 
   // ── Hamburger nav toggle ─────────────────────────────────
   var navToggle = document.getElementById("nav-toggle");
@@ -226,7 +175,6 @@ document.addEventListener("DOMContentLoaded", function () {
   // ── Autoload / Infinite scroll ───────────────────────────
   var AUTOLOAD_BATCH = 12;
 
-  // Handle post-grid autoload
   var postGrid = document.querySelector(".post-grid");
   if (postGrid) {
     var postCards = Array.from(postGrid.querySelectorAll(".post-card"));
@@ -322,7 +270,6 @@ document.addEventListener("DOMContentLoaded", function () {
     var TOPIC_BATCH = 12;
 
     function resetTopicsAutoload(visibleCards) {
-      // Remove old loader/sentinel
       var oldLoader = topicsGrid.parentNode.querySelector(".autoload-loader");
       var oldSentinel = topicsGrid.parentNode.querySelector(".autoload-sentinel");
       if (oldLoader) oldLoader.remove();
@@ -397,7 +344,6 @@ document.addEventListener("DOMContentLoaded", function () {
         pill.classList.add("active");
         var topic = pill.getAttribute("data-topic");
         filterTopics(topic);
-        // Update URL hash
         if (topic === "all") {
           history.replaceState(null, "", window.location.pathname);
         } else {
@@ -406,15 +352,13 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
 
-    // Check URL hash on load
     var initialHash = window.location.hash.replace("#", "");
-    if (initialHash && ["quality", "operations", "governance", "market", "strategy"].indexOf(initialHash) !== -1) {
+    if (initialHash && ["therapeutics", "biomarkers", "nutrition", "technology", "policy"].indexOf(initialHash) !== -1) {
       topicPills.forEach(function (p) { p.classList.remove("active"); });
       var matchingPill = document.querySelector('.topic-filter-panel [data-topic="' + initialHash + '"]');
       if (matchingPill) matchingPill.classList.add("active");
       filterTopics(initialHash);
     } else {
-      // Default: show all with autoload
       filterTopics("all");
     }
   }

@@ -4,7 +4,7 @@ title: Topics
 permalink: /topics/
 nav: true
 nav_order: 2
-description: "Browse all localization industry articles by topic — quality, operations, governance, market dynamics, and strategy."
+description: "Browse all longevity and healthspan articles by topic — therapeutics, biomarkers, nutrition, technology, and policy."
 ---
 
 <section class="topics-hero">
@@ -15,11 +15,11 @@ description: "Browse all localization industry articles by topic — quality, op
 <section class="topic-filter-panel" aria-label="Filter by topic">
   <div class="topic-filter-buttons" role="group" aria-label="Topic filters">
     <button class="topic-pill active" data-topic="all">All</button>
-    <button class="topic-pill" data-topic="quality">Quality</button>
-    <button class="topic-pill" data-topic="operations">Operations</button>
-    <button class="topic-pill" data-topic="governance">Governance</button>
-    <button class="topic-pill" data-topic="market">Market</button>
-    <button class="topic-pill" data-topic="strategy">Strategy</button>
+    <button class="topic-pill" data-topic="therapeutics">Therapeutics</button>
+    <button class="topic-pill" data-topic="biomarkers">Biomarkers</button>
+    <button class="topic-pill" data-topic="nutrition">Nutrition</button>
+    <button class="topic-pill" data-topic="technology">Technology</button>
+    <button class="topic-pill" data-topic="policy">Policy</button>
   </div>
 </section>
 
@@ -28,20 +28,20 @@ description: "Browse all localization industry articles by topic — quality, op
   We compute topic assignments at build time and store as data-topics attribute.
 {% endcomment %}
 
-{% assign quality_signals = "quality-gap-closure,measurable-quality-evaluation" | split: "," %}
-{% assign quality_keywords = "mqm,mtpe,post-edit,linguistic quality,quality assurance,quality evaluation,lqa" | split: "," %}
+{% assign therapeutics_signals = "senolytic-clinical-validation,rapamycin-healthspan-extension" | split: "," %}
+{% assign therapeutics_keywords = "senolytic,rapamycin,dasatinib,quercetin,fisetin,anti-aging drug,longevity therapeutic,age-related disease,clinical trial,drug candidate" | split: "," %}
 
-{% assign ops_signals = "localization-operating-system,translation-memory-obsolescence,agentic-localization-workflows,multimodal-content-localization" | split: "," %}
-{% assign ops_keywords = "translation memory,tms,cat tool,localization platform,dubbing,subtitl,agentic,ai agent" | split: "," %}
+{% assign biomarkers_signals = "epigenetic-clock-adoption,blood-biomarker-panels" | split: "," %}
+{% assign biomarkers_keywords = "epigenetic clock,biological age,dna methylation,horvath,grimace,dunedinpace,biomarker,proteomics,metabolomics,aging clock" | split: "," %}
 
-{% assign gov_signals = "governance-in-ai-workflows,regulatory-fragmentation" | split: "," %}
-{% assign gov_keywords = "eu ai act,ai regulation,compliance requirement,language law,ai governance,guardrail" | split: "," %}
+{% assign nutrition_signals = "caloric-restriction-mimetics,gut-microbiome-aging" | split: "," %}
+{% assign nutrition_keywords = "caloric restriction,intermittent fasting,nad+,nmn,nicotinamide,spermidine,microbiome,diet,nutrition,metformin,resveratrol" | split: "," %}
 
-{% assign market_signals = "human-post-editing-contraction" | split: "," %}
-{% assign market_keywords = "freelance translator,translator demand,post-editor,language services market,translation rates" | split: "," %}
+{% assign tech_signals = "ai-drug-discovery-aging,gene-therapy-aging" | split: "," %}
+{% assign tech_keywords = "gene therapy,crispr,ai drug discovery,machine learning,yamanaka,telomerase,reprogramming,computational biology,wearable" | split: "," %}
 
-{% assign strategy_signals = "localization-first-content-design" | split: "," %}
-{% assign strategy_keywords = "internationalization,i18n,locale-aware,transcreation,localization-first" | split: "," %}
+{% assign policy_signals = "longevity-regulatory-frameworks,longevity-funding-surge" | split: "," %}
+{% assign policy_keywords = "fda aging,regulatory,funding,venture capital,investment,government grant,clinical pathway,policy,nih,aging research funding" | split: "," %}
 
 <section class="articles-section">
   <div class="post-grid" id="topics-post-grid">
@@ -50,35 +50,35 @@ description: "Browse all localization industry articles by topic — quality, op
       {% assign signal_ids_str = post.signal_ids | join: ',' | downcase %}
       {% assign source_text = post.title | append: ' ' | append: post.excerpt | downcase %}
 
-      {% comment %} Quality {% endcomment %}
+      {% comment %} Therapeutics {% endcomment %}
       {% assign match = false %}
-      {% for sid in quality_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in quality_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "quality " %}{% endif %}
+      {% for sid in therapeutics_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in therapeutics_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "therapeutics " %}{% endif %}
 
-      {% comment %} Operations {% endcomment %}
+      {% comment %} Biomarkers {% endcomment %}
       {% assign match = false %}
-      {% for sid in ops_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in ops_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "operations " %}{% endif %}
+      {% for sid in biomarkers_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in biomarkers_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "biomarkers " %}{% endif %}
 
-      {% comment %} Governance {% endcomment %}
+      {% comment %} Nutrition {% endcomment %}
       {% assign match = false %}
-      {% for sid in gov_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in gov_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "governance " %}{% endif %}
+      {% for sid in nutrition_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in nutrition_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "nutrition " %}{% endif %}
 
-      {% comment %} Market {% endcomment %}
+      {% comment %} Technology {% endcomment %}
       {% assign match = false %}
-      {% for sid in market_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in market_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "market " %}{% endif %}
+      {% for sid in tech_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in tech_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "technology " %}{% endif %}
 
-      {% comment %} Strategy {% endcomment %}
+      {% comment %} Policy {% endcomment %}
       {% assign match = false %}
-      {% for sid in strategy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in strategy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "strategy " %}{% endif %}
+      {% for sid in policy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in policy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "policy " %}{% endif %}
 
       {% assign topics_trimmed = topics_list | strip %}
 

@@ -1,48 +1,48 @@
-# Internal link keywords — maps industry terms to internal pages.
+# Internal link keywords — maps longevity terms to internal pages.
 # The JS in default.html converts the first occurrence of each term
 # into an <a> link inside .post-content. Max 3 links per article.
 
-# Generic signal tracker links (keep pointing to /signals/)
+# Generic signal tracker links
 - term: "signal tracker"
   url: "/signals/"
-- term: "localization signals"
+- term: "longevity signals"
   url: "/signals/"
 
-# Quality topic
-- term: "quality evaluation"
-  url: "/topics/quality/"
-- term: "MQM"
-  url: "/topics/quality/"
-- term: "human-in-the-loop"
-  url: "/topics/quality/"
+# Therapeutics topic
+- term: "senolytic"
+  url: "/topics/therapeutics/"
+- term: "rapamycin"
+  url: "/topics/therapeutics/"
+- term: "dasatinib"
+  url: "/topics/therapeutics/"
 
-# Operations topic
-- term: "translation memory"
-  url: "/topics/operations/"
-- term: "agentic localization"
-  url: "/topics/operations/"
-- term: "agentic workflows"
-  url: "/topics/operations/"
-- term: "multimodal localization"
-  url: "/topics/operations/"
+# Biomarkers topic
+- term: "epigenetic clock"
+  url: "/topics/biomarkers/"
+- term: "biological age"
+  url: "/topics/biomarkers/"
+- term: "DNA methylation"
+  url: "/topics/biomarkers/"
 
-# Governance topic
-- term: "AI governance"
-  url: "/topics/governance/"
-- term: "regulatory fragmentation"
-  url: "/topics/governance/"
-- term: "EU AI Act"
-  url: "/topics/governance/"
+# Nutrition topic
+- term: "caloric restriction"
+  url: "/topics/nutrition/"
+- term: "intermittent fasting"
+  url: "/topics/nutrition/"
+- term: "gut microbiome"
+  url: "/topics/nutrition/"
 
-# Market topic
-- term: "post-editing"
-  url: "/topics/market/"
-- term: "MTPE"
-  url: "/topics/market/"
+# Technology topic
+- term: "gene therapy"
+  url: "/topics/technology/"
+- term: "AI drug discovery"
+  url: "/topics/technology/"
 
-# Strategy topic
-- term: "localization-first"
-  url: "/topics/strategy/"
+# Policy topic
+- term: "FDA aging"
+  url: "/topics/policy/"
+- term: "longevity funding"
+  url: "/topics/policy/"
 
 # Other internal pages
 - term: "monthly report"

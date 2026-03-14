@@ -23,9 +23,9 @@ from openai import OpenAI
 
 POSTS_DIR = Path("_posts")
 SIGNALS_DATA_FILE = Path("_data/signals.yml")
-SITE_URL = "https://locreport.com"
+SITE_URL = "https://healthspanwire.com"
 
-SYSTEM_PROMPT = """You are the editor of LocReport, a localization and translation industry newsletter. Write a concise, engaging weekly digest email.
+SYSTEM_PROMPT = """You are the editor of HealthspanWire, a longevity science and healthspan research newsletter. Write a concise, engaging weekly digest email.
 
 Format (200–350 words, markdown):
 - Open with a 1–2 sentence editorial hook summarizing the week's theme.
@@ -128,7 +128,6 @@ def build_signal_summary(posts: list[dict], signals: dict[str, dict]) -> str:
         ids_raw = post.get("signal_ids", "")
         if not ids_raw:
             continue
-        # Parse [id1, id2] format
         ids = [s.strip().strip('"').strip("'") for s in ids_raw.strip("[]").split(",") if s.strip()]
         stance = post.get("signal_stance", "mentions")
         for sid in ids:
@@ -199,7 +198,7 @@ def main():
     print("Generating digest with OpenAI...")
     digest = generate_digest(posts, signals, period_label)
 
-    subject = f"LocReport Weekly: {period_label}"
+    subject = f"HealthspanWire Weekly: {period_label}"
 
     if args.dry_run:
         print("\n--- DRY RUN ---")
@@ -214,7 +213,6 @@ def main():
         sys.exit(1)
 
     if args.send:
-        # Override status to send immediately
         payload_status = "about_to_send"
     else:
         payload_status = "draft"

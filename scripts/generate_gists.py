@@ -15,47 +15,11 @@ SIGNALS_FILE = "_data/signals.yml"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 FEEDS = [
-    "https://multilingual.com/feed/",
-    "https://www.nimdzi.com/feed/",
-    "https://slator.com/feed/",
-    "https://techcrunch.com/tag/translation/feed/",
-    "https://techcrunch.com/tag/ai-translation/feed/",
-    "https://techcrunch.com/tag/machine-translation/feed/",
-    "https://techcrunch.com/tag/localization/feed/",
-    "https://techcrunch.com/tag/translate/feed/",
-    "https://techcrunch.com/tag/translations/feed/",
-    "https://www.atanet.org/news/industry-news/feed/",
-    "https://elia-association.org/news/feed/",
-    "https://news.google.com/rss/search?q=%22translation+company%22+acquisition+when:90d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22localization+platform%22+when:90d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22machine+translation+startup%22+when:90d&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=%22localization+industry%22+OR+%22translation+services%22+OR+%22LSP%22+OR+%22machine+translation%22+-DNA+-biological+when:90d&hl=en-US&gl=US&ceid=US:en",
-    "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
-    "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
-    "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
-    "https://xtm.ai/blog/rss.xml",
-    "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
-    "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
-    "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
-    "https://www.deepl.com/en/blog/rss.xml",
-    "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
-    "https://www.languageline.com/blog/rss.xml",
-    "https://www.smartling.com/company-news/rss.xml",
-    "https://en-gb.thebigword.com/news-and-blogs/feed/",
-    "https://www.vistatec.com/news-blog/feed/",
-    "https://sorenson.com/company/blog/feed/",
-    "https://propio.com/blogs/feed/",
-    "https://www.publicisgroupeuk.com/news-and-views/feed",
-    "https://www.helloglobo.com/blog-old/rss.xml",
-    "https://datawords.com/our-news/feed/",
-    "https://www.cqfluency.com/who-we-are/news/feed/",
-    "https://www.cqfluency.com/cqpedia-cultural-intelligence-encyclopedia/feed/",
-    "https://www.ecinnovations.com/blog/feed/",
-"https://multilingual.com/author/multilingualstaff/feed/",
+    "https://longevity.technology/feed/",
 ]
 
 SEEN_FILE = "seen.json"
-YOUR_AREA = "Translation"
+YOUR_AREA = "Longevity"
 MAX_ARTICLES = 18
 MIN_ARTICLE_CHARS = 500
 MIN_ARTICLE_WORDS = 90
@@ -76,7 +40,7 @@ def yaml_escape(text: str) -> str:
 
 
 def get_publisher_domain(url: str) -> str:
-    """Extract clean domain name from URL (e.g. 'distractify.com')"""
+    """Extract clean domain name from URL (e.g. 'longevity.technology')"""
     try:
         parsed = urlparse(url)
         domain = parsed.netloc.lower()
@@ -116,11 +80,7 @@ def strip_html(text: str) -> str:
 
 
 def fetch_feed(url: str) -> feedparser.FeedParserDict:
-    """Fetch a feed URL with a browser-like User-Agent and parse with feedparser.
-
-    Using urllib to pre-fetch allows sites that block feedparser's default
-    User-Agent (e.g. returning 403) to be reached normally.
-    """
+    """Fetch a feed URL with a browser-like User-Agent and parse with feedparser."""
     try:
         req = urllib.request.Request(
             url,
@@ -146,11 +106,7 @@ _BROWSER_HEADERS = {
 
 
 def extract_article_text(url: str) -> str:
-    """Fetch and extract readable article text from a URL.
-
-    Tries trafilatura's built-in fetcher first; falls back to requests with a
-    full browser User-Agent for sites that block trafilatura's default UA.
-    """
+    """Fetch and extract readable article text from a URL."""
     downloaded = trafilatura.fetch_url(url)
     if not downloaded:
         try:
@@ -174,14 +130,7 @@ def is_google_news_url(url: str) -> bool:
 
 
 def resolve_google_news_url(url: str, timeout: int = 10) -> str:
-    """Follow the Google News redirect and return the final article URL.
-
-    Google News RSS links are redirect wrappers (news.google.com/rss/articles/…)
-    that issue a 301/302 to the real publisher URL. Uses requests (with a browser
-    User-Agent) as the primary resolver since Google sometimes rejects minimal UAs;
-    falls back to urllib on requests failure.
-    Falls back to the original URL on any error.
-    """
+    """Follow the Google News redirect and return the final article URL."""
     for attempt in ("requests", "urllib"):
         try:
             if attempt == "requests":
@@ -214,18 +163,15 @@ def candidate_urls_for_entry(entry) -> list[str]:
         candidates.append(primary_link)
 
     if primary_link and is_google_news_url(primary_link):
-        # 1. Follow the redirect — most reliable, works for any Google News link.
         resolved = resolve_google_news_url(primary_link)
         if resolved and resolved != primary_link:
             candidates.append(resolved)
         else:
-            # 2. Fallback: source.href embedded in the feed XML.
             source = getattr(entry, "source", None)
             source_href = normalize_url(getattr(source, "href", "")) if source else ""
             if source_href:
                 candidates.append(source_href)
 
-            # 3. Fallback: links scraped from the summary HTML.
             summary_html = getattr(entry, "summary", "") or getattr(entry, "description", "")
             for link in extract_links_from_html(summary_html):
                 normalized = normalize_url(link)
@@ -312,68 +258,61 @@ def parse_signal_titles_from_yaml(path: str) -> dict[str, str]:
 SIGNAL_TITLES = parse_signal_titles_from_yaml(SIGNALS_FILE)
 
 SIGNAL_KEYWORDS = {
-    # category: quality
-    "quality-gap-closure": [
-        "human-in-the-loop", "HITL", "human review", "post-editing quality",
-        "quality validation", "MQM", "LQA", "linguistic quality",
-        "quality assurance", "human evaluator", "error annotation",
+    # category: therapeutics
+    "senolytic-clinical-validation": [
+        "senolytic", "senescent cell", "dasatinib", "quercetin", "fisetin",
+        "unity biotechnology", "senescence", "senostatic", "clearance of senescent",
+        "zombie cell", "senescent cell elimination",
     ],
-    # category: quality
-    "measurable-quality-evaluation": [
-        "MQM", "COMET", "BLEU", "quality metric", "evaluation benchmark",
-        "quality score", "quality assessment", "error rate", "fluency score",
-        "adequacy", "quality framework", "automatic evaluation",
+    "rapamycin-healthspan-extension": [
+        "rapamycin", "rapalog", "mTOR", "mTOR inhibitor", "sirolimus",
+        "everolimus", "mechanistic target", "TORC1", "rapamycin analog",
+        "mTOR pathway",
     ],
-    # category: governance
-    "governance-in-ai-workflows": [
-        "AI governance", "audit trail", "guardrail", "content policy",
-        "responsible AI", "model oversight", "human oversight",
-        "approval workflow", "review gate", "AI risk", "explainability",
+    # category: biomarkers
+    "epigenetic-clock-adoption": [
+        "epigenetic clock", "DNA methylation", "Horvath", "GrimAge",
+        "DunedinPACE", "biological age", "methylation age", "aging clock",
+        "epigenetic age", "DNAm",
     ],
-    # category: governance
-    "regulatory-fragmentation": [
-        "EU AI Act", "AI regulation", "language law", "language mandate",
-        "compliance requirement", "GDPR language", "accessibility law",
-        "regional regulation", "national AI policy",
+    "blood-biomarker-panels": [
+        "blood biomarker", "proteomics", "metabolomics", "multi-omic",
+        "aging panel", "blood test aging", "plasma protein", "biomarker panel",
+        "liquid biopsy aging", "omic",
     ],
-    # category: operations
-    "localization-operating-system": [
-        "TMS", "translation management", "end-to-end platform",
-        "localization platform", "content orchestration", "connector",
-        "integrations hub", "localization stack", "vendor management system",
-        "unified workflow", "point tools",
+    # category: nutrition
+    "caloric-restriction-mimetics": [
+        "caloric restriction", "calorie restriction", "fasting mimetic",
+        "metformin", "spermidine", "NAD+", "NMN", "nicotinamide riboside",
+        "NR supplement", "CR mimetic", "intermittent fasting",
     ],
-    # category: operations
-    "translation-memory-obsolescence": [
-        "translation memory", "TM", "CAT tool", "fuzzy match",
-        "segment reuse", "TM leverage", "legacy TM", "TM discount",
-        "SDL Trados", "memoQ", "Wordfast", "TM-based",
+    "gut-microbiome-aging": [
+        "microbiome", "gut bacteria", "gut flora", "probiotic aging",
+        "inflammaging", "microbial diversity", "gut-brain axis",
+        "fecal transplant", "microbiota", "gut health aging",
     ],
-    # category: operations
-    "agentic-localization-workflows": [
-        "agentic", "AI agent", "autonomous localization", "no-touch",
-        "fully automated", "self-managing", "agent pipeline",
-        "orchestration agent", "LLM agent", "multi-agent",
+    # category: technology
+    "ai-drug-discovery-aging": [
+        "AI drug discovery", "machine learning aging", "computational drug",
+        "drug repurposing", "in silico", "AlphaFold", "target identification",
+        "AI-driven drug", "deep learning drug",
     ],
-    # category: operations
-    "multimodal-content-localization": [
-        "dubbing", "voice-over", "subtitle", "audio localization",
-        "video localization", "image localization", "lip sync",
-        "visual localization", "multimedia localization", "screen content",
+    "gene-therapy-aging": [
+        "gene therapy", "CRISPR", "Yamanaka factors", "cellular reprogramming",
+        "telomerase", "TERT", "AAV gene therapy", "epigenetic reprogramming",
+        "partial reprogramming", "gene editing aging",
     ],
-    # category: market
-    "human-post-editing-contraction": [
-        "MTPE", "post-editing rates", "freelance translator",
-        "translator demand", "job displacement", "post-editor",
-        "MTPE volume", "translator employment", "rate decline",
-        "post-editing market", "human translator market",
+    # category: policy
+    "longevity-regulatory-frameworks": [
+        "FDA aging", "aging indication", "regulatory pathway",
+        "geroscience", "TAME trial", "aging as disease",
+        "regulatory framework aging", "EMA longevity",
     ],
-    # category: strategy
-    "localization-first-content-design": [
-        "localization-first", "i18n", "internationalization",
-        "locale-aware", "transcreation brief", "structured content",
-        "content design", "global content strategy",
-        "source content quality", "locale-ready",
+    "longevity-funding-surge": [
+        "longevity funding", "longevity investment", "aging biotech",
+        "venture capital longevity", "Altos Labs", "Calico",
+        "longevity startup", "aging research grant", "NIH aging",
+        "longevity VC",
     ],
 }
 
@@ -413,7 +352,6 @@ def main() -> None:
     else:
         seen = []
 
-    # Separate URL entries from title entries (title entries use "title::" prefix).
     normalized_seen = {normalize_url(e) for e in seen if not e.startswith("title::")}
     seen_titles = {e[len("title::"):] for e in seen if e.startswith("title::")}
     posts = []
@@ -436,23 +374,14 @@ def main() -> None:
             url = candidate_urls[0]
             google_news_source = is_google_news_url(candidate_urls[0])
 
-            # Skip if ANY candidate URL for this entry has already been seen.
-            # This handles cases where the Google News redirect URL and the
-            # resolved article URL are both recorded across runs.
             if any(c in normalized_seen for c in candidate_urls):
                 continue
 
-            # Skip if the same article title has already been published,
-            # even when it arrives from a different source (e.g. gala-global
-            # and slator both carrying the same press release).
             entry_title_norm = normalize_title(getattr(entry, "title", ""))
             if entry_title_norm and entry_title_norm in seen_titles:
                 print(f"Skipping duplicate title: '{getattr(entry, 'title', '')[:70]}'")
                 continue
 
-            # entry.summary is feedparser's canonical name for RSS <description>;
-            # fall back to entry.description as alias. Strip HTML so the text is
-            # usable both for quality checks and as GPT input.
             fallback_raw = getattr(entry, "summary", "") or getattr(entry, "description", "")
             fallback_description = normalize_text(strip_html(fallback_raw))
 
@@ -484,7 +413,7 @@ def main() -> None:
 
             prompt = (
                 "Write a gist for this article (120–160 words).\n"
-                "Frame it for a localization and language services professional audience.\n\n"
+                "Frame it for a longevity science and healthspan research professional audience.\n\n"
                 f"Article text:\n{text[:15000]}"
             )
 
@@ -494,22 +423,22 @@ def main() -> None:
                     messages=[
                         {
                             "role": "system",
-                            "content": """You are a skilled editorial writer for a localization and translation industry news platform. Your readers are professionals working in enterprise localization, language technology, translation services, and AI-driven language workflows.
+                            "content": """You are a skilled editorial writer for a longevity science and healthspan research news platform. Your readers are professionals working in aging biology, longevity therapeutics, biotech, and healthspan research.
 
 Write a clear, engaging gist in 3 short paragraphs (120–160 words total).
 
 Opening paragraph: Lead with the most significant development in a strong, direct sentence. Establish what happened and who is involved immediately.
 
-Middle paragraph: Explain why it matters to the localization and language services industry — connect to business impact, technology trends, workflow changes, or market dynamics as relevant. Use specific details from the source material.
+Middle paragraph: Explain why it matters to the longevity and healthspan field — connect to clinical impact, research trends, therapeutic potential, or market dynamics as relevant. Use specific details from the source material.
 
-Closing paragraph: Offer one concrete, industry-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
+Closing paragraph: Offer one concrete, field-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
 
 Tone and style:
 • Write like a knowledgeable colleague sharing a notable finding, not like a press release.
 • Use active voice, varied sentence length, and concrete language.
 • Avoid corporate jargon, filler phrases ("in a world where...", "it's worth noting that..."), and vague superlatives.
 • Neutral and factual — no editorial opinion, no speculation beyond what the source states.
-• The gist should make a localization professional curious enough to click through to the original article.
+• The gist should make a longevity professional curious enough to click through to the original article.
 
 If the provided text is mostly cookie/privacy/legal notices rather than article content, respond exactly with: UNUSABLE_CONTENT""",
                         },
@@ -560,7 +489,7 @@ If the provided text is mostly cookie/privacy/legal notices rather than article 
                 signal_title = SIGNAL_TITLES.get(first_signal, "")
                 if signal_title:
                     signal_ref = (
-                        f"\n*LocReport tracks this as an industry signal: "
+                        f"\n*HealthspanWire tracks this as a research signal: "
                         f"[{signal_title}](/signals/#{first_signal})*\n"
                     )
 
@@ -569,7 +498,7 @@ title: "{safe_title}"
 date: {post_date_str}T{time_str}Z
 layout: post
 categories: [{YOUR_AREA.lower()}]
-tags: [translation, localization, news, gist]
+tags: [longevity, healthspan, news, gist]
 excerpt: "{safe_excerpt}..."
 publisher: "{safe_publisher}"
 source_url: "{safe_source_url}"

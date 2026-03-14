@@ -1,9 +1,9 @@
-title: LocReport - The pulse of the language services industry.
-description: Daily translation and localization news capturing the trends, innovations, and movements shaping the language services industry. Stay tuned to what’s driving global communication.
-url: "https://locreport.com"
+title: HealthspanWire — Longevity science, decoded daily.
+description: Daily longevity and healthspan news capturing the breakthroughs, innovations, and movements shaping the science of living longer and better.
+url: "https://healthspanwire.com"
 lang: "en"
-author: "LocReport"
+author: "HealthspanWire"
 og_locale: "en_US"
-twitter_username: "locreport"
-social_image: "/assets/images/logolocreport.png"
+twitter_username: "healthspanwire"
+social_image: "/assets/images/hswlogo.png"
 permalink: /articles/:year/:month/:day/:title.html
