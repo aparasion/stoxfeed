@@ -119,10 +119,10 @@
   {% include footer.html %}
 
 <script>
-// ── Dark gray mode — apply before render to avoid flash ──
+// ── Light gray mode — apply before render to avoid flash ──
 (function () {
-  if (localStorage.getItem("theme") === "dark-gray") {
-    document.documentElement.setAttribute("data-theme", "dark-gray");
+  if (localStorage.getItem("theme") === "light-gray") {
+    document.documentElement.setAttribute("data-theme", "light-gray");
   }
 })();
 </script>
@@ -135,19 +135,19 @@ document.addEventListener("DOMContentLoaded", function () {
   var themeToggle = document.getElementById("theme-toggle");
   if (themeToggle) {
     themeToggle.addEventListener("click", function () {
-      var isDarkGray = document.documentElement.getAttribute("data-theme") === "dark-gray";
-      if (isDarkGray) {
+      var isLightGray = document.documentElement.getAttribute("data-theme") === "light-gray";
+      if (isLightGray) {
         document.documentElement.removeAttribute("data-theme");
         localStorage.removeItem("theme");
-        themeToggle.title = "Switch to dark gray mode";
+        themeToggle.title = "Switch to light gray mode";
       } else {
-        document.documentElement.setAttribute("data-theme", "dark-gray");
-        localStorage.setItem("theme", "dark-gray");
+        document.documentElement.setAttribute("data-theme", "light-gray");
+        localStorage.setItem("theme", "light-gray");
         themeToggle.title = "Switch to dark navy mode";
       }
     });
     // Set initial tooltip
-    if (document.documentElement.getAttribute("data-theme") === "dark-gray") {
+    if (document.documentElement.getAttribute("data-theme") === "light-gray") {
       themeToggle.title = "Switch to dark navy mode";
     }
   }
