@@ -143,6 +143,29 @@ def is_google_news_url(url: str) -> bool:
         return False
 
 
+_BLOCKED_DOMAINS = frozenset({
+    "localhost", "127.0.0.1", "0.0.0.0", "169.254.169.254",  # SSRF targets
+})
+
+
+def _is_safe_resolved_url(url: str) -> bool:
+    """Validate that a resolved URL points to a safe, external domain."""
+    try:
+        parsed = urlparse(url)
+        host = parsed.netloc.lower().split(":")[0]
+        if not host or host in _BLOCKED_DOMAINS:
+            return False
+        if parsed.scheme not in ("http", "https"):
+            return False
+        # Block private IPs
+        if host.startswith(("10.", "192.168.", "172.16.", "172.17.", "172.18.",
+                            "172.19.", "172.2", "172.30.", "172.31.")):
+            return False
+        return True
+    except Exception:
+        return False
+
+
 def resolve_google_news_url(url: str, timeout: int = 10) -> str:
     """Follow the Google News redirect and return the final article URL."""
     for attempt in ("requests", "urllib"):
@@ -156,7 +179,7 @@ def resolve_google_news_url(url: str, timeout: int = 10) -> str:
                 with opener.open(url, timeout=timeout) as response:
                     final = response.url
             resolved = normalize_url(final)
-            if resolved and not is_google_news_url(resolved):
+            if resolved and not is_google_news_url(resolved) and _is_safe_resolved_url(resolved):
                 return resolved
         except Exception:
             continue

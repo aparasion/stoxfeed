@@ -54,6 +54,10 @@ jobs:
 
           args=()
           if [ -n "${INPUT_DAYS:-}" ]; then
+            if ! [[ "$INPUT_DAYS" =~ ^[0-9]+$ ]]; then
+              echo "Error: 'days' must be a positive integer, got: $INPUT_DAYS" >&2
+              exit 1
+            fi
             args+=(--days "$INPUT_DAYS")
           fi
 

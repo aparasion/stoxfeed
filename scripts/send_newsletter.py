@@ -244,7 +244,13 @@ def main():
         print(f"{action} newsletter: {result.get('id', 'unknown')}")
     except HTTPError as e:
         error_body = e.read().decode("utf-8") if e.fp else ""
-        print(f"Buttondown API error {e.code}: {error_body}", file=sys.stderr)
+        # Truncate and redact error body to avoid leaking sensitive API details
+        safe_body = error_body[:200] if error_body else "(no body)"
+        for secret_key in ("api_key", "token", "authorization", "password", "secret"):
+            if secret_key in safe_body.lower():
+                safe_body = "(redacted — response contained sensitive fields)"
+                break
+        print(f"Buttondown API error {e.code}: {safe_body}", file=sys.stderr)
         sys.exit(1)
 
 
