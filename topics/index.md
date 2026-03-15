@@ -3,7 +3,7 @@ layout: default
 title: Topics
 permalink: /topics/
 nav: true
-nav_order: 2
+nav_order: 1
 description: "Browse all longevity and healthspan articles by topic — therapeutics, biomarkers, nutrition, technology, and policy."
 ---
 
