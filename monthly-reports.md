@@ -3,7 +3,7 @@ layout: page
 title: Monthly Reports
 permalink: /monthly-reports/
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 A curated monthly roundup of the biggest developments across translation, localization, and language technology.

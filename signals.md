@@ -3,7 +3,7 @@ layout: page
 title: Signal Tracker
 permalink: /signals/
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 A living tracker of high-impact claims in longevity science and healthspan research, with linked evidence from published coverage.

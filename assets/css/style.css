@@ -189,6 +189,13 @@ hr {
   display: block;
 }
 
+/* Show dark logo by default (dark theme), hide light logo */
+.logo-light { display: none; }
+
+/* In light-gray mode, swap logos */
+[data-theme="light-gray"] .logo-dark { display: none; }
+[data-theme="light-gray"] .logo-light { display: block; }
+
 .logo-text {
   font-size: 1.2rem;
   font-weight: 800;

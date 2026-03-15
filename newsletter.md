@@ -2,8 +2,7 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
-nav: true
-nav_order: 3
+nav: false
 ---
 
 Stay ahead of what's moving longevity science and healthspan research.
