@@ -16,6 +16,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 FEEDS = [
     "https://longevity.technology/feed/",
+    "https://lifespan.io/feed/",
 ]
 
 SEEN_FILE = "seen.json"
