@@ -119,9 +119,38 @@
   {% include footer.html %}
 
 <script>
+// ── Dark gray mode — apply before render to avoid flash ──
+(function () {
+  if (localStorage.getItem("theme") === "dark-gray") {
+    document.documentElement.setAttribute("data-theme", "dark-gray");
+  }
+})();
+</script>
+<script>
 document.addEventListener("DOMContentLoaded", function () {
   var scrollTopButton = document.getElementById("scroll-top-button");
   var topicFilterPanels = document.querySelectorAll(".topic-filter-panel");
+
+  // ── Theme toggle ─────────────────────────────────────────
+  var themeToggle = document.getElementById("theme-toggle");
+  if (themeToggle) {
+    themeToggle.addEventListener("click", function () {
+      var isDarkGray = document.documentElement.getAttribute("data-theme") === "dark-gray";
+      if (isDarkGray) {
+        document.documentElement.removeAttribute("data-theme");
+        localStorage.removeItem("theme");
+        themeToggle.title = "Switch to dark gray mode";
+      } else {
+        document.documentElement.setAttribute("data-theme", "dark-gray");
+        localStorage.setItem("theme", "dark-gray");
+        themeToggle.title = "Switch to dark navy mode";
+      }
+    });
+    // Set initial tooltip
+    if (document.documentElement.getAttribute("data-theme") === "dark-gray") {
+      themeToggle.title = "Switch to dark navy mode";
+    }
+  }
 
   // ── Hamburger nav toggle ─────────────────────────────────
   var navToggle = document.getElementById("nav-toggle");

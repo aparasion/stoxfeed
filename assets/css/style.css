@@ -51,6 +51,29 @@
   --radius-xl: 24px;
 }
 
+/* ── Dark Gray Mode ─────────────────────────────────────── */
+[data-theme="dark-gray"] {
+  --bg:             #1a1a1a;
+  --bg-secondary:   #222222;
+  --surface:        #2a2a2a;
+  --text:           #e8e8e8;
+  --muted:          #8a8a8a;
+  --accent:         #4DB6AC;
+  --accent-soft:    rgba(77, 182, 172, 0.12);
+  --brand-health:   #4DB6AC;
+  --brand-wire:     #81C784;
+  --border:         rgba(255, 255, 255, 0.08);
+  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.35), 0 4px 16px rgba(0, 0, 0, 0.25);
+  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.45), 0 12px 40px rgba(0, 0, 0, 0.35);
+  --gradient-hero:  linear-gradient(135deg, #141414 0%, #1c1c1c 30%, #1a2020 60%, #181e14 100%);
+  --gradient-accent: linear-gradient(135deg, #4DB6AC, #66BB6A, #26A69A);
+  --glass-bg:       rgba(26, 26, 26, 0.88);
+  --glass-border:   rgba(255, 255, 255, 0.08);
+  --featured-bg:    linear-gradient(135deg, #222222 0%, #1e2a20 100%);
+  --featured-text:  #e0e0e0;
+  --featured-muted: #8a9a8a;
+}
+
 /* ── Reset ──────────────────────────────────────────────── */
 *, *::before, *::after {
   box-sizing: border-box;
@@ -179,6 +202,7 @@ hr {
 .site-nav {
   display: flex;
   align-items: center;
+  gap: var(--space-2);
 }
 
 .site-nav ul {
@@ -251,6 +275,29 @@ hr {
 }
 .site-nav.is-open .nav-toggle .hamburger-bar:nth-child(3) {
   transform: translateY(-7px) rotate(-45deg);
+}
+
+/* ── Theme Toggle Button ────────────────────────────────── */
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+  color: var(--muted);
+  font-size: 1rem;
+  transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+  flex-shrink: 0;
+}
+
+.theme-toggle:hover {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 /* ── Hero Section ───────────────────────────────────────── */
