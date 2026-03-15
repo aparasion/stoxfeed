@@ -31,6 +31,7 @@ FEEDS = [
     "https://news.google.com/rss/search?q=NAD+aging+research&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=caloric+restriction+longevity&hl=en-US&gl=US&ceid=US:en",
     "https://superagingnews.com/category/longevity-wellness/feed/",
+    "https://connect.biorxiv.org/biorxiv_xml.php?subject=aging",
 ]
 
 SEEN_FILE = "seen.json"
