@@ -37,7 +37,7 @@
   title: Microbiome composition is linked to aging trajectories
   category: nutrition
   first_seen: 2026-03-14
-  current_status: emerging
+  current_status: supported
   description: Tracks research connecting gut microbiome diversity and specific microbial signatures to healthspan, inflammaging, and age-related disease.
 
 - id: ai-drug-discovery-aging
