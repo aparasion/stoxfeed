@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-03-16T00:00:00Z",
+  "tickers": [
+    { "symbol": "SPY", "price": 567.23, "change_pct": 0.42, "prev_close": 564.86 },
+    { "symbol": "QQQ", "price": 482.15, "change_pct": 0.67, "prev_close": 478.93 },
+    { "symbol": "DIA", "price": 421.80, "change_pct": -0.13, "prev_close": 422.35 },
+    { "symbol": "IWM", "price": 203.47, "change_pct": 0.31, "prev_close": 202.84 },
+    { "symbol": "VIX", "price": 14.82, "change_pct": -2.10, "prev_close": 15.14 },
+    { "symbol": "XLF", "price": 43.56, "change_pct": 0.18, "prev_close": 43.48 },
+    { "symbol": "XLE", "price": 87.92, "change_pct": -0.45, "prev_close": 88.32 },
+    { "symbol": "XLK", "price": 208.34, "change_pct": 0.89, "prev_close": 206.50 }
+  ]
+}
