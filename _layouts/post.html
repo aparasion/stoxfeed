@@ -2,79 +2,85 @@
 layout: default
 ---
 
-<article class="post{% if page.categories contains 'monthly-summary' %} monthly-report-post{% endif %}">
-  <h1>{{ page.title }}</h1>
-  <p class="post-meta">
-    {{ page.date | date: "%B %d, %Y" }}
-  </p>
+<div class="feed-layout">
+  <main class="feed-main">
+    <article class="post{% if page.categories contains 'monthly-summary' %} monthly-report-post{% endif %}">
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">
+        {{ page.date | date: "%B %d, %Y" }}
+      </p>
 
-  {% if page.signal_ids and page.signal_ids.size > 0 %}
-  <p class="signal-context">
-    {% for sid in page.signal_ids %}
-      {% for signal in site.data.signals %}
-        {% if signal.id == sid %}
-          <a href="{{ '/signals/#' | append: signal.id | relative_url }}">{{ signal.title }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </p>
-  {% endif %}
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-  {% comment %} Related articles by shared signal IDs, fallback to same category {% endcomment %}
-  {% assign related = "" | split: "" %}
-  {% if page.signal_ids and page.signal_ids.size > 0 %}
-    {% for post in site.posts %}
-      {% if post.url == page.url %}{% continue %}{% endif %}
-      {% if post.signal_ids %}
+      {% if page.signal_ids and page.signal_ids.size > 0 %}
+      <p class="signal-context">
         {% for sid in page.signal_ids %}
-          {% if post.signal_ids contains sid %}
-            {% assign related = related | push: post %}
-            {% break %}
+          {% for signal in site.data.signals %}
+            {% if signal.id == sid %}
+              <a href="{{ '/signals/#' | append: signal.id | relative_url }}">{{ signal.title }}</a>{% unless forloop.last %}, {% endunless %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </p>
+      {% endif %}
+
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+      {% comment %} Related articles by shared signal IDs, fallback to same category {% endcomment %}
+      {% assign related = "" | split: "" %}
+      {% if page.signal_ids and page.signal_ids.size > 0 %}
+        {% for post in site.posts %}
+          {% if post.url == page.url %}{% continue %}{% endif %}
+          {% if post.signal_ids %}
+            {% for sid in page.signal_ids %}
+              {% if post.signal_ids contains sid %}
+                {% assign related = related | push: post %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
           {% endif %}
+          {% if related.size >= 5 %}{% break %}{% endif %}
         {% endfor %}
       {% endif %}
-      {% if related.size >= 5 %}{% break %}{% endif %}
-    {% endfor %}
-  {% endif %}
-  {% if related.size < 3 %}
-    {% for post in site.posts %}
-      {% if post.url == page.url %}{% continue %}{% endif %}
-      {% assign already = false %}
-      {% for r in related %}{% if r.url == post.url %}{% assign already = true %}{% break %}{% endif %}{% endfor %}
-      {% if already %}{% continue %}{% endif %}
-      {% for cat in page.categories %}
-        {% if post.categories contains cat %}
-          {% assign related = related | push: post %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
-      {% if related.size >= 5 %}{% break %}{% endif %}
-    {% endfor %}
-  {% endif %}
+      {% if related.size < 3 %}
+        {% for post in site.posts %}
+          {% if post.url == page.url %}{% continue %}{% endif %}
+          {% assign already = false %}
+          {% for r in related %}{% if r.url == post.url %}{% assign already = true %}{% break %}{% endif %}{% endfor %}
+          {% if already %}{% continue %}{% endif %}
+          {% for cat in page.categories %}
+            {% if post.categories contains cat %}
+              {% assign related = related | push: post %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% if related.size >= 5 %}{% break %}{% endif %}
+        {% endfor %}
+      {% endif %}
 
-  {% if related.size > 0 %}
-  <nav class="related-articles" aria-label="Related articles">
-    <h3>Related on StoxFeed</h3>
-    <ul>
-      {% for post in related limit:5 %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="related-date">{{ post.date | date: "%b %d, %Y" }}</span>
-      </li>
-      {% endfor %}
-    </ul>
-  </nav>
-  {% endif %}
+      {% if related.size > 0 %}
+      <nav class="related-articles" aria-label="Related articles">
+        <h3>Related on StoxFeed</h3>
+        <ul>
+          {% for post in related limit:5 %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="related-date">{{ post.date | date: "%b %d, %Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+      {% endif %}
 
-  <footer class="post-author-footer" aria-label="Author information">
-    <img src="{{ '/assets/images/stoxfeed-logo.png' | relative_url }}" alt="StoxFeed logo" class="author-logo" loading="lazy">
-    <div class="author-info">
-      <p class="author-name">StoxFeed</p>
-      <a href="{{ '/contact/' | relative_url }}" class="author-contact-link">Contact</a>
-    </div>
-  </footer>
-</article>
+      <footer class="post-author-footer" aria-label="Author information">
+        <img src="{{ '/assets/images/stoxfeed-logo.png' | relative_url }}" alt="StoxFeed logo" class="author-logo" loading="lazy">
+        <div class="author-info">
+          <p class="author-name">StoxFeed</p>
+          <a href="{{ '/contact/' | relative_url }}" class="author-contact-link">Contact</a>
+        </div>
+      </footer>
+    </article>
+  </main>
+
+  {% include sidebar.html %}
+</div>

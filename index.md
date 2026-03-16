@@ -115,50 +115,5 @@ nav_order: 1
 
   </main>
 
-  <aside class="feed-sidebar">
-
-    <div class="sidebar-widget sidebar-banner">
-      <span class="sidebar-label">Sponsored</span>
-      <div class="banner-placeholder">
-        <span>Ad Space</span>
-      </div>
-    </div>
-
-    <div class="sidebar-widget sidebar-featured">
-      <h4 class="sidebar-title">Featured Analysis</h4>
-      <ul class="sidebar-links">
-        {% for post in site.posts limit:5 %}
-        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="sidebar-widget sidebar-ticker">
-      <h4 class="sidebar-title">Market Pulse</h4>
-      <div class="ticker-rows">
-        <div class="ticker-row"><span class="ticker-symbol">SPY</span><span class="ticker-val ticker-up">+0.42%</span></div>
-        <div class="ticker-row"><span class="ticker-symbol">QQQ</span><span class="ticker-val ticker-up">+0.67%</span></div>
-        <div class="ticker-row"><span class="ticker-symbol">DIA</span><span class="ticker-val ticker-down">-0.13%</span></div>
-        <div class="ticker-row"><span class="ticker-symbol">IWM</span><span class="ticker-val ticker-up">+0.31%</span></div>
-        <div class="ticker-row"><span class="ticker-symbol">VIX</span><span class="ticker-val ticker-down">-2.10%</span></div>
-      </div>
-    </div>
-
-    <div class="sidebar-widget sidebar-newsletter">
-      <h4 class="sidebar-title">Stay Informed</h4>
-      <p class="sidebar-desc">Get daily market intelligence straight to your inbox.</p>
-      <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed" method="post">
-        <input type="email" name="email" placeholder="you@email.com" required>
-        <button type="submit">Subscribe</button>
-      </form>
-    </div>
-
-    <div class="sidebar-widget sidebar-banner">
-      <span class="sidebar-label">Sponsored</span>
-      <div class="banner-placeholder banner-tall">
-        <span>Ad Space</span>
-      </div>
-    </div>
-
-  </aside>
+  {% include sidebar.html %}
 </div>
