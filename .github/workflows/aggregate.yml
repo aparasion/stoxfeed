@@ -2,7 +2,7 @@ name: Daily News Gists
 
 on:
   schedule:
-    - cron: "33 * * * *"
+    - cron: "17,47 * * * *"
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
 env:
