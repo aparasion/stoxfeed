@@ -32,6 +32,24 @@ FEEDS = [
     "https://news.google.com/rss/search?q=market+volatility+VIX&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=fintech+stocks&hl=en-US&gl=US&ceid=US:en",
     "https://www.xtb.com/en/feed",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "http://feeds.marketwatch.com/marketwatch/marketpulse/",
+    "https://www.ft.com/markets?format=rss",
+    "https://seekingalpha.com/market_currents.xml",
+    "https://www.fool.com/feeds/index.aspx",
+    "https://www.benzinga.com/feed",
+    "https://www.marketbeat.com/feed/",
+    "https://www.nasdaq.com/feed/rssoutbound?category=Stock%20Market%20News",
+    "https://www.federalreserve.gov/feeds/press_all.xml",
+    "https://www.ecb.europa.eu/rss/press.html",
+    "https://www.imf.org/en/News/RSS",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://cointelegraph.com/rss",
+    "https://www.semiconductor-digest.com/feed/",
+    "https://oilprice.com/rss/main",
+    "https://finextra.com/rss/headlines.aspx",
+    "https://www.investing.com/rss/news_25.rss",
+
 ]
 
 SEEN_FILE = "seen.json"
