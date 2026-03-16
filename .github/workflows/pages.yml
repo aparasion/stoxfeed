@@ -33,6 +33,14 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch market tickers
+        run: python scripts/fetch_tickers.py
+
       - name: Build site
         run: bundle exec jekyll build --destination _site
 

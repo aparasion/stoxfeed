@@ -16,16 +16,28 @@
     </ul>
   </div>
 
+  {% if site.data.tickers %}
   <div class="sidebar-widget sidebar-ticker">
     <h4 class="sidebar-title">Market Pulse</h4>
     <div class="ticker-rows">
-      <div class="ticker-row"><span class="ticker-symbol">SPY</span><span class="ticker-val ticker-up">+0.42%</span></div>
-      <div class="ticker-row"><span class="ticker-symbol">QQQ</span><span class="ticker-val ticker-up">+0.67%</span></div>
-      <div class="ticker-row"><span class="ticker-symbol">DIA</span><span class="ticker-val ticker-down">-0.13%</span></div>
-      <div class="ticker-row"><span class="ticker-symbol">IWM</span><span class="ticker-val ticker-up">+0.31%</span></div>
-      <div class="ticker-row"><span class="ticker-symbol">VIX</span><span class="ticker-val ticker-down">-2.10%</span></div>
+      {% for t in site.data.tickers.tickers %}
+      {% if t.change_pct >= 0 %}
+        {% assign dir = "up" %}
+        {% assign sign = "+" %}
+      {% else %}
+        {% assign dir = "down" %}
+        {% assign sign = "" %}
+      {% endif %}
+      <div class="ticker-row">
+        <span class="ticker-symbol">{{ t.symbol }}</span>
+        <span class="ticker-price">{{ t.price }}</span>
+        <span class="ticker-val ticker-{{ dir }}">{{ sign }}{{ t.change_pct }}%</span>
+      </div>
+      {% endfor %}
     </div>
+    <span class="ticker-updated">{{ site.data.tickers.updated_at | date: "%b %d, %H:%M UTC" }}</span>
   </div>
+  {% endif %}
 
   <div class="sidebar-widget sidebar-newsletter">
     <h4 class="sidebar-title">Stay Informed</h4>
