@@ -8,7 +8,7 @@
   {% endif %}
   {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
   {% assign seo_description = seo_description | truncate: 160 %}
-  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/stoxfeed-logo.png' %}
+  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/stoxfeed-logo.svg' %}
   {% assign seo_image_url = seo_image | absolute_url %}
   {% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
 
@@ -88,7 +88,7 @@
       "name": {{ site.title | jsonify }},
       "logo": {
         "@type": "ImageObject",
-        "url": {{ site.social_image | default: '/assets/images/stoxfeed-logo.png' | absolute_url | jsonify }}
+        "url": {{ site.social_image | default: '/assets/images/stoxfeed-logo.svg' | absolute_url | jsonify }}
       }
     }{% endif %}
   }

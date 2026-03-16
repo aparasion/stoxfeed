@@ -1,31 +1,30 @@
 /* ============================================================
    StoxFeed — Financial Markets Modern Design
-   Single dark theme with teal/green market-inspired palette
+   Navy + green palette inspired by the StoxFeed logo
    ============================================================ */
 
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
-  /* Colour — Dark Markets */
-  --bg:             #0c0f14;
-  --bg-secondary:   #111520;
-  --surface:        #161b27;
-  --text:           #e8ecf4;
-  --muted:          #7d8aa3;
-  --accent:         #5BB5AD;
-  --accent-soft:    rgba(91, 181, 173, 0.1);
-  --brand-stox:     #5BB5AD;
-  --brand-feed:     #7EC882;
-  --accent-blue:    #3678B2;
-  --border:         rgba(255, 255, 255, 0.06);
-  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.2);
-  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.4), 0 12px 40px rgba(0, 0, 0, 0.3);
-  --gradient-hero:  linear-gradient(135deg, #0a0f18 0%, #0d1520 30%, #0c1518 60%, #0e1420 100%);
-  --gradient-accent: linear-gradient(135deg, #5BB5AD, #7EC882, #3678B2);
-  --glass-bg:       rgba(12, 15, 20, 0.85);
-  --glass-border:   rgba(255, 255, 255, 0.06);
-  --featured-bg:    linear-gradient(135deg, #111d2b 0%, #0f2420 100%);
-  --featured-text:  #e0eaef;
-  --featured-muted: #7d9aaa;
+  /* Colour — Dark Navy (not too dark) */
+  --bg:             #1a2435;
+  --bg-secondary:   #1f2b3e;
+  --surface:        #253347;
+  --text:           #e4e9f0;
+  --muted:          #8494a7;
+  --accent:         #34C665;
+  --accent-soft:    rgba(52, 198, 101, 0.1);
+  --brand-stox:     #34C665;
+  --brand-feed:     #a0b4c8;
+  --border:         rgba(255, 255, 255, 0.08);
+  --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 16px rgba(0, 0, 0, 0.15);
+  --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.3), 0 12px 40px rgba(0, 0, 0, 0.2);
+  --gradient-hero:  linear-gradient(135deg, #172030 0%, #1a2638 30%, #1c2a3c 60%, #1e2e42 100%);
+  --gradient-accent: linear-gradient(135deg, #34C665, #2ba856, #1F2D3E);
+  --glass-bg:       rgba(26, 36, 53, 0.88);
+  --glass-border:   rgba(255, 255, 255, 0.08);
+  --featured-bg:    linear-gradient(135deg, #1e2c40 0%, #1a2f38 100%);
+  --featured-text:  #e4e9f0;
+  --featured-muted: #8498ad;
 
   /* Spacing */
   --space-1: 0.25rem;
@@ -52,28 +51,27 @@
   --radius-xl: 24px;
 }
 
-/* ── Light Gray Mode ─────────────────────────────────────── */
+/* ── Light Mode (not too light — warm gray) ──────────────── */
 [data-theme="light-gray"] {
-  --bg:             #f4f4f5;
-  --bg-secondary:   #e9e9eb;
-  --surface:        #ffffff;
-  --text:           #1a1a1e;
-  --muted:          #6b7280;
-  --accent:         #3a9690;
-  --accent-soft:    rgba(58, 150, 144, 0.1);
-  --brand-stox:     #3a9690;
-  --brand-feed:     #4a8c55;
-  --accent-blue:    #2c6092;
+  --bg:             #dde2e8;
+  --bg-secondary:   #d0d6de;
+  --surface:        #e8ecf0;
+  --text:           #1a2435;
+  --muted:          #556070;
+  --accent:         #28a04e;
+  --accent-soft:    rgba(40, 160, 78, 0.1);
+  --brand-stox:     #28a04e;
+  --brand-feed:     #1F2D3E;
   --border:         rgba(0, 0, 0, 0.1);
   --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 16px rgba(0, 0, 0, 0.06);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.12), 0 12px 40px rgba(0, 0, 0, 0.1);
-  --gradient-hero:  linear-gradient(135deg, #e8eef4 0%, #edf4f2 30%, #e8f0f4 60%, #f0f4eb 100%);
-  --gradient-accent: linear-gradient(135deg, #3a9690, #4a8c55, #2c6092);
-  --glass-bg:       rgba(244, 244, 245, 0.9);
+  --gradient-hero:  linear-gradient(135deg, #d5dce4 0%, #dae2e6 30%, #d8dee6 60%, #dce2e0 100%);
+  --gradient-accent: linear-gradient(135deg, #28a04e, #1F2D3E);
+  --glass-bg:       rgba(221, 226, 232, 0.92);
   --glass-border:   rgba(0, 0, 0, 0.08);
-  --featured-bg:    linear-gradient(135deg, #e8f4f2 0%, #e8eff4 100%);
-  --featured-text:  #1a1a1e;
-  --featured-muted: #4b6672;
+  --featured-bg:    linear-gradient(135deg, #d0dbe4 0%, #d5dde0 100%);
+  --featured-text:  #1a2435;
+  --featured-muted: #48596a;
 }
 
 /* ── Reset ──────────────────────────────────────────────── */
@@ -348,8 +346,8 @@ hr {
   left: -50%;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle at 30% 40%, rgba(91, 181, 173, 0.08) 0%, transparent 50%),
-              radial-gradient(circle at 70% 60%, rgba(54, 120, 178, 0.06) 0%, transparent 50%);
+  background: radial-gradient(circle at 30% 40%, rgba(52, 198, 101, 0.07) 0%, transparent 50%),
+              radial-gradient(circle at 70% 60%, rgba(31, 45, 62, 0.15) 0%, transparent 50%);
   animation: heroGlow 15s ease-in-out infinite alternate;
   z-index: -1;
 }
@@ -533,7 +531,7 @@ hr {
   right: -30%;
   width: 600px;
   height: 600px;
-  background: radial-gradient(circle, rgba(91, 181, 173, 0.12) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(52, 198, 101, 0.10) 0%, transparent 70%);
   animation: featurePulse 8s ease-in-out infinite alternate;
 }
 
@@ -544,7 +542,7 @@ hr {
   left: -20%;
   width: 500px;
   height: 500px;
-  background: radial-gradient(circle, rgba(54, 120, 178, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(52, 198, 101, 0.06) 0%, transparent 70%);
   animation: featurePulse 10s ease-in-out 2s infinite alternate;
 }
 
