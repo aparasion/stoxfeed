@@ -31,6 +31,7 @@ FEEDS = [
     "https://news.google.com/rss/search?q=mergers+acquisitions+M%26A&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=market+volatility+VIX&hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/search?q=fintech+stocks&hl=en-US&gl=US&ceid=US:en",
+    "https://www.xtb.com/en/feed",
 ]
 
 SEEN_FILE = "seen.json"
