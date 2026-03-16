@@ -1,9 +1,9 @@
-title: HealthspanWire — Longevity science, decoded daily.
-description: Daily longevity and healthspan news capturing the breakthroughs, innovations, and movements shaping the science of living longer and better.
-url: "https://healthspanwire.com"
+title: StoxFeed — Stock market intelligence, decoded daily.
+description: Daily stock market news capturing the moves, earnings, and trends shaping the markets.
+url: "https://stoxfeed.com"
 lang: "en"
-author: "HealthspanWire"
+author: "StoxFeed"
 og_locale: "en_US"
-twitter_username: "healthspanwire"
-social_image: "/assets/images/hswlogo.png"
+twitter_username: "stoxfeed"
+social_image: "/assets/images/stoxfeed-logo.png"
 permalink: /articles/:year/:month/:day/:title.html

@@ -1,48 +1,48 @@
-# Internal link keywords — maps longevity terms to internal pages.
+# Internal link keywords — maps market terms to internal pages.
 # The JS in default.html converts the first occurrence of each term
 # into an <a> link inside .post-content. Max 3 links per article.
 
 # Generic signal tracker links
 - term: "signal tracker"
   url: "/signals/"
-- term: "longevity signals"
+- term: "market signals"
   url: "/signals/"
 
-# Therapeutics topic
-- term: "senolytic"
-  url: "/topics/therapeutics/"
-- term: "rapamycin"
-  url: "/topics/therapeutics/"
-- term: "dasatinib"
-  url: "/topics/therapeutics/"
-
-# Biomarkers topic
-- term: "epigenetic clock"
-  url: "/topics/biomarkers/"
-- term: "biological age"
-  url: "/topics/biomarkers/"
-- term: "DNA methylation"
-  url: "/topics/biomarkers/"
-
-# Nutrition topic
-- term: "caloric restriction"
-  url: "/topics/nutrition/"
-- term: "intermittent fasting"
-  url: "/topics/nutrition/"
-- term: "gut microbiome"
-  url: "/topics/nutrition/"
-
 # Technology topic
-- term: "gene therapy"
-  url: "/topics/technology/"
-- term: "AI drug discovery"
-  url: "/topics/technology/"
+- term: "NVIDIA"
+  url: "/topics/#technology"
+- term: "semiconductor"
+  url: "/topics/#technology"
+- term: "AI stocks"
+  url: "/topics/#technology"
 
-# Policy topic
-- term: "FDA aging"
-  url: "/topics/policy/"
-- term: "longevity funding"
-  url: "/topics/policy/"
+# Healthcare topic
+- term: "FDA approval"
+  url: "/topics/#healthcare"
+- term: "biotech stock"
+  url: "/topics/#healthcare"
+- term: "clinical trial"
+  url: "/topics/#healthcare"
+
+# Energy topic
+- term: "oil price"
+  url: "/topics/#energy"
+- term: "renewable energy"
+  url: "/topics/#energy"
+- term: "electric vehicle"
+  url: "/topics/#energy"
+
+# Finance topic
+- term: "Federal Reserve"
+  url: "/topics/#finance"
+- term: "interest rate"
+  url: "/topics/#finance"
+
+# Crypto topic
+- term: "Bitcoin"
+  url: "/topics/#crypto"
+- term: "Ethereum"
+  url: "/topics/#crypto"
 
 # Other internal pages
 - term: "monthly report"

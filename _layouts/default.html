@@ -8,7 +8,7 @@
   {% endif %}
   {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace %}
   {% assign seo_description = seo_description | truncate: 160 %}
-  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/hswlogo.png' %}
+  {% assign seo_image = page.image | default: site.social_image | default: '/assets/images/stoxfeed-logo.png' %}
   {% assign seo_image_url = seo_image | absolute_url %}
   {% assign canonical_url = page.url | replace:'index.html','' | absolute_url %}
 
@@ -16,7 +16,7 @@
   <meta name="description" content="{{ seo_description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-  <meta name="author" content="{{ site.author | default: 'HealthspanWire' }}">
+  <meta name="author" content="{{ site.author | default: 'StoxFeed' }}">
   <link rel="canonical" href="{{ canonical_url }}">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://formspree.io; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
@@ -81,14 +81,14 @@
     "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
     "author": {
       "@type": "Organization",
-      "name": {{ site.author | default: 'HealthspanWire' | jsonify }}
+      "name": {{ site.author | default: 'StoxFeed' | jsonify }}
     },
     "publisher": {
       "@type": "Organization",
       "name": {{ site.title | jsonify }},
       "logo": {
         "@type": "ImageObject",
-        "url": {{ site.social_image | default: '/assets/images/hswlogo.png' | absolute_url | jsonify }}
+        "url": {{ site.social_image | default: '/assets/images/stoxfeed-logo.png' | absolute_url | jsonify }}
       }
     }{% endif %}
   }
@@ -385,7 +385,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     var initialHash = window.location.hash.replace("#", "");
-    if (initialHash && ["therapeutics", "biomarkers", "nutrition", "technology", "policy"].indexOf(initialHash) !== -1) {
+    if (initialHash && ["technology", "healthcare", "energy", "finance", "crypto"].indexOf(initialHash) !== -1) {
       topicPills.forEach(function (p) { p.classList.remove("active"); });
       var matchingPill = document.querySelector('.topic-filter-panel [data-topic="' + initialHash + '"]');
       if (matchingPill) matchingPill.classList.add("active");

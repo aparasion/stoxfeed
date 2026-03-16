@@ -23,9 +23,9 @@ from openai import OpenAI
 
 POSTS_DIR = Path("_posts")
 SIGNALS_DATA_FILE = Path("_data/signals.yml")
-SITE_URL = "https://healthspanwire.com"
+SITE_URL = "https://stoxfeed.com"
 
-SYSTEM_PROMPT = """You are the editor of HealthspanWire, a longevity science and healthspan research newsletter. Write a concise, engaging weekly digest email.
+SYSTEM_PROMPT = """You are the editor of StoxFeed, a stock market and financial markets newsletter. Write a concise, engaging weekly digest email.
 
 Format (200–350 words, markdown):
 - Open with a 1–2 sentence editorial hook summarizing the week's theme.
@@ -198,7 +198,7 @@ def main():
     print("Generating digest with OpenAI...")
     digest = generate_digest(posts, signals, period_label)
 
-    subject = f"HealthspanWire Weekly: {period_label}"
+    subject = f"StoxFeed Weekly: {period_label}"
 
     if args.dry_run:
         print("\n--- DRY RUN ---")

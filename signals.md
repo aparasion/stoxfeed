@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-A living tracker of high-impact claims in longevity science and healthspan research, with linked evidence from published coverage.
+A living tracker of high-impact market signals and trends, with linked evidence from published coverage.
 
 <div class="signal-accordion-list">
   {% for signal in site.data.signals %}

@@ -1,10 +1,10 @@
-- term: NAD+
-  definition: Nicotinamide adenine dinucleotide, a coenzyme critical for cellular energy metabolism that declines with age. NAD+ precursors like NMN and NR are studied as longevity interventions.
-- term: mTOR
-  definition: Mechanistic target of rapamycin, a key nutrient-sensing pathway that regulates cell growth and aging. Inhibiting mTOR (e.g., with rapamycin) has shown lifespan extension in multiple organisms.
-- term: Senolytic
-  definition: A class of drugs that selectively eliminate senescent (aged, dysfunctional) cells to reduce inflammation and improve tissue function.
-- term: Epigenetic clock
-  definition: A biomarker based on DNA methylation patterns that estimates biological age, often more predictive of health outcomes than chronological age.
-- term: Healthspan
-  definition: The period of life spent in good health, free from chronic diseases and disability associated with aging.
+- term: P/E Ratio
+  definition: Price-to-earnings ratio, a valuation metric comparing a company's stock price to its earnings per share. Higher P/E suggests investors expect higher future growth.
+- term: Market Cap
+  definition: Market capitalization, the total market value of a company's outstanding shares. Calculated by multiplying share price by total shares outstanding.
+- term: ETF
+  definition: Exchange-traded fund, a pooled investment security that tracks an index, sector, commodity, or other asset and can be bought or sold on a stock exchange like a regular stock.
+- term: VIX
+  definition: The CBOE Volatility Index, often called the "fear gauge," measures market expectations of near-term volatility based on S&P 500 option prices.
+- term: Short Selling
+  definition: A trading strategy that profits from a decline in a stock's price by borrowing shares to sell and later buying them back at a lower price.

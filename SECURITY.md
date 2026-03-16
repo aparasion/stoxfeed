@@ -1,14 +1,14 @@
-# Security Analysis — HealthspanWire
+# Security Analysis — StoxFeed
 
-**Date:** 2026-03-15
-**Domain:** https://healthspanwire.com
+**Date:** 2026-03-16
+**Domain:** https://stoxfeed.com
 **Stack:** Jekyll 4.3 (static site) + Python automation + GitHub Pages
 
 ---
 
 ## Executive Summary
 
-HealthspanWire is a Jekyll-based static site with Python automation for content aggregation. The static nature inherently limits the attack surface (no database, no server-side user input processing). However, several vulnerabilities were identified in the client-side JavaScript, automation scripts, and CI/CD configuration that should be addressed.
+StoxFeed is a Jekyll-based static site with Python automation for content aggregation. The static nature inherently limits the attack surface (no database, no server-side user input processing). However, several vulnerabilities were identified in the client-side JavaScript, automation scripts, and CI/CD configuration that should be addressed.
 
 ---
 
@@ -91,7 +91,7 @@ Google Fonts loaded without SRI hashes. If Google's CDN were compromised, malici
 
 **File:** `_layouts/default.html:94-102`
 
-Google Analytics (`G-VDRP3B91C5`) loads for all visitors with no opt-out or cookie consent mechanism.
+Google Analytics loads for all visitors with no opt-out or cookie consent mechanism.
 
 **Recommendation:** Add a cookie consent banner or conditionally load GA based on user consent, especially for GDPR compliance if European visitors are expected.
 

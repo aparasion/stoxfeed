@@ -1,69 +1,69 @@
-- id: senolytic-clinical-validation
-  title: Senolytic therapies are showing clinical efficacy in human trials
-  category: therapeutics
-  first_seen: 2026-03-14
-  current_status: supported
-  description: Tracks evidence that drugs targeting senescent cells (senolytics like dasatinib+quercetin, fisetin) are demonstrating measurable benefits in human clinical trials.
-
-- id: rapamycin-healthspan-extension
-  title: mTOR inhibition is extending healthspan in clinical settings
-  category: therapeutics
-  first_seen: 2026-03-14
-  current_status: emerging
-  description: Tracks clinical and preclinical evidence that rapamycin and rapalogs improve age-related outcomes and extend healthy lifespan.
-
-- id: epigenetic-clock-adoption
-  title: Epigenetic clocks are becoming standard biological age measures
-  category: biomarkers
-  first_seen: 2026-03-14
-  current_status: emerging
-  description: Tracks adoption of DNA methylation-based aging clocks (Horvath, GrimAge, DunedinPACE) as validated biomarkers in research and clinical practice.
-
-- id: blood-biomarker-panels
-  title: Multi-omic blood panels are enabling personalized aging assessments
-  category: biomarkers
-  first_seen: 2026-03-14
-  current_status: emerging
-  description: Tracks whether composite blood biomarker panels (proteomics, metabolomics) are being validated for predicting biological age and disease risk.
-
-- id: caloric-restriction-mimetics
-  title: Caloric restriction mimetics are advancing toward clinical use
-  category: nutrition
-  first_seen: 2026-03-14
-  current_status: emerging
-  description: Tracks compounds that mimic fasting or caloric restriction benefits (metformin, spermidine, NAD+ precursors) moving through trials and adoption.
-
-- id: gut-microbiome-aging
-  title: Microbiome composition is linked to aging trajectories
-  category: nutrition
-  first_seen: 2026-03-14
-  current_status: supported
-  description: Tracks research connecting gut microbiome diversity and specific microbial signatures to healthspan, inflammaging, and age-related disease.
-
-- id: ai-drug-discovery-aging
-  title: AI is accelerating drug discovery for age-related diseases
+- id: ai-stocks-momentum
+  title: AI and semiconductor stocks are driving tech sector gains
   category: technology
-  first_seen: 2026-03-14
-  current_status: emerging
-  description: Tracks how machine learning and AI platforms are identifying novel longevity drug candidates, repurposing existing drugs, and shortening development timelines.
+  first_seen: 2026-03-16
+  current_status: supported
+  description: Tracks evidence that AI-related stocks (NVIDIA, AMD, Broadcom) and semiconductor companies are outperforming the broader market on sustained demand for AI infrastructure.
 
-- id: gene-therapy-aging
-  title: Gene therapies targeting aging pathways are entering clinical development
+- id: tech-earnings-trend
+  title: Big tech earnings are exceeding consensus estimates
   category: technology
-  first_seen: 2026-03-14
+  first_seen: 2026-03-16
   current_status: emerging
-  description: Tracks gene therapy approaches (telomerase activation, Yamanaka factors, CRISPR-based interventions) aimed at reversing or slowing biological aging.
+  description: Tracks whether major tech companies (Apple, Microsoft, Google, Meta, Amazon) are consistently beating earnings expectations and driving market sentiment.
 
-- id: longevity-regulatory-frameworks
-  title: Regulatory bodies are beginning to recognize aging as a treatable condition
-  category: policy
-  first_seen: 2026-03-14
+- id: biotech-pipeline-catalyst
+  title: Biotech stocks are rallying on FDA approvals and pipeline catalysts
+  category: healthcare
+  first_seen: 2026-03-16
   current_status: emerging
-  description: Tracks regulatory developments (FDA, EMA) around classifying aging as an indication and creating pathways for longevity therapeutics approval.
+  description: Tracks significant FDA decisions, clinical trial results, and pipeline developments driving biotech stock movements.
 
-- id: longevity-funding-surge
-  title: Venture capital and public funding for longevity research is accelerating
-  category: policy
-  first_seen: 2026-03-14
+- id: pharma-ma-wave
+  title: Pharmaceutical M&A activity is accelerating
+  category: healthcare
+  first_seen: 2026-03-16
   current_status: emerging
-  description: Tracks investment trends in longevity biotech, including VC rounds, government grants, and corporate R&D commitments to aging research.
+  description: Tracks merger and acquisition activity in the pharmaceutical sector, including large-cap buyouts and licensing deals.
+
+- id: oil-price-trajectory
+  title: Oil prices are responding to OPEC decisions and geopolitical tensions
+  category: energy
+  first_seen: 2026-03-16
+  current_status: supported
+  description: Tracks crude oil price movements driven by OPEC production decisions, geopolitical risk, and demand forecasts affecting energy stocks.
+
+- id: renewable-energy-shift
+  title: Clean energy stocks are gaining on policy tailwinds and adoption growth
+  category: energy
+  first_seen: 2026-03-16
+  current_status: emerging
+  description: Tracks investment flows into solar, wind, EV, and battery stocks driven by government incentives, corporate commitments, and technology improvements.
+
+- id: fed-rate-trajectory
+  title: Federal Reserve rate decisions are driving bond and equity market moves
+  category: finance
+  first_seen: 2026-03-16
+  current_status: supported
+  description: Tracks how Fed interest rate decisions, FOMC statements, and inflation data are influencing Treasury yields, bank stocks, and broader equity markets.
+
+- id: bank-earnings-cycle
+  title: Bank earnings reflect credit cycle and interest rate dynamics
+  category: finance
+  first_seen: 2026-03-16
+  current_status: emerging
+  description: Tracks quarterly earnings from major banks (JPMorgan, Goldman Sachs, Morgan Stanley) as indicators of financial sector health and lending conditions.
+
+- id: bitcoin-institutional-adoption
+  title: Institutional Bitcoin adoption is growing through ETFs and corporate holdings
+  category: crypto
+  first_seen: 2026-03-16
+  current_status: emerging
+  description: Tracks institutional investment in Bitcoin through spot ETFs, corporate treasury allocations, and regulated crypto products.
+
+- id: defi-market-growth
+  title: DeFi and Ethereum ecosystem activity is expanding
+  category: crypto
+  first_seen: 2026-03-16
+  current_status: emerging
+  description: Tracks growth in decentralized finance protocols, Ethereum network activity, stablecoin volume, and Web3 development trends.

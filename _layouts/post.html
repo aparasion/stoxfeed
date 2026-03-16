@@ -58,7 +58,7 @@ layout: default
 
   {% if related.size > 0 %}
   <nav class="related-articles" aria-label="Related articles">
-    <h3>Related on HealthspanWire</h3>
+    <h3>Related on StoxFeed</h3>
     <ul>
       {% for post in related limit:5 %}
       <li>
@@ -71,9 +71,9 @@ layout: default
   {% endif %}
 
   <footer class="post-author-footer" aria-label="Author information">
-    <img src="{{ '/assets/images/hswlogo.png' | relative_url }}" alt="HealthspanWire logo" class="author-logo" loading="lazy">
+    <img src="{{ '/assets/images/stoxfeed-logo.png' | relative_url }}" alt="StoxFeed logo" class="author-logo" loading="lazy">
     <div class="author-info">
-      <p class="author-name">HealthspanWire</p>
+      <p class="author-name">StoxFeed</p>
       <a href="{{ '/contact/' | relative_url }}" class="author-contact-link">Contact</a>
     </div>
   </footer>

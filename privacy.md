@@ -6,9 +6,9 @@ nav: false
 ---
 
 **Effective Date:** March 15, 2026
-**Last Updated:** March 15, 2026
+**Last Updated:** March 16, 2026
 
-HealthspanWire ("we," "us," or "our") operates the website at [healthspanwire.com](https://healthspanwire.com). This Privacy Policy explains how we collect, use, and protect your information.
+StoxFeed ("we," "us," or "our") operates the website at [stoxfeed.com](https://stoxfeed.com). This Privacy Policy explains how we collect, use, and protect your information.
 
 ## 1. Information We Collect
 
@@ -27,13 +27,13 @@ We use the information we collect to:
 
 We do **not** sell, rent, or share your personal information with third parties for marketing purposes.
 
-## 3. Health Content Disclaimer
+## 3. Financial Content Disclaimer
 
-HealthspanWire publishes editorial content about longevity science, aging biology, and healthspan research. **This content is for informational and educational purposes only.** It does not constitute medical advice, diagnosis, or treatment recommendations.
+StoxFeed publishes editorial content about stock markets, financial markets, and market trends. **This content is for informational and educational purposes only.** It does not constitute investment advice, financial advice, or trading recommendations.
 
-We do **not** collect personal health information, medical records, or biometric data from our readers. Any health-related topics discussed on this site are based on publicly available research and should not be used as a substitute for professional medical advice.
+We do **not** collect personal financial information, brokerage data, or portfolio details from our readers. Any market-related topics discussed on this site are based on publicly available information and should not be used as a substitute for professional financial advice.
 
-**Always consult a qualified healthcare professional before making decisions about your health based on information you read on this or any website.**
+**Always consult a qualified financial advisor before making investment decisions based on information you read on this or any website.**
 
 ## 4. Cookies and Tracking
 
@@ -64,7 +64,7 @@ We implement reasonable technical and organizational measures to protect your in
 
 ## 8. Children's Privacy
 
-HealthspanWire is not directed at individuals under the age of 16. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will promptly delete it.
+StoxFeed is not directed at individuals under the age of 16. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will promptly delete it.
 
 ## 9. Your Rights
 
