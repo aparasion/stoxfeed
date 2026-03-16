@@ -4,7 +4,7 @@ title: Topics
 permalink: /topics/
 nav: true
 nav_order: 1
-description: "Browse all longevity and healthspan articles by topic — therapeutics, biomarkers, nutrition, technology, and policy."
+description: "Browse all stock market and financial articles by topic — technology, healthcare, energy, finance, and crypto."
 ---
 
 <section class="topics-hero">
@@ -15,11 +15,11 @@ description: "Browse all longevity and healthspan articles by topic — therapeu
 <section class="topic-filter-panel" aria-label="Filter by topic">
   <div class="topic-filter-buttons" role="group" aria-label="Topic filters">
     <button class="topic-pill active" data-topic="all">All</button>
-    <button class="topic-pill" data-topic="therapeutics">Therapeutics</button>
-    <button class="topic-pill" data-topic="biomarkers">Biomarkers</button>
-    <button class="topic-pill" data-topic="nutrition">Nutrition</button>
     <button class="topic-pill" data-topic="technology">Technology</button>
-    <button class="topic-pill" data-topic="policy">Policy</button>
+    <button class="topic-pill" data-topic="healthcare">Healthcare</button>
+    <button class="topic-pill" data-topic="energy">Energy</button>
+    <button class="topic-pill" data-topic="finance">Finance</button>
+    <button class="topic-pill" data-topic="crypto">Crypto</button>
   </div>
 </section>
 
@@ -28,20 +28,20 @@ description: "Browse all longevity and healthspan articles by topic — therapeu
   We compute topic assignments at build time and store as data-topics attribute.
 {% endcomment %}
 
-{% assign therapeutics_signals = "senolytic-clinical-validation,rapamycin-healthspan-extension" | split: "," %}
-{% assign therapeutics_keywords = "senolytic,rapamycin,dasatinib,quercetin,fisetin,anti-aging drug,longevity therapeutic,age-related disease,clinical trial,drug candidate" | split: "," %}
+{% assign technology_signals = "ai-stocks-momentum,tech-earnings-trend" | split: "," %}
+{% assign technology_keywords = "nvidia,apple,microsoft,google,alphabet,meta,amazon,ai chip,semiconductor,cloud computing,saas,software,tech stock,artificial intelligence" | split: "," %}
 
-{% assign biomarkers_signals = "epigenetic-clock-adoption,blood-biomarker-panels" | split: "," %}
-{% assign biomarkers_keywords = "epigenetic clock,biological age,dna methylation,horvath,grimace,dunedinpace,biomarker,proteomics,metabolomics,aging clock" | split: "," %}
+{% assign healthcare_signals = "biotech-pipeline-catalyst,pharma-ma-wave" | split: "," %}
+{% assign healthcare_keywords = "biotech,pharmaceutical,fda approval,clinical trial,drug pipeline,healthcare stock,medical device,gene therapy,vaccine,hospital" | split: "," %}
 
-{% assign nutrition_signals = "caloric-restriction-mimetics,gut-microbiome-aging" | split: "," %}
-{% assign nutrition_keywords = "caloric restriction,intermittent fasting,nad+,nmn,nicotinamide,spermidine,microbiome,diet,nutrition,metformin,resveratrol" | split: "," %}
+{% assign energy_signals = "oil-price-trajectory,renewable-energy-shift" | split: "," %}
+{% assign energy_keywords = "oil,natural gas,energy stock,solar,wind,renewable,exxon,chevron,opec,crude,pipeline,utility,clean energy,ev,electric vehicle" | split: "," %}
 
-{% assign tech_signals = "ai-drug-discovery-aging,gene-therapy-aging" | split: "," %}
-{% assign tech_keywords = "gene therapy,crispr,ai drug discovery,machine learning,yamanaka,telomerase,reprogramming,computational biology,wearable" | split: "," %}
+{% assign finance_signals = "fed-rate-trajectory,bank-earnings-cycle" | split: "," %}
+{% assign finance_keywords = "fed,interest rate,bank,jpmorgan,goldman sachs,morgan stanley,insurance,fintech,treasury,bond,yield,inflation,monetary policy" | split: "," %}
 
-{% assign policy_signals = "longevity-regulatory-frameworks,longevity-funding-surge" | split: "," %}
-{% assign policy_keywords = "fda aging,regulatory,funding,venture capital,investment,government grant,clinical pathway,policy,nih,aging research funding" | split: "," %}
+{% assign crypto_signals = "bitcoin-institutional-adoption,defi-market-growth" | split: "," %}
+{% assign crypto_keywords = "bitcoin,ethereum,crypto,blockchain,defi,nft,coinbase,binance,stablecoin,token,mining,web3,digital asset" | split: "," %}
 
 <section class="articles-section">
   <div class="post-grid" id="topics-post-grid">
@@ -50,35 +50,35 @@ description: "Browse all longevity and healthspan articles by topic — therapeu
       {% assign signal_ids_str = post.signal_ids | join: ',' | downcase %}
       {% assign source_text = post.title | append: ' ' | append: post.excerpt | downcase %}
 
-      {% comment %} Therapeutics {% endcomment %}
-      {% assign match = false %}
-      {% for sid in therapeutics_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in therapeutics_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "therapeutics " %}{% endif %}
-
-      {% comment %} Biomarkers {% endcomment %}
-      {% assign match = false %}
-      {% for sid in biomarkers_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in biomarkers_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "biomarkers " %}{% endif %}
-
-      {% comment %} Nutrition {% endcomment %}
-      {% assign match = false %}
-      {% for sid in nutrition_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in nutrition_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "nutrition " %}{% endif %}
-
       {% comment %} Technology {% endcomment %}
       {% assign match = false %}
-      {% for sid in tech_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in tech_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% for sid in technology_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in technology_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
       {% if match %}{% assign topics_list = topics_list | append: "technology " %}{% endif %}
 
-      {% comment %} Policy {% endcomment %}
+      {% comment %} Healthcare {% endcomment %}
       {% assign match = false %}
-      {% for sid in policy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-      {% if match == false %}{% for kw in policy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-      {% if match %}{% assign topics_list = topics_list | append: "policy " %}{% endif %}
+      {% for sid in healthcare_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in healthcare_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "healthcare " %}{% endif %}
+
+      {% comment %} Energy {% endcomment %}
+      {% assign match = false %}
+      {% for sid in energy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in energy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "energy " %}{% endif %}
+
+      {% comment %} Finance {% endcomment %}
+      {% assign match = false %}
+      {% for sid in finance_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in finance_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "finance " %}{% endif %}
+
+      {% comment %} Crypto {% endcomment %}
+      {% assign match = false %}
+      {% for sid in crypto_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+      {% if match == false %}{% for kw in crypto_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+      {% if match %}{% assign topics_list = topics_list | append: "crypto " %}{% endif %}
 
       {% assign topics_trimmed = topics_list | strip %}
 

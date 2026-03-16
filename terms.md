@@ -6,9 +6,9 @@ nav: false
 ---
 
 **Effective Date:** March 15, 2026
-**Last Updated:** March 15, 2026
+**Last Updated:** March 16, 2026
 
-These Terms of Service ("Terms") govern your use of the HealthspanWire website at [healthspanwire.com](https://healthspanwire.com) ("Site"), operated by HealthspanWire ("we," "us," or "our"). By accessing or using this Site, you agree to be bound by these Terms.
+These Terms of Service ("Terms") govern your use of the StoxFeed website at [stoxfeed.com](https://stoxfeed.com) ("Site"), operated by StoxFeed ("we," "us," or "our"). By accessing or using this Site, you agree to be bound by these Terms.
 
 ## 1. Acceptance of Terms
 
@@ -16,38 +16,38 @@ By accessing this Site, you confirm that you are at least 16 years of age and ag
 
 ## 2. Nature of Content
 
-HealthspanWire provides editorial coverage of longevity science, healthspan research, aging biology, and related fields. All content published on this Site is intended **strictly for informational and educational purposes**.
+StoxFeed provides editorial coverage of stock markets, financial markets, earnings reports, and related fields. All content published on this Site is intended **strictly for informational and educational purposes**.
 
-### 2.1 Not Medical Advice
+### 2.1 Not Investment Advice
 
-Nothing on this Site constitutes medical advice, clinical guidance, or a recommendation to pursue any particular treatment, therapy, supplement, or health intervention. Content discussing therapeutics, biomarkers, nutrition, or health technologies reflects reporting on published research and industry developments — it is **not** a substitute for the advice of a licensed healthcare provider.
+Nothing on this Site constitutes investment advice, financial guidance, or a recommendation to buy, sell, or hold any security, asset, or financial instrument. Content discussing stocks, earnings, market trends, or trading strategies reflects reporting on publicly available information and market developments — it is **not** a substitute for the advice of a licensed financial advisor.
 
-### 2.2 No Doctor-Patient Relationship
+### 2.2 No Advisory Relationship
 
-Use of this Site does not establish a doctor-patient, clinician-client, or any professional healthcare relationship between you and HealthspanWire.
+Use of this Site does not establish a financial advisor-client, broker-dealer, or any professional advisory relationship between you and StoxFeed.
 
 ### 2.3 Consult a Professional
 
-**You should always consult a qualified medical professional before acting on any health-related information found on this Site.** Do not disregard professional medical advice or delay seeking it because of something you have read here. If you are experiencing a medical emergency, contact your local emergency services immediately.
+**You should always consult a qualified financial professional before acting on any market-related information found on this Site.** Do not make investment decisions solely based on something you have read here. If you are uncertain about any financial matter, seek independent professional advice.
 
 ## 3. AI-Generated Content Disclosure
 
-Some content on this Site may be created with the assistance of artificial intelligence tools and is reviewed by our editorial team. While we strive for accuracy, AI-assisted content may contain errors or omissions. We encourage readers to verify information through primary sources, including peer-reviewed publications and official institutional announcements.
+Some content on this Site may be created with the assistance of artificial intelligence tools and is reviewed by our editorial team. While we strive for accuracy, AI-assisted content may contain errors or omissions. We encourage readers to verify information through primary sources, including official filings, exchange data, and institutional announcements.
 
 ## 4. Accuracy and Limitations
 
 We make reasonable efforts to ensure the accuracy of our reporting. However:
 
-- Longevity science is a rapidly evolving field. Information may become outdated as new research emerges.
-- We report on pre-clinical studies, clinical trials, and early-stage research that may not lead to approved treatments.
-- Mention of specific compounds, therapies, or technologies does not imply endorsement.
-- We are not responsible for the accuracy or completeness of third-party research we reference.
+- Financial markets are dynamic and rapidly evolving. Information may become outdated as market conditions change.
+- We report on market developments, earnings, and trends that may not predict future performance.
+- Mention of specific stocks, securities, or financial instruments does not imply endorsement or recommendation.
+- We are not responsible for the accuracy or completeness of third-party data we reference.
 
-**HealthspanWire makes no warranties, express or implied, regarding the completeness, accuracy, reliability, or suitability of any content on this Site.**
+**StoxFeed makes no warranties, express or implied, regarding the completeness, accuracy, reliability, or suitability of any content on this Site.**
 
 ## 5. Intellectual Property
 
-All original content on this Site — including text, graphics, logos, and design — is the property of HealthspanWire and is protected by applicable copyright and intellectual property laws. You may not reproduce, distribute, or republish our content without prior written permission, except for brief excerpts with proper attribution and a link back to the original article.
+All original content on this Site — including text, graphics, logos, and design — is the property of StoxFeed and is protected by applicable copyright and intellectual property laws. You may not reproduce, distribute, or republish our content without prior written permission, except for brief excerpts with proper attribution and a link back to the original article.
 
 ## 6. Newsletter
 
@@ -60,20 +60,20 @@ When using this Site, you agree not to:
 - Use the Site for any unlawful purpose
 - Attempt to gain unauthorized access to our systems or infrastructure
 - Scrape, crawl, or harvest content in bulk without permission
-- Misrepresent the Site's content as professional medical advice
+- Misrepresent the Site's content as professional investment advice
 - Interfere with the Site's functionality or other users' access
 
 ## 8. Third-Party Links
 
-This Site may contain links to third-party websites, research publications, and external resources. We are not responsible for the content, accuracy, or practices of linked third-party sites. Inclusion of a link does not imply endorsement.
+This Site may contain links to third-party websites, financial data sources, and external resources. We are not responsible for the content, accuracy, or practices of linked third-party sites. Inclusion of a link does not imply endorsement.
 
 ## 9. Limitation of Liability
 
-To the maximum extent permitted by applicable law, HealthspanWire and its contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from:
+To the maximum extent permitted by applicable law, StoxFeed and its contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from:
 
 - Your use of or inability to use this Site
 - Any reliance on content published on this Site
-- Health decisions or actions taken based on information found here
+- Investment decisions or actions taken based on information found here
 - Any errors, omissions, or inaccuracies in our content
 - Unauthorized access to or alteration of your data
 
@@ -81,7 +81,7 @@ To the maximum extent permitted by applicable law, HealthspanWire and its contri
 
 ## 10. Indemnification
 
-You agree to indemnify and hold harmless HealthspanWire, its contributors, and affiliates from any claims, damages, or expenses arising from your use of the Site or violation of these Terms.
+You agree to indemnify and hold harmless StoxFeed, its contributors, and affiliates from any claims, damages, or expenses arising from your use of the Site or violation of these Terms.
 
 ## 11. Governing Law
 

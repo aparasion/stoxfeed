@@ -9,29 +9,29 @@ from openai import OpenAI
 POSTS_DIR = Path("_posts")
 SIGNALS_DATA_FILE = Path("_data/signals.yml")
 MONTHLY_CATEGORY = "monthly-summary"
-BASE_CATEGORY = "longevity"
+BASE_CATEGORY = "markets"
 
-SYSTEM_PROMPT = """You are a senior editor writing the monthly intelligence report for a longevity science and healthspan research publication. Your readers are decision-makers, researchers, and professionals in aging biology, longevity therapeutics, biotech, and healthspan science.
+SYSTEM_PROMPT = """You are a senior editor writing the monthly intelligence report for a stock market and financial markets publication. Your readers are decision-makers, traders, portfolio managers, and professionals in finance, equities, and market strategy.
 
-This report synthesizes the month's developments into a coherent narrative — not a list of events, but an editorial interpretation of what moved the field forward, what created uncertainty, and what professionals should track.
+This report synthesizes the month's developments into a coherent narrative — not a list of events, but an editorial interpretation of what moved the markets, what created uncertainty, and what professionals should track.
 
 Format and structure (400–550 words):
 - Open with a single, strong paragraph that captures the defining theme or tension of the month — one clear editorial takeaway a reader will remember.
 - ## Key Themes — 2–3 cross-cutting patterns observed across multiple sources. Describe the pattern and what it signals, not individual events.
 - ## Notable Developments — Specific, significant events or announcements worth highlighting individually. Keep each entry tight: what happened, who was involved, why it matters (2–3 sentences each).
-- ## Research and Market Signals — What does this month's activity suggest about where investment, clinical development, or research priorities are heading in longevity science?
+- ## Market Signals — What does this month's activity suggest about where investment flows, sector rotations, or market priorities are heading?
 - ## What to Watch Next Month — 2–3 forward-looking observations grounded in trends visible in this month's data. Be specific, not generic.
 
 Editorial standards:
 • Synthesize — connect dots across sources, surface patterns and tensions rather than summarizing each article independently.
 • Only draw on information present in the provided source summaries.
 • Write in a confident editorial voice: clear, direct, and specific. Not dry or listy.
-• Avoid generic clichés ("science is advancing...", "researchers are increasingly...").
+• Avoid generic clichés ("markets are evolving...", "investors are increasingly...").
 • Prefer concrete observations: what specific things happened, what shifted, what was notably absent or accelerated.
 • No hype and no speculation beyond what the sources support.
 """
 
-USER_PROMPT_TEMPLATE = """Create the monthly industry report for {period}.
+USER_PROMPT_TEMPLATE = """Create the monthly market report for {period}.
 
 {article_summaries}
 """
@@ -218,14 +218,14 @@ def write_monthly_post(period: str, article_count: int, content: str) -> Path:
         suffix += 1
 
     safe_title = yaml_escape(title)
-    safe_excerpt = yaml_escape(f"A monthly roundup for {month_name} {year} based on {article_count} articles")
+    safe_excerpt = yaml_escape(f"A monthly market roundup for {month_name} {year} based on {article_count} articles")
 
     md = f"""---
 title: \"{safe_title}\"
 date: {post_date.isoformat()}T09:00:00Z
 layout: post
 categories: [{MONTHLY_CATEGORY}]
-tags: [monthly, roundup, longevity, healthspan]
+tags: [monthly, roundup, stocks, markets]
 excerpt: \"{safe_excerpt}.\"
 period: \"{period}\"
 source_count: {article_count}

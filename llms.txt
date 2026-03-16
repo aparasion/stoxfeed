@@ -1,21 +1,21 @@
-# HealthspanWire
-> Daily longevity science and healthspan research intelligence
+# StoxFeed
+> Daily stock market and financial markets intelligence
 
-HealthspanWire is an independent publication tracking the frontiers of longevity
-science. We cover aging biology, longevity therapeutics, biomarkers, nutrition
-science, gene therapy, and the technologies extending human healthspan.
+StoxFeed is an independent publication tracking the pulse of the stock market
+and financial markets. We cover equities, earnings reports, market trends,
+sector rotations, IPOs, and the forces moving stock prices.
 
 ## Key Resources
-- Signal Tracker: /signals/ — 10 tracked research signals with evidence
+- Signal Tracker: /signals/ — 10 tracked market signals with evidence
 - Monthly Reports: /monthly-reports/ — editorial synthesis of monthly trends
 - Daily Coverage: / — curated news with professional analysis
 - Newsletter: /newsletter/ — weekly digest and signal alerts
 
 ## Topics Covered
-Senolytic therapies, rapamycin, epigenetic clocks, biological age biomarkers,
-caloric restriction mimetics, NAD+ precursors, gut microbiome aging, AI drug
-discovery, gene therapy, CRISPR, longevity regulatory frameworks, funding trends.
+Technology stocks, healthcare equities, energy markets, financial sector,
+cryptocurrency, earnings reports, Fed policy, IPOs, M&A activity, sector
+rotations, market volatility, index movements, institutional flows.
 
 ## Audience
-Longevity researchers, biotech professionals, aging biology scientists,
-healthspan clinicians, biotech investors, and longevity industry analysts.
+Traders, portfolio managers, financial analysts, market strategists,
+fintech professionals, retail investors, and financial industry analysts.

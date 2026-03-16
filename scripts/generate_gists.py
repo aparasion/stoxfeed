@@ -15,28 +15,26 @@ SIGNALS_FILE = "_data/signals.yml"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 FEEDS = [
-    "https://longevity.technology/feed/",
-    "https://lifespan.io/feed/",
-    "https://www.fightaging.org/feed",
-    "https://news.google.com/rss/search?q=healthspan&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=longevity&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=lifespan+extension&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=longevity+biotech&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=anti-aging+science&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=senolytics+aging&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=epigenetic+clock+aging&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=David+Sinclair+longevity&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=Peter+Attia+healthspan&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=rapamycin+longevity&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=NAD+aging+research&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=caloric+restriction+longevity&hl=en-US&gl=US&ceid=US:en",
-    "https://superagingnews.com/category/longevity-wellness/feed/",
-    "https://connect.biorxiv.org/biorxiv_xml.php?subject=aging",
-    "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
+    "https://news.google.com/rss/search?q=stock+market&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=earnings+report&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=S%26P+500&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=NASDAQ+stocks&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=tech+stocks+AI&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=biotech+stocks&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=IPO+market&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=Federal+Reserve+interest+rate&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=cryptocurrency+bitcoin&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=oil+price+energy+stocks&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=Wall+Street+trading&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=hedge+fund+investment&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=semiconductor+stocks+NVIDIA&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=mergers+acquisitions+M%26A&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=market+volatility+VIX&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=fintech+stocks&hl=en-US&gl=US&ceid=US:en",
 ]
 
 SEEN_FILE = "seen.json"
-YOUR_AREA = "Longevity"
+YOUR_AREA = "Markets"
 MAX_ARTICLES = 18
 MIN_ARTICLE_CHARS = 500
 MIN_ARTICLE_WORDS = 90
@@ -57,7 +55,7 @@ def yaml_escape(text: str) -> str:
 
 
 def get_publisher_domain(url: str) -> str:
-    """Extract clean domain name from URL (e.g. 'longevity.technology')"""
+    """Extract clean domain name from URL (e.g. 'reuters.com')"""
     try:
         parsed = urlparse(url)
         domain = parsed.netloc.lower()
@@ -298,69 +296,67 @@ def parse_signal_titles_from_yaml(path: str) -> dict[str, str]:
 SIGNAL_TITLES = parse_signal_titles_from_yaml(SIGNALS_FILE)
 
 SIGNAL_KEYWORDS = {
-    # category: therapeutics
-    "senolytic-clinical-validation": [
-        "senolytic", "senescent cell", "dasatinib", "quercetin", "fisetin",
-        "unity biotechnology", "senescence", "senostatic", "clearance of senescent",
-        "zombie cell", "senescent cell elimination",
-    ],
-    "rapamycin-healthspan-extension": [
-        "rapamycin", "rapalog", "mTOR", "mTOR inhibitor", "sirolimus",
-        "everolimus", "mechanistic target", "TORC1", "rapamycin analog",
-        "mTOR pathway",
-    ],
-    # category: biomarkers
-    "epigenetic-clock-adoption": [
-        "epigenetic clock", "DNA methylation", "Horvath", "GrimAge",
-        "DunedinPACE", "biological age", "methylation age", "aging clock",
-        "epigenetic age", "DNAm",
-    ],
-    "blood-biomarker-panels": [
-        "blood biomarker", "proteomics", "metabolomics", "multi-omic",
-        "aging panel", "blood test aging", "plasma protein", "biomarker panel",
-        "liquid biopsy aging", "omic",
-    ],
-    # category: nutrition
-    "caloric-restriction-mimetics": [
-        "caloric restriction", "calorie restriction", "fasting mimetic",
-        "metformin", "spermidine", "NAD+", "NMN", "nicotinamide riboside",
-        "NR supplement", "CR mimetic", "intermittent fasting",
-    ],
-    "gut-microbiome-aging": [
-        "microbiome", "gut bacteria", "gut flora", "probiotic aging",
-        "inflammaging", "microbial diversity", "gut-brain axis",
-        "fecal transplant", "microbiota", "gut health aging",
-    ],
     # category: technology
-    "ai-drug-discovery-aging": [
-        "AI drug discovery", "machine learning aging", "computational drug",
-        "drug repurposing", "in silico", "AlphaFold", "target identification",
-        "AI-driven drug", "deep learning drug",
+    "ai-stocks-momentum": [
+        "nvidia", "AI chip", "semiconductor", "artificial intelligence",
+        "machine learning", "GPU", "data center", "cloud computing",
+        "AMD", "Intel", "Broadcom", "AI stock",
     ],
-    "gene-therapy-aging": [
-        "gene therapy", "CRISPR", "Yamanaka factors", "cellular reprogramming",
-        "telomerase", "TERT", "AAV gene therapy", "epigenetic reprogramming",
-        "partial reprogramming", "gene editing aging",
+    "tech-earnings-trend": [
+        "tech earnings", "Apple earnings", "Microsoft earnings", "Google earnings",
+        "Meta earnings", "Amazon earnings", "cloud revenue", "SaaS growth",
+        "tech revenue", "big tech",
     ],
-    # category: policy
-    "longevity-regulatory-frameworks": [
-        "FDA aging", "aging indication", "regulatory pathway",
-        "geroscience", "TAME trial", "aging as disease",
-        "regulatory framework aging", "EMA longevity",
+    # category: healthcare
+    "biotech-pipeline-catalyst": [
+        "FDA approval", "clinical trial", "drug pipeline", "biotech stock",
+        "pharmaceutical", "gene therapy", "oncology", "rare disease",
+        "phase 3", "NDA filing",
     ],
-    "longevity-funding-surge": [
-        "longevity funding", "longevity investment", "aging biotech",
-        "venture capital longevity", "Altos Labs", "Calico",
-        "longevity startup", "aging research grant", "NIH aging",
-        "longevity VC",
+    "pharma-ma-wave": [
+        "pharma acquisition", "biotech merger", "M&A pharma", "drug deal",
+        "buyout", "pharma takeover", "licensing deal", "biotech buyout",
+    ],
+    # category: energy
+    "oil-price-trajectory": [
+        "oil price", "crude oil", "OPEC", "Brent crude", "WTI",
+        "energy stock", "Exxon", "Chevron", "oil production",
+        "natural gas", "petroleum",
+    ],
+    "renewable-energy-shift": [
+        "solar stock", "wind energy", "clean energy", "EV stock",
+        "Tesla", "electric vehicle", "renewable energy", "green energy",
+        "battery", "lithium",
+    ],
+    # category: finance
+    "fed-rate-trajectory": [
+        "Federal Reserve", "interest rate", "Fed decision", "FOMC",
+        "rate cut", "rate hike", "monetary policy", "inflation",
+        "Treasury yield", "bond market",
+    ],
+    "bank-earnings-cycle": [
+        "bank earnings", "JPMorgan", "Goldman Sachs", "Morgan Stanley",
+        "Wells Fargo", "Citigroup", "bank stock", "financial sector",
+        "net interest income", "banking",
+    ],
+    # category: crypto
+    "bitcoin-institutional-adoption": [
+        "Bitcoin", "BTC", "Bitcoin ETF", "institutional crypto",
+        "MicroStrategy", "Coinbase", "crypto fund", "digital asset",
+        "Bitcoin halving", "crypto regulation",
+    ],
+    "defi-market-growth": [
+        "DeFi", "Ethereum", "stablecoin", "decentralized finance",
+        "smart contract", "blockchain", "Web3", "crypto token",
+        "yield farming", "DEX",
     ],
 }
 
 
 NEGATIVE_MARKERS = [
-    "failed", "fails", "lawsuit", "criticized", "criticises", "criticizes", "serious issue", "data quality issues"
+    "crashed", "plunged", "lawsuit", "fraud", "scandal", "downgrade", "warning", "layoffs"
 ]
-MIXED_MARKERS = ["however", "but", "trade-off", "while"]
+MIXED_MARKERS = ["however", "but", "trade-off", "while", "despite", "mixed"]
 
 
 def infer_signal_tags(title: str, gist: str) -> tuple[list[str], str, str]:
@@ -453,7 +449,7 @@ def main() -> None:
 
             prompt = (
                 "Write a gist for this article (120–160 words).\n"
-                "Frame it for a longevity science and healthspan research professional audience.\n\n"
+                "Frame it for a stock market and financial markets professional audience.\n\n"
                 f"Article text:\n{text[:15000]}"
             )
 
@@ -463,22 +459,22 @@ def main() -> None:
                     messages=[
                         {
                             "role": "system",
-                            "content": """You are a skilled editorial writer for a longevity science and healthspan research news platform. Your readers are professionals working in aging biology, longevity therapeutics, biotech, and healthspan research.
+                            "content": """You are a skilled editorial writer for a stock market and financial markets news platform. Your readers are professionals working in trading, portfolio management, financial analysis, and market strategy.
 
 Write a clear, engaging gist in 3 short paragraphs (120–160 words total).
 
 Opening paragraph: Lead with the most significant development in a strong, direct sentence. Establish what happened and who is involved immediately.
 
-Middle paragraph: Explain why it matters to the longevity and healthspan field — connect to clinical impact, research trends, therapeutic potential, or market dynamics as relevant. Use specific details from the source material.
+Middle paragraph: Explain why it matters to the financial markets — connect to stock performance, sector impact, earnings implications, or macro trends as relevant. Use specific details from the source material.
 
-Closing paragraph: Offer one concrete, field-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
+Closing paragraph: Offer one concrete, market-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
 
 Tone and style:
-• Write like a knowledgeable colleague sharing a notable finding, not like a press release.
+• Write like a knowledgeable colleague sharing a notable market development, not like a press release.
 • Use active voice, varied sentence length, and concrete language.
 • Avoid corporate jargon, filler phrases ("in a world where...", "it's worth noting that..."), and vague superlatives.
 • Neutral and factual — no editorial opinion, no speculation beyond what the source states.
-• The gist should make a longevity professional curious enough to click through to the original article.
+• The gist should make a market professional curious enough to click through to the original article.
 
 If the provided text is mostly cookie/privacy/legal notices rather than article content, respond exactly with: UNUSABLE_CONTENT""",
                         },
@@ -529,7 +525,7 @@ If the provided text is mostly cookie/privacy/legal notices rather than article 
                 signal_title = SIGNAL_TITLES.get(first_signal, "")
                 if signal_title:
                     signal_ref = (
-                        f"\n*HealthspanWire tracks this as a research signal: "
+                        f"\n*StoxFeed tracks this as a market signal: "
                         f"[{signal_title}](/signals/#{first_signal})*\n"
                     )
 
@@ -538,7 +534,7 @@ title: "{safe_title}"
 date: {post_date_str}T{time_str}Z
 layout: post
 categories: [{YOUR_AREA.lower()}]
-tags: [longevity, healthspan, news, gist]
+tags: [stocks, markets, news, gist]
 excerpt: "{safe_excerpt}..."
 publisher: "{safe_publisher}"
 source_url: "{safe_source_url}"
