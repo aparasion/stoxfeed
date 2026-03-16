@@ -5,21 +5,22 @@
 
 /* ── Tokens ─────────────────────────────────────────────── */
 :root {
-  /* Colour — Dark Biotech */
+  /* Colour — Dark Markets */
   --bg:             #0c0f14;
   --bg-secondary:   #111520;
   --surface:        #161b27;
   --text:           #e8ecf4;
   --muted:          #7d8aa3;
-  --accent:         #4DB6AC;
-  --accent-soft:    rgba(77, 182, 172, 0.1);
-  --brand-health:   #4DB6AC;
-  --brand-wire:     #81C784;
+  --accent:         #5BB5AD;
+  --accent-soft:    rgba(91, 181, 173, 0.1);
+  --brand-stox:     #5BB5AD;
+  --brand-feed:     #7EC882;
+  --accent-blue:    #3678B2;
   --border:         rgba(255, 255, 255, 0.06);
   --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.2);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.4), 0 12px 40px rgba(0, 0, 0, 0.3);
-  --gradient-hero:  linear-gradient(135deg, #0a0f18 0%, #0d1520 30%, #0a1a1a 60%, #0c1510 100%);
-  --gradient-accent: linear-gradient(135deg, #4DB6AC, #66BB6A, #26A69A);
+  --gradient-hero:  linear-gradient(135deg, #0a0f18 0%, #0d1520 30%, #0c1518 60%, #0e1420 100%);
+  --gradient-accent: linear-gradient(135deg, #5BB5AD, #7EC882, #3678B2);
   --glass-bg:       rgba(12, 15, 20, 0.85);
   --glass-border:   rgba(255, 255, 255, 0.06);
   --featured-bg:    linear-gradient(135deg, #111d2b 0%, #0f2420 100%);
@@ -58,18 +59,19 @@
   --surface:        #ffffff;
   --text:           #1a1a1e;
   --muted:          #6b7280;
-  --accent:         #0d9488;
-  --accent-soft:    rgba(13, 148, 136, 0.1);
-  --brand-health:   #0d9488;
-  --brand-wire:     #4a7c59;
+  --accent:         #3a9690;
+  --accent-soft:    rgba(58, 150, 144, 0.1);
+  --brand-stox:     #3a9690;
+  --brand-feed:     #4a8c55;
+  --accent-blue:    #2c6092;
   --border:         rgba(0, 0, 0, 0.1);
   --card-shadow:    0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 16px rgba(0, 0, 0, 0.06);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.12), 0 12px 40px rgba(0, 0, 0, 0.1);
-  --gradient-hero:  linear-gradient(135deg, #e8eef4 0%, #edf4f2 30%, #eaf4ee 60%, #f0f4eb 100%);
-  --gradient-accent: linear-gradient(135deg, #0d9488, #4a7c59, #0f766e);
+  --gradient-hero:  linear-gradient(135deg, #e8eef4 0%, #edf4f2 30%, #e8f0f4 60%, #f0f4eb 100%);
+  --gradient-accent: linear-gradient(135deg, #3a9690, #4a8c55, #2c6092);
   --glass-bg:       rgba(244, 244, 245, 0.9);
   --glass-border:   rgba(0, 0, 0, 0.08);
-  --featured-bg:    linear-gradient(135deg, #e8f4f2 0%, #eaf4ee 100%);
+  --featured-bg:    linear-gradient(135deg, #e8f4f2 0%, #e8eff4 100%);
   --featured-text:  #1a1a1e;
   --featured-muted: #4b6672;
 }
@@ -202,8 +204,11 @@ hr {
   letter-spacing: -0.03em;
 }
 
-.brand-health { color: var(--brand-health); }
-.brand-wire   { color: var(--brand-wire); }
+.brand-stox { color: var(--brand-stox); }
+.brand-feed { color: var(--brand-feed); }
+/* Legacy class compat */
+.brand-health { color: var(--brand-stox); }
+.brand-wire   { color: var(--brand-feed); }
 
 /* ── Navigation — Right Aligned ────────────────────────── */
 .site-nav {
@@ -343,8 +348,8 @@ hr {
   left: -50%;
   width: 200%;
   height: 200%;
-  background: radial-gradient(circle at 30% 40%, rgba(77, 182, 172, 0.08) 0%, transparent 50%),
-              radial-gradient(circle at 70% 60%, rgba(129, 199, 132, 0.06) 0%, transparent 50%);
+  background: radial-gradient(circle at 30% 40%, rgba(91, 181, 173, 0.08) 0%, transparent 50%),
+              radial-gradient(circle at 70% 60%, rgba(54, 120, 178, 0.06) 0%, transparent 50%);
   animation: heroGlow 15s ease-in-out infinite alternate;
   z-index: -1;
 }
@@ -528,7 +533,7 @@ hr {
   right: -30%;
   width: 600px;
   height: 600px;
-  background: radial-gradient(circle, rgba(77, 182, 172, 0.12) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(91, 181, 173, 0.12) 0%, transparent 70%);
   animation: featurePulse 8s ease-in-out infinite alternate;
 }
 
@@ -539,7 +544,7 @@ hr {
   left: -20%;
   width: 500px;
   height: 500px;
-  background: radial-gradient(circle, rgba(129, 199, 132, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(54, 120, 178, 0.08) 0%, transparent 70%);
   animation: featurePulse 10s ease-in-out 2s infinite alternate;
 }
 
@@ -563,7 +568,7 @@ hr {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--brand-wire);
+  color: var(--brand-feed);
   margin-bottom: var(--space-4);
 }
 
@@ -572,7 +577,7 @@ hr {
   display: inline-block;
   width: 8px;
   height: 8px;
-  background: var(--brand-wire);
+  background: var(--brand-feed);
   border-radius: 50%;
   animation: livePulse 2s ease-in-out infinite;
 }
