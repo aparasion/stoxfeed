@@ -1278,7 +1278,6 @@ article.post h1 {
 }
 
 .post-content {
-  margin-top: var(--space-6);
   font-size: 1.05rem;
 }
 
