@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<section class="hero-slim article-hero">
+  {% if page.issue_line %}<p class="issue-line">{{ page.issue_line }}</p>{% endif %}
+  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}<p class="article-subtitle">{{ page.subtitle }}</p>{% endif %}
+  {% if page.byline %}<p class="article-byline">{{ page.byline }}</p>{% endif %}
+</section>
+
+<div class="feed-layout">
+  <main class="feed-main">
+    <article class="article-content">
+      {{ content }}
+    </article>
+  </main>
+
+  {% include sidebar.html %}
+</div>
