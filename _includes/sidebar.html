@@ -8,7 +8,7 @@
   </div>
 
   <div class="sidebar-widget sidebar-featured">
-    <h4 class="sidebar-title">Own Articles</h4>
+    <h4 class="sidebar-title">Insights!</h4>
     <ul class="sidebar-links">
       {% assign sorted_articles = site.articles | sort: 'date' | reverse %}
       {% for article in sorted_articles limit:5 %}
