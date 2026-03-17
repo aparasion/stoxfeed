@@ -37,7 +37,7 @@
   title: Clean energy stocks are gaining on policy tailwinds and adoption growth
   category: energy
   first_seen: 2026-03-16
-  current_status: emerging
+  current_status: supported
   description: Tracks investment flows into solar, wind, EV, and battery stocks driven by government incentives, corporate commitments, and technology improvements.
 
 - id: fed-rate-trajectory
@@ -58,7 +58,7 @@
   title: Institutional Bitcoin adoption is growing through ETFs and corporate holdings
   category: crypto
   first_seen: 2026-03-16
-  current_status: emerging
+  current_status: supported
   description: Tracks institutional investment in Bitcoin through spot ETFs, corporate treasury allocations, and regulated crypto products.
 
 - id: defi-market-growth
