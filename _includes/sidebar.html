@@ -59,4 +59,33 @@
     </div>
   </div>
 
+  {% assign all_monthly = site.posts | where_exp: "post", "post.categories contains 'monthly-summary'" %}
+  {% assign monthly_count = all_monthly | size %}
+  {% assign articles_count = site.posts | size | minus: monthly_count %}
+  <div class="sidebar-widget sidebar-counts">
+    <h4 class="sidebar-title">Content Index</h4>
+    <div class="counts-grid">
+      <div class="count-item">
+        <span class="count-num">{{ articles_count }}</span>
+        <span class="count-label">Articles</span>
+      </div>
+      <div class="count-item">
+        <span class="count-num">{{ site.data.signals | size }}</span>
+        <span class="count-label">Signals</span>
+      </div>
+      <div class="count-item">
+        <span class="count-num">5</span>
+        <span class="count-label">Topics</span>
+      </div>
+      <div class="count-item">
+        <span class="count-num">{{ site.articles | size }}</span>
+        <span class="count-label">Insights</span>
+      </div>
+      <div class="count-item">
+        <span class="count-num">{{ monthly_count }}</span>
+        <span class="count-label">Reports</span>
+      </div>
+    </div>
+  </div>
+
 </aside>
