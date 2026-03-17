@@ -36,6 +36,8 @@ A living tracker of high-impact market signals and trends, with linked evidence 
         {% else %}
           <p class="signal-card__empty">No linked evidence yet.</p>
         {% endif %}
+        {% assign _sig_url = '/signals/#' | append: signal.id %}
+        {% include social-share.html url=_sig_url title=signal.title %}
       </div>
     </details>
   {% endfor %}

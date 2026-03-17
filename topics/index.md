@@ -88,6 +88,7 @@ description: "Browse all stock market and financial articles by topic — techno
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
             <span class="read-more">Read more &rarr;</span>
+            {% include social-share.html url=post.url title=post.title compact=true %}
           </article>
         {% endfor %}
       </div>
