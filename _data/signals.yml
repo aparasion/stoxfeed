@@ -51,7 +51,7 @@
   title: Bank earnings reflect credit cycle and interest rate dynamics
   category: finance
   first_seen: 2026-03-16
-  current_status: emerging
+  current_status: supported
   description: Tracks quarterly earnings from major banks (JPMorgan, Goldman Sachs, Morgan Stanley) as indicators of financial sector health and lending conditions.
 
 - id: bitcoin-institutional-adoption
