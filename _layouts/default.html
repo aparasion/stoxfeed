@@ -124,7 +124,10 @@
 <script>
 // ── Light gray mode — apply before render to avoid flash ──
 (function () {
-  if (localStorage.getItem("theme") === "light-gray") {
+  var stored = localStorage.getItem("theme");
+  if (stored === "dark" ) {
+    document.documentElement.removeAttribute("data-theme");
+  } else {
     document.documentElement.setAttribute("data-theme", "light-gray");
   }
 })();
@@ -141,11 +144,11 @@ document.addEventListener("DOMContentLoaded", function () {
       var isLightGray = document.documentElement.getAttribute("data-theme") === "light-gray";
       if (isLightGray) {
         document.documentElement.removeAttribute("data-theme");
-        localStorage.removeItem("theme");
+        localStorage.setItem("theme", "dark");
         themeToggle.title = "Switch to light gray mode";
       } else {
         document.documentElement.setAttribute("data-theme", "light-gray");
-        localStorage.setItem("theme", "light-gray");
+        localStorage.removeItem("theme");
         themeToggle.title = "Switch to dark navy mode";
       }
     });
