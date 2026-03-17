@@ -2342,3 +2342,78 @@ a.internal-link:hover {
   letter-spacing: 0.05em;
   margin-top: 2px;
 }
+
+/* ── Social Share Bar ─────────────────────────────────── */
+.share-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 1.5rem 0 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.share-bar__label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--muted);
+  margin-right: 0.3rem;
+  white-space: nowrap;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  text-decoration: none;
+  transition: color 0.18s ease, background 0.18s ease;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.share-btn:hover {
+  background: color-mix(in srgb, currentColor 12%, transparent);
+}
+
+.share-btn--twitter:hover  { color: #000; }
+.share-btn--linkedin:hover { color: #0A66C2; }
+.share-btn--facebook:hover { color: #1877F2; }
+.share-btn--reddit:hover   { color: #FF4500; }
+.share-btn--whatsapp:hover { color: #25D366; }
+.share-btn--copy:hover     { color: var(--accent); }
+.share-btn--copy.copied    { color: var(--accent); }
+
+[data-theme="light-gray"] .share-btn--twitter:hover { color: #111; }
+
+.share-btn svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+  pointer-events: none;
+}
+
+/* Compact variant used on post-cards in listing views */
+.share-bar--compact {
+  margin: 0.75rem 0 0;
+  padding-top: 0.75rem;
+}
+
+.share-bar--compact .share-btn {
+  width: 26px;
+  height: 26px;
+}
+
+.share-bar--compact .share-btn svg {
+  width: 14px;
+  height: 14px;
+}
