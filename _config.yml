@@ -7,3 +7,8 @@ og_locale: "en_US"
 twitter_username: "stoxfeed"
 social_image: "/assets/images/stoxfeed-logo.png"
 permalink: /articles/:year/:month/:day/:title.html
+
+collections:
+  articles:
+    output: true
+    permalink: /insights/:name/
