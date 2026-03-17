@@ -1,1 +1,1 @@
-# StoxFeed
+# StoxFeed ©
