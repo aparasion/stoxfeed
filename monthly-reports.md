@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-A curated monthly roundup of the biggest developments across translation, localization, and language technology.
+A curated monthly roundup of the biggest developments across equities, earnings, crypto, macro policy, and the forces shaping global financial markets.
 <br />
 {% assign monthly_posts = site.posts | where_exp: "post", "post.categories contains 'monthly-summary'" %}
 {% if monthly_posts.size > 0 %}
@@ -14,20 +14,20 @@ A curated monthly roundup of the biggest developments across translation, locali
   {% for post in monthly_posts %}
     {% assign source_text = post.title | append: ' ' | append: post.excerpt | append: ' ' | append: post.content | downcase %}
     {% assign topics = '' %}
-    {% if source_text contains 'ai' or source_text contains 'llm' or source_text contains 'machine learning' or source_text contains 'neural' %}
-      {% assign topics = topics | append: 'ai,' %}
+    {% if source_text contains 'earnings' or source_text contains 'revenue' or source_text contains 'profit' or source_text contains 'eps' or source_text contains 'quarterly' %}
+      {% assign topics = topics | append: 'earnings,' %}
     {% endif %}
-    {% if source_text contains 'lsp' or source_text contains 'language service' or source_text contains 'vendor' or source_text contains 'provider' %}
-      {% assign topics = topics | append: 'lsp,' %}
+    {% if source_text contains 'bitcoin' or source_text contains 'ethereum' or source_text contains 'crypto' or source_text contains 'token' or source_text contains 'blockchain' or source_text contains 'defi' %}
+      {% assign topics = topics | append: 'crypto,' %}
     {% endif %}
-    {% if source_text contains 'platform' or source_text contains 'api' or source_text contains 'tool' or source_text contains 'workflow' or source_text contains 'software' %}
-      {% assign topics = topics | append: 'tooling,' %}
+    {% if source_text contains 'fed' or source_text contains 'federal reserve' or source_text contains 'interest rate' or source_text contains 'inflation' or source_text contains 'ecb' or source_text contains 'central bank' or source_text contains 'monetary' %}
+      {% assign topics = topics | append: 'macro,' %}
     {% endif %}
-    {% if source_text contains 'regulation' or source_text contains 'law' or source_text contains 'compliance' or source_text contains 'government' or source_text contains 'commission' or source_text contains 'policy' %}
-      {% assign topics = topics | append: 'policy,' %}
+    {% if source_text contains 'ipo' or source_text contains 'acquisition' or source_text contains 'merger' or source_text contains 'deal' or source_text contains 'buyout' or source_text contains 'spinoff' %}
+      {% assign topics = topics | append: 'dealflow,' %}
     {% endif %}
     {% if topics == '' %}
-      {% assign topics = 'tooling' %}
+      {% assign topics = 'equities' %}
     {% endif %}
 
     <article class="post-preview" data-topics="{{ topics | strip }}">
