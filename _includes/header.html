@@ -1,15 +1,15 @@
 <header class="site-header">
   <div class="header-shell">
     <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }} home">
-      <img src="{{ '/assets/images/logolight.png' | relative_url }}"
-           alt="{{ site.title }}"
-           class="logo-image logo-dark">
       <img src="{{ '/assets/images/logodark.png' | relative_url }}"
            alt="{{ site.title }}"
+           class="logo-image logo-dark">
+      <img src="{{ '/assets/images/logolight.png' | relative_url }}"
+           alt="{{ site.title }}"
            class="logo-image logo-light">
-      <span class="logo-text">
+<!--    <span class="logo-text">
         <span class="brand-stox">Stox</span><span class="brand-feed">Feed</span>
-      </span>
+      </span> -->
     </a>
 
     {% include nav.html %}
