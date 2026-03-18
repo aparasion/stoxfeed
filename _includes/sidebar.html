@@ -49,22 +49,13 @@
 
     <!-- TradingView Mini Chart: spot gold price (TVC:GOLD) -->
     <div class="gold-chart-wrap">
-      <div class="tradingview-widget-container">
-        <div class="tradingview-widget-container__widget"></div>
-        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-        {
-          "symbol": "TVC:GOLD",
-          "width": "100%",
-          "height": 180,
-          "locale": "en",
-          "dateRange": "3M",
-          "colorTheme": "dark",
-          "isTransparent": true,
-          "autosize": true,
-          "largeChartUrl": ""
-        }
-        </script>
-      </div>
+      <iframe
+        src="https://www.tradingview.com/widgetembed/?symbol=TVC%3AGOLD&interval=D&theme=dark&style=1&locale=en&hidesidetoolbar=1&hidetoptoolbar=1&withdateranges=0"
+        style="width:100%;height:180px;border:none;display:block;"
+        frameborder="0"
+        allowtransparency="true"
+        scrolling="no"
+        title="Gold price chart"></iframe>
     </div>
 
     <!-- KPI grid: Spot price, G:S Ratio, 52w High, 52w Low -->
