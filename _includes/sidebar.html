@@ -50,27 +50,37 @@
     <!-- Self-hosted sparkline: 30-day GLD closing prices drawn on canvas -->
     {% if site.data.gold.gld_history %}
     <div class="gold-chart-wrap">
-      <canvas id="gold-sparkline" width="248" height="80" class="gold-sparkline"></canvas>
+      <canvas id="gold-sparkline" width="248" height="100" class="gold-sparkline"></canvas>
       <script>
       (function(){
         var p={{ site.data.gold.gld_history | jsonify }};
         var c=document.getElementById('gold-sparkline');
         if(!c||!p||p.length<2)return;
-        var ctx=c.getContext('2d'),W=c.width,H=c.height,pad=4;
+        var ctx=c.getContext('2d'),W=c.width,H=c.height;
+        var padL=36,padR=4,padT=4,padB=16;
         var mn=Math.min.apply(null,p),mx=Math.max.apply(null,p),rng=mx-mn||1;
-        var sx=(W-pad*2)/(p.length-1);
-        function X(i){return pad+i*sx;}
-        function Y(v){return pad+(1-(v-mn)/rng)*(H-pad*2);}
+        var chartW=W-padL-padR,chartH=H-padT-padB;
+        var sx=chartW/(p.length-1);
+        function X(i){return padL+i*sx;}
+        function Y(v){return padT+(1-(v-mn)/rng)*chartH;}
         var g=ctx.createLinearGradient(0,0,0,H);
         g.addColorStop(0,'rgba(245,158,11,0.25)');
         g.addColorStop(1,'rgba(245,158,11,0)');
         ctx.beginPath();
         p.forEach(function(v,i){i?ctx.lineTo(X(i),Y(v)):ctx.moveTo(X(i),Y(v));});
-        ctx.lineTo(X(p.length-1),H);ctx.lineTo(pad,H);ctx.closePath();
+        ctx.lineTo(X(p.length-1),padT+chartH);ctx.lineTo(padL,padT+chartH);ctx.closePath();
         ctx.fillStyle=g;ctx.fill();
         ctx.beginPath();
         p.forEach(function(v,i){i?ctx.lineTo(X(i),Y(v)):ctx.moveTo(X(i),Y(v));});
         ctx.strokeStyle='#f59e0b';ctx.lineWidth=1.5;ctx.lineJoin='round';ctx.stroke();
+        ctx.fillStyle='#9ca3af';ctx.font='9px system-ui,sans-serif';
+        ctx.textBaseline='top';ctx.textAlign='left';
+        ctx.fillText('$'+Math.round(mx),2,padT);
+        ctx.textBaseline='bottom';
+        ctx.fillText('$'+Math.round(mn),2,padT+chartH);
+        ctx.textBaseline='bottom';
+        ctx.textAlign='left';ctx.fillText('30d ago',padL,H);
+        ctx.textAlign='right';ctx.fillText('Today',W-padR,H);
       })();
       </script>
     </div>
