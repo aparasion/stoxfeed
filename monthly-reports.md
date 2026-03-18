@@ -3,7 +3,7 @@ layout: page
 title: Monthly Reports
 permalink: /monthly-reports/
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 A curated monthly roundup of the biggest developments across equities, earnings, crypto, macro policy, and the forces shaping global financial markets.

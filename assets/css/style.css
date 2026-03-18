@@ -881,6 +881,58 @@ hr {
   50% { opacity: 0.5; transform: scale(0.8); }
 }
 
+/* -- Daily Brief Pill & Card ---------------------------------------- */
+.daily-brief-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fbbf24;
+  background: rgba(251, 191, 36, 0.12);
+  border: 1px solid rgba(251, 191, 36, 0.25);
+  border-radius: 100px;
+  padding: 4px 12px;
+  margin-bottom: var(--space-2);
+  white-space: nowrap;
+}
+
+.timeline-item--daily-brief {
+  background: rgba(251, 191, 36, 0.04);
+  border-left: 3px solid #fbbf24;
+  padding-left: var(--space-3);
+  border-radius: var(--radius-sm);
+}
+
+.post-card--daily-brief {
+  border: 1px solid rgba(251, 191, 36, 0.2);
+}
+
+.post-card--daily-brief:hover {
+  border-color: rgba(251, 191, 36, 0.4);
+}
+
+[data-theme="light-gray"] .daily-brief-pill {
+  color: #92400e;
+  background: rgba(251, 191, 36, 0.15);
+  border-color: rgba(251, 191, 36, 0.35);
+}
+
+[data-theme="light-gray"] .timeline-item--daily-brief {
+  background: rgba(251, 191, 36, 0.06);
+  border-left-color: #d97706;
+}
+
+[data-theme="light-gray"] .post-card--daily-brief {
+  border-color: rgba(251, 191, 36, 0.3);
+}
+
+[data-theme="light-gray"] .post-card--daily-brief:hover {
+  border-color: rgba(251, 191, 36, 0.5);
+}
+
 .featured-article h2 {
   position: relative;
   z-index: 1;
