@@ -32,6 +32,7 @@ GOLD_ETFS = [
 OUTPUT_FILE = Path("_data/gold.json")
 DAILY_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1d&interval=1d"
 YEARLY_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1y&interval=1d"
+MONTHLY_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?range=1mo&interval=1d"
 
 
 def fetch_url(url: str) -> dict | None:
@@ -69,6 +70,22 @@ def fetch_daily(yahoo_symbol: str, display: str, name: str, desc: str) -> dict |
         return None
 
 
+def fetch_history(yahoo_symbol: str, count: int = 30) -> list[float]:
+    """Fetch last `count` daily closing prices for a ticker."""
+    url = MONTHLY_URL.format(symbol=urllib.request.quote(yahoo_symbol, safe=""))
+    data = fetch_url(url)
+    if not data:
+        return []
+    try:
+        result = data["chart"]["result"][0]
+        closes = result["indicators"]["quote"][0]["close"]
+        filtered = [round(c, 2) for c in closes if c is not None]
+        return filtered[-count:]
+    except (KeyError, IndexError) as e:
+        print(f"  WARN: Bad history data for {yahoo_symbol}: {e}", file=sys.stderr)
+        return []
+
+
 def fetch_52w_high_low(yahoo_symbol: str) -> tuple[float | None, float | None]:
     """Fetch 52-week high and low from 1-year daily data."""
     url = YEARLY_URL.format(symbol=urllib.request.quote(yahoo_symbol, safe=""))
@@ -96,6 +113,7 @@ def main():
         "gold_silver_ratio": None,
         "gld_52w_high": None,
         "gld_52w_low": None,
+        "gld_history": [],
         "etfs": [],
     }
 
@@ -133,6 +151,15 @@ def main():
         print(f"  Silver: ${silver_data['price']}, G:S Ratio: {output['gold_silver_ratio']}")
     else:
         print("  WARN: Could not compute Gold/Silver ratio", file=sys.stderr)
+
+    # --- Fetch GLD 30-day price history for sparkline ---
+    print("Fetching GLD 30-day history for sparkline...")
+    history = fetch_history("GLD")
+    if history:
+        output["gld_history"] = history
+        print(f"  {len(history)} data points")
+    else:
+        print("  WARN: Could not fetch GLD history", file=sys.stderr)
 
     # --- Fetch GLD 52-week high/low ---
     print("Fetching GLD 52-week high/low...")
