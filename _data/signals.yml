@@ -16,7 +16,7 @@
   title: Biotech stocks are rallying on FDA approvals and pipeline catalysts
   category: healthcare
   first_seen: 2026-03-16
-  current_status: emerging
+  current_status: supported
   description: Tracks significant FDA decisions, clinical trial results, and pipeline developments driving biotech stock movements.
 
 - id: pharma-ma-wave
