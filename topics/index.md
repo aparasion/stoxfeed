@@ -83,7 +83,9 @@ description: "Browse all stock market and financial articles by topic — techno
 
           {% assign topics_trimmed = topics_list | strip %}
 
-          <article class="post-card" data-topics="{{ topics_trimmed }}">
+          {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
+          <article class="post-card{% if is_brief %} post-card--daily-brief{% endif %}" data-topics="{{ topics_trimmed }}">
+            {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d, %Y" }}</span>{% endif %}
             <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>

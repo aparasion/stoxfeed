@@ -44,9 +44,11 @@ nav_order: 1
     {% for post in site.posts %}
       {% assign post_day = post.date | date: "%Y-%m-%d" %}
       {% if post_day != day1 %}{% continue %}{% endif %}
-      <article class="timeline-item">
+      {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
+      <article class="timeline-item{% if is_brief %} timeline-item--daily-brief{% endif %}">
         <span class="timeline-time">{{ post.date | date: "%H:%M" }}</span>
         <div class="timeline-body">
+          {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d" }}</span>{% endif %}
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
         </div>
@@ -70,9 +72,11 @@ nav_order: 1
     {% for post in site.posts %}
       {% assign post_day = post.date | date: "%Y-%m-%d" %}
       {% if post_day != day2 %}{% continue %}{% endif %}
-      <article class="timeline-item">
+      {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
+      <article class="timeline-item{% if is_brief %} timeline-item--daily-brief{% endif %}">
         <span class="timeline-time">{{ post.date | date: "%H:%M" }}</span>
         <div class="timeline-body">
+          {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d" }}</span>{% endif %}
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
         </div>
@@ -97,9 +101,11 @@ nav_order: 1
     {% for post in site.posts %}
       {% assign post_day = post.date | date: "%Y-%m-%d" %}
       {% if post_day != day3 %}{% continue %}{% endif %}
-      <article class="timeline-item">
+      {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
+      <article class="timeline-item{% if is_brief %} timeline-item--daily-brief{% endif %}">
         <span class="timeline-time">{{ post.date | date: "%H:%M" }}</span>
         <div class="timeline-body">
+          {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d" }}</span>{% endif %}
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
         </div>
