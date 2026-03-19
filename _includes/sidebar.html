@@ -8,14 +8,14 @@
   </div>
 
   <div class="sidebar-widget sidebar-featured">
-    <h4 class="sidebar-title">Insights</h4>
+    <h4 class="sidebar-title">The Long Game</h4>
     <ul class="sidebar-links">
       {% assign sorted_articles = site.articles | sort: 'date' | reverse %}
       {% for article in sorted_articles limit:5 %}
       <li><a href="{{ article.url | relative_url }}">{{ article.title }}</a></li>
       {% endfor %}
     </ul>
-    <a href="{{ '/insights/' | relative_url }}" class="sidebar-all-link">View all →</a>
+    <a href="{{ '/the-long-game/' | relative_url }}" class="sidebar-all-link">View all →</a>
   </div>
 
   {% if site.data.gold %}
@@ -178,7 +178,7 @@
       </div>
       <div class="count-item">
         <span class="count-num">{{ site.articles | size }}</span>
-        <span class="count-label">Insights</span>
+        <span class="count-label">The Long Game</span>
       </div>
       <div class="count-item">
         <span class="count-num">{{ monthly_count }}</span>

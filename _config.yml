@@ -11,4 +11,4 @@ permalink: /articles/:year/:month/:day/:title.html
 collections:
   articles:
     output: true
-    permalink: /insights/:name/
+    permalink: /the-long-game/:name/
