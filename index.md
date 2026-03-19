@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 <section class="hero-slim">
-  <h1>Stock market intelligence, decoded daily</h1>
+  <h1>Stock market intelligence decoded daily</h1>
 </section>
 
 <div class="feed-layout">
