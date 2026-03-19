@@ -355,16 +355,6 @@ hr {
   overflow: hidden;
 }
 
-.source-logos-label {
-  display: block;
-  font-size: 0.65rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--muted);
-  margin-bottom: var(--space-2);
-}
-
 .source-logos-track-wrapper {
   position: relative;
   overflow: hidden;
@@ -389,7 +379,7 @@ hr {
   align-items: center;
   gap: var(--space-6);
   width: max-content;
-  animation: marquee-scroll 45s linear infinite;
+  animation: marquee-scroll 80s linear infinite;
 }
 
 .source-logos-track:hover {
@@ -447,9 +437,6 @@ hr {
 }
 
 @media (max-width: 480px) {
-  .source-logos-label {
-    display: none;
-  }
   .source-logo-img {
     height: 16px;
   }
