@@ -535,6 +535,19 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // ── Sidebar newsletter: keep page in place and show confirmation ──
+  var sidebarNewsletterForm = document.querySelector(".sidebar-newsletter .newsletter-form");
+  var sidebarNewsletterWidget = document.getElementById("sidebar-newsletter-widget");
+  if (sidebarNewsletterForm && sidebarNewsletterWidget) {
+    sidebarNewsletterForm.addEventListener("submit", function () {
+      setTimeout(function () {
+        sidebarNewsletterWidget.innerHTML = '' +
+          '<h4 class="sidebar-title">Daily reports newsletter!</h4>' +
+          '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>';
+      }, 10);
+    });
+  }
+
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
     var toggleScrollButton = function () {

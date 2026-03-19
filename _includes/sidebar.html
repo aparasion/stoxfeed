@@ -142,13 +142,14 @@
   {% endfor %}
   {% endif %}
 
-  <div class="sidebar-widget sidebar-newsletter">
-    <h4 class="sidebar-title">Stay Informed</h4>
+  <div class="sidebar-widget sidebar-newsletter" id="sidebar-newsletter-widget">
+    <h4 class="sidebar-title">Daily reports newsletter!</h4>
     <p class="sidebar-desc">Get daily market intelligence straight to your inbox.</p>
-    <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed" method="post">
+    <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed" method="post" target="newsletter-submit-frame">
       <input type="email" name="email" placeholder="you@email.com" required>
       <button type="submit">Subscribe</button>
     </form>
+    <iframe name="newsletter-submit-frame" class="newsletter-submit-frame" title="Newsletter subscription response"></iframe>
   </div>
 
   <div class="sidebar-widget sidebar-banner">
