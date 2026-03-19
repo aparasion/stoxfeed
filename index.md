@@ -5,9 +5,7 @@ nav: true
 nav_order: 1
 ---
 
-<section class="hero-slim">
-  <h1>Stock market intelligence decoded daily</h1>
-</section>
+{% include source-logos-bar.html %}
 
 <div class="feed-layout">
   <main class="feed-main">
