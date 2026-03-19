@@ -805,6 +805,23 @@ hr {
   opacity: 0.85;
 }
 
+.newsletter-submit-frame {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  overflow: hidden;
+}
+
+.newsletter-confirmation {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
 /* ── Animations ─────────────────────────────────────────── */
 @keyframes fadeInUp {
   from {
