@@ -347,6 +347,114 @@ hr {
   margin: var(--space-1) 0 0;
 }
 
+/* ── Source Logos Bar ──────────────────────────────────── */
+.source-logos-bar {
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: var(--space-5);
+  overflow: hidden;
+}
+
+.source-logos-label {
+  display: block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-bottom: var(--space-2);
+}
+
+.source-logos-track-wrapper {
+  position: relative;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 8%,
+    black 92%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 8%,
+    black 92%,
+    transparent 100%
+  );
+}
+
+.source-logos-track {
+  display: flex;
+  align-items: center;
+  gap: var(--space-6);
+  width: max-content;
+  animation: marquee-scroll 45s linear infinite;
+}
+
+.source-logos-track:hover {
+  animation-play-state: paused;
+}
+
+.source-logo-img {
+  height: 22px;
+  width: auto;
+  max-width: 90px;
+  object-fit: contain;
+  filter: grayscale(100%) brightness(0.7);
+  opacity: 0.5;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+  flex-shrink: 0;
+}
+
+.source-logo-img:hover {
+  filter: grayscale(0%) brightness(1);
+  opacity: 1;
+}
+
+[data-theme="light-gray"] .source-logo-img {
+  filter: grayscale(100%) brightness(0.4);
+  opacity: 0.45;
+}
+
+[data-theme="light-gray"] .source-logo-img:hover {
+  filter: grayscale(0%) brightness(1);
+  opacity: 1;
+}
+
+@keyframes marquee-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .source-logos-track {
+    animation: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .source-logos-bar {
+    padding: var(--space-2) 0;
+    margin-bottom: var(--space-4);
+  }
+  .source-logo-img {
+    height: 18px;
+  }
+  .source-logos-track {
+    gap: var(--space-5);
+  }
+}
+
+@media (max-width: 480px) {
+  .source-logos-label {
+    display: none;
+  }
+  .source-logo-img {
+    height: 16px;
+  }
+}
+
 /* ── Feed Layout (Main + Sidebar) ──────────────────────── */
 .feed-layout {
   display: grid;

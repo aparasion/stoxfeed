@@ -1,0 +1,111 @@
+- name: CNBC
+  domain: cnbc.com
+  logo: cnbc.svg
+
+- name: Motley Fool
+  domain: fool.com
+  logo: motley-fool.svg
+
+- name: Nasdaq
+  domain: nasdaq.com
+  logo: nasdaq.svg
+
+- name: Benzinga
+  domain: benzinga.com
+  logo: benzinga.svg
+
+- name: Seeking Alpha
+  domain: seekingalpha.com
+  logo: seeking-alpha.svg
+
+- name: CoinDesk
+  domain: coindesk.com
+  logo: coindesk.svg
+
+- name: European Central Bank
+  domain: ecb.europa.eu
+  logo: ecb.svg
+
+- name: Federal Reserve
+  domain: federalreserve.gov
+  logo: federal-reserve.svg
+
+- name: MarketWatch
+  domain: marketwatch.com
+  logo: marketwatch.svg
+
+- name: TradingView
+  domain: tradingview.com
+  logo: tradingview.svg
+
+- name: Bloomberg
+  domain: bnnbloomberg.ca
+  logo: bloomberg.svg
+
+- name: Barron's
+  domain: barrons.com
+  logo: barrons.svg
+
+- name: Morningstar
+  domain: morningstar.com
+  logo: morningstar.svg
+
+- name: Yahoo Finance
+  domain: finance.yahoo.com
+  logo: yahoo-finance.svg
+
+- name: Forbes
+  domain: forbes.com
+  logo: forbes.svg
+
+- name: Fortune
+  domain: fortune.com
+  logo: fortune.svg
+
+- name: Financial Times
+  domain: ft.com
+  logo: financial-times.svg
+
+- name: AP News
+  domain: apnews.com
+  logo: ap-news.svg
+
+- name: Reuters
+  domain: reuters.com
+  logo: reuters.svg
+
+- name: Fox Business
+  domain: foxbusiness.com
+  logo: fox-business.svg
+
+- name: Kiplinger
+  domain: kiplinger.com
+  logo: kiplinger.svg
+
+- name: Investing.com
+  domain: investing.com
+  logo: investing-com.svg
+
+- name: BBC
+  domain: bbc.com
+  logo: bbc.svg
+
+- name: Cointelegraph
+  domain: cointelegraph.com
+  logo: cointelegraph.svg
+
+- name: XTB
+  domain: xtb.com
+  logo: xtb.svg
+
+- name: IMF
+  domain: imf.org
+  logo: imf.svg
+
+- name: Simply Wall St
+  domain: simplywall.st
+  logo: simply-wall-st.svg
+
+- name: CBOE
+  domain: cboe.com
+  logo: cboe.svg
