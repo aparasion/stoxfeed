@@ -18,31 +18,6 @@
     <a href="{{ '/insights/' | relative_url }}" class="sidebar-all-link">View all →</a>
   </div>
 
-  {% if site.data.tickers %}
-  {% for group in site.data.tickers.groups %}
-  <div class="sidebar-widget sidebar-ticker">
-    <h4 class="sidebar-title">{{ group.label }}</h4>
-    <div class="ticker-rows">
-      {% for t in group.tickers %}
-      {% if t.change_pct >= 0 %}
-        {% assign dir = "up" %}
-        {% assign sign = "+" %}
-      {% else %}
-        {% assign dir = "down" %}
-        {% assign sign = "" %}
-      {% endif %}
-      <div class="ticker-row" title="{{ t.name }}">
-        <span class="ticker-symbol">{{ t.symbol }}</span>
-        <span class="ticker-price">{{ t.price }}</span>
-        <span class="ticker-val ticker-{{ dir }}">{{ sign }}{{ t.change_pct }}%</span>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-  {% endfor %}
-  <span class="ticker-updated">{{ site.data.tickers.updated_at | date: "%b %d, %H:%M UTC" }}</span>
-  {% endif %}
-
   {% if site.data.gold %}
   <div class="sidebar-widget sidebar-gold">
     <h4 class="sidebar-title">Gold &amp; Precious Metals</h4>
@@ -140,6 +115,31 @@
 
     <span class="ticker-updated">{{ site.data.gold.updated_at | date: "%b %d, %H:%M UTC" }}</span>
   </div>
+  {% endif %}
+
+  {% if site.data.tickers %}
+  {% for group in site.data.tickers.groups %}
+  <div class="sidebar-widget sidebar-ticker">
+    <h4 class="sidebar-title">{{ group.label }}</h4>
+    <div class="ticker-rows">
+      {% for t in group.tickers %}
+      {% if t.change_pct >= 0 %}
+        {% assign dir = "up" %}
+        {% assign sign = "+" %}
+      {% else %}
+        {% assign dir = "down" %}
+        {% assign sign = "" %}
+      {% endif %}
+      <div class="ticker-row" title="{{ t.name }}">
+        <span class="ticker-symbol">{{ t.symbol }}</span>
+        <span class="ticker-price">{{ t.price }}</span>
+        <span class="ticker-val ticker-{{ dir }}">{{ sign }}{{ t.change_pct }}%</span>
+      </div>
+      {% endfor %}
+    </div>
+    <span class="ticker-updated">{{ site.data.tickers.updated_at | date: "%b %d, %H:%M UTC" }}</span>
+  </div>
+  {% endfor %}
   {% endif %}
 
   <div class="sidebar-widget sidebar-newsletter">
