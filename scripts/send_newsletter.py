@@ -1,12 +1,13 @@
-"""Generate and send a weekly newsletter digest via the Buttondown API.
+"""Generate and send a daily newsletter digest via the Buttondown API.
 
-Collects the past week's posts and signal status changes, builds an
-editorial digest using OpenAI, then sends it through Buttondown.
+Collects today's posts and signal status changes, builds an editorial
+digest using OpenAI, then sends it through Buttondown.
 
 Usage:
-    python scripts/send_newsletter.py                 # last 7 days
-    python scripts/send_newsletter.py --days 14        # last 14 days
+    python scripts/send_newsletter.py                 # last 1 day
+    python scripts/send_newsletter.py --days 3        # last 3 days
     python scripts/send_newsletter.py --dry-run        # preview without sending
+    python scripts/send_newsletter.py --send           # send immediately
 """
 
 import argparse
@@ -25,12 +26,12 @@ POSTS_DIR = Path("_posts")
 SIGNALS_DATA_FILE = Path("_data/signals.yml")
 SITE_URL = "https://stoxfeed.com"
 
-SYSTEM_PROMPT = """You are the editor of StoxFeed, a stock market and financial markets newsletter. Write a concise, engaging weekly digest email.
+SYSTEM_PROMPT = """You are the editor of StoxFeed, a stock market and financial markets newsletter. Write a concise, engaging daily digest email.
 
-Format (200–350 words, markdown):
-- Open with a 1–2 sentence editorial hook summarizing the week's theme.
-- ## This Week's Top Stories — 3–5 bullet points, each with a bold title and 1-sentence summary. Include the post URL as a markdown link.
-- ## Signal Watch — Brief note on any signal status changes or notable evidence this week. If none, skip this section.
+Format (150–250 words, markdown):
+- Open with a 1–2 sentence editorial hook capturing the day's market theme.
+- ## Today's Stories — 2–5 bullet points, each with a bold title and 1-sentence summary. Include the post URL as a markdown link.
+- ## Signal Watch — Brief note on any signal status changes or notable evidence today. If none, skip this section.
 - Close with a single forward-looking sentence.
 
 Style:
@@ -40,7 +41,7 @@ Style:
 • Keep it scannable — busy professionals read this on their phone.
 """
 
-USER_PROMPT_TEMPLATE = """Write the weekly digest for {period}.
+USER_PROMPT_TEMPLATE = """Write the daily digest for {period}.
 
 Posts from this period:
 {article_summaries}
@@ -134,7 +135,7 @@ def build_signal_summary(posts: list[dict], signals: dict[str, dict]) -> str:
             mentioned.setdefault(sid, []).append(stance)
 
     if not mentioned:
-        return "No notable signal activity this week."
+        return "No notable signal activity today."
 
     lines = []
     for sid, stances in sorted(mentioned.items()):
@@ -168,23 +169,25 @@ def generate_digest(posts: list[dict], signals: dict[str, dict], period_label: s
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=600,
+        max_tokens=500,
         temperature=0.4,
     )
     return response.choices[0].message.content.strip()
 
 
-
 def main():
-    parser = argparse.ArgumentParser(description="Generate and send weekly newsletter digest.")
-    parser.add_argument("--days", type=int, default=7, help="Number of days to look back (default: 7)")
+    parser = argparse.ArgumentParser(description="Generate and send daily newsletter digest.")
+    parser.add_argument("--days", type=int, default=1, help="Number of days to look back (default: 1)")
     parser.add_argument("--dry-run", action="store_true", help="Generate digest but don't send")
     parser.add_argument("--send", action="store_true", help="Send immediately instead of creating as draft")
     args = parser.parse_args()
 
     since = datetime.date.today() - datetime.timedelta(days=args.days)
     today = datetime.date.today()
-    period_label = f"{since.strftime('%b %d')} – {today.strftime('%b %d, %Y')}"
+    if args.days == 1:
+        period_label = today.strftime("%B %d, %Y")
+    else:
+        period_label = f"{since.strftime('%b %d')} – {today.strftime('%b %d, %Y')}"
 
     print(f"Collecting posts from {since} to {today}...")
     posts = collect_recent_posts(since)
@@ -198,7 +201,7 @@ def main():
     print("Generating digest with OpenAI...")
     digest = generate_digest(posts, signals, period_label)
 
-    subject = f"StoxFeed Weekly: {period_label}"
+    subject = f"StoxFeed Daily: {today.strftime('%b %d, %Y')}"
 
     if args.dry_run:
         print("\n--- DRY RUN ---")
@@ -212,10 +215,7 @@ def main():
         print("Error: BUTTONDOWN_API_KEY environment variable not set.", file=sys.stderr)
         sys.exit(1)
 
-    if args.send:
-        payload_status = "about_to_send"
-    else:
-        payload_status = "draft"
+    payload_status = "about_to_send" if args.send else "draft"
 
     payload = json.dumps({
         "subject": subject,
@@ -244,7 +244,6 @@ def main():
         print(f"{action} newsletter: {result.get('id', 'unknown')}")
     except HTTPError as e:
         error_body = e.read().decode("utf-8") if e.fp else ""
-        # Truncate and redact error body to avoid leaking sensitive API details
         safe_body = error_body[:200] if error_body else "(no body)"
         for secret_key in ("api_key", "token", "authorization", "password", "secret"):
             if secret_key in safe_body.lower():

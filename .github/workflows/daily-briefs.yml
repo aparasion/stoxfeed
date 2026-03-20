@@ -65,6 +65,7 @@ jobs:
           python scripts/generate_daily_brief.py "${args[@]}"
 
       - name: Commit and push changes
+        id: commit
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
@@ -73,6 +74,15 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Add daily brief - $(date +%Y-%m-%d)"
             git push
+            echo "new_brief=true" >> "$GITHUB_OUTPUT"
           else
             echo "No daily brief changes to commit"
+            echo "new_brief=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Send daily newsletter
+        if: steps.commit.outputs.new_brief == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python scripts/send_newsletter.py --days 1 --send
