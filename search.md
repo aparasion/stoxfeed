@@ -14,7 +14,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
 
 <div class="feed-layout">
   <main class="feed-main">
-    <div class="page-content" data-pagefind-ignore="all">
+    <div class="search-content" data-pagefind-ignore="all">
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
       <div id="search-container"></div>
       <script>
