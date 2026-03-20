@@ -548,6 +548,18 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // ── Newsletter page: keep page in place and show confirmation ──
+  var newsletterPageForm = document.querySelector("#newsletter-page-widget .contact-form");
+  var newsletterPageWidget = document.getElementById("newsletter-page-widget");
+  if (newsletterPageForm && newsletterPageWidget) {
+    newsletterPageForm.addEventListener("submit", function () {
+      setTimeout(function () {
+        newsletterPageWidget.innerHTML =
+          '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>';
+      }, 10);
+    });
+  }
+
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
     var toggleScrollButton = function () {
