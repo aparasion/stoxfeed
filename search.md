@@ -19,7 +19,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
       <div id="search-container"></div>
       <script src="/pagefind/pagefind-ui.js"></script>
       <script>
-        new PagefindUI({ element: '#search-container', showSubResults: true, showImages: false, excerptLength: 30 });
+        new PagefindUI({ element: '#search-container', bundlePath: '/pagefind/', showSubResults: true, showImages: false, excerptLength: 30 });
         (function () {
           var q = new URLSearchParams(window.location.search).get('q');
           if (q) {
