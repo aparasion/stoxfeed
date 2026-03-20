@@ -658,7 +658,7 @@ hr {
 .banner-placeholder {
   background: color-mix(in srgb, var(--border) 50%, transparent);
   border-radius: var(--radius-sm);
-  height: 90px;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: center;
