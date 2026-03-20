@@ -79,7 +79,7 @@ def is_monthly_post(front_matter: dict) -> bool:
 
 def collect_month_articles(period: str) -> list[dict]:
     rows = []
-    for path in sorted(POSTS_DIR.glob("*.md")):
+    for path in sorted(POSTS_DIR.rglob("*.md")):
         if post_month_from_filename(path) != period:
             continue
 
@@ -150,7 +150,7 @@ def load_signal_titles() -> dict[str, str]:
 
 def collect_signal_updates(period: str) -> dict[str, dict[str, int]]:
     updates: dict[str, dict[str, int]] = {}
-    for path in sorted(POSTS_DIR.glob("*.md")):
+    for path in sorted(POSTS_DIR.rglob("*.md")):
         if post_month_from_filename(path) != period:
             continue
 
@@ -193,7 +193,7 @@ def build_signal_updates_section(period: str) -> str:
 
 
 def monthly_post_exists(period: str) -> bool:
-    for path in POSTS_DIR.glob(f"{period}-*.md"):
+    for path in POSTS_DIR.rglob(f"{period}-*.md"):
         content = path.read_text(encoding="utf-8")
         front_matter, _ = parse_front_matter(content)
         if is_monthly_post(front_matter) and front_matter.get("period", "").strip('"') == period:
@@ -210,11 +210,14 @@ def write_monthly_post(period: str, article_count: int, content: str) -> Path:
     while post_date.month != int(month):
         post_date -= datetime.timedelta(days=1)
 
+    post_dir = POSTS_DIR / year / month
+    post_dir.mkdir(parents=True, exist_ok=True)
+
     date_prefix = post_date.isoformat()
-    filename = POSTS_DIR / f"{date_prefix}-{slug}.md"
+    filename = post_dir / f"{date_prefix}-{slug}.md"
     suffix = 1
     while filename.exists():
-        filename = POSTS_DIR / f"{date_prefix}-{slug}-{suffix}.md"
+        filename = post_dir / f"{date_prefix}-{slug}-{suffix}.md"
         suffix += 1
 
     safe_title = yaml_escape(title)

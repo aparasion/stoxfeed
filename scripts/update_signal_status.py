@@ -55,7 +55,7 @@ def tally_stances(signal_ids: list[str]) -> dict[str, dict]:
     """Returns {signal_id: {supports, contradicts, mixed, mentions}} weighted scores."""
     tallies: dict[str, dict] = {sid: {"supports": 0, "contradicts": 0, "mixed": 0, "mentions": 0} for sid in signal_ids}
 
-    for path in POSTS_DIR.glob("*.md"):
+    for path in POSTS_DIR.rglob("*.md"):
         fm = parse_front_matter(path.read_text(encoding="utf-8"))
         ids = parse_inline_list(fm.get("signal_ids", ""))
         if not ids:

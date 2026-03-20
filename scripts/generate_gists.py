@@ -517,16 +517,19 @@ If the provided text is mostly cookie/privacy/legal notices rather than article 
 
             post_date_str = pub_dt.strftime("%Y-%m-%d")
             time_str = pub_dt.strftime("%H:%M:%S")
+            post_year = pub_dt.strftime("%Y")
+            post_month = pub_dt.strftime("%m")
+            post_dir = os.path.join("_posts", post_year, post_month)
 
             slug_raw = re.sub(r"\s+", "-", entry.title.lower().strip())
             slug = "".join(c for c in slug_raw if c.isalnum() or c == "-")[:60].strip("-")
             if not slug:
                 slug = f"article-{int(pub_dt.timestamp())}"
 
-            filename = f"_posts/{post_date_str}-{slug}.md"
+            filename = os.path.join(post_dir, f"{post_date_str}-{slug}.md")
             suffix = 1
             while os.path.exists(filename):
-                filename = f"_posts/{post_date_str}-{slug}-{suffix}.md"
+                filename = os.path.join(post_dir, f"{post_date_str}-{slug}-{suffix}.md")
                 suffix += 1
 
             publisher = get_publisher_domain(url)
@@ -567,19 +570,35 @@ signal_confidence: {signal_confidence}
 [Source: {safe_publisher}]({safe_source_url})
 """
 
-            os.makedirs("_posts", exist_ok=True)
+            os.makedirs(post_dir, exist_ok=True)
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(md_content)
 
-            posts.append(
-                {
-                    "title": entry.title,
-                    "publisher": publisher,
-                    "url": url,
-                    "gist": gist,
-                    "date": post_date_str,
-                }
-            )
+            post_record = {
+                "title": entry.title,
+                "publisher": publisher,
+                "url": url,
+                "gist": gist,
+                "date": post_date_str,
+                "slug": slug,
+                "signal_ids": signal_ids,
+                "signal_stance": signal_stance,
+                "signal_confidence": signal_confidence,
+            }
+            posts.append(post_record)
+
+            # Append to monthly JSON archive
+            archive_dir = os.path.join("_data", "archive")
+            os.makedirs(archive_dir, exist_ok=True)
+            archive_file = os.path.join(archive_dir, f"{post_year}-{post_month}.json")
+            if os.path.exists(archive_file):
+                with open(archive_file, "r", encoding="utf-8") as af:
+                    archive_data = json.load(af)
+            else:
+                archive_data = []
+            archive_data.append(post_record)
+            with open(archive_file, "w", encoding="utf-8") as af:
+                json.dump(archive_data, af, indent=2, ensure_ascii=False)
 
             for candidate in candidate_urls:
                 if candidate not in normalized_seen:
@@ -593,7 +612,7 @@ signal_confidence: {signal_confidence}
 
     print(f"Generated {len(posts)} individual gist posts")
     with open(SEEN_FILE, "w", encoding="utf-8") as seen_file:
-        json.dump(seen[-500:], seen_file, indent=2)
+        json.dump(seen[-2000:], seen_file, indent=2)
 
 
 if __name__ == "__main__":

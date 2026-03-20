@@ -46,7 +46,7 @@ def main() -> int:
     known_ids = load_signal_ids()
     errors = []
 
-    for path in sorted(POSTS_DIR.glob("*.md")):
+    for path in sorted(POSTS_DIR.rglob("*.md")):
         fm = parse_front_matter(path.read_text(encoding="utf-8"))
         signal_ids = parse_inline_list(fm.get("signal_ids", ""))
         if not signal_ids:
