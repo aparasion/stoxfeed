@@ -822,6 +822,11 @@ hr {
   color: var(--muted);
 }
 
+/* ── Mobile newsletter bar (hidden on desktop) ──────────── */
+.mobile-newsletter-bar {
+  display: none;
+}
+
 /* ── Animations ─────────────────────────────────────────── */
 @keyframes fadeInUp {
   from {
@@ -1851,6 +1856,49 @@ a.internal-link:hover {
 
   .feed-sidebar .sidebar-widget {
     flex: 1 1 250px;
+  }
+
+  /* newsletter lives in the mobile bar instead */
+  .sidebar-newsletter {
+    display: none;
+  }
+
+  .mobile-newsletter-bar {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    order: -1;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: var(--space-2) var(--space-3);
+    flex-wrap: wrap;
+  }
+
+  .mobile-newsletter-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--text);
+    white-space: nowrap;
+  }
+
+  .mobile-newsletter-bar .newsletter-form {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .mobile-newsletter-bar .newsletter-form input[type="email"] {
+    font-size: 0.72rem;
+    padding: 5px 8px;
+  }
+
+  .mobile-newsletter-bar .newsletter-form button {
+    font-size: 0.68rem;
+    padding: 5px 10px;
+  }
+
+  .mobile-newsletter-bar .newsletter-confirmation {
+    font-size: 0.72rem;
   }
 
   .post-grid {
