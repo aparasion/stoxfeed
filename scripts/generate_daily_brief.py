@@ -70,7 +70,7 @@ def build_article_prompt_rows(articles: list[dict]) -> str:
 
 def collect_today_articles(date_str: str) -> list[dict]:
     rows = []
-    for path in sorted(POSTS_DIR.glob(f"{date_str}-*.md")):
+    for path in sorted(POSTS_DIR.rglob(f"{date_str}-*.md")):
         content = path.read_text(encoding="utf-8")
         front_matter, body = parse_front_matter(content)
 
@@ -97,7 +97,7 @@ def collect_today_articles(date_str: str) -> list[dict]:
 
 
 def daily_brief_exists(date_str: str) -> bool:
-    for path in POSTS_DIR.glob(f"{date_str}-*.md"):
+    for path in POSTS_DIR.rglob(f"{date_str}-*.md"):
         content = path.read_text(encoding="utf-8")
         front_matter, _ = parse_front_matter(content)
         if DAILY_BRIEF_CATEGORY in front_matter.get("categories", ""):
@@ -110,14 +110,18 @@ def write_daily_brief(date_str: str, article_count: int, content: str) -> Path:
     month_name = date_obj.strftime("%B")
     day = date_obj.day
     year = date_obj.year
+    month = date_obj.strftime("%m")
+
+    post_dir = POSTS_DIR / str(year) / month
+    post_dir.mkdir(parents=True, exist_ok=True)
 
     title = f"Daily Brief: {month_name} {day}, {year}"
     slug = slugify(f"daily-brief-{month_name}-{day}-{year}")
-    filename = POSTS_DIR / f"{date_str}-{slug}.md"
+    filename = post_dir / f"{date_str}-{slug}.md"
 
     suffix = 1
     while filename.exists():
-        filename = POSTS_DIR / f"{date_str}-{slug}-{suffix}.md"
+        filename = post_dir / f"{date_str}-{slug}-{suffix}.md"
         suffix += 1
 
     safe_title = yaml_escape(title)

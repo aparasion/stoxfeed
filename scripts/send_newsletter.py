@@ -40,7 +40,7 @@ def parse_front_matter(content: str) -> tuple[dict, str]:
 
 
 def find_daily_brief(date: datetime.date) -> Path | None:
-    for path in POSTS_DIR.glob(f"{date.strftime('%Y-%m-%d')}-daily-brief-*.md"):
+    for path in POSTS_DIR.rglob(f"{date.strftime('%Y-%m-%d')}-daily-brief-*.md"):
         return path
     return None
 
