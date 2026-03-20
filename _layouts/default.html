@@ -303,7 +303,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var topicsGrid = document.getElementById("topics-post-grid");
   if (topicsGrid) {
     var topicPills = document.querySelectorAll(".topic-filter-panel [data-topic]");
-    var allTopicCards = Array.from(topicsGrid.querySelectorAll(".post-card"));
+    var allTopicCards = Array.from(topicsGrid.querySelectorAll(".timeline-item"));
     var TOPIC_BATCH = 12;
 
     function resetTopicsAutoload(visibleCards) {
@@ -354,6 +354,16 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
 
+    function updateSectionVisibility() {
+      var sections = topicsGrid.querySelectorAll(".topics-timeline-section");
+      sections.forEach(function (section) {
+        var visibleItems = Array.from(section.querySelectorAll(".timeline-item")).filter(function (item) {
+          return item.style.display !== "none";
+        });
+        section.style.display = visibleItems.length > 0 ? "" : "none";
+      });
+    }
+
     function filterTopics(topic) {
       var visibleCards = [];
       allTopicCards.forEach(function (card) {
@@ -371,6 +381,7 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         }
       });
+      updateSectionVisibility();
       resetTopicsAutoload(visibleCards);
     }
 
