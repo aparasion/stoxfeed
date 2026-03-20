@@ -20,7 +20,7 @@
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="{{ site.author | default: 'StoxFeed' }}">
   <link rel="canonical" href="{{ canonical_url }}">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://formspree.io; frame-src https://buttondown.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://formspree.io https://buttondown.com; frame-src https://buttondown.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta name="referrer" content="strict-origin-when-cross-origin">
 
@@ -535,30 +535,39 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // ── Sidebar newsletter: keep page in place and show confirmation ──
-  var sidebarNewsletterForm = document.querySelector(".sidebar-newsletter .newsletter-form");
-  var sidebarNewsletterWidget = document.getElementById("sidebar-newsletter-widget");
-  if (sidebarNewsletterForm && sidebarNewsletterWidget) {
-    sidebarNewsletterForm.addEventListener("submit", function () {
-      setTimeout(function () {
-        sidebarNewsletterWidget.innerHTML = '' +
-          '<h4 class="sidebar-title">Daily reports newsletter!</h4>' +
-          '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>';
-      }, 10);
+  // ── Newsletter subscription via fetch (no-cors bypasses CORS restrictions) ──
+  function wireNewsletterForm(form, widget, confirmHTML) {
+    if (!form || !widget) return;
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var email = form.querySelector('input[type="email"]').value;
+      var btn = form.querySelector('button[type="submit"]');
+      btn.disabled = true;
+      fetch(form.action, {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: "email=" + encodeURIComponent(email) + "&embed=1",
+        mode: "no-cors"
+      }).then(function () {
+        widget.innerHTML = confirmHTML;
+      }).catch(function () {
+        btn.disabled = false;
+      });
     });
   }
 
-  // ── Newsletter page: keep page in place and show confirmation ──
-  var newsletterPageForm = document.querySelector("#newsletter-page-widget .contact-form");
-  var newsletterPageWidget = document.getElementById("newsletter-page-widget");
-  if (newsletterPageForm && newsletterPageWidget) {
-    newsletterPageForm.addEventListener("submit", function () {
-      setTimeout(function () {
-        newsletterPageWidget.innerHTML =
-          '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>';
-      }, 10);
-    });
-  }
+  wireNewsletterForm(
+    document.querySelector(".sidebar-newsletter .newsletter-form"),
+    document.getElementById("sidebar-newsletter-widget"),
+    '<h4 class="sidebar-title">Daily reports newsletter!</h4>' +
+    '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>'
+  );
+
+  wireNewsletterForm(
+    document.querySelector("#newsletter-page-widget .contact-form"),
+    document.getElementById("newsletter-page-widget"),
+    '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>'
+  );
 
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
