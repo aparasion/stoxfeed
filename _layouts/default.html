@@ -346,6 +346,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 });
               });
               tLoader.classList.remove("is-active");
+              updateSectionVisibility();
             }, 100);
           }
         }, { rootMargin: "300px" });
@@ -358,7 +359,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var sections = topicsGrid.querySelectorAll(".topics-timeline-section");
       sections.forEach(function (section) {
         var visibleItems = Array.from(section.querySelectorAll(".timeline-item")).filter(function (item) {
-          return item.style.display !== "none";
+          return item.style.display !== "none" && !item.classList.contains("autoload-hidden");
         });
         section.style.display = visibleItems.length > 0 ? "" : "none";
       });
@@ -381,8 +382,8 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         }
       });
-      updateSectionVisibility();
       resetTopicsAutoload(visibleCards);
+      updateSectionVisibility();
     }
 
     topicPills.forEach(function (pill) {
