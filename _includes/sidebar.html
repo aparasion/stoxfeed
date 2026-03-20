@@ -1,4 +1,24 @@
+<div id="mobile-newsletter-bar" class="mobile-newsletter-bar">
+  <span class="mobile-newsletter-label">Free daily reports</span>
+  <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed" method="post">
+    <input type="hidden" name="embed" value="1">
+    <input type="email" name="email" placeholder="your@email.com" required>
+    <button type="submit">Subscribe →</button>
+  </form>
+</div>
+
 <aside class="feed-sidebar">
+
+  <div class="sidebar-widget sidebar-newsletter" id="sidebar-newsletter-widget">
+    <h4 class="sidebar-title">Daily reports newsletter!</h4>
+    <p class="sidebar-desc">Get daily market intelligence straight to your inbox.</p>
+    <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed" method="post" target="newsletter-submit-frame">
+      <input type="hidden" name="embed" value="1">
+      <input type="email" name="email" placeholder="you@email.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+    <iframe name="newsletter-submit-frame" class="newsletter-submit-frame" title="Newsletter subscription response"></iframe>
+  </div>
 
   <div class="sidebar-widget sidebar-banner">
     <span class="sidebar-label">Sponsored</span>
@@ -141,17 +161,6 @@
   </div>
   {% endfor %}
   {% endif %}
-
-  <div class="sidebar-widget sidebar-newsletter" id="sidebar-newsletter-widget">
-    <h4 class="sidebar-title">Daily reports newsletter!</h4>
-    <p class="sidebar-desc">Get daily market intelligence straight to your inbox.</p>
-    <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed" method="post" target="newsletter-submit-frame">
-      <input type="hidden" name="embed" value="1">
-      <input type="email" name="email" placeholder="you@email.com" required>
-      <button type="submit">Subscribe</button>
-    </form>
-    <iframe name="newsletter-submit-frame" class="newsletter-submit-frame" title="Newsletter subscription response"></iframe>
-  </div>
 
   <div class="sidebar-widget sidebar-banner">
     <span class="sidebar-label">Sponsored</span>

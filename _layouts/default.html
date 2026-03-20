@@ -569,6 +569,12 @@ document.addEventListener("DOMContentLoaded", function () {
     '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>'
   );
 
+  wireNewsletterForm(
+    document.querySelector("#mobile-newsletter-bar .newsletter-form"),
+    document.getElementById("mobile-newsletter-bar"),
+    '<p class="newsletter-confirmation">Thanks! Check your email to confirm.</p>'
+  );
+
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
     var toggleScrollButton = function () {
