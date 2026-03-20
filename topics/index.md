@@ -44,57 +44,74 @@ description: "Browse all stock market and financial articles by topic — techno
 
 <div class="feed-layout">
   <main class="feed-main">
-    <section class="articles-section">
-      <div class="post-grid" id="topics-post-grid">
-        {% for post in site.posts %}
-          {% assign topics_list = "" %}
-          {% assign signal_ids_str = post.signal_ids | join: ',' | downcase %}
-          {% assign source_text = post.title | append: ' ' | append: post.excerpt | downcase %}
+    <div id="topics-post-grid">
 
-          {% comment %} Technology {% endcomment %}
-          {% assign match = false %}
-          {% for sid in technology_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-          {% if match == false %}{% for kw in technology_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-          {% if match %}{% assign topics_list = topics_list | append: "technology " %}{% endif %}
+{% comment %} Group posts by day and render as timeline sections {% endcomment %}
+{% assign current_day = "" %}
+{% for post in site.posts %}
+  {% assign post_day = post.date | date: "%Y-%m-%d" %}
 
-          {% comment %} Healthcare {% endcomment %}
-          {% assign match = false %}
-          {% for sid in healthcare_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-          {% if match == false %}{% for kw in healthcare_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-          {% if match %}{% assign topics_list = topics_list | append: "healthcare " %}{% endif %}
+  {% comment %} Compute topic tags for this post {% endcomment %}
+  {% assign topics_list = "" %}
+  {% assign signal_ids_str = post.signal_ids | join: ',' | downcase %}
+  {% assign source_text = post.title | append: ' ' | append: post.excerpt | downcase %}
 
-          {% comment %} Energy {% endcomment %}
-          {% assign match = false %}
-          {% for sid in energy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-          {% if match == false %}{% for kw in energy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-          {% if match %}{% assign topics_list = topics_list | append: "energy " %}{% endif %}
+  {% assign match = false %}
+  {% for sid in technology_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+  {% if match == false %}{% for kw in technology_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+  {% if match %}{% assign topics_list = topics_list | append: "technology " %}{% endif %}
 
-          {% comment %} Finance {% endcomment %}
-          {% assign match = false %}
-          {% for sid in finance_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-          {% if match == false %}{% for kw in finance_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-          {% if match %}{% assign topics_list = topics_list | append: "finance " %}{% endif %}
+  {% assign match = false %}
+  {% for sid in healthcare_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+  {% if match == false %}{% for kw in healthcare_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+  {% if match %}{% assign topics_list = topics_list | append: "healthcare " %}{% endif %}
 
-          {% comment %} Crypto {% endcomment %}
-          {% assign match = false %}
-          {% for sid in crypto_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
-          {% if match == false %}{% for kw in crypto_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
-          {% if match %}{% assign topics_list = topics_list | append: "crypto " %}{% endif %}
+  {% assign match = false %}
+  {% for sid in energy_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+  {% if match == false %}{% for kw in energy_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+  {% if match %}{% assign topics_list = topics_list | append: "energy " %}{% endif %}
 
-          {% assign topics_trimmed = topics_list | strip %}
+  {% assign match = false %}
+  {% for sid in finance_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+  {% if match == false %}{% for kw in finance_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+  {% if match %}{% assign topics_list = topics_list | append: "finance " %}{% endif %}
 
-          {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
-          <article class="post-card{% if is_brief %} post-card--daily-brief{% endif %}" data-topics="{{ topics_trimmed }}">
-            {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d, %Y" }}</span>{% endif %}
-            <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
-            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
-            <span class="read-more">Read more &rarr;</span>
-            {% include social-share.html url=post.url title=post.title compact=true %}
-          </article>
-        {% endfor %}
+  {% assign match = false %}
+  {% for sid in crypto_signals %}{% if signal_ids_str contains sid %}{% assign match = true %}{% endif %}{% endfor %}
+  {% if match == false %}{% for kw in crypto_keywords %}{% if source_text contains kw %}{% assign match = true %}{% endif %}{% endfor %}{% endif %}
+  {% if match %}{% assign topics_list = topics_list | append: "crypto " %}{% endif %}
+
+  {% assign topics_trimmed = topics_list | strip %}
+
+  {% comment %} Open a new date section when the day changes {% endcomment %}
+  {% if post_day != current_day %}
+    {% if current_day != "" %}
+    </div>
+    </section>
+    {% endif %}
+    {% assign current_day = post_day %}
+    <section class="timeline-section topics-timeline-section" data-day="{{ post_day }}">
+      <h2 class="timeline-date">{{ post.date | date: "%B %d, %Y" }}</h2>
+      <div class="timeline-items">
+  {% endif %}
+
+  {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
+  <article class="timeline-item{% if is_brief %} timeline-item--daily-brief{% endif %}" data-topics="{{ topics_trimmed }}">
+    <span class="timeline-time">{{ post.date | date: "%H:%M" }}</span>
+    <div class="timeline-body">
+      {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d" }}</span>{% endif %}
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+    </div>
+  </article>
+
+{% endfor %}
+{% if current_day != "" %}
       </div>
     </section>
+{% endif %}
+
+    </div>
   </main>
 
   {% include sidebar.html %}
