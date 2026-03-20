@@ -18,7 +18,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
       <div id="search-container"></div>
       <script>
-        window.addEventListener('DOMContentLoaded', function () {
+        (function () {
           var script = document.createElement('script');
           script.src = '/pagefind/pagefind-ui.js';
           script.onload = function () {
@@ -26,12 +26,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
               element: '#search-container',
               showSubResults: true,
               showImages: false,
-              excerptLength: 30,
-              resetStyles: false,
-              filters: {
-                publisher: 'Publisher',
-                category: 'Category'
-              }
+              excerptLength: 30
             });
             var q = new URLSearchParams(window.location.search).get('q');
             if (q) {
@@ -47,7 +42,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
             }
           };
           document.head.appendChild(script);
-        });
+        })();
       </script>
     </div>
   </main>
