@@ -1,14 +1,12 @@
-name: Weekly Newsletter
+name: Daily Newsletter (manual)
 
 on:
-  schedule:
-    - cron: '0 10 * * 1'  # Every Monday at 10:00 UTC
   workflow_dispatch:
     inputs:
       days:
-        description: "Number of days to look back (default: 7)"
+        description: "Number of days to look back (default: 1)"
         required: false
-        default: '7'
+        default: '1'
         type: string
       mode:
         description: "Newsletter action"
