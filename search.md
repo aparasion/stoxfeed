@@ -22,7 +22,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
           var script = document.createElement('script');
           script.src = '/pagefind/pagefind-ui.js';
           script.onload = function () {
-            new PagefindUI({
+            var ui = new PagefindUI({
               element: '#search-container',
               showSubResults: true,
               showImages: false,
@@ -33,6 +33,18 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
                 category: 'Category'
               }
             });
+            var q = new URLSearchParams(window.location.search).get('q');
+            if (q) {
+              var observer = new MutationObserver(function () {
+                var input = document.querySelector('.pagefind-ui__search-input');
+                if (input) {
+                  observer.disconnect();
+                  input.value = q;
+                  input.dispatchEvent(new Event('input', { bubbles: true }));
+                }
+              });
+              observer.observe(document.getElementById('search-container'), { subtree: true, childList: true });
+            }
           };
           document.head.appendChild(script);
         });
