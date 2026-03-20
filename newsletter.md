@@ -15,9 +15,13 @@ Stay ahead of what's moving the stock market and financial markets.
 
 No spam, no filler. Unsubscribe anytime.
 
+<div id="newsletter-page-widget">
 <form action="https://buttondown.com/api/emails/embed-subscribe/stoxfeed"
       method="post"
-      class="contact-form">
+      class="contact-form"
+      target="newsletter-page-frame">
+
+  <input type="hidden" name="embed" value="1">
 
   <div class="form-group">
     <label for="bd-email">Email address</label>
@@ -27,3 +31,5 @@ No spam, no filler. Unsubscribe anytime.
 
   <button type="submit" class="btn-submit">Subscribe</button>
 </form>
+<iframe name="newsletter-page-frame" style="display:none;" title="Newsletter subscription response"></iframe>
+</div>
