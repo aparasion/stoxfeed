@@ -17,31 +17,22 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
     <div class="search-content" data-pagefind-ignore="all">
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
       <div id="search-container"></div>
+      <script src="/pagefind/pagefind-ui.js"></script>
       <script>
+        new PagefindUI({ element: '#search-container', showSubResults: true, showImages: false, excerptLength: 30 });
         (function () {
-          var script = document.createElement('script');
-          script.src = '/pagefind/pagefind-ui.js';
-          script.onload = function () {
-            var ui = new PagefindUI({
-              element: '#search-container',
-              showSubResults: true,
-              showImages: false,
-              excerptLength: 30
+          var q = new URLSearchParams(window.location.search).get('q');
+          if (q) {
+            var observer = new MutationObserver(function () {
+              var input = document.querySelector('.pagefind-ui__search-input');
+              if (input) {
+                observer.disconnect();
+                input.value = q;
+                input.dispatchEvent(new Event('input', { bubbles: true }));
+              }
             });
-            var q = new URLSearchParams(window.location.search).get('q');
-            if (q) {
-              var observer = new MutationObserver(function () {
-                var input = document.querySelector('.pagefind-ui__search-input');
-                if (input) {
-                  observer.disconnect();
-                  input.value = q;
-                  input.dispatchEvent(new Event('input', { bubbles: true }));
-                }
-              });
-              observer.observe(document.getElementById('search-container'), { subtree: true, childList: true });
-            }
-          };
-          document.head.appendChild(script);
+            observer.observe(document.getElementById('search-container'), { subtree: true, childList: true });
+          }
         })();
       </script>
     </div>
