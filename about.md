@@ -15,7 +15,8 @@ StoxFeed is an independent market intelligence publication. We track daily movem
 - **Daily posts** — Fast coverage of key market events as they happen
 - **Signal Tracker** — A living log of high-impact trends, each with a status (emerging, supported, or challenged) updated as new data arrives
 - **Monthly Reports** — Curated roundups of the themes, rotations, and forces that defined the month
-- **Newsletter** — Weekly digests, monthly summaries, and signal alerts delivered to your inbox
+- **The Long Game** — Educational long-form articles on investing principles, behavioral finance, and the mental frameworks that matter for long-term investors
+- **Newsletter** — Daily market summaries, monthly editorial roundups, and signal alerts delivered to your inbox
 
 ## What We Cover
 
