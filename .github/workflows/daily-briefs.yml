@@ -83,6 +83,12 @@ jobs:
       - name: Send daily newsletter
         if: steps.commit.outputs.new_brief == 'true'
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-        run: python scripts/send_newsletter.py --days 1 --send
+          INPUT_DATE: ${{ github.event.inputs.date }}
+        run: |
+          set -euo pipefail
+          args=(--send)
+          if [ -n "${INPUT_DATE:-}" ]; then
+            args+=(--date "$INPUT_DATE")
+          fi
+          python scripts/send_newsletter.py "${args[@]}"
