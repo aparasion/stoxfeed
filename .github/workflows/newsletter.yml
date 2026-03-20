@@ -3,10 +3,9 @@ name: Daily Newsletter (manual)
 on:
   workflow_dispatch:
     inputs:
-      days:
-        description: "Number of days to look back (default: 1)"
+      date:
+        description: "Date of the brief to send (YYYY-MM-DD, default: today)"
         required: false
-        default: '1'
         type: string
       mode:
         description: "Newsletter action"
@@ -36,27 +35,21 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install openai
-
-      - name: Generate and send newsletter
+      - name: Send newsletter
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-          INPUT_DAYS: ${{ github.event.inputs.days }}
+          INPUT_DATE: ${{ github.event.inputs.date }}
           INPUT_MODE: ${{ github.event.inputs.mode }}
         run: |
           set -euo pipefail
 
           args=()
-          if [ -n "${INPUT_DAYS:-}" ]; then
-            if ! [[ "$INPUT_DAYS" =~ ^[0-9]+$ ]]; then
-              echo "Error: 'days' must be a positive integer, got: $INPUT_DAYS" >&2
+          if [ -n "${INPUT_DATE:-}" ]; then
+            if ! [[ "$INPUT_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+              echo "Error: 'date' must be in YYYY-MM-DD format, got: $INPUT_DATE" >&2
               exit 1
             fi
-            args+=(--days "$INPUT_DAYS")
+            args+=(--date "$INPUT_DATE")
           fi
 
           mode="${INPUT_MODE:-draft}"
