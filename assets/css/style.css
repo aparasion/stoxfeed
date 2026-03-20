@@ -531,6 +531,12 @@ hr {
   min-width: 0;
 }
 
+.search-loading, .search-error {
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding: var(--space-4) 0;
+}
+
 /* ── Timeline Feed ─────────────────────────────────────── */
 .timeline-section {
   margin-bottom: var(--space-5);
