@@ -97,7 +97,7 @@ description: "Browse all stock market and financial articles by topic — techno
 
   {% assign is_brief = false %}{% if post.categories contains "daily-brief" %}{% assign is_brief = true %}{% endif %}
   <article class="timeline-item{% if is_brief %} timeline-item--daily-brief{% endif %}" data-topics="{{ topics_trimmed }}">
-    <span class="timeline-time">{{ post.date | date: "%H:%M" }}</span>
+    <span class="timeline-time" data-utc="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%H:%M" }}</span>
     <div class="timeline-body">
       {% if is_brief %}<span class="daily-brief-pill">DAILY BRIEF &middot; {{ post.date | date: "%b %d" }}</span>{% endif %}
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>

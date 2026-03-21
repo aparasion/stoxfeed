@@ -619,6 +619,33 @@ document.addEventListener("DOMContentLoaded", function () {
     '<p class="newsletter-confirmation">Thanks! Check your email to confirm.</p>'
   );
 
+  // ── Post time: convert to user's local timezone ──────────
+  (function () {
+    var tzAbbr = (function () {
+      try {
+        var parts = new Intl.DateTimeFormat([], { timeZoneName: "short" })
+          .formatToParts(new Date());
+        var tz = parts.find(function (p) { return p.type === "timeZoneName"; });
+        return tz ? tz.value : "";
+      } catch (e) { return ""; }
+    })();
+
+    document.querySelectorAll(".timeline-time[data-utc]").forEach(function (el) {
+      try {
+        var d = new Date(el.dataset.utc);
+        if (isNaN(d)) return;
+        var timeStr = d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit", hour12: false });
+        el.textContent = timeStr;
+        if (tzAbbr) {
+          var tzEl = document.createElement("span");
+          tzEl.className = "timeline-tz";
+          tzEl.textContent = tzAbbr;
+          el.appendChild(tzEl);
+        }
+      } catch (e) {}
+    });
+  })();
+
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
     var toggleScrollButton = function () {
