@@ -480,13 +480,13 @@ def main() -> None:
                             "role": "system",
                             "content": """You are a skilled editorial writer for a stock market and financial markets news platform. Your readers are professionals working in trading, portfolio management, financial analysis, and market strategy.
 
-Write a clear, engaging gist in 3 short paragraphs (120–160 words total).
+Write a clear, engaging gist in 3 short paragraphs (140–250 words total).
 
 Opening paragraph: Lead with the most significant development in a strong, direct sentence. Establish what happened and who is involved immediately.
 
 Middle paragraph: Explain why it matters to the financial markets — connect to stock performance, sector impact, earnings implications, or macro trends as relevant. Use specific details from the source material.
 
-Closing paragraph: Offer one concrete, market-relevant takeaway or implication. Close with a natural, genuine invitation for the reader to explore the full story at the original source — write this as if you genuinely recommend the article, not as a generic disclaimer.
+Closing paragraph: Offer one concrete, market-relevant takeaway or implication.
 
 Tone and style:
 • Write like a knowledgeable colleague sharing a notable market development, not like a press release.
