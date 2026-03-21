@@ -18,4 +18,4 @@ This rhetoric has immediate implications for financial markets, particularly oil
 
 Market professionals should monitor developments closely, as the interplay between U.S. military strategy and international oil supply dynamics could influence trading strategies in energy stocks and commodities. For a deeper dive into the implications of Trump's statements, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/trump-nato-iran-war-allies-china.html)

@@ -18,4 +18,4 @@ Chevron has seen a nearly 30% rally year-to-date, bolstered by a shareholder-fri
 
 For investors keen on energy stocks with potential upside and income stability, these three names warrant closer examination. Dive into the full article for a deeper analysis of their strategies and market positioning.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/3-of-the-best-energy-stocks-to-buy-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/3-of-the-best-energy-stocks-to-buy-right-now/?source=iedfolrf0000001)

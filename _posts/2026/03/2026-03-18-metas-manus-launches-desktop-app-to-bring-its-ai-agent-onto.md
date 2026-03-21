@@ -18,4 +18,4 @@ This new capability could impact the competitive landscape for AI solutions, par
 
 For market professionals, the implications of this launch are noteworthy, as it highlights the growing demand for AI tools that enhance personal productivity. To dive deeper into the details of this development and its potential impact on the sector, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html)

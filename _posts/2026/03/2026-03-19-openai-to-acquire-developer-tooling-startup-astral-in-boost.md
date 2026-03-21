@@ -18,4 +18,4 @@ This acquisition is part of OpenAI's broader strategy to strengthen its position
 
 For market professionals, this development highlights the increasing importance of AI in software development and the potential for further consolidation in the tech sector. I recommend exploring the full article for deeper insights into OpenAI's strategic direction.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html)

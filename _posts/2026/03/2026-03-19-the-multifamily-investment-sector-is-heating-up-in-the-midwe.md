@@ -18,4 +18,4 @@ This stabilization is crucial for institutional investors, as it suggests a retu
 
 For accredited investors, now may be an opportune time to consider multifamily investments, particularly with BAM Capital's offerings that focus on high-growth Midwest markets. For a deeper dive into the trends and investment opportunities, I recommend exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/bam-capital-midwest-access-y2)
+Source: [benzinga.com](https://www.benzinga.com/money/bam-capital-midwest-access-y2)

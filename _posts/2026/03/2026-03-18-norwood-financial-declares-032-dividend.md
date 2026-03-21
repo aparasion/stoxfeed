@@ -18,4 +18,4 @@ The consistency in dividend payments, coupled with the recent Q4 2025 earnings r
 
 For investors seeking reliable income and insights into NWFL's growth strategy, this development is worth a closer look. I recommend exploring the full article for a deeper understanding of Norwood Financial's trajectory.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565627-norwood-financial-declares-032-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565627-norwood-financial-declares-032-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

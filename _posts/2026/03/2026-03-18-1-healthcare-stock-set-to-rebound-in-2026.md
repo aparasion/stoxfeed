@@ -18,4 +18,4 @@ Looking ahead, UnitedHealth is implementing strategic changes to enhance efficie
 
 For a deeper dive into UnitedHealth's strategy and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/1-healthcare-stock-set-to-rebound-in-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/1-healthcare-stock-set-to-rebound-in-2026/?source=iedfolrf0000001)

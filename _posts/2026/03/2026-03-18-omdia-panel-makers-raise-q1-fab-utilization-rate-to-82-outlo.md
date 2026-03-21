@@ -18,4 +18,4 @@ This uptick in utilization is significant for the financial markets, particularl
 
 For professionals tracking market dynamics, this report offers valuable insights into production trends and pricing strategies. I recommend exploring the full article for a deeper understanding of these developments.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2)

@@ -18,4 +18,4 @@ The staggering $553 billion in remaining performance obligations indicates a sig
 
 With Oracle trading at a forward price-to-earnings ratio of about 19, below the broader market's 21, this could be an opportune moment for long-term investors to consider buying. For a deeper dive into Oracle's financial health and market positioning, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/oracle-stock-has-lost-more-than-half-its-value-in/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/oracle-stock-has-lost-more-than-half-its-value-in/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This development is critical for investors as it could impact Supermicro's opera
 
 The arrest underscores the importance of regulatory compliance in the tech sector, reminding investors to closely monitor corporate governance practices. For a deeper dive into the implications of this event, I recommend exploring the full article for comprehensive insights.
 
-[fortune.com](https://fortune.com)
+Source: [fortune.com](https://fortune.com)

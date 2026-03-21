@@ -18,4 +18,4 @@ While 2026's expected diluted EPS growth of 7% indicates a slowdown, it still pr
 
 Investors should consider a long-term perspective when evaluating Alphabet, as the fundamentals indicate a strong business with growth potential. For a deeper dive into Alphabet's outlook and strategic initiatives, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/alphabet-stock-to-350-by-year-end-math-possible/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/alphabet-stock-to-350-by-year-end-math-possible/?source=iedfolrf0000001)

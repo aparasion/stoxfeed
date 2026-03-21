@@ -18,4 +18,4 @@ The implications for financial markets are substantial, as the UK’s increasing
 
 For market professionals, the key takeaway is the urgent need to monitor the evolving fiscal landscape in the UK, especially as political risks mount. I recommend reading the full article for a deeper understanding of these dynamics and their potential impact on your investment strategies.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/the-bond-vigilantes-are-after-the-uk-once-more)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/the-bond-vigilantes-are-after-the-uk-once-more)

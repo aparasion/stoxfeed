@@ -18,4 +18,4 @@ This transaction comes amid a mixed financial performance for Oceaneering. While
 
 Investors should note that Simons’ sale was executed under a Rule 10b5-1 trading plan, which mitigates insider trading risks. Given the ongoing volatility in the energy sector, Oceaneering's stock may experience further fluctuations influenced by developments in oil and global market dynamics.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/21/an-insider-just-sold-10-000-oii-shares-worth-usd400-000/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/21/an-insider-just-sold-10-000-oii-shares-worth-usd400-000/?source=iedfolrf0000001)

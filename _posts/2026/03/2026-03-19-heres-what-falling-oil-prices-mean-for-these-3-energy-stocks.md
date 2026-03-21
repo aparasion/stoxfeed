@@ -18,4 +18,4 @@ This turmoil is already reflected in the market, with Brent crude oil futures cl
 
 For market professionals, the key takeaway is the potential for volatility in energy markets as geopolitical risks escalate. For a deeper analysis of these developments, I recommend checking out the full article.
 
-[oilandgas360.com](https://www.oilandgas360.com)
+Source: [oilandgas360.com](https://www.oilandgas360.com)

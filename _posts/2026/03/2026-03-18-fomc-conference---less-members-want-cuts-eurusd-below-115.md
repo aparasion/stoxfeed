@@ -18,4 +18,4 @@ This decision reflects the Fed's cautious approach, as it assesses the impact of
 
 Market professionals should note that the Fed's current wait-and-see mode may influence currency strength and sector performance. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/fomc-conference-less-members-want-cuts-eurusd-below-1-15)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/fomc-conference-less-members-want-cuts-eurusd-below-1-15)

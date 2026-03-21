@@ -18,4 +18,4 @@ Micron's stock has experienced a remarkable rise this year, driven by soaring AI
 
 For market professionals, Micron's earnings report is critical for gauging the sustainability of its valuation amid heightened expectations. To dive deeper into the implications of this earnings report and what it means for the semiconductor sector, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/stock-market-today-march-18-micron-technology-holds-steady-investors-react-key-earnings)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/stock-market-today-march-18-micron-technology-holds-steady-investors-react-key-earnings)

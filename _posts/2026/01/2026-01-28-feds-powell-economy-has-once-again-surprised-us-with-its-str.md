@@ -18,4 +18,4 @@ This week's central bank meetings maintained steady interest rates, but the over
 
 For market professionals, the implications are clear: monitor currency fluctuations closely, as the current volatility could present both risks and opportunities. For a deeper dive into these developments, I recommend checking out the full article.
 
-[fxstreet.com](https://www.fxstreet.com)
+Source: [fxstreet.com](https://www.fxstreet.com)

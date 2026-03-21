@@ -18,4 +18,4 @@ The announcement comes as T-Mobile navigates a challenging market, facing pressu
 
 For those tracking dividend stocks in the communications sector, T-Mobile's consistent payout reinforces its position as a reliable income-generating investment. I recommend checking out the full article for deeper insights into T-Mobile's financial strategy and market positioning.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566853-t-mobile-us-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566853-t-mobile-us-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

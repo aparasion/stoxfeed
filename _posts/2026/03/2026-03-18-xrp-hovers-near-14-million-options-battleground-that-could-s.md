@@ -18,4 +18,4 @@ The implications for XRP are substantial. A sustained move above the $1.40 level
 
 For a deeper dive into the mechanics of this options battleground and its potential impact on XRP's trading trajectory, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/18/xrp-hovers-near-usd14-million-options-battleground-that-could-sway-trading)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/18/xrp-hovers-near-usd14-million-options-battleground-that-could-sway-trading)

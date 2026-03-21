@@ -18,4 +18,4 @@ The outlook for fiscal 2026 appears optimistic, with Fuchs projecting EBIT of ap
 
 For market professionals, Fuchs’ ability to navigate these challenges while enhancing shareholder returns could signal resilience in the industrial sector. I recommend checking out the full article for deeper insights into Fuchs’ strategic positioning and market outlook.
 
-[nasdaq.com](https://www.nasdaq.com/articles/fuchs-se-fy25-results-rise-lifts-dividend-sees-growth-fy26-ebit-sales)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/fuchs-se-fy25-results-rise-lifts-dividend-sees-growth-fy26-ebit-sales)

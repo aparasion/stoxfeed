@@ -18,4 +18,4 @@ The fintech sector is under pressure, primarily due to elevated price-to-earning
 
 For market professionals, Upstart may present a more compelling long-term investment opportunity, given its asset-light model and scalability potential. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/better-fintech-stock-upstart-vs-affirm)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/better-fintech-stock-upstart-vs-affirm)

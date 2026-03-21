@@ -18,4 +18,4 @@ The semiconductor sector is facing headwinds, as evidenced by peer Samsung Elect
 
 Investors should closely monitor Micron's developments, particularly its capacity expansion and the potential impact of AI on memory demand. For a deeper dive into Micron's performance and future outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-micron-falls-despite-record-revenue-amid-margin-and-capex-concerns/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-micron-falls-despite-record-revenue-amid-margin-and-capex-concerns/?source=iedfolrf0000001)

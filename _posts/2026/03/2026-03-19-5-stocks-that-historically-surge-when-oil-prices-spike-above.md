@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, particularly for sto
 
 As oil prices climb, monitoring these key players could provide strategic insights for portfolio management. For a deeper dive into the historical performance of these stocks and the factors at play, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/5-stocks-that-historically-surge-when-oil-prices-s/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/5-stocks-that-historically-surge-when-oil-prices-s/?source=iedfolrf0000001)

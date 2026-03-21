@@ -18,4 +18,4 @@ The introduction of Terafab V2 could significantly impact the solar energy secto
 
 For market professionals, the rollout of Terafab V2 represents a pivotal development in the renewable energy landscape, indicating a shift toward more efficient construction practices. To delve deeper into the implications of this technology and its potential effects on the market, I recommend checking out the full article.
 
-[electrek.co](https://electrek.co)
+Source: [electrek.co](https://electrek.co)

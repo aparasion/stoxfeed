@@ -18,4 +18,4 @@ This acquisition signals a significant shift in investor sentiment, potentially 
 
 For professionals in trading and portfolio management, understanding the implications of this acquisition and the SEC's recommendations is crucial. I encourage you to delve deeper into the full article for a comprehensive analysis of these pivotal developments.
 
-[pionline.com](https://www.pionline.com)
+Source: [pionline.com](https://www.pionline.com)

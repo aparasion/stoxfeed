@@ -18,4 +18,4 @@ This consistent dividend declaration comes amid a backdrop of tepid book value g
 
 For market professionals, the stability of the dividend amidst these challenges presents a noteworthy consideration for income-focused strategies. For a deeper dive into Two Harbors’ current financial position and future prospects, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566967-two-harbors-investment-corp-cum-red-pfd-registered-shs-series-a-declares-0_5078-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566967-two-harbors-investment-corp-cum-red-pfd-registered-shs-series-a-declares-0_5078-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

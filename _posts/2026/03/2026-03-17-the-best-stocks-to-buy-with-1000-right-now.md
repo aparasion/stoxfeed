@@ -18,4 +18,4 @@ The significance of these valuations lies in the anticipated sustained demand fo
 
 Investors should consider this moment as a unique opportunity to acquire shares in two of the market's strongest players at historically low valuations. For a deeper analysis of these stocks and their potential, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/the-best-stocks-to-buy-with-1000-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/the-best-stocks-to-buy-with-1000-right-now/?source=iedfolrf0000001)

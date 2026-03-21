@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as investors seek re
 
 For portfolio managers and analysts, these identified stocks represent a strategic opportunity to hedge against AI-related risks while still aiming for growth. I recommend checking out the full article for a deeper dive into the specific stocks and insights that could inform your investment strategy.
 
-[morningstar.com](https://www.morningstar.com)
+Source: [morningstar.com](https://www.morningstar.com)

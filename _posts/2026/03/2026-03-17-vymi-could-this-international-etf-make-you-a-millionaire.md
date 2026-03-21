@@ -18,4 +18,4 @@ The fund's geographical allocation is noteworthy, with significant investments i
 
 For professionals in trading and portfolio management, VYMI represents a viable pathway to substantial long-term gains. I recommend exploring the full article for a deeper dive into its performance metrics and investment strategy.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/vymi-can-this-international-etf-millionaire/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/vymi-can-this-international-etf-millionaire/?source=iedfolrf0000001)

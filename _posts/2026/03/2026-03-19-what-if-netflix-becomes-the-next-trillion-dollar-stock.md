@@ -18,4 +18,4 @@ This growth is underpinned by a surge in subscriber numbers, with 23 million net
 
 While Netflix's fundamentals remain strong, the timing of its ascent to a trillion-dollar valuation is uncertain. For a deeper dive into Netflix's growth trajectory and market implications, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/netflix-becomes-the-next-trillion-dollar-stock/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/netflix-becomes-the-next-trillion-dollar-stock/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This comparison highlights VNQI's broader international diversification, with ho
 
 For investors weighing their options in real estate ETFs, VNQI's lower costs and higher recent returns make it a compelling choice, while GQRE may still appeal to those prioritizing U.S. exposure. For a deeper dive into these funds, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/etfs/2026/03/17/real-estate-etfs-should-investors-favor-vnqi-s-lower-fees-or-gqre-s-performance/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/etfs/2026/03/17/real-estate-etfs-should-investors-favor-vnqi-s-lower-fees-or-gqre-s-performance/?source=iedfolrf0000001)

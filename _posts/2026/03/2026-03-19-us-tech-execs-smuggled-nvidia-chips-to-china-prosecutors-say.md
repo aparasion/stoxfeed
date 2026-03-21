@@ -18,4 +18,4 @@ This development comes amid heightened scrutiny over the export of advanced tech
 
 For market professionals, this situation may affect stock performance and strategic decisions in the tech sector. To dive deeper into the implications of this case, I recommend reading the full article for a comprehensive overview.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html)

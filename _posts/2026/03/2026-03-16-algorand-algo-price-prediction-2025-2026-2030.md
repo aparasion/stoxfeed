@@ -18,4 +18,4 @@ The implications for the financial markets are significant. Algorand's focus on 
 
 For market professionals, understanding Algorand's trajectory is crucial, especially as macroeconomic factors like Federal Reserve policies influence investor behavior. For a deeper dive into the specifics of Algorand's predictions and market positioning, I recommend exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)

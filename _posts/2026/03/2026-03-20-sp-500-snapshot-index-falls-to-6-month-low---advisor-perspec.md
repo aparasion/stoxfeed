@@ -18,4 +18,4 @@ The drop in the index is particularly impactful for technology and consumer disc
 
 For market professionals, this development underscores the importance of closely monitoring sector performance and adjusting portfolios accordingly. To gain deeper insights into the factors driving this decline and its potential ramifications, I recommend checking out the full article for a comprehensive analysis.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXdtT1piRXl6eFJycnJfcFVvQUdCeE9LdHA4ZUtnN29BZll6NGMwOTE2eXJWRHZtVUM5akdkNjhkQld0WEx3OHNsZFZ4dTZkRXQySy1IVGUtdWVVY3hHU2hQYi03b3h5c2RxWnZGanJodDVsalpsRk9oLUVIM1gzY29RQkpwOFdiV3M1dVgwYUVaZVdLODdFTVZ2enFQVmo5Wi0xVV81ZFA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXdtT1piRXl6eFJycnJfcFVvQUdCeE9LdHA4ZUtnN29BZll6NGMwOTE2eXJWRHZtVUM5akdkNjhkQld0WEx3OHNsZFZ4dTZkRXQySy1IVGUtdWVVY3hHU2hQYi03b3h5c2RxWnZGanJodDVsalpsRk9oLUVIM1gzY29RQkpwOFdiV3M1dVgwYUVaZVdLODdFTVZ2enFQVmo5Wi0xVV81ZFA?oc=5)

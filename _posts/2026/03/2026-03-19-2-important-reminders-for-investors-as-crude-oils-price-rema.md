@@ -18,4 +18,4 @@ Integrated energy giants like ExxonMobil (XOM) stand out due to their robust fin
 
 For investors looking to maintain energy sector exposure, focusing on resilient firms like Exxon and Enterprise, which boast attractive dividend yields, can provide stability amid ongoing volatility. For a deeper dive into these insights, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/2-important-reminders-for-investors-as-crude-oils/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/2-important-reminders-for-investors-as-crude-oils/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Investors should note that while the company may improve operationally in the ne
 
 For a deeper dive into First Majestic Silver's strategies and market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/where-will-first-majestic-silver-stock-be-in-3-yea/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/where-will-first-majestic-silver-stock-be-in-3-yea/?source=iedfolrf0000001)

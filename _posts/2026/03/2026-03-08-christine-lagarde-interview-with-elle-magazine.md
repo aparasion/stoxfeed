@@ -18,4 +18,4 @@ This initiative comes at a pivotal time for the European economy, as Lagarde war
 
 For professionals in finance, Lagarde's insights underscore the intersection of gender equity and economic growth. Her call to action for financial education presents an opportunity for market players to engage with emerging trends that could reshape investment strategies. Dive deeper into Lagarde's vision and the ECB's initiatives by reading the full interview.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)

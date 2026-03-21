@@ -18,4 +18,4 @@ This decline is significant not just for HDFC Bank but for the entire banking se
 
 For market professionals, the key takeaway is to closely monitor HDFC Bank's recovery trajectory and its ripple effects across the banking sector. I highly recommend exploring the full article for a deeper understanding of the current landscape and expert insights on navigating these turbulent waters.
 
-[economictimes.com](https://m.economictimes.com)
+Source: [economictimes.com](https://m.economictimes.com)

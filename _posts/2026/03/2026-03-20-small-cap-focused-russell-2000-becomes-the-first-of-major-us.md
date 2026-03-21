@@ -18,4 +18,4 @@ This decline highlights the vulnerability of small-cap stocks to external shocks
 
 Market professionals should closely monitor these developments, as the small-cap index's struggles could signal a shift in investor sentiment across other major averages. For a deeper dive into these trends, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html)

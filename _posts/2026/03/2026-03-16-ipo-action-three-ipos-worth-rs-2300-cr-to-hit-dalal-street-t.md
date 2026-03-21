@@ -18,4 +18,4 @@ The implications for investors are substantial, as rising oil prices could exace
 
 For a deeper dive into the current market landscape and actionable insights, I recommend checking out the full article. It provides a comprehensive overview of the challenges and opportunities in the Indian equity market.
 
-[moneycontrol.com](https://www.moneycontrol.com)
+Source: [moneycontrol.com](https://www.moneycontrol.com)

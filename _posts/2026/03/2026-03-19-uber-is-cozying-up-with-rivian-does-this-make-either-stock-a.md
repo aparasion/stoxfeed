@@ -18,4 +18,4 @@ However, while the deal offers a temporary boost, Rivian's path to profitability
 
 For market professionals, this partnership highlights the divergent paths of Rivian and Uber in the EV landscape. Explore the full details of this significant development to better understand its implications for both companies.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/uber-is-cozying-up-with-rivian-does-this-make-eith/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/uber-is-cozying-up-with-rivian-does-this-make-eith/?source=iedfolrf0000001)

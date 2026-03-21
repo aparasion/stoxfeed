@@ -18,4 +18,4 @@ Despite these challenges, analysts suggest that investors should maintain their 
 
 For professionals navigating this turbulent landscape, the article offers valuable insights into the resilience of these key players amid external pressures. I recommend diving deeper into the full analysis for a comprehensive understanding of the current market dynamics.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/3-artificial-intelligence-ai-stocks-caught-in-the/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/3-artificial-intelligence-ai-stocks-caught-in-the/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The company is poised for significant growth, with management projecting earning
 
 With shares trading at approximately 17 times the earnings guidance midpoint, the current valuation appears attractive for investors seeking growth. For a deeper dive into American Express's strategies and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/1-top-dividend-stock-to-buy-with-double-digit-divi/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/1-top-dividend-stock-to-buy-with-double-digit-divi/?source=iedfolrf0000001)

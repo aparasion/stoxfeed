@@ -18,4 +18,4 @@ The uptick in Blue Owl's stock comes as peers like Ares Management and Blackston
 
 Investors should note the cautious optimism reflected in Oppenheimer's recent "outperform" rating for Blue Owl, alongside its strategic pivot into new sectors. For a deeper dive into these developments, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-blue-owl-capital-rises-though-private-credit-fears-linger/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-blue-owl-capital-rises-though-private-credit-fears-linger/?source=iedfolrf0000001)

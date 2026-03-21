@@ -18,4 +18,4 @@ The findings underscore a critical challenge for businesses: integrating AI whil
 
 For market professionals, the implications are clear: as AI adoption accelerates, understanding employee sentiment and addressing their concerns will be crucial for maintaining productivity and morale. For a deeper dive into these findings, I recommend reading the full report.
 
-[cnbc.com](https://www.cnbc.com/2026/03/16/ai-workplace-friction.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/16/ai-workplace-friction.html)

@@ -18,4 +18,4 @@ Key metrics indicate that Bitcoin's network remains robust, with an all-time hig
 
 For investors, the potential upside is significant, as Bitcoin currently represents less than 0.2% of global wealth. A modest increase to just 2% could imply substantial price appreciation. For a deeper dive into these insights, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/bitcoin-down-3-reasons-why-no-brainer-buy-march/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/bitcoin-down-3-reasons-why-no-brainer-buy-march/?source=iedfolrf0000001)

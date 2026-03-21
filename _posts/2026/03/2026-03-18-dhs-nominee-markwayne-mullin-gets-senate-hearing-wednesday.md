@@ -18,4 +18,4 @@ This nomination is significant as it could influence the direction of immigratio
 
 For a deeper understanding of the political dynamics at play and their potential market ramifications, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/markwayne-mullin-dhs-confirmation-senate-immigration.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/markwayne-mullin-dhs-confirmation-senate-immigration.html)

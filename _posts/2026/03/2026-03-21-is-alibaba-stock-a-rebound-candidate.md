@@ -18,4 +18,4 @@ The cloud computing segment showed promise, with revenue growth of 36% to $6.1 b
 
 For market professionals, the key takeaway is Alibaba's ongoing struggle to balance growth investments with profitability, particularly in a highly competitive Chinese e-commerce landscape. While the cloud segment holds potential, the reliance on e-commerce could hinder a swift recovery in stock performance.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/is-alibaba-stock-a-rebound-candidate/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/is-alibaba-stock-a-rebound-candidate/?source=iedfolrf0000001)

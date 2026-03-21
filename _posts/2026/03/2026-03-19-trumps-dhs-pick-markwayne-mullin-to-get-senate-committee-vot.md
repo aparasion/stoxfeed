@@ -18,4 +18,4 @@ This nomination is significant for financial markets, particularly in sectors af
 
 As the vote approaches, market professionals should monitor the outcome closely, as Mullin's confirmation could lead to shifts in policy that resonate across various sectors. For a deeper dive into the implications of this nomination, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html)

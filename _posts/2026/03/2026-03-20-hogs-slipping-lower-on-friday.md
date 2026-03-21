@@ -18,4 +18,4 @@ This price movement reflects broader trends in the pork market, with fluctuating
 
 For a deeper dive into these trends and their implications for your trading strategy, I recommend checking out the full article for detailed insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/hogs-slipping-lower-friday-1)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/hogs-slipping-lower-friday-1)

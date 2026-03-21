@@ -18,4 +18,4 @@ The emergence of OpenClaw signals a shift in the AI landscape, as developers inc
 
 Market professionals should monitor OpenClaw's trajectory closely, as its success could redefine competitive dynamics in the AI sector and challenge the dominance of major players. The potential for widespread adoption of open-source AI tools may disrupt existing business models and create new opportunities for innovation in the industry.
 
-[cnbc.com](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html)

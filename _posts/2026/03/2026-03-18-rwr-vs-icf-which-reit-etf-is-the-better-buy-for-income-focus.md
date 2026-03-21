@@ -18,4 +18,4 @@ For investors, the choice between these two ETFs hinges on the balance of divers
 
 For a deeper dive into the nuances of these ETFs and their implications for your portfolio, I highly recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/etfs/2026/03/18/rwr-vs-icf-which-reit-etf-is-the-better-buy-for-income-focused-investors/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/etfs/2026/03/18/rwr-vs-icf-which-reit-etf-is-the-better-buy-for-income-focused-investors/?source=iedfolrf0000001)

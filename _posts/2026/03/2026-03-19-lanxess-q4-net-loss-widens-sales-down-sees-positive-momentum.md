@@ -18,4 +18,4 @@ This financial performance highlights the ongoing challenges in the chemical sec
 
 For professionals in the market, Lanxess's struggles underscore the importance of monitoring sector-specific trends and geopolitical influences. I recommend diving deeper into the full article for a comprehensive understanding of these developments.
 
-[nasdaq.com](https://www.nasdaq.com/articles/lanxess-q4-net-loss-widens-sales-down-sees-positive-momentum-h2-cut-550-jobs)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/lanxess-q4-net-loss-widens-sales-down-sees-positive-momentum-h2-cut-550-jobs)

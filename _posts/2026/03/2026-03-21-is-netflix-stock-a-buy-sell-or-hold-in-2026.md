@@ -18,4 +18,4 @@ The focus on advertising and live events could enhance revenue streams and profi
 
 For investors, this pivot suggests a potential undervaluation of Netflix shares, especially in light of its robust membership base. For a deeper analysis of Netflix's strategic shift and what it means for your investment approach, I highly recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/is-hot-ticker-a-buy-sell-or-hold-in-year/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/is-hot-ticker-a-buy-sell-or-hold-in-year/?source=iedfolrf0000001)

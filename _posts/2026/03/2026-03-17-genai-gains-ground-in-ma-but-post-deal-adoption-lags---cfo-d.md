@@ -18,4 +18,4 @@ The implications for the market are notable. As companies like Stryker face disr
 
 For professionals navigating these changes, the takeaway is clear: investing in data capabilities is no longer optional but essential for maintaining competitive advantage. For a deeper dive into these insights, I recommend exploring the full article.
 
-[cfodive.com](https://www.cfodive.com)
+Source: [cfodive.com](https://www.cfodive.com)

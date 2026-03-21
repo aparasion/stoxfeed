@@ -18,4 +18,4 @@ Visa's business model benefits from inflation; as prices rise, the dollar volume
 
 For those looking to hedge against inflation while securing solid returns, Visa presents a strong case. I recommend diving deeper into this analysis to understand how Visa can enhance your portfolio in the current economic climate.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/1-inflation-resistant-stock-to-buy-and-hold-foreve/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/1-inflation-resistant-stock-to-buy-and-hold-foreve/?source=iedfolrf0000001)

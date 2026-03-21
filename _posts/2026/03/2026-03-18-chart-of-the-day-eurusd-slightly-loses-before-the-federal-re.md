@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, as a divided Fed cou
 
 For market professionals, the key takeaway is that the March meeting could significantly influence EURUSD through shifts in policy expectations. I recommend exploring the full article for a deeper analysis of these potential market movements.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/chart-of-the-day-eurusd-slightly-loses-before-the-federal-reserve-decision)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/chart-of-the-day-eurusd-slightly-loses-before-the-federal-reserve-decision)

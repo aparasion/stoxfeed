@@ -18,4 +18,4 @@ The move is significant for the financial markets as it reflects broader trends 
 
 For market professionals, the key takeaway is the ongoing evolution in operational strategies within financial services, emphasizing the need for agility in talent management and cost control. For a deeper dive into these developments, I recommend checking out the full article.
 
-[fnlondon.com](https://www.fnlondon.com)
+Source: [fnlondon.com](https://www.fnlondon.com)

@@ -18,4 +18,4 @@ Moreover, Costco is gaining traction in the digital space, with a remarkable 22.
 
 For investors, Costco's consistent performance and growth prospects make it a compelling long-term hold, despite its high valuation. For a deeper dive into Costco's latest results and strategic outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/3-reasons-costco-stock-deserves-to-trade-at-a-sky/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/3-reasons-costco-stock-deserves-to-trade-at-a-sky/?source=iedfolrf0000001)

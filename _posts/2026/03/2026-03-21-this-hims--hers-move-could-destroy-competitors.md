@@ -18,4 +18,4 @@ The implications for the financial markets are noteworthy; if the Wegovy launch 
 
 For those looking to understand the full impact of this partnership and the anticipated launch strategy, I highly recommend checking out the detailed analysis in the original article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/hims-hers-officially-launches-massive-new-product/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/hims-hers-officially-launches-massive-new-product/?source=iedfolrf0000001)

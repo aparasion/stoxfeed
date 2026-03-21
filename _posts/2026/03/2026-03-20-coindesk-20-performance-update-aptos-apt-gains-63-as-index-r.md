@@ -18,4 +18,4 @@ The rise of APT and BCH reflects a broader trend where certain altcoins are gain
 
 For professionals navigating these developments, the performance of Aptos and Bitcoin Cash may offer insights into emerging trends and investment opportunities. I recommend checking out the full article for a deeper dive into the CoinDesk 20 Index and its implications for your trading strategies.
 
-[coindesk.com](https://www.coindesk.com/coindesk-indices/2026/03/20/coindesk-20-performance-update-aptos-apt-gains-6-3-as-index-rises)
+Source: [coindesk.com](https://www.coindesk.com/coindesk-indices/2026/03/20/coindesk-20-performance-update-aptos-apt-gains-6-3-as-index-rises)

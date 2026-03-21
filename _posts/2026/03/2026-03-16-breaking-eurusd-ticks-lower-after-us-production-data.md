@@ -18,4 +18,4 @@ The uptick in industrial production signals increasing demand for goods, which c
 
 For a deeper analysis of the implications of this industrial production data on the broader economy and financial markets, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/breaking-eurusd-ticks-lower-after-us-production-data)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/breaking-eurusd-ticks-lower-after-us-production-data)

@@ -18,4 +18,4 @@ This buyback initiative is particularly noteworthy as BlackLine, like many softw
 
 For market professionals, BlackLine’s strategic move could indicate a shift in investor sentiment, potentially stabilizing its stock amidst broader sector volatility. For more insights on BlackLine’s financial health and market positioning, I recommend diving into the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/why-blackline-stock-zoomed-more-than-7-higher-toda/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/why-blackline-stock-zoomed-more-than-7-higher-toda/?source=iedfolrf0000001)

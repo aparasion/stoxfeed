@@ -18,4 +18,4 @@ This market downturn marks the third consecutive day and fourth straight week of
 
 For investors, this environment presents both challenges and opportunities, particularly with established companies trading near 52-week lows. For a deeper analysis of these trends and their implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/20/stock-market-today-march-20-s-and-p-500-drops-for-third-day-fourth-week-in-a-row/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/20/stock-market-today-march-20-s-and-p-500-drops-for-third-day-fourth-week-in-a-row/?source=iedfolrf0000001)

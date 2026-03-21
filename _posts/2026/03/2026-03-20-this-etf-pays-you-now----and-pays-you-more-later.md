@@ -18,4 +18,4 @@ This strategy is particularly relevant in today's market environment, where inco
 
 For market professionals, understanding VIG's methodology could inform better investment decisions in the dividend space. I recommend diving deeper into the article to explore how VIG compares to its peers and the implications for your investment strategies.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/this-etf-pays-you-now-and-pays-you-more-later/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/this-etf-pays-you-now-and-pays-you-more-later/?source=iedfolrf0000001)

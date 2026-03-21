@@ -18,4 +18,4 @@ The Invesco QQQ Trust has delivered impressive returns over the past decade, out
 
 For professionals evaluating their portfolios, understanding the risks and rewards of tech-heavy ETFs like QQQ is crucial. I recommend exploring the full article for a deeper analysis of the current market dynamics and investment strategies.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/the-nasdaq-is-down-3-this-year-is-the-qqq-invesco/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/the-nasdaq-is-down-3-this-year-is-the-qqq-invesco/?source=iedfolrf0000001)

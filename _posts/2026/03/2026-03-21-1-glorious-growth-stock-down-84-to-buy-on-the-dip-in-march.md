@@ -18,4 +18,4 @@ The financial implications are noteworthy, as Docusign's stock is currently trad
 
 For investors considering a long-term position, Docusign's IAM platform could be a key driver of future growth. I recommend exploring the full article for a deeper understanding of Docusign's strategic direction and market potential.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/1-glorious-growth-stock-down-84-to-buy-on-the-dip/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/1-glorious-growth-stock-down-84-to-buy-on-the-dip/?source=iedfolrf0000001)

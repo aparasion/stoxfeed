@@ -18,4 +18,4 @@ The broader implications for the financial markets are noteworthy. With the Fede
 
 For professionals in trading and portfolio management, the current dynamics present a critical moment to reassess gold's role in investment strategies. I recommend diving deeper into this analysis for a comprehensive understanding of the market shifts.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/why-gold-royalty-plunged-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/why-gold-royalty-plunged-today/?source=iedfolrf0000001)

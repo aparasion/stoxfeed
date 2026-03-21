@@ -18,4 +18,4 @@ The implications for the financial markets are significant. By investing heavily
 
 For those looking to understand the broader impact of this development on energy and technology stocks, I highly recommend diving into the full article for a comprehensive analysis.
 
-[seekingalpha.com](https://seekingalpha.com/news/4567002-softbank-plans-gas-plant-backed-massive-ohio-ai-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4567002-softbank-plans-gas-plant-backed-massive-ohio-ai-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

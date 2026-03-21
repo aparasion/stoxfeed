@@ -18,4 +18,4 @@ Lagarde highlighted that core inflation indicators align with the ECB's 2% targe
 
 For market professionals, the key takeaway is that the ECB's stance indicates a cautious approach to monetary policy amid geopolitical uncertainties. For a deeper dive into the implications of Lagarde's comments, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/ecb-chair-christine-lagarde-press-conference-live)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/ecb-chair-christine-lagarde-press-conference-live)

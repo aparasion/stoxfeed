@@ -18,4 +18,4 @@ For investors, Orsini's sale comes at a notable time, as Lear Corporation has se
 
 This insider transaction could prompt investors to scrutinize Lear's ongoing performance and strategic direction. For a deeper dive into the implications of Orsini's sale and Lear's market position, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/17/lear-evp-and-president-sells-7-133-shares-for-usd967-000/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/17/lear-evp-and-president-sells-7-133-shares-for-usd967-000/?source=iedfolrf0000001)

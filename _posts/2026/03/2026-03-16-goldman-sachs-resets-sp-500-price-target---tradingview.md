@@ -18,4 +18,4 @@ The implications for financial markets are notable, as gold's decline may influe
 
 For market professionals, the key takeaway is to monitor gold's movement closely, as it could foreshadow shifts in risk appetite and investment strategies. For a deeper analysis of this development, I recommend checking out the full article for more insights.
 
-[tradingview.com](https://www.tradingview.com)
+Source: [tradingview.com](https://www.tradingview.com)

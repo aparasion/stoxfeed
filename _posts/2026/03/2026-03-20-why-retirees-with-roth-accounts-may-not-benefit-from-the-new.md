@@ -18,4 +18,4 @@ For many seniors, the new deduction may not provide substantial benefits due to 
 
 Market professionals should consider how these tax changes may influence consumer spending and retirement strategies. For a deeper dive into the implications of these tax rules, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/why-retirees-with-roth-accounts-may-not-benefit-fr/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/why-retirees-with-roth-accounts-may-not-benefit-fr/?source=iedfolrf0000001)

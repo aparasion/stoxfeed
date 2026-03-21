@@ -18,4 +18,4 @@ These lower-priced stocks could experience significant appreciation as AI contin
 
 Investors should consider the potential for high returns, but also the inherent volatility and regulatory challenges in the AI landscape. For a deeper dive into these emerging stocks and their market implications, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/artificial-intelligence-stocks-under-10)
+Source: [benzinga.com](https://www.benzinga.com/money/artificial-intelligence-stocks-under-10)

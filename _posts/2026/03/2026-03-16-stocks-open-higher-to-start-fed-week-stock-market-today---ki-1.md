@@ -18,4 +18,4 @@ As energy costs surge, the implications for inflation and consumer spending are 
 
 One key takeaway for market professionals is the potential for increased volatility in the wake of the Fed's decisions and external pressures on energy prices. For a deeper dive into these developments and their implications, I recommend checking out the full article for comprehensive insights.
 
-[kiplinger.com](https://www.kiplinger.com)
+Source: [kiplinger.com](https://www.kiplinger.com)

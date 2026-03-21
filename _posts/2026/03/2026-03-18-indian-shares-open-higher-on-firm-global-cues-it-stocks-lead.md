@@ -18,4 +18,4 @@ Key movers included Urban Company, which surged 15% after early investors sold a
 
 For market professionals, the resilience of Indian equities amid global trends and sector-specific developments underscores the potential for continued investment opportunities. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/indian-shares-open-higher-firm-global-cues-it-stocks-lead-gains)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/indian-shares-open-higher-firm-global-cues-it-stocks-lead-gains)

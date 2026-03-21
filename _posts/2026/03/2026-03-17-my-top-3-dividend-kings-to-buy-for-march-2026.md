@@ -18,4 +18,4 @@ Among the highlighted Dividend Kings, AbbVie (ABBV) stands out with a robust dru
 
 Investors should consider these Dividend Kings as reliable options for income and growth, especially in uncertain market conditions. For a deeper dive into the specifics of these companies and their dividend potential, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/my-top-3-dividend-kings-to-buy-for-march-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/my-top-3-dividend-kings-to-buy-for-march-2026/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The broader software market has shown signs of recovery, with companies like Sal
 
 For those considering Adobe as a long-term investment, its current P/E ratio of 15 presents an attractive entry point. I recommend reading the full article for a deeper dive into the implications of these developments.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/sp-500-update-2-signals-to-watch-after-adobes-earn/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/sp-500-update-2-signals-to-watch-after-adobes-earn/?source=iedfolrf0000001)

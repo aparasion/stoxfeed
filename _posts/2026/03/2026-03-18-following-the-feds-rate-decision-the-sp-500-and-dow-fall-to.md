@@ -18,4 +18,4 @@ The market's decline is attributed to higher-than-expected producer prices, whic
 
 Market professionals should closely monitor these developments, particularly how ongoing geopolitical tensions and inflation data may influence Fed policy and stock performance. For a deeper dive into the implications of these trends, I recommend reading the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/following-feds-rate-decision-sp-500-and-dow-fall-new-closing-lows-2026)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/following-feds-rate-decision-sp-500-and-dow-fall-new-closing-lows-2026)

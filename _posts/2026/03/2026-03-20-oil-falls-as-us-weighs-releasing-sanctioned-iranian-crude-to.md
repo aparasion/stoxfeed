@@ -18,4 +18,4 @@ The implications for the financial markets are significant. Citi has revised its
 
 For market professionals, the evolving situation presents both risks and opportunities in oil trading strategies. I recommend diving into the full article for a comprehensive analysis of the potential market impacts.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html)

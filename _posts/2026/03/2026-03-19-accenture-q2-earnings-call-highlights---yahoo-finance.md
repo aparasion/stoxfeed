@@ -18,4 +18,4 @@ These matchups are particularly relevant as they reflect broader market trends, 
 
 For professionals navigating the current market landscape, Coons' insights provide valuable perspectives on these stocks' potential. I recommend checking out the full discussion for a deeper dive into the rationale behind these picks.
 
-[finance.yahoo.com](https://finance.yahoo.com)
+Source: [finance.yahoo.com](https://finance.yahoo.com)

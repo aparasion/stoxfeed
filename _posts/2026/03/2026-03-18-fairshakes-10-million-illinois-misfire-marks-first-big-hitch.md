@@ -18,4 +18,4 @@ The implications of this loss extend beyond a single election. Fairshake's subst
 
 For market professionals, this development underscores the evolving dynamics of political influence in the crypto sector. To delve deeper into Fairshake's strategy and its potential impact on future elections, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge)
+Source: [coindesk.com](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge)

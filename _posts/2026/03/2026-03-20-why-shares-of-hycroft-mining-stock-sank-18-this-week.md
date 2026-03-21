@@ -18,4 +18,4 @@ The decline in metal prices has led to a general aversion to mining stocks, with
 
 For those considering an entry point, it may be prudent to avoid this pre-revenue mining stock for now. To understand the full context and implications, I recommend checking out the complete article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-shares-of-hycroft-mining-stock-sank-18-this-we/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-shares-of-hycroft-mining-stock-sank-18-this-we/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This development is particularly significant given that the stock market is curr
 
 For market professionals, the key takeaway is the potential for a shift in interest rate expectations, which could challenge the sustainability of current equity valuations. I recommend diving deeper into the full article to understand the implications of these developments on your investment strategies.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/fed-chair-jerome-powell-8-words-roil-wall-street/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/fed-chair-jerome-powell-8-words-roil-wall-street/?source=iedfolrf0000001)

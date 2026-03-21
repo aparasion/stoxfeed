@@ -18,4 +18,4 @@ This decision comes at a time when Berkshire's share price is notably higher tha
 
 Ultimately, Abel's buyback strategy, endorsed by Buffett, suggests continuity in Berkshire's corporate culture and investment philosophy. For a deeper understanding of this transition and its implications for investors, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/did-berkshires-new-ceo-just-break-from-warren-buff/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/did-berkshires-new-ceo-just-break-from-warren-buff/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ From a market perspective, this sale is not alarming; it was conducted under a R
 
 For market professionals, Wu's sale underscores a strategic move rather than a sign of distress. For a deeper dive into the implications of this transaction, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/18/gigacloud-technology-ceo-sold-90-000-company-shares-for-usd3-8-million-is-the-stock-a-buy-or-sell/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/18/gigacloud-technology-ceo-sold-90-000-company-shares-for-usd3-8-million-is-the-stock-a-buy-or-sell/?source=iedfolrf0000001)

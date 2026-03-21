@@ -18,4 +18,4 @@ The upcoming R2 launch is crucial for Rivian, especially as it enters a much mor
 
 For aggressive investors, now might be an opportune time to consider Rivian before the R2's debut. For a deeper dive into Rivian's strategy and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/is-rivian-the-smartest-investment-you-can-make-tod/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/is-rivian-the-smartest-investment-you-can-make-tod/?source=iedfolrf0000001)

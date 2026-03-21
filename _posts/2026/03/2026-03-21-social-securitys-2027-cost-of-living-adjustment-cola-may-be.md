@@ -18,4 +18,4 @@ This development is crucial for financial markets, as the purchasing power of So
 
 As we await the March inflation data release, market professionals should consider how these dynamics will affect consumer behavior and spending, particularly among the 54 million retirees reliant on Social Security. For a deeper dive into the implications of these changes, I highly recommend exploring the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/21/social-security-2027-cola-largest-25-years-catch/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/21/social-security-2027-cola-largest-25-years-catch/?source=iedfolrf0000001)

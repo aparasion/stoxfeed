@@ -18,4 +18,4 @@ This performance is significant for the retail sector, particularly in the jewel
 
 Investors should take note of Signet's ability to navigate a competitive landscape and maintain revenue stability. For a deeper dive into the implications of these results, I recommend checking out the full article for more insights.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566261-signet-beats-q4-street-views?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566261-signet-beats-q4-street-views?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

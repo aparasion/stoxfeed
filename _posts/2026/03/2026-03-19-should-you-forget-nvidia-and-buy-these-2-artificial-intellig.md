@@ -18,4 +18,4 @@ In contrast, Broadcom (AVGO) is capitalizing on the demand for custom AI chips a
 
 For market professionals, Nvidia remains a solid investment, but Broadcom and AMD are emerging as strong contenders with significant upside potential. Dive deeper into the full analysis to understand the implications for your portfolio.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/should-you-forget-nvidia-and-buy-these-2-artificia/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/should-you-forget-nvidia-and-buy-these-2-artificia/?source=iedfolrf0000001)

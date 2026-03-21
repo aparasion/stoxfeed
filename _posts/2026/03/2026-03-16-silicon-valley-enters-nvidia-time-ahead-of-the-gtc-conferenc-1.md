@@ -20,4 +20,4 @@ For market professionals, the key takeaway is to monitor how these developments 
 
 *StoxFeed tracks this as a market signal: [AI and semiconductor stocks are driving tech sector gains](/signals/#ai-stocks-momentum)*
 
-[news.futunn.com](https://news.futunn.com)
+Source: [news.futunn.com](https://news.futunn.com)

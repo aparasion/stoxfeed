@@ -18,4 +18,4 @@ The significance of Appia lies in its potential to enhance efficiency in wholesa
 
 Market professionals should note that Appia represents a pivotal step toward a more competitive and integrated European financial landscape. For those interested in the detailed implications of this roadmap, I recommend exploring the full article for a deeper understanding of its potential impact on the financial markets.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)

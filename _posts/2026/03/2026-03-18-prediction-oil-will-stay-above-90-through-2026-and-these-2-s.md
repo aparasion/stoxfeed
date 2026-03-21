@@ -18,4 +18,4 @@ ExxonMobil, trading at $156.12, has already seen a 30% increase year-to-date, bo
 
 For professionals in the market, the implications are clear: the ongoing geopolitical tensions and structural supply constraints could sustain a favorable environment for these energy stocks. I recommend diving deeper into this analysis to understand the broader market impact—check out the full article for more insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/prediction-oil-will-stay-above-90-through-2026-and-these-2-stocks-will-profit-most)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/prediction-oil-will-stay-above-90-through-2026-and-these-2-stocks-will-profit-most)

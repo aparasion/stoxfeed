@@ -18,4 +18,4 @@ This development is crucial for the financial markets, particularly for firms in
 
 Market professionals should closely monitor the implications of this case, particularly as the CFTC seeks to establish clearer policies. For a deeper dive into the ongoing legal battles and their potential impact on the market, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/policy/2026/03/20/kalshi-gets-temporary-nevada-ban-in-dispute-over-sports-betting)
+Source: [coindesk.com](https://www.coindesk.com/policy/2026/03/20/kalshi-gets-temporary-nevada-ban-in-dispute-over-sports-betting)

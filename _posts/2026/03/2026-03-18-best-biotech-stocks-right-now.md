@@ -18,4 +18,4 @@ This sector's growth potential is closely tied to the approval of new drugs, whi
 
 For market professionals, now may be the time to reassess biotech allocations in portfolios, especially as FDA approvals can lead to substantial gains. For a deeper dive into the current landscape of biotech stocks and strategic insights, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/best-biotech-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-biotech-stocks)

@@ -18,4 +18,4 @@ This fertilizer price spike comes at a critical time for U.S. agriculture and th
 
 For market professionals, the implications of rising fertilizer costs extend beyond agriculture, as they could contribute to broader inflationary pressures affecting the U.S. economy. This situation warrants close monitoring, and I recommend diving into the full article for a comprehensive understanding of the unfolding dynamics.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html)

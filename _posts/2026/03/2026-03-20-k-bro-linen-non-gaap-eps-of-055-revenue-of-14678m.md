@@ -18,4 +18,4 @@ The significant revenue increase indicates not only operational efficiency but a
 
 For market professionals, K-Bro Linen's earnings highlight the potential for continued growth in the linen services sector. To delve deeper into the implications of this earnings report, I recommend checking out the full article for more insights.
 
-[seekingalpha.com](https://seekingalpha.com/news/4567046-k-bro-linen-non-gaap-eps-of-055-revenue-of-14678m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4567046-k-bro-linen-non-gaap-eps-of-055-revenue-of-14678m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

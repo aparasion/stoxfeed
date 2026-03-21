@@ -18,4 +18,4 @@ The implications for financial markets are profound. Futures markets now reflect
 
 Market professionals should closely monitor the evolving situation, as Trump's military strategies and their impact on energy prices could have lasting effects on inflation and economic stability, influencing both investment strategies and policy responses from the Federal Reserve.
 
-[cnbc.com](https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html)

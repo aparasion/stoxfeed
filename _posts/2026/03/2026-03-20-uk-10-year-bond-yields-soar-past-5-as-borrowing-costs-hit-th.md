@@ -18,4 +18,4 @@ This surge in yields reflects heightened concerns over inflation driven by energ
 
 For market professionals, this environment presents both challenges and opportunities, particularly in assessing the value restoration in parts of the gilt curve. I recommend exploring the full article for a deeper understanding of the dynamics at play and their implications for your investment strategies.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html)

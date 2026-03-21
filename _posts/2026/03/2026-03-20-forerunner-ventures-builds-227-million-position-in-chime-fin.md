@@ -18,4 +18,4 @@ Chime Financial, a leader in digital banking, focuses on providing fee-free bank
 
 Investors should closely monitor how Chime leverages its scale and user engagement to drive durable growth while managing its product economics. For a deeper dive into this strategic investment and its implications, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/19/forerunner-ventures-builds-usd227-million-position-in-chime-financial-according-to-recent-sec-filing/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/19/forerunner-ventures-builds-usd227-million-position-in-chime-financial-according-to-recent-sec-filing/?source=iedfolrf0000001)

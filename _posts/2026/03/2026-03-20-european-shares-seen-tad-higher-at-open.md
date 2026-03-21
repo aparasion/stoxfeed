@@ -18,4 +18,4 @@ The mixed performance in U.S. markets on Friday, with the Nasdaq Composite reach
 
 For a deeper dive into the implications of these developments on market strategies, I recommend exploring the full article for comprehensive insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/european-shares-seen-tad-higher-open)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/european-shares-seen-tad-higher-open)

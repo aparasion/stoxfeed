@@ -18,4 +18,4 @@ This financial downturn highlights the challenges facing Frontera as it navigate
 
 For a deeper dive into Frontera's financials and the implications of this divestment, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/frontera-energy-q4-loss-widens-impairment-charges-weak-net-sales)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/frontera-energy-q4-loss-widens-impairment-charges-weak-net-sales)

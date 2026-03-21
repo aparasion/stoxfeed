@@ -18,4 +18,4 @@ The implications for financial markets are noteworthy, as Nvidia's stock closed 
 
 For a deeper dive into how these developments could impact your portfolio, I highly recommend reading the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future)

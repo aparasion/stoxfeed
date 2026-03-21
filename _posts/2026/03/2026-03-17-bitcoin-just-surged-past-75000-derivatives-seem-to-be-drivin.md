@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. As traders unwind th
 
 For professionals monitoring crypto movements, this breakout could signal a shift in market dynamics. I recommend exploring the full story for deeper insights into the factors influencing this rally and its potential impact on trading strategies.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move)

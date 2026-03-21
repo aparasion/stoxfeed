@@ -18,4 +18,4 @@ The implications for financial markets are substantial. As China continues to en
 
 Market professionals should closely monitor these developments, as they may signal shifts in commodity prices and investment flows. For a deeper understanding of how China's mineral investments are affecting global economies and markets, I recommend exploring the full article.
 
-[scmp.com](https://www.scmp.com)
+Source: [scmp.com](https://www.scmp.com)

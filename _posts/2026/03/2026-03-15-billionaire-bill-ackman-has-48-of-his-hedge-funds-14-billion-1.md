@@ -18,4 +18,4 @@ Investors should pay close attention to how these sectors might impact overall m
 
 For professionals seeking to optimize their portfolios, Gardner's insights provide a strategic framework for navigating these evolving markets. I recommend exploring the full article for a deeper understanding of these sectors and actionable investment strategies that could enhance your long-term returns.
 
-[fool.com](https://www.fool.com)
+Source: [fool.com](https://www.fool.com)

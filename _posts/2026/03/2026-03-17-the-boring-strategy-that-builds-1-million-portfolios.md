@@ -18,4 +18,4 @@ The appeal of this approach lies in its simplicity and automation. Investors can
 
 For market professionals, this strategy underscores the potential of passive investing as a core component of a diversified portfolio. To delve deeper into this wealth-building approach, I recommend exploring the full article for insights on effective investment practices.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/the-boring-strategy-that-builds-1-million-portfoli/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/the-boring-strategy-that-builds-1-million-portfoli/?source=iedfolrf0000001)

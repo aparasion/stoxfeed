@@ -18,4 +18,4 @@ The approval is expected to enhance liquidity and accessibility in the market, a
 
 Market professionals should consider the implications of this approval on trading strategies and investment opportunities. For a deeper dive into the specifics of Nasdaq's plans and the broader impact on the financial landscape, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTlibkxhLUpWSE53RnliN2NLc0VsbXZVek5rbGNjbVc2c2xDS2JjU3JGRnN3WlVVQmw2bS01UTZFLThHOXBOMGJLZ3lYQ29XUWlMWjdyTEVBbW85RzBSRVJhTE5vZDdadElKN0gwdkJpV192M2d5c2M1SXFHaU40Z0RYRFl0aTQ0X19VV3U1Q2hmTURmV3pCM3VWOTZYN1dIY2R4bHNkd0Q?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTlibkxhLUpWSE53RnliN2NLc0VsbXZVek5rbGNjbVc2c2xDS2JjU3JGRnN3WlVVQmw2bS01UTZFLThHOXBOMGJLZ3lYQ29XUWlMWjdyTEVBbW85RzBSRVJhTE5vZDdadElKN0gwdkJpV192M2d5c2M1SXFHaU40Z0RYRFl0aTQ0X19VV3U1Q2hmTURmV3pCM3VWOTZYN1dIY2R4bHNkd0Q?oc=5)

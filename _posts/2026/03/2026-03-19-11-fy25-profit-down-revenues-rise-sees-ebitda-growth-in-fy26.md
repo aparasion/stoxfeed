@@ -18,4 +18,4 @@ This mixed performance highlights the challenges facing 1&1 AG as it navigates a
 
 Investors should closely monitor the company's upcoming Annual Shareholders' Meeting for insights on dividend policies and strategic direction. For a deeper dive into 1&1 AG's financial outlook, I recommend reading the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/11-fy25-profit-down-revenues-rise-sees-ebitda-growth-fy26-ahead)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/11-fy25-profit-down-revenues-rise-sees-ebitda-growth-fy26-ahead)

@@ -18,4 +18,4 @@ This exchange underscores the delicate balance Japan must maintain in its defens
 
 For a deeper understanding of the geopolitical dynamics at play, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/trump-pearl-harbor-japan-takaichi-iran-war.html)

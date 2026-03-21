@@ -18,4 +18,4 @@ This development is significant as it highlights the risks in the cryptocurrency
 
 For market professionals, the key takeaway is the importance of due diligence in evaluating presale opportunities, especially in a landscape where regulatory clarity is evolving. For a deeper dive into these developments, I recommend checking out the full article.
 
-[openpr.com](https://www.openpr.com)
+Source: [openpr.com](https://www.openpr.com)

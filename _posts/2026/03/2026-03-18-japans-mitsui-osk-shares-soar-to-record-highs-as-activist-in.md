@@ -18,4 +18,4 @@ This development is particularly noteworthy given Mitsui's recent financial perf
 
 For those tracking shipping and logistics sectors, Elliott's involvement could signal a forthcoming strategic pivot at Mitsui OSK. I recommend checking out the full article for deeper insights into this significant market movement.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/mitsui-osk-shares-jump-elliott-builds-position.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/mitsui-osk-shares-jump-elliott-builds-position.html)

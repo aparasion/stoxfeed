@@ -18,4 +18,4 @@ This shift in trader sentiment could influence cotton prices moving forward, esp
 
 For a deeper dive into the implications of these trends on the cotton market and broader commodities, I recommend checking out the full article for comprehensive insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/cotton-close-mixed-friday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/cotton-close-mixed-friday)

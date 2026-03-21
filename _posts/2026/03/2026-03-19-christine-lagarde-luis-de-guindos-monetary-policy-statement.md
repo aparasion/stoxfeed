@@ -18,4 +18,4 @@ This decision comes as the ECB revises its inflation projections upward, forecas
 
 Market professionals should note the ECB's data-dependent approach, indicating potential shifts in monetary policy based on evolving economic indicators. For a deeper understanding of the ECB's strategy and implications for the financial markets, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260319~93b1cbad97.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260319~93b1cbad97.en.html)

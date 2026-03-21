@@ -18,4 +18,4 @@ As Lucid plans to introduce more affordable models and explore the lucrative rob
 
 For market professionals, Lucid presents a compelling case study in the EV sector's evolution. While its business model may offer growth potential, the investment landscape remains precarious. For a deeper dive into Lucid's strategy and market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/where-will-lucid-group-be-in-3-years/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/where-will-lucid-group-be-in-3-years/?source=iedfolrf0000001)

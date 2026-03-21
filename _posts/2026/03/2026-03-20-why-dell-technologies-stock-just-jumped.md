@@ -18,4 +18,4 @@ This development is significant as it directly impacts market dynamics within th
 
 For professionals in the market, the key takeaway is the potential for Dell to capitalize on Super Micro's misfortune, but the overall market sentiment remains cautious. For a deeper dive into the implications of this event, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-dell-technologies-stock-just-jumped/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-dell-technologies-stock-just-jumped/?source=iedfolrf0000001)

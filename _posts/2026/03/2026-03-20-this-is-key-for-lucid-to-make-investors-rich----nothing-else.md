@@ -18,4 +18,4 @@ For investors, Lucid's ability to transition from high-cost luxury production to
 
 As Lucid navigates these challenges, the next 18 months will be crucial for its growth trajectory. For a deeper dive into these developments, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/this-is-key-for-lucid-to-make-investors-rich/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/this-is-key-for-lucid-to-make-investors-rich/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This development has far-reaching implications for the financial markets, partic
 
 For professionals in trading and portfolio management, understanding the evolving dynamics in the region is crucial. I recommend exploring the full article for a deeper analysis of these geopolitical shifts and their potential market impacts.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html)

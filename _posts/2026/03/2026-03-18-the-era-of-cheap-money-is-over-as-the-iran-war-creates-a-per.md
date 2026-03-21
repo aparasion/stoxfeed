@@ -18,4 +18,4 @@ As nations prioritize energy security, the shift towards self-reliance may lead 
 
 Investors should prepare for a landscape marked by persistent inflation and increased market volatility, as the traditional tools of monetary policy may no longer suffice. For a deeper understanding of these developments and their implications, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/18/the-era-of-cheap-money-is-over-as-the-iran-war-creates-a-permanent-inflation-floor)

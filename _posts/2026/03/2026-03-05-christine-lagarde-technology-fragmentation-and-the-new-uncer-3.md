@@ -18,4 +18,4 @@ This transition is critical for financial markets, as it complicates traditional
 
 Investors should recognize the interconnectedness of technological advancement and global stability, as fragmentation could undermine the very foundations of AI-driven growth. For a deeper understanding of Lagarde's insights and their implications for the markets, I highly recommend exploring the full lecture.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)

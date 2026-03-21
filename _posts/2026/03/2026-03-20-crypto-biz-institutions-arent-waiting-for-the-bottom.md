@@ -18,4 +18,4 @@ In Japan, SBI VC Trade is launching a retail USDC lending service, marking a sig
 
 For market professionals, these developments highlight a resilient institutional appetite for crypto assets and the growing importance of regulated pathways. Explore the full article for deeper insights into these trends and their implications for the evolving crypto landscape.
 
-[cointelegraph.com](https://cointelegraph.com/news/crypto-biz-institutional-crypto-demand-stablecoins-abra-spac-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/crypto-biz-institutional-crypto-demand-stablecoins-abra-spac-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

@@ -18,4 +18,4 @@ Despite this momentum, analysts remain cautious. While some upgraded their ratin
 
 Investors should weigh the speculative nature of both Plug Power and Oklo, considering the differing levels of market interest in hydrogen versus advanced nuclear solutions. For a deeper dive into Plug Power's latest developments and market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/why-plug-power-stock-popped-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/why-plug-power-stock-popped-today/?source=iedfolrf0000001)

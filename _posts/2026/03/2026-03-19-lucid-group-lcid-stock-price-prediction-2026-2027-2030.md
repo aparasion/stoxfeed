@@ -18,4 +18,4 @@ The current market cap stands at $3.26 billion, with shares trading around $10, 
 
 For investors considering Lucid, the stock represents a high-risk, speculative opportunity amid a backdrop of financial instability and fierce competition. I recommend checking out the full article for a deeper dive into Lucid's current valuation and future prospects.
 
-[benzinga.com](https://www.benzinga.com/money/lucid-stock-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/lucid-stock-price-prediction)

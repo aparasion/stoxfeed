@@ -18,4 +18,4 @@ Lockheed Martin, the largest U.S. defense contractor, is expected to deliver str
 
 For those looking to capitalize on the defense sector amid geopolitical tensions, Lockheed Martin appears to be the superior option. I recommend diving into the full article for a detailed comparison and insights into these pivotal stocks.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/better-defense-stock-lockheed-martin-vs-rtx/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/better-defense-stock-lockheed-martin-vs-rtx/?source=iedfolrf0000001)

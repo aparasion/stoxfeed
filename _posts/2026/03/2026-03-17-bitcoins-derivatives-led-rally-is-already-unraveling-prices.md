@@ -18,4 +18,4 @@ The dynamics in the derivatives market are critical here; the closure of bearish
 
 For professionals, this situation emphasizes the importance of understanding the interplay between derivatives and spot markets. For a deeper dive into these developments, I recommend exploring the full article for detailed insights.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/17/bitcoin-s-derivatives-led-rally-is-already-unraveling-prices-are-back-below-usd75-000)

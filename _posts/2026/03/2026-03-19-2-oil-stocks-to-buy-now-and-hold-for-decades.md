@@ -18,4 +18,4 @@ Enterprise, while focused solely on midstream operations, boasts a slightly high
 
 For investors seeking reliable income in a volatile market, Enbridge and Enterprise offer a strategic alternative. I recommend diving deeper into this analysis to understand the nuances of their business models and potential returns.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/2-oil-stocks-to-buy-now-and-hold-for-decades/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/2-oil-stocks-to-buy-now-and-hold-for-decades/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The appointment is significant for investors and market analysts, as Landerretch
 
 For market professionals, this transition underscores the importance of leadership in navigating financial and operational challenges. To gain deeper insights into the implications of this change, I recommend exploring the full story.
 
-[cfodive.com](https://www.cfodive.com)
+Source: [cfodive.com](https://www.cfodive.com)

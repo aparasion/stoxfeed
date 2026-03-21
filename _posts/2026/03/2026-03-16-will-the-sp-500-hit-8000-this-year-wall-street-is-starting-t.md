@@ -18,4 +18,4 @@ In other market news, Dollar Tree's cautious earnings forecast contrasts with it
 
 For investors, the current landscape suggests that while some sectors face headwinds, strategic buying in renewable energy and copper could yield substantial returns. I recommend diving deeper into the full article for a comprehensive analysis of these developments.
 
-[barrons.com](https://www.barrons.com)
+Source: [barrons.com](https://www.barrons.com)

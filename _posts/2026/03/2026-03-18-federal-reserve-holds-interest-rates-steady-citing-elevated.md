@@ -20,4 +20,4 @@ Market professionals should closely monitor developments in this conflict as the
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[cbsnews.com](https://www.cbsnews.com)
+Source: [cbsnews.com](https://www.cbsnews.com)

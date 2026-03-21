@@ -18,4 +18,4 @@ The implications for financial markets are clear: as retirees adjust their withd
 
 Ultimately, a tailored withdrawal strategy can enhance financial security in retirement. For a deeper dive into crafting an effective approach that aligns with individual goals, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/18/retiring-in-year-heres-how-to-set-your-first-year/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/18/retiring-in-year-heres-how-to-set-your-first-year/?source=iedfolrf0000001)

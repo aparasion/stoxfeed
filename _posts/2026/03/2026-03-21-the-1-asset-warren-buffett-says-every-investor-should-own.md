@@ -18,4 +18,4 @@ Investing in the S&P 500, typically through ETFs like SPY or VOO, allows investo
 
 For professionals looking to optimize their investment strategies, Buffett's advice underscores the value of diversification and long-term planning. Dive deeper into his insights and the benefits of the S&P 500 by exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/the-1-asset-warren-buffett-says-every-investor-sho/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/the-1-asset-warren-buffett-says-every-investor-sho/?source=iedfolrf0000001)

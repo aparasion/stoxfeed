@@ -18,4 +18,4 @@ These sales are significant as they not only bolster the defense systems of thes
 
 For market professionals, the implications of these arms sales could influence defense sector stocks and geopolitical risk assessments in the region. For a deeper understanding of the strategic context and potential market impacts, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html)

@@ -18,4 +18,4 @@ This development is crucial for financial markets as it introduces blockchain ef
 
 For market professionals, this approval signals a gradual integration of blockchain into traditional finance, suggesting that while the U.S. is taking steps toward modernization, it may still lag behind other regions in embracing the full capabilities of tokenization. For a deeper dive into the implications of this development, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/business/2026/03/19/nasdaq-winning-sec-approval-to-move-stocks-onchain-shows-how-wall-street-is-taking-charge-of-crypto-tech)
+Source: [coindesk.com](https://www.coindesk.com/business/2026/03/19/nasdaq-winning-sec-approval-to-move-stocks-onchain-shows-how-wall-street-is-taking-charge-of-crypto-tech)

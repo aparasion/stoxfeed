@@ -18,4 +18,4 @@ This surge in hostilities poses significant implications for global energy marke
 
 Market professionals should closely monitor developments in this region, as the ongoing conflict could lead to volatility in energy prices and broader market impacts. For a deeper dive into the unfolding situation, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/iran-strikes-us-israeli-targets-gulf-larijani-death.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/iran-strikes-us-israeli-targets-gulf-larijani-death.html)

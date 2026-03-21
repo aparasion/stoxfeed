@@ -18,4 +18,4 @@ This divergence in energy dependency is particularly relevant as oil prices surg
 
 For market professionals, the current dynamics highlight the importance of monitoring energy sector resilience amidst geopolitical tensions. For a deeper dive into these developments, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/natgas-with-little-reaction-to-eia-data-warm-weather-in-the-us)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/natgas-with-little-reaction-to-eia-data-warm-weather-in-the-us)

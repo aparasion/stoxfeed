@@ -18,4 +18,4 @@ This downturn is significant for investors, as it indicates broader market weakn
 
 For market professionals, the implications of these sector movements and the overall market sentiment warrant close attention. I recommend exploring the full article for a deeper analysis of these trends.
 
-[nasdaq.com](https://www.nasdaq.com/articles/australian-market-extends-early-losses-mid-market-4)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/australian-market-extends-early-losses-mid-market-4)

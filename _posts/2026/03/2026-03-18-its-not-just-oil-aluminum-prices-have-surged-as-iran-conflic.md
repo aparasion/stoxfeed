@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as aluminum is vital
 
 For market professionals, understanding the dynamics of aluminum supply and demand is essential. I recommend diving into the full article for a comprehensive analysis of the potential market shifts ahead.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html)

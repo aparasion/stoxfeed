@@ -18,4 +18,4 @@ The firm anticipates that rising demand will soon outpace new power supply, lead
 
 For investors focused on catalysts and value, this analysis underscores a compelling investment opportunity in the energy sector. I recommend diving deeper into the full article for a comprehensive understanding of these developments.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566041-constellation-nrg-talen-energy-launched-with-outperform-ratings-at-bnp-paribas-exane?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566041-constellation-nrg-talen-energy-launched-with-outperform-ratings-at-bnp-paribas-exane?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

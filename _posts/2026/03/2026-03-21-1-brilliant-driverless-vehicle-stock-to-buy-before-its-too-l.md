@@ -18,4 +18,4 @@ The implications for the financial markets are significant. Uber's recent stock 
 
 For market professionals, Uber's strategy highlights a compelling investment opportunity, as it combines reduced risk with the potential for considerable upside in the burgeoning autonomous vehicle landscape.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/1-brilliant-driverless-vehicle-stock-to-buy-before/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/1-brilliant-driverless-vehicle-stock-to-buy-before/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Monitoring these stocks closely is essential, as their prices can fluctuate dram
 
 For those intrigued by the potential of cheap stocks, Benzinga offers valuable insights and a platform for research. This article highlights key strategies for navigating this segment of the market, making it a worthwhile read for anyone looking to enhance their investment approach.
 
-[benzinga.com](https://www.benzinga.com/money/top-stocks-under-5)
+Source: [benzinga.com](https://www.benzinga.com/money/top-stocks-under-5)

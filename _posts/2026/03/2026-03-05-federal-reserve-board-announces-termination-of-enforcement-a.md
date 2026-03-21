@@ -18,4 +18,4 @@ The lifting of this enforcement action, which included an asset cap that was rem
 
 For investors and market analysts, this resolution represents a pivotal moment for Wells Fargo, potentially unlocking new avenues for growth and profitability. I recommend exploring the full article for deeper insights into the implications of this regulatory change.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm)

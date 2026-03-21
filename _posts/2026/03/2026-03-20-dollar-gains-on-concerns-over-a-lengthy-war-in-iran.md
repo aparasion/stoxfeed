@@ -18,4 +18,4 @@ The euro fell 0.31% against the dollar, pressured by a significant decline in Ge
 
 For market professionals, the interplay between geopolitical events and central bank policies is critical. The dollar's strength suggests a continued focus on safe-haven assets, while the outlook for precious metals remains uncertain amid recent fund liquidations. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/dollar-gains-concerns-over-lengthy-war-iran)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/dollar-gains-concerns-over-lengthy-war-iran)

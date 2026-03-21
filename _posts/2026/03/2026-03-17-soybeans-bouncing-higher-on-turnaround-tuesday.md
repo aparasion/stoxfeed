@@ -18,4 +18,4 @@ The market's reaction comes amid renewed optimism regarding the upcoming US-Chin
 
 For market professionals, the key takeaway is the potential volatility surrounding soybean prices as trade discussions progress. For a deeper dive into these developments and their implications, I recommend checking out the full article for comprehensive insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/soybeans-bouncing-higher-turnaround-tuesday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/soybeans-bouncing-higher-turnaround-tuesday)

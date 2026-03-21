@@ -18,4 +18,4 @@ Meanwhile, Darden Restaurants (NYSE: DRI) met revenue expectations in Q1 CY2026,
 
 For investors, these results highlight the resilience and growth potential in both the tech and consumer sectors. For a deeper dive into these developments, I recommend checking out the full article.
 
-[stockstory.org](https://stockstory.org)
+Source: [stockstory.org](https://stockstory.org)

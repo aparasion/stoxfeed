@@ -18,4 +18,4 @@ This development is significant as it underscores the increasing allure of U.S. 
 
 For market professionals, the key takeaway is that this trend could signal a broader shift in the trading landscape, with European firms increasingly prioritizing U.S. exchanges for their growth strategies. For a deeper dive into the implications of this potential listing change, I recommend checking out the full article.
 
-[financemagnates.com](https://www.financemagnates.com)
+Source: [financemagnates.com](https://www.financemagnates.com)

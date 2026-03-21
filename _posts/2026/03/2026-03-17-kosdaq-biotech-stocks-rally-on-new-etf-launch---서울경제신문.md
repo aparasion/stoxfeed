@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for sectors
 
 For market professionals, the key takeaway is to monitor developments in U.S. foreign policy and its effects on global energy markets and defense stocks. For a deeper dive into this evolving situation, I recommend exploring the full article.
 
-[en.sedaily.com](https://en.sedaily.com)
+Source: [en.sedaily.com](https://en.sedaily.com)

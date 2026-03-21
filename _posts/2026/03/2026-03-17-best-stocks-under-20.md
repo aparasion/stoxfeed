@@ -18,4 +18,4 @@ The article highlights that established companies in this price range often prov
 
 For market professionals, the key takeaway is the importance of thorough research when considering stocks under $20. Identifying companies with strong fundamentals and growth potential can lead to profitable opportunities. I recommend exploring the full article for a deeper dive into the best stocks under $20 and strategies for investing in this segment.
 
-[benzinga.com](https://www.benzinga.com/money/stocks-under-20)
+Source: [benzinga.com](https://www.benzinga.com/money/stocks-under-20)

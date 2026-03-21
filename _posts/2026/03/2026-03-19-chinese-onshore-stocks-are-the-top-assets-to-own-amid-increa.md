@@ -18,4 +18,4 @@ This resilience positions Chinese stocks favorably compared to markets like the 
 
 For market professionals, this insight underscores the potential for Chinese stocks to outperform in a turbulent global landscape. For a deeper dive into Wood's analysis and the implications for your portfolio, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566644-chinese-onshore-stocks-are-the-top-assets-to-own-amid-increased-middle-east-conflict?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566644-chinese-onshore-stocks-are-the-top-assets-to-own-amid-increased-middle-east-conflict?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

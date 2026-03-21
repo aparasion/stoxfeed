@@ -18,4 +18,4 @@ This development is particularly relevant for investors, as it could impact sect
 
 For market professionals, the key takeaway is that the delay in the Trump-Xi summit may open avenues for more comprehensive trade discussions, which could ultimately benefit sectors impacted by U.S.-China relations. I recommend exploring the full article for a deeper understanding of these implications.
 
-[scmp.com](https://www.scmp.com)
+Source: [scmp.com](https://www.scmp.com)

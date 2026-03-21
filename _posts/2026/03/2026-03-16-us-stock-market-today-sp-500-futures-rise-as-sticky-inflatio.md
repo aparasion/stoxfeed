@@ -18,4 +18,4 @@ This innovation is particularly relevant for financial professionals seeking to 
 
 For market professionals looking to gain a competitive edge, this tool could be a game changer. I recommend exploring the full article to understand how it can streamline your investment strategy and enhance your market insights.
 
-[simplywall.st](https://simplywall.st)
+Source: [simplywall.st](https://simplywall.st)

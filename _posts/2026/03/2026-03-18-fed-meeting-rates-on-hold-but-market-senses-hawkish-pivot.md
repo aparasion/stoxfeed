@@ -18,4 +18,4 @@ This meeting's outcomes have led to a tightening of rate cut expectations, with 
 
 Market professionals should closely monitor the evolving situation in the Middle East and its potential impact on global monetary policy. For a deeper dive into the Fed's latest decisions and their implications for the markets, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/fed-meeting-rates-on-hold-but-market-senses-hawkish-pivot)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/fed-meeting-rates-on-hold-but-market-senses-hawkish-pivot)

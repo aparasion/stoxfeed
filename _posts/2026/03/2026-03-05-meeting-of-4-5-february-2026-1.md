@@ -18,4 +18,4 @@ This stability is significant for financial markets as it suggests a shift in in
 
 For market professionals, the key takeaway is that the ECB's outlook remains cautiously optimistic, with expectations for stable policy rates into 2027. This environment presents opportunities for strategic positioning in euro-denominated assets. I recommend exploring the full article for a deeper understanding of these developments and their implications for your investment strategies.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)

@@ -18,4 +18,4 @@ This development could have profound implications for financial markets, particu
 
 For market professionals, the evolving situation in Cuba presents both risks and opportunities. Monitoring these developments is crucial, as they could influence broader market trends. I recommend exploring the full article for a deeper understanding of the historical context and potential future implications.
 
-[cnbc.com](https://www.cnbc.com/2026/03/21/trump-cuba-oil-supply-communist-island-castro.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/21/trump-cuba-oil-supply-communist-island-castro.html)

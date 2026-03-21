@@ -18,4 +18,4 @@ These developments are crucial for Taysha's market positioning, as they indicate
 
 For a deeper dive into Taysha's progress and its implications for the market, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/taysha-tsha-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/taysha-tsha-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

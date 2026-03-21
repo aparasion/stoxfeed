@@ -18,4 +18,4 @@ The clarification is expected to bolster the growing interest in tokenized secur
 
 For professionals in trading and portfolio management, this regulatory guidance is a significant signal that the market for tokenized securities is maturing. I recommend checking out the full article for a deeper understanding of these developments and their potential impact on your strategies.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)

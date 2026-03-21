@@ -18,4 +18,4 @@ In contrast, Broadcom has seen its AI semiconductor revenue more than double, re
 
 For investors looking to capitalize on the AI semiconductor boom, Broadcom offers a compelling risk-reward profile. I recommend checking out the full article for a deeper dive into these two tech giants and their market implications.
 
-[nasdaq.com](https://www.nasdaq.com/articles/asml-vs-broadcom-which-ai-stock-better-buy)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/asml-vs-broadcom-which-ai-stock-better-buy)

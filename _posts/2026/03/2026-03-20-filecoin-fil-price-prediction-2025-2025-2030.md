@@ -18,4 +18,4 @@ The financial implications are significant, as Filecoin's performance is closely
 
 For those considering an investment in Filecoin, understanding these dynamics is crucial. The full article delves deeper into the factors influencing FIL's trajectory and offers a comprehensive analysis of its market potential—definitely worth a read.
 
-[benzinga.com](https://www.benzinga.com/money/filecoin-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/filecoin-price-prediction)

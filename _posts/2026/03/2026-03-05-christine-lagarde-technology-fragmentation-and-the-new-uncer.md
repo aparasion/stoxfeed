@@ -18,4 +18,4 @@ This transformation is significant for financial markets, as it introduces a wid
 
 For market professionals, the key takeaway is the urgent need to reevaluate risk models and strategies in light of this new uncertainty. Lagarde's insights underscore the importance of adapting to a rapidly changing environment, making the full lecture a must-read for those looking to understand the implications for investment and policy.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)

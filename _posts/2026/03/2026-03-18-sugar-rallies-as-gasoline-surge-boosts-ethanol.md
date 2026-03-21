@@ -18,4 +18,4 @@ The recent price increases come after earlier declines, with concerns about a gl
 
 For market professionals, the evolving landscape of sugar production and export dynamics presents critical insights for portfolio management and trading strategies. I recommend checking out the full article for a deeper dive into these developments and their implications.
 
-[nasdaq.com](https://www.nasdaq.com/articles/sugar-rallies-gasoline-surge-boosts-ethanol)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/sugar-rallies-gasoline-surge-boosts-ethanol)

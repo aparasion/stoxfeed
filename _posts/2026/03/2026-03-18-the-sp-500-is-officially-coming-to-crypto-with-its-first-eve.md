@@ -18,4 +18,4 @@ This development is crucial for financial markets as it could reshape how crypto
 
 One key takeaway is that this guidance could lead to increased regulatory clarity, which may attract institutional investors wary of the current ambiguity in the crypto space. For a deeper dive into the implications of this announcement, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com)
+Source: [coindesk.com](https://www.coindesk.com)

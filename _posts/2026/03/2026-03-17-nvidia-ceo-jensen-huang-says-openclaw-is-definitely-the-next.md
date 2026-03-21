@@ -18,4 +18,4 @@ This development is poised to influence various sectors by enhancing productivit
 
 For market professionals, the emergence of OpenClaw and NemoClaw underscores the potential for transformative AI applications, making it essential to stay informed on how these technologies could affect investment strategies. I highly recommend checking out the full story for deeper insights.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-openclaw-is-definitely-the-next-chatgpt.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-openclaw-is-definitely-the-next-chatgpt.html)

@@ -18,4 +18,4 @@ This discourse is crucial for financial markets, as it underscores the potential
 
 The key takeaway for market professionals is the necessity for vigilance regarding central bank communications and policy shifts. As Schnabel suggests, understanding the nuances of monetary policy frameworks is essential in navigating the current economic landscape, especially given the rising influence of supply-side constraints. For a deeper dive into her insights, I recommend exploring the full speech.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)

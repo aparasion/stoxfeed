@@ -18,4 +18,4 @@ In the context of evolving regulatory landscapes, particularly in dealmaking, he
 
 For market professionals, understanding these dynamics is crucial as they navigate investment strategies in an environment marked by regulatory shifts and cyber risks. For a deeper dive into these critical developments and their implications for the financial markets, I recommend exploring the full article.
 
-[financierworldwide.com](https://www.financierworldwide.com)
+Source: [financierworldwide.com](https://www.financierworldwide.com)

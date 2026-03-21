@@ -18,4 +18,4 @@ The potential for high returns is tempered by Myro's volatility, characteristic 
 
 For market professionals, Myro represents a high-risk, high-reward opportunity, especially as it seeks to establish real-world applications through innovative tools like the MYRO Buy Bot and Social-Fi Mobile App. For a deeper dive into Myro's potential and market dynamics, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/myro-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/myro-price-prediction)

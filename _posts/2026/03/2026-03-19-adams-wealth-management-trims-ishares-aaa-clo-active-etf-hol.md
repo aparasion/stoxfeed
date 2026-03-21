@@ -18,4 +18,4 @@ This sale reflects a broader trend in the fixed-income market, as the iShares AA
 
 For a deeper understanding of how this transaction impacts broader market trends and investment strategies, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/19/adams-wealth-management-trims-ishares-aaa-clo-active-etf-holding-according-to-recent-sec-filing/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/19/adams-wealth-management-trims-ishares-aaa-clo-active-etf-holding-according-to-recent-sec-filing/?source=iedfolrf0000001)

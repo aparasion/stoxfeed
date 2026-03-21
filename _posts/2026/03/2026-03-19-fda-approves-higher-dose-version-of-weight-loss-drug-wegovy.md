@@ -18,4 +18,4 @@ This development is significant for the pharmaceutical sector, particularly for 
 
 Investors should monitor how this approval influences market dynamics and sales trajectories for both companies. For a deeper dive into the implications of this approval, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/fda-approves-high-dose-version-of-novo-nordisks-obesity-drug-wegovy.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/fda-approves-high-dose-version-of-novo-nordisks-obesity-drug-wegovy.html)

@@ -18,4 +18,4 @@ These results reflect a steady performance in a competitive market, with managem
 
 For a deeper dive into United Internet's financial outlook and strategic plans, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/united-internet-fy25-adj-ebitda-rises)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/united-internet-fy25-adj-ebitda-rises)

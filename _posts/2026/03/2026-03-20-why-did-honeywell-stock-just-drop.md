@@ -18,4 +18,4 @@ This debt management move comes on the heels of Honeywell's recent issuance of $
 
 Investors may want to consider how Honeywell's debt strategy could impact future earnings and cash flow, particularly as the company prepares to spin off its aerospace business. For a deeper dive into Honeywell's financial maneuvers, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-did-honeywell-stock-just-drop/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-did-honeywell-stock-just-drop/?source=iedfolrf0000001)

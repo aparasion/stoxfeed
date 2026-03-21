@@ -18,4 +18,4 @@ The implications of these data points are substantial for market participants. A
 
 For professionals in trading and portfolio management, these developments warrant close attention. I recommend exploring the full article for a deeper analysis of how these indicators could shape market dynamics.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/economic-calendar-inflation-in-germany-and-canada-in-the-spotlight)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/economic-calendar-inflation-in-germany-and-canada-in-the-spotlight)

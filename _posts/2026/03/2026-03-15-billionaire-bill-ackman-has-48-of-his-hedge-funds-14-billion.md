@@ -18,4 +18,4 @@ Investors in the data center space may benefit from the ongoing shift towards cl
 
 For professionals looking to enhance their portfolios, Gardner's insights provide a strategic lens on where to allocate resources for sustained growth. I recommend checking out the full article to explore his detailed analysis and specific stock recommendations.
 
-[fool.com](https://www.fool.com)
+Source: [fool.com](https://www.fool.com)

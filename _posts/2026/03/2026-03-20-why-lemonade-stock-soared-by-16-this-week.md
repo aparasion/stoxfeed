@@ -18,4 +18,4 @@ This endorsement comes at a pivotal moment as the self-driving technology landsc
 
 For a deeper dive into Lemonade's strategic moves and their implications for the insurance market, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-lemonade-stock-soared-by-16-this-week/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-lemonade-stock-soared-by-16-this-week/?source=iedfolrf0000001)

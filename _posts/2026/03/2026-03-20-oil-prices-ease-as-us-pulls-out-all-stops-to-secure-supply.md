@@ -18,4 +18,4 @@ Despite this tactical breather, the market remains skeptical about a swift resol
 
 For a deeper dive into the complexities driving these oil price dynamics, I recommend reading the full article.
 
-[oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Ease-As-US-Pulls-Out-All-Stops-To-Secure-Supply.html)
+Source: [oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Ease-As-US-Pulls-Out-All-Stops-To-Secure-Supply.html)

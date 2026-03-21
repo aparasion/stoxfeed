@@ -18,4 +18,4 @@ Investors are understandably cautious due to Alphabet's substantial capital expe
 
 For professionals seeking a balanced risk-reward profile in AI investments, Alphabet presents an attractive buying opportunity. I highly recommend exploring the full article for deeper insights into Alphabet’s strategic positioning and financial outlook.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/heres-my-top-ai-stock-pick-during-this-market-pull/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/heres-my-top-ai-stock-pick-during-this-market-pull/?source=iedfolrf0000001)

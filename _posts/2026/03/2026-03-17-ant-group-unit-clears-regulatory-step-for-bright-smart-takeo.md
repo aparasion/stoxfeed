@@ -18,4 +18,4 @@ This acquisition is significant as it marks Ant Group's strategic entry into the
 
 For market professionals, the implications of this acquisition extend beyond Bright Smart, as it reflects ongoing trends in regulatory navigation and consolidation in the financial services industry. I recommend checking out the full article for a deeper dive into the details.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/ant-group-bright-smart-securities-acquisition-hong-kong-brokerage.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/ant-group-bright-smart-securities-acquisition-hong-kong-brokerage.html)

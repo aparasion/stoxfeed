@@ -18,4 +18,4 @@ This development is crucial for financial markets as it could reshape how crypto
 
 For market professionals, understanding these definitions is essential, as they could lead to increased compliance requirements and affect the overall landscape of crypto investments. I recommend diving deeper into the article for a comprehensive understanding of these new guidelines and their implications.
 
-[coindesk.com](https://www.coindesk.com)
+Source: [coindesk.com](https://www.coindesk.com)

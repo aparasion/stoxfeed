@@ -18,4 +18,4 @@ The move away from financial stocks could have significant implications for the 
 
 For market professionals, this trend underscores the need to closely monitor hedge fund activities and sector performance as indicators of broader market health. For a deeper dive into the factors driving this sell-off and its potential consequences, I recommend checking out the full article on Hedgeweek.
 
-[news.google.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNElWRy1kajZrUFpkUDQybzdkSW4xR1ZCbmNNNUxCMFQtckdhLWk1WTNYT2hDTjRiYTM1T2dNOU91S3hNaUxla3R2Y3pCb2k0TGtzblVPM2stYWtUUkVfV29RREw4N2g1QU9MRjRQQVp3QmdaTk9vcGh3S3p5M241eFdORGE3SFBUeGxDRw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNElWRy1kajZrUFpkUDQybzdkSW4xR1ZCbmNNNUxCMFQtckdhLWk1WTNYT2hDTjRiYTM1T2dNOU91S3hNaUxla3R2Y3pCb2k0TGtzblVPM2stYWtUUkVfV29RREw4N2g1QU9MRjRQQVp3QmdaTk9vcGh3S3p5M241eFdORGE3SFBUeGxDRw?oc=5)

@@ -18,4 +18,4 @@ This impressive earnings report underscores Aveanna's solid position in the heal
 
 For professionals tracking healthcare stocks, Aveanna's strong earnings could present new investment opportunities. I recommend diving deeper into the full earnings call insights for a comprehensive understanding of the company’s trajectory and market implications.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566821-aveanna-outlines-2026-revenue-target-of-2_54b-2_56b-with-eight-new-preferred-payer-agreements?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566821-aveanna-outlines-2026-revenue-target-of-2_54b-2_56b-with-eight-new-preferred-payer-agreements?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

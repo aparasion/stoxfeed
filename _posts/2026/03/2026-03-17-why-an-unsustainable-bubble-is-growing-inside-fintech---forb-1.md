@@ -18,4 +18,4 @@ The implications for the financial markets are considerable. As shipping rates s
 
 For market professionals, Aponte’s maneuver underscores the importance of geopolitical factors in shipping and energy investments. I recommend reading the full article to gain deeper insights into this developing story and its potential market ramifications.
 
-[forbes.com](https://www.forbes.com)
+Source: [forbes.com](https://www.forbes.com)

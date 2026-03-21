@@ -18,4 +18,4 @@ This growth in customer spending signals a shift in how organizations are integr
 
 For investors, the implications are clear: as existing clients deepen their engagement, Palantir could harness a powerful growth engine that enhances shareholder value over time. For more insights, I recommend diving into the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/most-important-detail-palantir-earnings-growth/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/most-important-detail-palantir-earnings-growth/?source=iedfolrf0000001)

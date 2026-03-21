@@ -18,4 +18,4 @@ The implications for investors are significant. Robinhood's current price-to-sal
 
 For a deeper dive into Robinhood's challenges and future outlook, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/i-predicted-50-plunge-robinhood-stock-happen-next/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/i-predicted-50-plunge-robinhood-stock-happen-next/?source=iedfolrf0000001)

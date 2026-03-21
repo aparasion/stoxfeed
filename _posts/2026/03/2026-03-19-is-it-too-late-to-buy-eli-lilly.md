@@ -18,4 +18,4 @@ The current market valuation of Eli Lilly raises concerns for potential investor
 
 For those considering an investment in Eli Lilly, caution is advised. The stock's high valuation and competitive risks suggest that it may be wise to explore other opportunities in the pharmaceutical sector. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/is-it-too-late-to-buy-eli-lilly/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/is-it-too-late-to-buy-eli-lilly/?source=iedfolrf0000001)

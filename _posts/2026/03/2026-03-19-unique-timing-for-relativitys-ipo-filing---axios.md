@@ -18,4 +18,4 @@ The IPO could provide fresh capital to accelerate Relativity's production capabi
 
 For market professionals, this IPO filing signals a pivotal moment in the aerospace sector, emphasizing the potential for growth and innovation. For a deeper dive into Relativity's strategy and market positioning, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTJhT1B5Ym16U3QzSTZ4MUJyWjNpdVFZTk1DOGhDenhKbmYwbThMRGx0N0FYVDVKY1dHaTVUNF8zUmgyeG4wVEtjMlhmT2Y0XzV6SlE2RHd4X2hDandHQjh2aEhKM09xTVVnQVl6eDdVaWFOOWhjRm14VXdQc0VBemNweDYwVktPRzZQM2hCUlVFblhidEE?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTJhT1B5Ym16U3QzSTZ4MUJyWjNpdVFZTk1DOGhDenhKbmYwbThMRGx0N0FYVDVKY1dHaTVUNF8zUmgyeG4wVEtjMlhmT2Y0XzV6SlE2RHd4X2hDandHQjh2aEhKM09xTVVnQVl6eDdVaWFOOWhjRm14VXdQc0VBemNweDYwVktPRzZQM2hCUlVFblhidEE?oc=5)

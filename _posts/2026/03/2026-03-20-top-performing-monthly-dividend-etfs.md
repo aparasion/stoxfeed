@@ -18,4 +18,4 @@ This trend is crucial for the financial markets as it reflects a growing demand 
 
 For professionals evaluating income-focused investments, understanding the nuances of these ETFs—such as expense ratios, asset allocation, and underlying indices—will be essential. I recommend diving deeper into the full article to explore the specific features and benefits of these monthly dividend ETFs, which could be pivotal for your investment decisions.
 
-[benzinga.com](https://www.benzinga.com/money/best-monthly-dividend-etfs)
+Source: [benzinga.com](https://www.benzinga.com/money/best-monthly-dividend-etfs)

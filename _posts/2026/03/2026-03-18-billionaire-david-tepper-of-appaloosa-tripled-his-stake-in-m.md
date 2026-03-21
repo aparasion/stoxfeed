@@ -18,4 +18,4 @@ Micron's strong pricing power, driven by limited supply and robust enterprise de
 
 For market professionals, Tepper's strategic pivot highlights the growing importance of AI in tech investments and signals a potential shift in sentiment towards Chinese equities. For a deeper dive into Tepper's investment strategy and its implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/billionaire-david-tepper-tripled-micron-dump-ai/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/billionaire-david-tepper-tripled-micron-dump-ai/?source=iedfolrf0000001)

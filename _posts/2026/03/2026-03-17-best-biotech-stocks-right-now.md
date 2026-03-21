@@ -18,4 +18,4 @@ This resurgence in biotech is critical for investors, as the sector's performanc
 
 For market professionals, now may be an opportune time to consider biotech investments, especially in firms with promising pipelines. I recommend diving deeper into this article for a comprehensive overview of the current biotech landscape and its implications for your investment strategy.
 
-[benzinga.com](https://www.benzinga.com/money/best-biotech-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-biotech-stocks)

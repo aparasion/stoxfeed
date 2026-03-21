@@ -18,4 +18,4 @@ The implications for the financial markets are significant. By affirming that to
 
 Market professionals should note that while the regulatory landscape is evolving, sound risk management practices remain essential for banks holding these assets. For a deeper dive into the regulatory details and their potential impact on your strategies, I recommend reading the full article.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)

@@ -18,4 +18,4 @@ The financial implications of CoreWeave's growth are notable, especially as the 
 
 For investors willing to embrace some risk, CoreWeave may offer a compelling opportunity to capitalize on the ongoing demand for AI computing power. I encourage you to delve into the full article for a deeper analysis of CoreWeave's market potential and strategic positioning.
 
-[nasdaq.com](https://www.nasdaq.com/articles/coreweave-just-landed-deal-perplexity-why-neocloud-stock-could-be-comeback-play-2026)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/coreweave-just-landed-deal-perplexity-why-neocloud-stock-could-be-comeback-play-2026)

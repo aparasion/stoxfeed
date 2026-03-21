@@ -18,4 +18,4 @@ This differentiation is crucial for investors weighing their options. VNQI's bro
 
 Ultimately, the choice between VNQI and ICF hinges on individual investment goals and risk tolerance. For a deeper analysis of these ETFs and guidance on ETF investing, I recommend checking out the full article for valuable insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/better-real-estate-etf-vanguards-vnqi-vs-ishares-icf)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/better-real-estate-etf-vanguards-vnqi-vs-ishares-icf)

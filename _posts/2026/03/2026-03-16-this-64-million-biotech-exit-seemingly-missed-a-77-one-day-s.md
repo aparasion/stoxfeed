@@ -18,4 +18,4 @@ The timing of this sale is notable, as Arcellx shares have surged 80% this year,
 
 For a deeper dive into the implications of Cormorant's exit and Arcellx's market trajectory, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/16/this-usd64-million-biotech-exit-seemingly-missed-a-77-one-day-surge-on-gilead-takeover-deal/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/16/this-usd64-million-biotech-exit-seemingly-missed-a-77-one-day-surge-on-gilead-takeover-deal/?source=iedfolrf0000001)

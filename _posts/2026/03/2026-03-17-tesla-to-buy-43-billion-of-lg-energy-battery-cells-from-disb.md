@@ -18,4 +18,4 @@ This move is crucial as it underscores Tesla's strategic pivot towards energy so
 
 For market professionals, this partnership signals Tesla's commitment to diversifying its revenue streams and reinforces the importance of energy storage in the broader transition to renewable energy. For a deeper dive into this development, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/tesla-to-buy-4-point-3-billion-lg-energy-battery-cells-made-in-michigan.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/tesla-to-buy-4-point-3-billion-lg-energy-battery-cells-made-in-michigan.html)

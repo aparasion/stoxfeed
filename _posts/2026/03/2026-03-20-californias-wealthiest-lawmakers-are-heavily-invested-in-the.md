@@ -18,4 +18,4 @@ The deployment may influence investor sentiment as markets react to potential di
 
 For market professionals, this development underscores the importance of monitoring geopolitical events and their potential ripple effects on stock performance. Understanding how military engagements can shift market dynamics is crucial for informed trading and investment strategies. For a deeper dive into the implications of this deployment, I recommend checking out the full article for more insights.
 
-[timesofsandiego.com](https://timesofsandiego.com)
+Source: [timesofsandiego.com](https://timesofsandiego.com)

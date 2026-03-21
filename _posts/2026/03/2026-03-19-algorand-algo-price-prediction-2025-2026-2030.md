@@ -18,4 +18,4 @@ The potential for Algorand's growth is tempered by significant challenges, inclu
 
 For market professionals, understanding Algorand's trajectory is crucial, especially as it pursues partnerships for Central Bank Digital Currencies (CBDCs) and real-world asset tokenization. For a deeper dive into these developments, I recommend exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)

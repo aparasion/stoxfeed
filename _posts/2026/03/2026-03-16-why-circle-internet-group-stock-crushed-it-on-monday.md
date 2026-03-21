@@ -18,4 +18,4 @@ This uptick in USDC's popularity is significant for the financial markets, as it
 
 For market professionals, Lau’s analysis underscores the potential for USDC to drive Circle's growth, but it also serves as a reminder of the inherent risks tied to the company's reliance on the stablecoin's performance. For a deeper dive into Lau's insights and the implications for Circle, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/16/why-circle-internet-group-stock-crushed-it-on-mond/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/16/why-circle-internet-group-stock-crushed-it-on-mond/?source=iedfolrf0000001)

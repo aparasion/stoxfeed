@@ -18,4 +18,4 @@ The Vanguard Total International Stock ETF (VXUS) emerges as a compelling option
 
 For those looking to enhance their portfolios amid uncertainty, allocating a 4% position in VXUS could provide valuable diversification at a minimal expense ratio of 0.05%. I recommend reading the full article for deeper insights into this strategy.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/what-should-investors-buy-heading-into-april-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/what-should-investors-buy-heading-into-april-2026/?source=iedfolrf0000001)

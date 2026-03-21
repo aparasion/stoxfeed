@@ -18,4 +18,4 @@ The implications for the financial markets are profound, particularly as BlackRo
 
 For market professionals, the convergence of TradFi and DeFi presents both challenges and opportunities. As regulatory clarity emerges, particularly with the new CFTC decision, it’s crucial to stay informed on how these developments could reshape investment strategies. I recommend diving deeper into this article for a comprehensive overview of the evolving landscape.
 
-[unchainedcrypto.com](https://unchainedcrypto.com)
+Source: [unchainedcrypto.com](https://unchainedcrypto.com)

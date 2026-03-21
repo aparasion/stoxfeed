@@ -18,4 +18,4 @@ The implications for financial markets are noteworthy. As healthcare expenses co
 
 Ultimately, retirees must weigh the benefits and limitations of Medicare Advantage against original Medicare. For a deeper understanding of these healthcare options and their implications, I recommend exploring the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/retirement/2026/03/18/i-used-to-think-medicare-advantage-was-the-best-he/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/18/i-used-to-think-medicare-advantage-was-the-best-he/?source=iedfolrf0000001)

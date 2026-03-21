@@ -18,4 +18,4 @@ Additionally, the report emphasizes the most active stocks by trading volume, wh
 
 For professionals keen on refining their strategies, the article presents fundamental and technical trade ideas from reputable sources like Argus and Trading Central. These insights can enhance decision-making processes. I recommend diving into the full article for a comprehensive overview of today’s market dynamics and to uncover potential investment opportunities.
 
-[ca.finance.yahoo.com](https://ca.finance.yahoo.com)
+Source: [ca.finance.yahoo.com](https://ca.finance.yahoo.com)

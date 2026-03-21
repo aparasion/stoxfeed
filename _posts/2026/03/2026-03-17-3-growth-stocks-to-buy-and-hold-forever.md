@@ -18,4 +18,4 @@ Palo Alto Networks stands out in the cybersecurity sector, which is expected to 
 
 Finally, Amazon remains a solid choice due to its adaptability and diverse revenue streams, including its profitable advertising segment and Amazon Web Services. These companies represent strong potential for sustained growth—read the full article for deeper insights into each stock's prospects.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/3-growth-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/3-growth-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001)

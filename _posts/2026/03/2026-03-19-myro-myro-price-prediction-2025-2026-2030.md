@@ -18,4 +18,4 @@ Currently, Myro faces bearish sentiment, reflected in its Fear & Greed Index rea
 
 For those considering Myro, understanding the balance between its meme-driven appeal and its evolving utility is crucial. Dive deeper into the dynamics of Myro and its market implications by exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/myro-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/myro-price-prediction)

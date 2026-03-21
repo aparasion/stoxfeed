@@ -18,4 +18,4 @@ Historically, similar geopolitical tensions have led to prolonged increases in o
 
 Investors should brace for the possibility of higher gas prices persisting for an extended period, contingent on the resolution of the conflict. For a deeper dive into the implications of this situation, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/gas-prices-just-jumped-048-in-one-week-and-history/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/gas-prices-just-jumped-048-in-one-week-and-history/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for portfolio management are significant, as asset managers may
 
 For those navigating these turbulent waters, staying informed is crucial. I recommend reading the full article for a deeper dive into the factors contributing to this shift and its potential impact on your investment strategies.
 
-[news.google.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOT19xSGRranhDMm81RUJxdnN0cG1kUHlMc3FRTVFfY2RzR3VramM3SVJ6Y3l6SmoyOGJ4NkZRUXRxRUxQdlhfZjhHT2xCRFZlY2dxUDhDdHN5U1ZPTGZBYklXbHhNTV9WcS1JYUVQNUtnZ0VMSXd2ZUI2b3hiZG0xLUxXMkpscC1JZm9BemFEaDlhVTFQSWQ4U0t0NHRoRDlCdkJvemRNdUZOTThxR3RhaW9rcEZBczVpZ0JHZDdQOFNjRjhS?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOT19xSGRranhDMm81RUJxdnN0cG1kUHlMc3FRTVFfY2RzR3VramM3SVJ6Y3l6SmoyOGJ4NkZRUXRxRUxQdlhfZjhHT2xCRFZlY2dxUDhDdHN5U1ZPTGZBYklXbHhNTV9WcS1JYUVQNUtnZ0VMSXd2ZUI2b3hiZG0xLUxXMkpscC1JZm9BemFEaDlhVTFQSWQ4U0t0NHRoRDlCdkJvemRNdUZOTThxR3RhaW9rcEZBczVpZ0JHZDdQOFNjRjhS?oc=5)

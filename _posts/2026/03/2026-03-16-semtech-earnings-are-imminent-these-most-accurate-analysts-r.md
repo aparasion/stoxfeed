@@ -18,4 +18,4 @@ In a more positive development, Uber shares are experiencing an uptick in after-
 
 For market professionals, the key takeaway is to monitor the interplay between financial stocks and the S&P 500 closely, as well as to consider the implications of Uber's partnership with Nvidia on the tech and transportation sectors. For a deeper dive into these developments, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com)
+Source: [benzinga.com](https://www.benzinga.com)

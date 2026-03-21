@@ -18,4 +18,4 @@ This outlook is significant for investors, as it signals Sartorius's commitment 
 
 For those tracking developments in the biotech and life sciences sectors, Sartorius's strategic plans present a compelling opportunity. I recommend exploring the full article for deeper insights into their growth strategy.
 
-[nasdaq.com](https://www.nasdaq.com/articles/sartorius-issues-new-mid-term-financial-targets)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/sartorius-issues-new-mid-term-financial-targets)

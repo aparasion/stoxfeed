@@ -18,4 +18,4 @@ This shift in focus is significant for financial markets, as it may influence ce
 
 Investors should be mindful of the implications for monetary policy as central banks navigate these complexities. For a deeper understanding of Schnabel's insights and their potential market impacts, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)

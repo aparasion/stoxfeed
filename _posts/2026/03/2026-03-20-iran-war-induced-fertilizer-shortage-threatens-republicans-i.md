@@ -18,4 +18,4 @@ This surge in fertilizer costs is not just a concern for farmers; it also presen
 
 For market professionals, the implications are clear: rising fertilizer prices could lead to increased food costs, impacting consumer spending and inflation. As the situation evolves, it’s essential to monitor how these developments may influence agricultural stocks and broader market trends. For a deeper dive into the complexities of this issue, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html)

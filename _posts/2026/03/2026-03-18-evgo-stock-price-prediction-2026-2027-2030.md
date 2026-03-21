@@ -18,4 +18,4 @@ Despite its promising fundamentals, EVgo faces challenges in a competitive lands
 
 For a deeper dive into EVgo's future stock performance and market positioning, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/evgo-stock-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/evgo-stock-price-prediction)

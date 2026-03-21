@@ -18,4 +18,4 @@ This development is particularly relevant as it highlights the balance retirees 
 
 For market professionals, understanding the implications of these earnings tests can inform strategies for clients nearing retirement. I recommend exploring the full article for a deeper dive into how part-time work can enhance retirement income while managing Social Security benefits effectively.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/how-a-part-time-job-in-retirement-could-affect-you/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/how-a-part-time-job-in-retirement-could-affect-you/?source=iedfolrf0000001)

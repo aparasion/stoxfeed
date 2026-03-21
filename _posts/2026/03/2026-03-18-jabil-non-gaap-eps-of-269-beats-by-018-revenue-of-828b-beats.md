@@ -18,4 +18,4 @@ The earnings beat is significant for Jabil's stock performance, as it reflects s
 
 For market professionals, Jabil's strong earnings report signals a positive trend that could influence sector dynamics and investment strategies. I recommend checking out the full article for a deeper dive into the implications of these results.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565750-jabil-non-gaap-eps-of-2_69-beats-by-0_18-revenue-of-8_28b-beats-by-500m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565750-jabil-non-gaap-eps-of-2_69-beats-by-0_18-revenue-of-8_28b-beats-by-500m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

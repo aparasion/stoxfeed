@@ -18,4 +18,4 @@ This price forecast is significant as it reflects growing interest from financia
 
 For market professionals, the key takeaway is the potential for long-term investment in ALGO, especially as institutional adoption increases. However, caution is advised due to current bearish sentiment and macroeconomic factors influencing capital flow. To delve deeper into these insights, I recommend exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)

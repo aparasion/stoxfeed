@@ -18,4 +18,4 @@ The introduction of Stock Titan's AI-driven tools could significantly impact tra
 
 For market professionals seeking an edge, Stock Titan provides a comprehensive suite of features that streamline access to critical stock news. I recommend checking out the full article to explore how these tools can enhance your trading approach and keep you ahead in a fast-paced market environment.
 
-[stocktitan.net](https://www.stocktitan.net)
+Source: [stocktitan.net](https://www.stocktitan.net)

@@ -18,4 +18,4 @@ This performance is particularly noteworthy against the backdrop of negative sen
 
 Investors should take note of Chicago Atlantic's strong liquidity and under-leverage, which could provide a buffer against market volatility. For a deeper dive into their latest earnings and strategic outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/chicago-atlantic-bdc-lien-earnings-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/chicago-atlantic-bdc-lien-earnings-transcript/?source=iedfolrf0000001)

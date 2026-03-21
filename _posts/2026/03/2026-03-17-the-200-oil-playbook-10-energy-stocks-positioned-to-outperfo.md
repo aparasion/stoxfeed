@@ -18,4 +18,4 @@ These moves could signal a broader trend in the market, as hedge funds and insti
 
 For a deeper dive into the implications of these trades and insights from top fund managers, I recommend checking out the full article. It offers valuable context for understanding current market dynamics.
 
-[insidermonkey.com](https://www.insidermonkey.com)
+Source: [insidermonkey.com](https://www.insidermonkey.com)

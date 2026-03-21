@@ -18,4 +18,4 @@ The market's reaction underscores the challenge Alibaba faces in balancing short
 
 For professionals in the financial markets, Alibaba's situation highlights the tension between current performance and future potential. For a deeper dive into Alibaba's strategic direction and market implications, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/alibaba-stumbles-again-but-is-a-rebound-closer-tha/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/alibaba-stumbles-again-but-is-a-rebound-closer-tha/?source=iedfolrf0000001)

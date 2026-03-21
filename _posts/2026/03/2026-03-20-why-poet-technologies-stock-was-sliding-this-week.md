@@ -18,4 +18,4 @@ The collaborations with Liteon Technology and Lessengers highlight Poet's commit
 
 Market professionals should consider the potential long-term benefits of Poet's technological advancements in AI and optical communication. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/why-poet-technologies-stock-was-sliding-this-week/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/why-poet-technologies-stock-was-sliding-this-week/?source=iedfolrf0000001)

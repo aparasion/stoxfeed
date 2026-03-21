@@ -18,4 +18,4 @@ The report indicates that over 65% of S&P 500 earnings calls for Q4 referenced "
 
 For market professionals, understanding these thematic shifts and their implications is crucial for informed decision-making. I encourage you to delve deeper into FactSet's findings to better navigate these trends and optimize your investment strategies. Explore the full article for a comprehensive analysis.
 
-[insight.factset.com](https://insight.factset.com)
+Source: [insight.factset.com](https://insight.factset.com)

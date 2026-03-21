@@ -18,4 +18,4 @@ Zebra Technologies and Gen Digital have also lagged behind their respective indi
 
 For investors, the mixed performance across sectors highlights the importance of sector-specific analysis and stock selection. For a deeper dive into these developments, I recommend checking out the full article.
 
-[barchart.com](https://www.barchart.com)
+Source: [barchart.com](https://www.barchart.com)

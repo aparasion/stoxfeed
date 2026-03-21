@@ -18,4 +18,4 @@ The implications for the financial markets are profound. Tangen noted that fragm
 
 For market professionals, Tangen's insights offer a critical lens on the need for structural changes in Europe to foster a more robust investment environment. His call to action is a reminder of the interconnectedness of global markets, especially in the face of rising geopolitical tensions. For a deeper dive into Tangen's proposals and the current state of European markets, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html)

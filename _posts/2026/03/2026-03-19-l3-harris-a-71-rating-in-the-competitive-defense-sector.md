@@ -18,4 +18,4 @@ This evaluation is particularly relevant for market professionals as defense spe
 
 For those looking to deepen their understanding of L3Harris's market dynamics and investment potential, I highly recommend checking out the full analysis in the video. It offers valuable perspectives that could inform your trading and portfolio strategies.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/l3-harris-a-71-rating-in-the-competitive-defense-s/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/l3-harris-a-71-rating-in-the-competitive-defense-s/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The stock market is currently experiencing a rally, buoyed by positive corporate
 
 As the dollar faces short-term pressure but remains strong longer-term, market professionals should prepare for potential volatility surrounding the Fed's statements. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/fed-preview-1)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/fed-preview-1)

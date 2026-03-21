@@ -18,4 +18,4 @@ This development is significant for financial markets as it enhances traders' ab
 
 For market professionals seeking to refine their trading strategies, Cboe's insights and educational resources present valuable opportunities for growth. I encourage you to explore the full article to uncover how these tools can elevate your investment outcomes.
 
-[cboe.com](https://www.cboe.com)
+Source: [cboe.com](https://www.cboe.com)

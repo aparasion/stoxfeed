@@ -18,4 +18,4 @@ For financial markets professionals, this dividend announcement is significant a
 
 For a deeper dive into the implications of this dividend and the ETF's performance metrics, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566487-purpose-total-return-bond-etf-declares-cad-0_059-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566487-purpose-total-return-bond-etf-declares-cad-0_059-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ This shift matters to financial markets as it could lead to increased volatility
 
 For market professionals, understanding the implications of these evolving economic pressures is crucial. To delve deeper into how these developments could affect your investment strategy, I recommend reading the full article for a comprehensive analysis.
 
-[united24media.com](https://united24media.com)
+Source: [united24media.com](https://united24media.com)

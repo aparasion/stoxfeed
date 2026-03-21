@@ -18,4 +18,4 @@ This development is significant for financial markets as it may influence the re
 
 For a deeper dive into the implications of this evolving legislation, I recommend checking out the full article for comprehensive insights.
 
-[cointelegraph.com](https://cointelegraph.com/news/clarity-act-deal-white-house-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/clarity-act-deal-white-house-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

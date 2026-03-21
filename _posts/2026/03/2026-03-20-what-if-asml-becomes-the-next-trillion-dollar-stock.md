@@ -18,4 +18,4 @@ Despite its strong market position, ASML's elevated valuation—with a P/E ratio
 
 For a deeper dive into ASML's market position and the broader implications for semiconductor stocks, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/what-if-asml-becomes-next-trillion-dollar-stock)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/what-if-asml-becomes-next-trillion-dollar-stock)

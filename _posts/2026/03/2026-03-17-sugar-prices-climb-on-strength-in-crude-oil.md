@@ -18,4 +18,4 @@ Despite the recent gains, the outlook for sugar remains bearish due to forecasts
 
 For market professionals, the key takeaway is the delicate balance between rising crude prices and increasing sugar production forecasts. This dynamic could lead to volatility in sugar prices, making it essential to stay informed. I recommend diving deeper into the full analysis for a comprehensive understanding of these market shifts.
 
-[nasdaq.com](https://www.nasdaq.com/articles/sugar-prices-climb-strength-crude-oil)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/sugar-prices-climb-strength-crude-oil)

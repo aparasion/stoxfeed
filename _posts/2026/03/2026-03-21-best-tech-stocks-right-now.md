@@ -18,4 +18,4 @@ Investors are advised to focus on key metrics such as profitability ratios, tota
 
 For those looking to navigate this complex environment, thorough research and an awareness of sector-specific challenges are essential. Dive deeper into the nuances of tech investments by exploring the full article for more insights.
 
-[benzinga.com](https://www.benzinga.com/money/best-tech-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-tech-stocks)

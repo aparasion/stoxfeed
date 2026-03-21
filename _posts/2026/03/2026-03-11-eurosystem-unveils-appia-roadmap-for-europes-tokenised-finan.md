@@ -18,4 +18,4 @@ The significance of Appia lies in its potential to enhance efficiency in wholesa
 
 Market professionals should note that Appia represents a critical evolution in the financial landscape, emphasizing the importance of central bank money in a digital economy. For a deeper dive into the implications of this initiative, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)

@@ -18,4 +18,4 @@ The implications for CAKE's performance hinge on market conditions and the platf
 
 For investors eyeing established DeFi platforms, CAKE may still present a viable opportunity, especially at current price levels. I recommend checking out the full article for a deeper dive into PancakeSwap's potential and challenges.
 
-[benzinga.com](https://www.benzinga.com/money/pancakeswap-cake-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/pancakeswap-cake-price-prediction)

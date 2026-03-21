@@ -18,4 +18,4 @@ The implications for financial markets are substantial. By facilitating greater 
 
 Investors should closely monitor how this development influences market dynamics, particularly in technology and financial sectors. For a deeper dive into the ramifications of China's policy shift, I recommend exploring the full article for comprehensive insights.
 
-[scmp.com](https://www.scmp.com)
+Source: [scmp.com](https://www.scmp.com)

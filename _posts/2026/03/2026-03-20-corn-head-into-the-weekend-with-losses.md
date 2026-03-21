@@ -18,4 +18,4 @@ This shift in positioning highlights a growing bullish sentiment among speculato
 
 For market professionals, the evolving landscape of corn futures presents both risks and opportunities. Dive deeper into these developments and their implications by checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/corn-head-weekend-losses)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/corn-head-weekend-losses)

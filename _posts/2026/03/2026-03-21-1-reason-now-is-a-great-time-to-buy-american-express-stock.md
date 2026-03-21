@@ -18,4 +18,4 @@ Despite this volatility, American Express remains fundamentally strong, reportin
 
 Investors considering a position in American Express may find this dip an opportune moment to buy, aligning with the company's promising growth trajectory. For a deeper dive into the details, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/1-reason-now-great-time-to-buy-american-express/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/1-reason-now-great-time-to-buy-american-express/?source=iedfolrf0000001)

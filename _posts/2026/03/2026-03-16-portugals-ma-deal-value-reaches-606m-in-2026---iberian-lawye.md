@@ -18,4 +18,4 @@ The uptick in deal value is significant for financial markets, indicating potent
 
 For professionals in trading and portfolio management, this trend presents opportunities to reassess investment strategies in Portuguese equities. I recommend diving into the full article for a deeper understanding of the factors behind this M&A boom and its potential impact on market dynamics.
 
-[news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1iR1V3b2VBdnJBXy1KVnJRUTZmcm5vUXZ3ZHNmbkQySWw1YkZGN0trc3loUVo3QXdVQmFUN3VES2s3MU40N3dhNzRnNW9lTFZ5NnBPb0ZMZTFXT1BEa2JKdWpLZkREMmdaWkpNU1NieUhtNmdqLS1ISmg0ZEU?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1iR1V3b2VBdnJBXy1KVnJRUTZmcm5vUXZ3ZHNmbkQySWw1YkZGN0trc3loUVo3QXdVQmFUN3VES2s3MU40N3dhNzRnNW9lTFZ5NnBPb0ZMZTFXT1BEa2JKdWpLZkREMmdaWkpNU1NieUhtNmdqLS1ISmg0ZEU?oc=5)

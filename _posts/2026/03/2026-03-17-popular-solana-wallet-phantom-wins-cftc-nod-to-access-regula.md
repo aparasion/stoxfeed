@@ -18,4 +18,4 @@ This development is crucial for the financial markets as it paves the way for en
 
 For market professionals, this move signifies a shift towards clearer regulatory frameworks for crypto derivatives, which could influence trading strategies and investment decisions. I recommend checking out the full article to explore the implications further.
 
-[coindesk.com](https://www.coindesk.com/policy/2026/03/17/phantom-wins-cftc-no-action-relief-clearing-path-for-crypto-wallet-access-to-regulated-derivatives-markets)
+Source: [coindesk.com](https://www.coindesk.com/policy/2026/03/17/phantom-wins-cftc-no-action-relief-clearing-path-for-crypto-wallet-access-to-regulated-derivatives-markets)

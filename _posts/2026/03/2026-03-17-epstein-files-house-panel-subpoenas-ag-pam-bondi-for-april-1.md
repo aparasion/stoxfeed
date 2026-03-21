@@ -18,4 +18,4 @@ This development is significant as it highlights the intersection of legal proce
 
 Market professionals should monitor the implications of these hearings on regulatory environments and public perception. For a deeper dive into the nuances of this unfolding situation, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/epstein-pam-bondi-trump-doj-subpoena.html)

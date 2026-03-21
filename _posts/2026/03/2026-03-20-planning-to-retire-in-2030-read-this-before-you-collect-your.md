@@ -18,4 +18,4 @@ This decision has profound implications for retirement portfolios and cash flow 
 
 In light of these considerations, proactive planning for Social Security claims is essential. I encourage you to dive deeper into this topic by exploring the full article for a comprehensive understanding of the implications for retirement planning.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/planning-to-retire-in-2030-read-this-before-you-co/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/planning-to-retire-in-2030-read-this-before-you-co/?source=iedfolrf0000001)

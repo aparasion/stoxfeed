@@ -18,4 +18,4 @@ The implications for the financial markets are significant. The uncertainty surr
 
 Market professionals should closely monitor developments in this situation, as the outcome could influence Federal Reserve policy and market dynamics in the coming months. For a deeper dive into the implications of this investigation, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/trump-powell-warsh-fed-doj-pirro.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/trump-powell-warsh-fed-doj-pirro.html)

@@ -18,4 +18,4 @@ These actions highlight ongoing regulatory scrutiny in the banking sector, which
 
 Market professionals should monitor how these enforcement actions influence broader regulatory trends and investor sentiment in the banking sector. For a deeper dive into the implications of these actions, I recommend checking out the full article for more insights.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm)

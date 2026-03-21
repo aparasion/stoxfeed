@@ -18,4 +18,4 @@ The decline in oil prices is notable, as it comes amid heightened volatility in 
 
 For professionals in trading and portfolio management, the current landscape presents both challenges and opportunities. I recommend diving deeper into the article for a comprehensive analysis of how these dynamics are shaping market trends and potential investment strategies.
 
-[news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEFoYWtSSFRSUi1XRnBpdi14V21fSFV3bzZHSHdtT1VCbGx0NFY0c0w2SUpIV2VqWnhvM3FaUl9TOEtpd3BnV1RTcnc1UkJvZkFzWlZ1MHcxSmNBZm9BRXF6dzF5V2pRbXBBMzh1YUhROXB2al9wVFBzMF9pZTIzTE1hMWNaQllIaG5waEhyRUxDXzM5aEhydjFQdURBVlNqOXFQYkN4SQ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEFoYWtSSFRSUi1XRnBpdi14V21fSFV3bzZHSHdtT1VCbGx0NFY0c0w2SUpIV2VqWnhvM3FaUl9TOEtpd3BnV1RTcnc1UkJvZkFzWlZ1MHcxSmNBZm9BRXF6dzF5V2pRbXBBMzh1YUhROXB2al9wVFBzMF9pZTIzTE1hMWNaQllIaG5waEhyRUxDXzM5aEhydjFQdURBVlNqOXFQYkN4SQ?oc=5)

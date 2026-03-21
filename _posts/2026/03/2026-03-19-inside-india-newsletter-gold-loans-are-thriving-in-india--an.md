@@ -18,4 +18,4 @@ The rise in gold-backed lending is reshaping India's retail credit landscape, at
 
 For market professionals, the rapid expansion of gold loans signals a shift in consumer credit dynamics and potential investment opportunities in NBFCs. I highly recommend exploring the full article for deeper insights into this transformative trend.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/gold-loan-demand-rises-india.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/gold-loan-demand-rises-india.html)

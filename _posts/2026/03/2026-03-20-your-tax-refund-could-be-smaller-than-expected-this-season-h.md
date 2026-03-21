@@ -18,4 +18,4 @@ This modest growth in refunds could have implications for consumer spending and 
 
 For market professionals, understanding these refund dynamics is crucial as they can influence consumer behavior and spending patterns in the coming months. I recommend diving deeper into the full article for a comprehensive analysis of how these tax changes could affect broader economic trends.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/smaller-tax-refunds.html)

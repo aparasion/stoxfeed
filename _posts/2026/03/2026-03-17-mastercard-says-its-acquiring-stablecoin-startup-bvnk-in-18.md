@@ -18,4 +18,4 @@ This acquisition underscores the growing importance of digital currencies in the
 
 For market professionals, this move signals a strategic pivot towards digital assets by one of the largest payment networks, highlighting the need to reassess investment strategies in the fintech and cryptocurrency sectors. For a deeper dive into the implications of this acquisition, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html)

@@ -18,4 +18,4 @@ The MSCI All Country World Index has gained 0.4%, marking its longest winning st
 
 As the Fed announcement looms, market professionals should keep an eye on potential shifts in sentiment, especially regarding the US dollar and Treasury yields. For a deeper dive into these developments, I recommend exploring the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/morning-wrap-18-03-2026-oil-drop-support-indices-us100-gains-0-7)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/morning-wrap-18-03-2026-oil-drop-support-indices-us100-gains-0-7)

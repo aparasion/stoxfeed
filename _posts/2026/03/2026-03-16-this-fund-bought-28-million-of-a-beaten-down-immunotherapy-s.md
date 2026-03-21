@@ -18,4 +18,4 @@ The investment comes on the heels of a dramatic nearly 90% stock drop for MoonLa
 
 For investors, Cormorant’s purchase suggests confidence in MoonLake's long-term prospects, potentially marking an attractive entry point amid its recent volatility. For a deeper dive into this development, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/16/this-fund-bought-usd28-million-of-a-beaten-down-immunotherapy-stock-last-quarter-what-should-long-term-investors-know/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/16/this-fund-bought-usd28-million-of-a-beaten-down-immunotherapy-stock-last-quarter-what-should-long-term-investors-know/?source=iedfolrf0000001)

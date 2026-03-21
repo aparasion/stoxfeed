@@ -18,4 +18,4 @@ This development has significant implications for the financial markets, particu
 
 For a deeper understanding of the strategic implications and the evolving situation in the Middle East, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html)

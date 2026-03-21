@@ -18,4 +18,4 @@ This decision to hold rates steady reflects the Fed's cautious approach, aiming 
 
 For professionals in finance, understanding the implications of the Fed's decisions is crucial. I recommend diving deeper into this article to grasp the full context and potential market ramifications.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paFFxZTdOZ2Z1ZU9HSVZXYV9KcU0wYlNQdjlOd0kyaHViSlNVTTNyUkZIek0wN2E4ZWl2SDJfaWRfREpWREVKY0Q5cmNTRGpIU2FLaU00QTM4UlZGcDh5SVIyWFMzWng5?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paFFxZTdOZ2Z1ZU9HSVZXYV9KcU0wYlNQdjlOd0kyaHViSlNVTTNyUkZIek0wN2E4ZWl2SDJfaWRfREpWREVKY0Q5cmNTRGpIU2FLaU00QTM4UlZGcDh5SVIyWFMzWng5?oc=5)

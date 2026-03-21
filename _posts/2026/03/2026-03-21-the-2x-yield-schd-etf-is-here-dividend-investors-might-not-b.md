@@ -18,4 +18,4 @@ This development is significant for dividend investors as it highlights a shift 
 
 For market professionals, the introduction of DDDD presents a clear choice: prioritize immediate yield with potential risks or maintain a focus on sustainable growth and income through established funds like SCHD. Understanding these dynamics will be crucial for aligning investment strategies with market conditions.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/2x-yield-schd-etf-dividend-investors-not-ready/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/2x-yield-schd-etf-dividend-investors-not-ready/?source=iedfolrf0000001)

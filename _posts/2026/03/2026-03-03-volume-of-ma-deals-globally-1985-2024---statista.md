@@ -18,4 +18,4 @@ The dynamics of oil pricing are heavily influenced by supply-demand fundamentals
 
 For market professionals, the gradual recovery in oil prices may present trading opportunities, particularly as global demand continues to evolve. For a deeper dive into the factors shaping current oil prices, I recommend exploring the full article.
 
-[statista.com](https://www.statista.com)
+Source: [statista.com](https://www.statista.com)

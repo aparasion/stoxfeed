@@ -18,4 +18,4 @@ The cautious outlook from management, projecting a deceleration in sales growth 
 
 For market professionals, the key takeaway is that while Walmart remains a solid performer, the stock's elevated price may warrant a hold strategy until a more attractive entry point emerges. For a deeper dive into Walmart's financials and outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/walmart-stock-buy-sell-or-hold/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/walmart-stock-buy-sell-or-hold/?source=iedfolrf0000001)

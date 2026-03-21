@@ -16,4 +16,4 @@ Oracle (ORCL) shares surged over 9% following the release of its fiscal Q3 resul
 
 The company’s innovative "bring-your-own-hardware" model is enabling it to expand its AI infrastructure without incurring additional debt, with $29 billion in contracts signed. This strategy, alongside a projected capital expenditure increase to $50 billion, positions Oracle well for sustained growth. For investors, the current valuation suggests a potential doubling of stock price over the next two years, making it a compelling opportunity. For a deeper dive into Oracle's earnings and growth strategy, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/news-oracle-billion-backlog-ai-stock-buy/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/news-oracle-billion-backlog-ai-stock-buy/?source=iedfolrf0000001)

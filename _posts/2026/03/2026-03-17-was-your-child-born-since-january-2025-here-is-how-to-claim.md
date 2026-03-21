@@ -18,4 +18,4 @@ This initiative could influence market dynamics as families are encouraged to al
 
 For financial professionals, understanding the implications of these accounts is crucial. They represent a new avenue for investment and savings that could shape future market trends. I recommend checking out the full article for a deeper dive into the mechanics and benefits of Trump Accounts.
 
-[fool.com](https://www.fool.com/retirement/2026/03/17/was-your-child-born-since-january-2025-here-is-how/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/17/was-your-child-born-since-january-2025-here-is-how/?source=iedfolrf0000001)

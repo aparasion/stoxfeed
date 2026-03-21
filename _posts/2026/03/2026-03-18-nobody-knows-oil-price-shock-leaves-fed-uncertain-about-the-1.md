@@ -18,4 +18,4 @@ The merger could have notable implications for advertising revenues and programm
 
 For market professionals, this merger signals a critical shift in local media dynamics and presents opportunities for investment in a sector poised for growth. I recommend diving deeper into the details of this development in the full article for a comprehensive understanding of its implications.
 
-[nbcnews.com](https://www.nbcnews.com)
+Source: [nbcnews.com](https://www.nbcnews.com)

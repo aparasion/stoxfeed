@@ -18,4 +18,4 @@ This prolonged sell-off in tech shares is notable as it comes amid a backdrop of
 
 Market professionals should closely monitor these trends, as continued weakness in Big Tech could signal broader implications for portfolio strategies and sector allocations. For a deeper dive into the factors driving this market movement, I recommend exploring the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)

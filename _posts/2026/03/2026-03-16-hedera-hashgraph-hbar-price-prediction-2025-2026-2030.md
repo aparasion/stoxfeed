@@ -18,4 +18,4 @@ The implications for HBAR's performance are significant. While the network has s
 
 For investors, the key takeaway is that Hedera's potential hinges on its ability to generate demand and usage for HBAR. For a deeper dive into these forecasts and the factors influencing them, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction)

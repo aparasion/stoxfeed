@@ -18,4 +18,4 @@ This spike in energy prices comes amid OPEC+'s plans to increase output, which m
 
 Market professionals should closely monitor these geopolitical developments and their impact on supply dynamics. For a deeper dive into the implications of these events, I recommend checking out the full article for more insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/crude-oil-rallies-iranian-attacks-disrupt-middle-eastern-supplies)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/crude-oil-rallies-iranian-attacks-disrupt-middle-eastern-supplies)

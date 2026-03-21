@@ -18,4 +18,4 @@ The podcast also features former Goldman Sachs Chairman Lloyd Blankfein, who sha
 
 For professionals in trading and portfolio management, Borges' analysis offers valuable perspectives on the intersection of AI and software, making it a must-listen for those looking to navigate this evolving landscape. I recommend checking out the full podcast for deeper insights.
 
-[goldmansachs.com](https://www.goldmansachs.com)
+Source: [goldmansachs.com](https://www.goldmansachs.com)

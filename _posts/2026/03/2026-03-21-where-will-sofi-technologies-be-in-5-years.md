@@ -18,4 +18,4 @@ This growth trajectory is underpinned by a strong focus on user experience and p
 
 For investors, SoFi presents a compelling opportunity, especially given its forward price-to-earnings ratio of 29.9. As the company continues to capture a larger share of the banking market, it could deliver substantial returns over the next five years.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/where-will-sofi-technologies-be-in-5-years/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/where-will-sofi-technologies-be-in-5-years/?source=iedfolrf0000001)

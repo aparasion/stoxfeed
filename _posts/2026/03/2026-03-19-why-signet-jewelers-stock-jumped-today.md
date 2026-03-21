@@ -18,4 +18,4 @@ This performance is significant for the financial markets as it highlights the c
 
 For a deeper dive into Signet's financial outlook and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/why-signet-jewelers-stock-is-up-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/why-signet-jewelers-stock-is-up-today/?source=iedfolrf0000001)

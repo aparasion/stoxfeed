@@ -18,4 +18,4 @@ The current market conditions suggest that these stocks, particularly Nvidia, Mi
 
 For market professionals, this presents a timely chance to reassess positions in these tech giants. Dive deeper into the full analysis to understand the nuances of these investment opportunities.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/meet-the-5-magnificent-seven-stocks-that-are-brill/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/meet-the-5-magnificent-seven-stocks-that-are-brill/?source=iedfolrf0000001)

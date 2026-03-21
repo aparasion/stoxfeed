@@ -18,4 +18,4 @@ This reaction is significant for investors as it suggests that the short report 
 
 For those monitoring market dynamics, Noto's purchase may serve as a bullish signal amidst volatility. To gain deeper insights into this situation and its implications for SoFi's future, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/sofis-ceo-bought-the-dip-should-you/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/sofis-ceo-bought-the-dip-should-you/?source=iedfolrf0000001)

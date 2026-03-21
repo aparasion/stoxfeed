@@ -18,4 +18,4 @@ This positive outlook comes as Delta's stock rose 5% in premarket trading, refle
 
 For market professionals, Delta’s ability to navigate rising costs while maintaining strong demand signals a potentially favorable environment for the airline sector. For a deeper dive into Delta's performance and market implications, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html)

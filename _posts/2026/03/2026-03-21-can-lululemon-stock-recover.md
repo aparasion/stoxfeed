@@ -18,4 +18,4 @@ The implications for Lululemon's stock are noteworthy. With a forward P/E ratio 
 
 For a deeper analysis of Lululemon's performance and future prospects, I recommend checking out the full article for more insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/can-lululemon-stock-recover)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/can-lululemon-stock-recover)

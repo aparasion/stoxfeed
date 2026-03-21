@@ -18,4 +18,4 @@ This divestment reflects broader challenges facing SaaS companies, particularly 
 
 For investors, Readystate's drastic reduction in Workiva holdings raises questions about the future direction of the stock and the potential for recovery. This development merits further exploration, so I recommend checking out the full article for a deeper analysis.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/17/readystate-dumps-361-000-workiva-shares-worth-usd32-million/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/17/readystate-dumps-361-000-workiva-shares-worth-usd32-million/?source=iedfolrf0000001)

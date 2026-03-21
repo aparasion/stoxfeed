@@ -18,4 +18,4 @@ In the U.S., weekly jobless claims fell to 205K, indicating a stronger labor mar
 
 For market professionals, the divergence between European and U.S. market performances highlights the importance of monitoring macroeconomic indicators and sector-specific news. For a deeper dive into these developments, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-oil-drops-2-us-dollar-decline-will-us500-rebound)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-oil-drops-2-us-dollar-decline-will-us500-rebound)

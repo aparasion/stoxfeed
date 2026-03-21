@@ -18,4 +18,4 @@ The ongoing memory crunch is reshaping the tech landscape, as major players like
 
 For market professionals, Micron's impressive growth amid a memory shortage highlights the critical role of memory in the AI race and the potential for sustained pricing power. To dive deeper into the implications of these developments, I recommend checking out the full article for a comprehensive analysis.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html)

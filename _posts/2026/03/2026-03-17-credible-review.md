@@ -18,4 +18,4 @@ This development is significant for the financial markets as it enhances competi
 
 For market professionals, the key takeaway is that Credible’s innovative approach could reshape the lending landscape, encouraging traditional lenders to adapt their offerings and customer service strategies. I recommend checking out the full article for a deeper dive into Credible's services and its implications for the lending market.
 
-[benzinga.com](https://www.benzinga.com/money/credible-review)
+Source: [benzinga.com](https://www.benzinga.com/money/credible-review)

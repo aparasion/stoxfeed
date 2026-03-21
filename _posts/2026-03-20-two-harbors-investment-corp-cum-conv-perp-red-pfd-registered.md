@@ -18,4 +18,4 @@ This development is significant for financial markets as it highlights Two Harbo
 
 For those tracking dividend stocks or analyzing Two Harbors' strategic maneuvers, the full article provides deeper insights into the company's financial health and market position.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566969-two-harbors-investment-corp-cum-conv-perp-red-pfd-registered-series-c-declares-0_5589?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566969-two-harbors-investment-corp-cum-conv-perp-red-pfd-registered-series-c-declares-0_5589?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

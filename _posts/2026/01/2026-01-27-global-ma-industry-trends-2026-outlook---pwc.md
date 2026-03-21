@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as companies that su
 
 For investors and market strategists, understanding these trends is crucial. Companies that embrace technological advancements may outperform their peers, presenting new investment opportunities. I encourage you to delve deeper into the insights from PwC’s survey for a comprehensive view of these transformative strategies.
 
-[pwc.com](https://www.pwc.com)
+Source: [pwc.com](https://www.pwc.com)

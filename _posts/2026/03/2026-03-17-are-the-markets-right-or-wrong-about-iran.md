@@ -18,4 +18,4 @@ The divergence between the grim news cycle and market stability suggests that in
 
 For professionals navigating these turbulent waters, understanding the underlying dynamics of market psychology is crucial. I recommend checking out the full discussion for deeper insights into how these factors could shape future trading strategies.
 
-[ft.com](https://www.ft.com/content/db554ef5-dcdd-4b50-b58a-443a14cc6099)
+Source: [ft.com](https://www.ft.com/content/db554ef5-dcdd-4b50-b58a-443a14cc6099)

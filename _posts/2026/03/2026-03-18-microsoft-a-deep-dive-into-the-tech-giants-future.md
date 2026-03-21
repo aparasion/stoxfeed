@@ -18,4 +18,4 @@ This analysis is particularly relevant for investors as it touches on key market
 
 For those looking to deepen their understanding of Microsoft’s market positioning and future potential, this episode offers valuable insights. I highly recommend checking out the full discussion to grasp the nuances of the bull and bear cases presented.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/microsoft-a-deep-dive-into-the-tech-giants-future/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/microsoft-a-deep-dive-into-the-tech-giants-future/?source=iedfolrf0000001)

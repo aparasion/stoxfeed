@@ -18,4 +18,4 @@ The significant decline in gold prices has implications for the broader financia
 
 For market professionals, the sharp decline in gold underscores the volatility of safe-haven assets amid geopolitical tensions. I recommend checking out the full article for a deeper analysis of these trends and their potential impact on your investment strategy.
 
-[cointelegraph.com](https://cointelegraph.com/news/gold-sees-biggest-weekly-fall-in-43-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/gold-sees-biggest-weekly-fall-in-43-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

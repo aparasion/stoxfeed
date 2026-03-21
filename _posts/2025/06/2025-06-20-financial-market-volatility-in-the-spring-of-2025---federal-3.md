@@ -18,4 +18,4 @@ This trend has significant implications for the broader labor market and consume
 
 For financial professionals, understanding the evolving landscape of the gig economy is crucial. It may influence investment strategies and consumer behavior forecasts. I encourage you to delve deeper into this analysis for a comprehensive view of the implications.
 
-[stlouisfed.org](https://www.stlouisfed.org)
+Source: [stlouisfed.org](https://www.stlouisfed.org)

@@ -18,4 +18,4 @@ This performance highlights the mixed results within Enel’s operations, partic
 
 For a deeper understanding of Enel's financial landscape and its implications for the energy sector, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/enel-fy25-ordinary-ebitda-rises)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/enel-fy25-ordinary-ebitda-rises)

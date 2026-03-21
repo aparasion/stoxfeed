@@ -18,4 +18,4 @@ This shift in the Fed's outlook, highlighted by a median projection of only one 
 
 For market professionals, the key takeaway is the tightening liquidity environment, which may hinder risk-taking and impact asset valuations. For a deeper dive into the implications of this market shift, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/19/bitcoin-ogs-dump-over-usd100-million-in-btc-after-hawkish-fed-dents-rate-cut-hopes)

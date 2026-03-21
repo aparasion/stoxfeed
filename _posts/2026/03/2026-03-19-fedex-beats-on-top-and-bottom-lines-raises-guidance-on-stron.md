@@ -18,4 +18,4 @@ This robust financial showing not only strengthens FedEx's position in the logis
 
 For a deeper dive into FedEx’s strategic initiatives and their implications for the broader market, I highly recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html)

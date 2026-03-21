@@ -18,4 +18,4 @@ Market participants are also closely watching central bank decisions today, with
 
 For professionals in the financial markets, the interplay between geopolitical tensions and central bank policies will be crucial to monitor. I recommend diving into the full article for a deeper understanding of these developments and their implications.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html)

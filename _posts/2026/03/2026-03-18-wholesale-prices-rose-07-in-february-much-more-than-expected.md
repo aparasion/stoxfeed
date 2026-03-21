@@ -18,4 +18,4 @@ This inflation data complicates the Federal Reserve's monetary policy, particula
 
 For portfolio managers and traders, this report underscores the need to reassess strategies in light of sustained inflation pressures and potential Fed policy shifts. I recommend checking out the full article for a deeper analysis of these developments.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html)

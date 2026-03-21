@@ -18,4 +18,4 @@ This bearish trend could have far-reaching implications for various sectors, par
 
 For market professionals, the current landscape presents both challenges and opportunities. Understanding the dynamics of this bearish movement is crucial for strategic positioning. I encourage you to dive deeper into the analysis and insights provided in the full article to better navigate these turbulent market conditions.
 
-[news.google.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkp1aWV3TUdJTzdEb3FwVXhhTGVVYnhjZzRwMjR2RkJoUER2SXM3VWlwUzlxekdGZnJXN3RZVjZ5MktmbVlKS1BSdTNZeEpYM1BfajBtV3VQQ0Z1VkZhZE9iZlJzNG0xQWtOZk1lVDJ6YmhzNUw0VG9fNExXUGR6T1NxMWxFUm5ST2pXQmlLWkhzeWtD?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkp1aWV3TUdJTzdEb3FwVXhhTGVVYnhjZzRwMjR2RkJoUER2SXM3VWlwUzlxekdGZnJXN3RZVjZ5MktmbVlKS1BSdTNZeEpYM1BfajBtV3VQQ0Z1VkZhZE9iZlJzNG0xQWtOZk1lVDJ6YmhzNUw0VG9fNExXUGR6T1NxMWxFUm5ST2pXQmlLWkhzeWtD?oc=5)

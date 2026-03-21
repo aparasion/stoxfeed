@@ -18,4 +18,4 @@ This dividend declaration is significant as it reflects Vanguard's commitment to
 
 For those tracking dividend stocks or seeking to enhance their income portfolios, this announcement is a timely reminder of the potential benefits of dividend-paying investments. I recommend checking the full article for further insights on VUN:CA’s dividend scorecard and growth trajectory.
 
-[seekingalpha.com](https://seekingalpha.com/news/4567074-vanguard-us-total-market-index-etf-declares-cad-0_2751-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4567074-vanguard-us-total-market-index-etf-declares-cad-0_2751-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

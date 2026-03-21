@@ -18,4 +18,4 @@ The European Commission's latest estimates show a slight decrease in EU wheat pr
 
 For professionals in the grain markets, the current trends signal potential volatility. I recommend checking out the full article for a deeper dive into the factors affecting wheat prices and broader market implications.
 
-[nasdaq.com](https://www.nasdaq.com/articles/wheat-fails-see-green-st-patricks-day)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/wheat-fails-see-green-st-patricks-day)

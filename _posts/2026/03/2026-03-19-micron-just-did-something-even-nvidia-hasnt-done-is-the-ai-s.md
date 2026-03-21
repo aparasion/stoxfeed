@@ -18,4 +18,4 @@ Despite these stellar results, Micron's stock fell 3% in after-hours trading, re
 
 For market professionals, Micron presents a compelling opportunity, especially given its low forward P/E ratio below 10 and strong growth trajectory. While the post-earnings reaction raises questions, the company’s strategic investments suggest it is well-positioned for long-term success. I highly recommend exploring the full story to understand the nuances behind Micron's performance and future outlook.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/micron-just-did-something-even-nvidia-hasnt-done-h/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/micron-just-did-something-even-nvidia-hasnt-done-h/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ These market movements come as the Federal Reserve begins a two-day meeting amid
 
 For investors, today's slight market gains suggest a potential shift in sentiment, despite external pressures. I recommend checking out the full article for a deeper analysis of these trends and their implications.
 
-[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-markets-edge-upwards-as-fed-meeting-opens/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-markets-edge-upwards-as-fed-meeting-opens/?source=iedfolrf0000001)

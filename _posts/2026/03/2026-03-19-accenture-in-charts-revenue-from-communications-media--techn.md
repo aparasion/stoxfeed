@@ -18,4 +18,4 @@ The impressive growth figures are likely to bolster investor confidence and coul
 
 For market professionals, Accenture’s results underscore the importance of sector-specific performance in evaluating investment opportunities. As the company prepares to unveil its Q2 earnings, it may be worthwhile to monitor how these trends play out. For a deeper dive into Accenture's financials and strategic outlook, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566184-accenture-in-charts-revenue-from-communications-media-technology-13-yy-financial-services-13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566184-accenture-in-charts-revenue-from-communications-media-technology-13-yy-financial-services-13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

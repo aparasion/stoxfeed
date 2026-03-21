@@ -18,4 +18,4 @@ The performance of gold stocks is closely tied to fluctuations in gold prices, w
 
 For professionals looking to diversify their portfolios, investing in gold stocks could be a strategic move, particularly as the market continues to respond to macroeconomic factors. I recommend exploring the full article for deeper insights into gold stock performance and investment strategies.
 
-[benzinga.com](https://www.benzinga.com/money/best-gold-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-gold-stocks)

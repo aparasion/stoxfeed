@@ -18,4 +18,4 @@ Investors should note that energy stocks can be volatile, influenced by market c
 
 For a deeper dive into the best energy stocks and strategies for investing, I recommend checking out the full article for valuable insights and guidance.
 
-[benzinga.com](https://www.benzinga.com/money/best-energy-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-energy-stocks)

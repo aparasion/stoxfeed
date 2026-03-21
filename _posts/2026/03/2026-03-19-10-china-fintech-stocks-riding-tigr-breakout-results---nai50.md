@@ -18,4 +18,4 @@ The performance of these fintech companies is pivotal, as they stand to benefit 
 
 For those looking to navigate the evolving landscape of Chinese fintech, this article provides valuable insights into which stocks are positioned for growth. I recommend exploring the full story for a deeper understanding of these emerging opportunities.
 
-[news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxORDQyamdWaDRzVVJPTjVCdTQyNGdQSlR5Nko5SFhwNHV0OXdzcVM5Uk9kd0dOalF6akliS3htS3BTZllXdnNPTTcydXY5YVRiYTdrajNrMUhhcThuUUl2YXY1emE4V3N6UXA0VTFpSUNxWWNvQUVSMEtGNEI3UE9xMVJvdWR4WEg0bXVpYkl3?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxORDQyamdWaDRzVVJPTjVCdTQyNGdQSlR5Nko5SFhwNHV0OXdzcVM5Uk9kd0dOalF6akliS3htS3BTZllXdnNPTTcydXY5YVRiYTdrajNrMUhhcThuUUl2YXY1emE4V3N6UXA0VTFpSUNxWWNvQUVSMEtGNEI3UE9xMVJvdWR4WEg0bXVpYkl3?oc=5)

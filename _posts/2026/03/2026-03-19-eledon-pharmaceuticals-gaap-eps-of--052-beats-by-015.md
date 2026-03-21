@@ -18,4 +18,4 @@ The positive earnings surprise may bolster investor confidence, particularly as 
 
 For market professionals, Eledon’s ability to exceed earnings expectations while maintaining a solid cash position is noteworthy. Investors should consider the implications of these results on Eledon’s strategic direction and market valuation. For a deeper dive into Eledon’s earnings and future prospects, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566806-eledon-pharmaceuticals-gaap-eps-of-0_52-beats-by-0_15?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566806-eledon-pharmaceuticals-gaap-eps-of-0_52-beats-by-0_15?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

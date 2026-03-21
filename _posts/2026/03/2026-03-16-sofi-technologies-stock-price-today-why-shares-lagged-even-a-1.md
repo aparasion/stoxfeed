@@ -18,4 +18,4 @@ This acquisition is particularly relevant for the tech sector, as it underscores
 
 For market professionals, this acquisition signals a pivotal shift in IBM's strategy that could influence stock performance and sector dynamics. I recommend exploring the full article for deeper insights into the implications of this acquisition on the broader market landscape.
 
-[ts2.tech](https://ts2.tech)
+Source: [ts2.tech](https://ts2.tech)

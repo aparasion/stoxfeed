@@ -18,4 +18,4 @@ This earnings report is particularly relevant for investors as it highlights a m
 
 For market professionals, the key takeaway is the need to monitor Pharma-Bio Serv’s future revenue trends and operational strategies to gauge its ability to sustain profitability. For a deeper dive into the earnings details and future outlook, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565605-pharma-bio-serv-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565605-pharma-bio-serv-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

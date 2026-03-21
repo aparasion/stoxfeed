@@ -18,4 +18,4 @@ The implications for financial markets are substantial, particularly for the ene
 
 For those tracking regional geopolitical risks and their market implications, this situation merits further attention. I recommend reading the full article for a deeper understanding of the potential ramifications.
 
-[aljazeera.com](https://www.aljazeera.com)
+Source: [aljazeera.com](https://www.aljazeera.com)

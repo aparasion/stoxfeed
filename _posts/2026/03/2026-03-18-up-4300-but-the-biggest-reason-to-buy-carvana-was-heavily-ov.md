@@ -18,4 +18,4 @@ The release of the valuation allowance signals that Carvana now expects to utili
 
 For investors, this is a pivotal moment that underscores Carvana's resilience and growth potential. I recommend diving deeper into this story for a comprehensive understanding of the implications for your investment strategy.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/up-biggest-reason-buy-carvana-stock-overlooked/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/up-biggest-reason-buy-carvana-stock-overlooked/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This development is significant for Ford as it not only involves a $3.4 million 
 
 For a deeper understanding of the implications for Ford and the broader automotive sector, I recommend reading the full article for comprehensive insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/ford-and-ringwood-nj-agree-consent-decree-us-groundwater-cleanup-ringwood-site)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/ford-and-ringwood-nj-agree-consent-decree-us-groundwater-cleanup-ringwood-site)

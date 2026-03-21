@@ -18,4 +18,4 @@ This development is significant for the financial markets, particularly for the 
 
 Investors should closely monitor the progress of this legislative effort, as its successful implementation could enhance the operational environment for AI firms and influence stock performance in the tech sector. For a deeper dive into the implications of this framework, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html)

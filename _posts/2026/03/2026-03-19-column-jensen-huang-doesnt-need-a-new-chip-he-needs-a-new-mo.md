@@ -18,4 +18,4 @@ This transition is critical as it addresses the evolving demands of the AI marke
 
 Investors should closely monitor how this platform strategy unfolds, as it could redefine Nvidia's market valuation. If successful, Nvidia may transition from a cyclical chipmaker to a more stable, high-margin software platform provider. For a deeper dive into this transformative strategy, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html)

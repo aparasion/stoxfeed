@@ -18,4 +18,4 @@ This discussion is particularly relevant as the market looks for the next big gr
 
 For professionals seeking to refine their investment strategies, the insights shared in this analysis could be invaluable. I recommend checking out the full article for a deeper dive into these investment opportunities and strategies.
 
-[nasdaq.com](https://www.nasdaq.com/articles/heres-how-amazon-turned-1000-25-million-and-how-find-next-one)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/heres-how-amazon-turned-1000-25-million-and-how-find-next-one)

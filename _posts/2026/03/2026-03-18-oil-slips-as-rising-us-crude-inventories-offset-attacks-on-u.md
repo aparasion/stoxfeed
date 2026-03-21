@@ -18,4 +18,4 @@ The decline in oil prices comes amid escalating fears of prolonged supply issues
 
 For market professionals, the key takeaway is the delicate balance between geopolitical risks and supply fundamentals. Understanding these dynamics will be crucial for navigating potential price volatility. I recommend reading the full article for a deeper analysis of these developments.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html)

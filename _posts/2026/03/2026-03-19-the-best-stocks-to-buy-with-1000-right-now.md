@@ -18,4 +18,4 @@ Visa, down 18% from its high, benefits from high margins on transaction fees and
 
 Both companies are positioned to capitalize on emerging trends in AI and digital payments, making them attractive investments. For a deeper dive into their potential, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/the-best-stocks-to-buy-with-1000-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/the-best-stocks-to-buy-with-1000-right-now/?source=iedfolrf0000001)

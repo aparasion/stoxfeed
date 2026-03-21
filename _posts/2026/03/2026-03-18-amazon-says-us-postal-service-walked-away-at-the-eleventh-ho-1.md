@@ -18,4 +18,4 @@ This development has substantial implications for both companies and the broader
 
 Market professionals should closely monitor how this evolving relationship affects Amazon's logistics strategy and USPS's financial health. For a deeper dive into the details and implications, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html)

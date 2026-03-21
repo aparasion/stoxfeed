@@ -18,4 +18,4 @@ Despite the dip in share price, Microsoft Cloud revenue surged 26% year-over-yea
 
 For market professionals, the key takeaway is that while current capex may raise concerns, Microsoft's diversified AI strategy could yield significant long-term benefits. I recommend diving into the full article for a deeper understanding of these developments and their implications for the market.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/wall-street-is-wrong-about-this-ai-cloud-stock-for/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/wall-street-is-wrong-about-this-ai-cloud-stock-for/?source=iedfolrf0000001)

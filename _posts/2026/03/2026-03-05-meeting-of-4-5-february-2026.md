@@ -18,4 +18,4 @@ This stability is significant for financial markets as it suggests a divergence 
 
 Market professionals should note the ECB's expectation of stable inflation and unchanged policy rates through 2026, which could influence investment strategies. For a deeper dive into these developments and their implications, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)

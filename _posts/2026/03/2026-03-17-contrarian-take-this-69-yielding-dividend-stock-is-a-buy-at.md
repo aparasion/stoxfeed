@@ -18,4 +18,4 @@ For value investors, Campbell's presents a compelling opportunity, especially wi
 
 For those considering a long-term investment, Campbell's could be a deep-value play worth exploring. I recommend checking out the full article for a deeper dive into the company's current situation and future prospects.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/contrarian-take-buy-high-yield-dividend-stock/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/contrarian-take-buy-high-yield-dividend-stock/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ For investors, the implications are significant. The performance of this company
 
 For those looking to refine their investment strategies, this report offers valuable insights. I recommend checking out the full article for a deeper dive into the potential of this "Indispensable Monopoly" and the top stock picks from the Motley Fool.
 
-[nasdaq.com](https://www.nasdaq.com/articles/stock-markets-falling-1-ridiculously-cheap-stock-investors-can-buy-amid-selling)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/stock-markets-falling-1-ridiculously-cheap-stock-investors-can-buy-amid-selling)

@@ -18,4 +18,4 @@ This collaboration underscores the growing importance of the robotaxi sector, wh
 
 For investors, this partnership signals a strong vote of confidence in Rivian's AI capabilities and its potential to disrupt the mobility landscape. To dive deeper into the implications of this deal, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/4-things-investors-need-to-know-about-ubers-125-bi/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/4-things-investors-need-to-know-about-ubers-125-bi/?source=iedfolrf0000001)

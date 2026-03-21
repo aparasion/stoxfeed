@@ -18,4 +18,4 @@ This upward movement in key indices suggests a potential shift in market dynamic
 
 For market professionals, this development highlights the importance of staying attuned to sector-specific trends and earnings reports that can influence overall market direction. I highly recommend checking out the full article for a deeper dive into today’s market movements and the factors driving these gains.
 
-[news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTRKMnljTFloQUdxbVhjVTQ0NWctVkZjTHV2UUJoZVNBTHc3QmptdDNhemxLQVc1clE2elBISmtpZndkcGllOTdHMloyMVVaclFtMmFzVGFXZHAzS2JXQkk5b0Rxb0tGU05rNmlLVG9pakJXeUtxVE43MFZ3b1ZsMmxBLWJuczhEMjAwaVQ1RkEzWjVEQTdPcHBXaUwyRmIyNjI0UnN4Zw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYTRKMnljTFloQUdxbVhjVTQ0NWctVkZjTHV2UUJoZVNBTHc3QmptdDNhemxLQVc1clE2elBISmtpZndkcGllOTdHMloyMVVaclFtMmFzVGFXZHAzS2JXQkk5b0Rxb0tGU05rNmlLVG9pakJXeUtxVE43MFZ3b1ZsMmxBLWJuczhEMjAwaVQ1RkEzWjVEQTdPcHBXaUwyRmIyNjI0UnN4Zw?oc=5)

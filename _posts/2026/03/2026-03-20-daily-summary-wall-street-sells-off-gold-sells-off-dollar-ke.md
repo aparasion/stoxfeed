@@ -18,4 +18,4 @@ The implications for the financial markets are profound, as rising energy prices
 
 Market professionals should closely monitor these developments, as the heightened geopolitical risk and shifting monetary policy could lead to increased volatility across sectors. For a deeper dive into these trends and their potential impacts, I recommend exploring the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-wall-street-sells-off-gold-sells-off-dollar-keeps-winning-the-risk-off-20-03-2026)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-wall-street-sells-off-gold-sells-off-dollar-keeps-winning-the-risk-off-20-03-2026)

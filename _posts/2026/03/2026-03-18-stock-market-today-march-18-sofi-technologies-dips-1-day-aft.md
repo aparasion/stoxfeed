@@ -18,4 +18,4 @@ The response to Muddy Waters’ claims highlights the contentious environment su
 
 For those considering an investment in SoFi, it may be prudent to evaluate other opportunities, as analysts have identified alternative stocks that could deliver higher returns. For a deeper dive into this situation and its implications, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/stock-market-today-march-18-sofi-technologies-dips-1-day-after-short-report)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/stock-market-today-march-18-sofi-technologies-dips-1-day-after-short-report)

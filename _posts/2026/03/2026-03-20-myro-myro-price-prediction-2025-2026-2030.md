@@ -18,4 +18,4 @@ Myro's performance is closely tied to broader market trends, particularly the mo
 
 For those considering an investment in Myro, understanding the balance between its speculative nature and its efforts to provide real-world utility is crucial. I encourage you to read the full article for a deeper dive into Myro's market dynamics and future outlook.
 
-[benzinga.com](https://www.benzinga.com/money/myro-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/myro-price-prediction)

@@ -18,4 +18,4 @@ These cities not only offer affordability but also a range of recreational activ
 
 For investors and market strategists, understanding these demographic shifts is crucial, as they may influence real estate trends and regional economic growth. Explore the full article for deeper insights into these emerging retirement hotspots.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/5-cities-that-let-retirees-live-well-without-downs/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/5-cities-that-let-retirees-live-well-without-downs/?source=iedfolrf0000001)

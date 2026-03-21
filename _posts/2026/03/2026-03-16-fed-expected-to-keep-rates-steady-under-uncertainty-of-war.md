@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly for sec
 
 Market professionals should closely monitor how these developments affect earnings forecasts for transportation stocks and related sectors. For a deeper dive into the challenges facing the trucking industry and their broader economic implications, I recommend exploring the full article.
 
-[marketplace.org](https://www.marketplace.org)
+Source: [marketplace.org](https://www.marketplace.org)

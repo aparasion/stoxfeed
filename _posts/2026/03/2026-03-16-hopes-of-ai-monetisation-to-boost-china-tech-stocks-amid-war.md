@@ -18,4 +18,4 @@ The implications of this delay are significant for financial markets, as it adds
 
 Market professionals should consider the potential for further disruptions in trade negotiations and their impact on global supply chains. For a deeper dive into the ramifications of this summit postponement, I recommend exploring the full article.
 
-[scmp.com](https://www.scmp.com)
+Source: [scmp.com](https://www.scmp.com)

@@ -18,4 +18,4 @@ The implications for The Trade Desk are serious, as Publicis's audit could deter
 
 For market professionals, the key takeaway is to exercise caution before considering a buy on The Trade Desk at this juncture. For a deeper dive into the situation, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-the-trade-desk-stock-slipped-this-week/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-the-trade-desk-stock-slipped-this-week/?source=iedfolrf0000001)

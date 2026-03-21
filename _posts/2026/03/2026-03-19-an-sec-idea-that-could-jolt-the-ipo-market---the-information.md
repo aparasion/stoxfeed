@@ -18,4 +18,4 @@ If implemented, these reforms could lead to a surge in IPO activity, particularl
 
 Market professionals should closely monitor these developments, as the SEC's decision could create new opportunities and challenges in the IPO landscape. For a deeper dive into the potential impacts and industry reactions, I recommend exploring the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2Y0MlE3UnlqT0FnT0RvQUoyX3lOZDZMbFNodnVwQm5ISW9pV280NmdEbWY0Z0JOY1BjVnFOQWhDdEZOT3FjUEozbWRxMTVRaW45QzROYU1NVWtzb3VWeEktMFdmX3pEcnF2LWZHdTNpSmJvZjRGZHZmaGJRY202eGtfOA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2Y0MlE3UnlqT0FnT0RvQUoyX3lOZDZMbFNodnVwQm5ISW9pV280NmdEbWY0Z0JOY1BjVnFOQWhDdEZOT3FjUEozbWRxMTVRaW45QzROYU1NVWtzb3VWeEktMFdmX3pEcnF2LWZHdTNpSmJvZjRGZHZmaGJRY202eGtfOA?oc=5)

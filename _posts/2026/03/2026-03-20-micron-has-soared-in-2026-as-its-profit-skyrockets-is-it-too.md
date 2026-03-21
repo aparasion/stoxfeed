@@ -18,4 +18,4 @@ The company is aggressively investing in its manufacturing capabilities, with pr
 
 For investors confident in the longevity of the AI boom, Micron presents a compelling opportunity, albeit with inherent risks due to the cyclical nature of the memory market. For a deeper dive into Micron's performance and strategic outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/micron-has-soared-in-2026-is-it-too-late-to-buy/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/micron-has-soared-in-2026-is-it-too-late-to-buy/?source=iedfolrf0000001)

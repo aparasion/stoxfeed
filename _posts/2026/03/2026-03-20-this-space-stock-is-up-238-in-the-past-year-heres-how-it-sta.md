@@ -18,4 +18,4 @@ This momentum highlights AST SpaceMobile's potential to disrupt the traditional 
 
 For investors with an appetite for volatility, AST SpaceMobile presents a compelling opportunity, particularly for those looking to integrate AI-driven growth into their portfolios. I highly recommend checking out the full article for a deeper dive into AST SpaceMobile's strategic advantages and future prospects.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/this-space-stock-is-up-181-in-the-past-year-heres/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/this-space-stock-is-up-181-in-the-past-year-heres/?source=iedfolrf0000001)

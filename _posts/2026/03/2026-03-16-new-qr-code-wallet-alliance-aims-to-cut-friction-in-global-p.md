@@ -18,4 +18,4 @@ The service's unique features include customizable news feeds based on specific 
 
 For professionals looking to refine their trading approach with timely insights, Stock Titan offers a compelling toolset. I recommend checking out the full article to explore how these features can elevate your trading experience and keep you ahead in today’s fast-paced market.
 
-[stocktitan.net](https://www.stocktitan.net)
+Source: [stocktitan.net](https://www.stocktitan.net)

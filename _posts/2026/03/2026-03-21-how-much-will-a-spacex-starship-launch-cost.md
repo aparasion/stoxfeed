@@ -18,4 +18,4 @@ This pricing strategy not only positions SpaceX as a formidable player in the sp
 
 For financial professionals, the implications are clear: SpaceX's competitive pricing could reshape the aerospace market landscape. For a deeper dive into this development, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/how-much-will-a-spacex-starship-launch-cost/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/how-much-will-a-spacex-starship-launch-cost/?source=iedfolrf0000001)

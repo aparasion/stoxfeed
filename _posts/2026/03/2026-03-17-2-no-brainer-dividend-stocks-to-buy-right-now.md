@@ -18,4 +18,4 @@ On the other hand, National Fuel Gas offers a yield of around 2.2% and boasts a 
 
 Investors seeking reliable dividend income should consider these two companies, given their strong fundamentals and growth potential. For a deeper dive into their financials and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/2-no-brainer-dividend-stocks-to-buy-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/2-no-brainer-dividend-stocks-to-buy-right-now/?source=iedfolrf0000001)

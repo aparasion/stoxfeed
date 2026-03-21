@@ -18,4 +18,4 @@ The breach of this moving average comes amid broader market fluctuations and cou
 
 For market professionals, this technical breakout may present an opportunity for strategic entry or adjustment in positions related to FBIO. To gain deeper insights into the implications of this movement and the company's outlook, I recommend checking out the full article for a comprehensive analysis.
 
-[news.google.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1hDamNnblJpVVV1aVY1Q3hoQTl5Xy1EdHk0MXpXREJEVlRhbEl3X3FtLXlMLTF4M2UxQUpnUTFjY3VUQUpmRkpnRzNUb18xaFVLTko0Z3RiZHV4dnl2ODdkLVJqUFlPTFN5Y2hMUjhaV1dKRnVqR2otMGZHTU5ycW1saEJSMW1DdTJ2Tkt4ejhwT3lpbjFDY0l1SFM2cUxTRGFtSjNULUNBbWxwQnlzRDBJa2FXRGEyLTd3VTR0TTgzaTFYTWFuVkpKbEZfWXZWaGN2T2ItWFQ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1hDamNnblJpVVV1aVY1Q3hoQTl5Xy1EdHk0MXpXREJEVlRhbEl3X3FtLXlMLTF4M2UxQUpnUTFjY3VUQUpmRkpnRzNUb18xaFVLTko0Z3RiZHV4dnl2ODdkLVJqUFlPTFN5Y2hMUjhaV1dKRnVqR2otMGZHTU5ycW1saEJSMW1DdTJ2Tkt4ejhwT3lpbjFDY0l1SFM2cUxTRGFtSjNULUNBbWxwQnlzRDBJa2FXRGEyLTd3VTR0TTgzaTFYTWFuVkpKbEZfWXZWaGN2T2ItWFQ?oc=5)

@@ -18,4 +18,4 @@ The partnership is expected to bolster Manning & Napier's capabilities in delive
 
 For market professionals, this development highlights the importance of strategic partnerships in driving growth and innovation within the financial services industry. I recommend checking out the full article for deeper insights into the implications of this investment and its potential impact on the broader market landscape.
 
-[rbj.net](https://rbj.net)
+Source: [rbj.net](https://rbj.net)

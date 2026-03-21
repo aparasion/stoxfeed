@@ -18,4 +18,4 @@ This downturn may be attributed to a slowdown in revenue growth, with projection
 
 For those looking to capitalize on the evolving adtech landscape, The Trade Desk's recent pullback could be a strategic entry point. I recommend exploring the full article for deeper insights into its market position and future potential.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/the-trade-desk-just-fell-to-a-multi-year-low-contr/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/the-trade-desk-just-fell-to-a-multi-year-low-contr/?source=iedfolrf0000001)

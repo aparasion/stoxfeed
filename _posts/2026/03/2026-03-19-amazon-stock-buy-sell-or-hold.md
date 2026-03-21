@@ -18,4 +18,4 @@ The significant decline in free cash flowâ€”from $38.2 billion to $11.2 billionâ
 
 For market professionals, the key takeaway is that Amazon's operational strength and AWS growth may present a buying opportunity following the stock's recent pullback. Dive deeper into the analysis to understand the implications for your portfolio.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/amazon-stock-buy-sell-or-hold/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/amazon-stock-buy-sell-or-hold/?source=iedfolrf0000001)

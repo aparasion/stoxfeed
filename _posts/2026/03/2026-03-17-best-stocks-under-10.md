@@ -18,4 +18,4 @@ However, while these stocks can diversify a portfolio and limit exposure to risk
 
 For those interested in exploring this investment strategy further, the article provides valuable insights and tips on identifying the best stocks under $10. I highly recommend checking it out for a deeper understanding of how to navigate this segment of the market.
 
-[benzinga.com](https://www.benzinga.com/money/stocks-under-10)
+Source: [benzinga.com](https://www.benzinga.com/money/stocks-under-10)

@@ -18,4 +18,4 @@ The ECB, while expected to maintain rates around 2.0%, is adjusting its communic
 
 For market professionals, the evolving interplay between energy prices and central bank policies is critical. Today’s announcements could have significant implications for EURUSD, making it essential to stay informed on these developments. I highly recommend exploring the full article for deeper insights.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/eurusd-at-a-crossroads-amid-shifting-central-bank-narratives)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/eurusd-at-a-crossroads-amid-shifting-central-bank-narratives)

@@ -18,4 +18,4 @@ The findings suggest that while AI presents opportunities for professional excel
 
 For market professionals, the key takeaway is the potential for AI to disrupt traditional employment structures while creating new avenues for growth, particularly in emerging economies. This nuanced landscape warrants further exploration, and I encourage you to read the full report for a deeper understanding of these trends.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/anthropic-whos-most-optimistic-about-ai-and-who-isnt.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/anthropic-whos-most-optimistic-about-ai-and-who-isnt.html)

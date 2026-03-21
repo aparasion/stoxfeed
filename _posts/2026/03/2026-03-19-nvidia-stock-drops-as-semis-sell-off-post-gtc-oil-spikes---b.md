@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as NVIDIA's performa
 
 For professionals tracking market trends, the NVIDIA situation underscores the importance of sector dynamics and macroeconomic factors. I recommend diving deeper into this article for a comprehensive analysis of these developments.
 
-[news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUk1uQ3UtSUJlWUV6WE5reVB1ZHM5ZnZyUU12ZXRQVmU0OFN0cWEzSjk4ckNxMWFIN1BvbEdQYmlyVjJEc01GQlpCVWptLUladTE3bHdGWkkyQVFLWVZzRDNZdmoyZVIyTS1Gbw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUk1uQ3UtSUJlWUV6WE5reVB1ZHM5ZnZyUU12ZXRQVmU0OFN0cWEzSjk4ckNxMWFIN1BvbEdQYmlyVjJEc01GQlpCVWptLUladTE3bHdGWkkyQVFLWVZzRDNZdmoyZVIyTS1Gbw?oc=5)

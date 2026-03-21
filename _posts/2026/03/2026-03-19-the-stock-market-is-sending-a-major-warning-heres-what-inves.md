@@ -18,4 +18,4 @@ The S&P 500 Shiller CAPE Ratio currently stands at approximately 39, well above 
 
 Investors are advised to focus on high-quality companies with strong fundamentals to weather potential volatility. For a deeper analysis of these trends and their implications, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/stock-market-sending-warning-investors-know/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/stock-market-sending-warning-investors-know/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This development is significant for income-focused investors and highlights OUSA
 
 For those tracking dividend yields and quality investments, this announcement underscores OUSA's ongoing viability as a solid choice for income generation. I recommend checking out the full article for deeper insights into the ETF's performance metrics and strategic positioning.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566672-alps-oshares-us-quality-dividend-etf-declares-monthly-distribution-of-00762?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566672-alps-oshares-us-quality-dividend-etf-declares-monthly-distribution-of-00762?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

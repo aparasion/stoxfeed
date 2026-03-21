@@ -18,4 +18,4 @@ This distinction is crucial for investors, particularly as the market evaluates 
 
 For professionals considering their next investment move, Rocket Lab’s lower-risk profile could be a strategic choice. To dive deeper into this analysis and explore the broader implications for your portfolio, I recommend checking out the full article for a comprehensive overview.
 
-[nasdaq.com](https://www.nasdaq.com/articles/better-space-stock-rocket-lab-or-ast-spacemobile)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/better-space-stock-rocket-lab-or-ast-spacemobile)

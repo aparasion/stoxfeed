@@ -18,4 +18,4 @@ The implications for the energy sector are significant. As Iranian attacks impac
 
 Market participants should closely monitor developments in the Middle East, as these factors are likely to drive volatility in oil prices. For a deeper dive into the intricacies of this situation, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/crude-prices-surge-reports-us-preparing-troop-deployment-iran)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/crude-prices-surge-reports-us-preparing-troop-deployment-iran)

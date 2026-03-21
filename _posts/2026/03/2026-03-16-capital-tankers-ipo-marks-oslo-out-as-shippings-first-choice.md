@@ -18,4 +18,4 @@ The implications for the financial markets are significant. The rise in tanker r
 
 For investors, the evolving landscape presents both opportunities and risks, particularly in the context of heightened war risk and regulatory changes. For a deeper dive into these developments and their potential impact on the market, I highly recommend checking out the full article.
 
-[tradewindsnews.com](https://www.tradewindsnews.com)
+Source: [tradewindsnews.com](https://www.tradewindsnews.com)

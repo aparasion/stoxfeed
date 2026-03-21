@@ -18,4 +18,4 @@ The significance of this move lies in the potential impact on trade relations an
 
 For market professionals, this development underscores the importance of regulatory changes in shaping trade opportunities. For a deeper dive into the implications and market dynamics, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/nissan-toyota-honda-export-japan.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/nissan-toyota-honda-export-japan.html)

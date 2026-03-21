@@ -18,4 +18,4 @@ The sell-off in precious metals reflects a shift in investor behavior, as many a
 
 For those tracking market trends, the volatility in gold and silver prices underscores the need for adaptive strategies in the face of geopolitical risks. I recommend diving deeper into the full article for a comprehensive analysis of these developments and their implications for your investment approach.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html)

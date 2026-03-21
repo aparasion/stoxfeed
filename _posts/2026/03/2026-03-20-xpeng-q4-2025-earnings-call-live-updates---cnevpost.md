@@ -18,4 +18,4 @@ Xpeng has made headlines by achieving its first-ever net profit of 380 million y
 
 For investors, the resurgence in NEV sales and the strong performance of companies like Xpeng and Nio signal potential growth opportunities in the sector. For a deeper dive into these trends and their implications, I recommend checking out the full article.
 
-[cnevpost.com](https://cnevpost.com)
+Source: [cnevpost.com](https://cnevpost.com)

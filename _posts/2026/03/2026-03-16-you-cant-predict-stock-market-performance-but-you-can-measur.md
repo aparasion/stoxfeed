@@ -20,4 +20,4 @@ For market professionals, this situation underscores the importance of monitorin
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[morningstar.com](https://www.morningstar.com)
+Source: [morningstar.com](https://www.morningstar.com)

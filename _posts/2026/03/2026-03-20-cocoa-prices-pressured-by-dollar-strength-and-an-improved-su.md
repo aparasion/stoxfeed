@@ -18,4 +18,4 @@ The market is grappling with demand concerns as major chocolate manufacturers re
 
 Market participants should closely monitor these dynamics, as the interplay between supply improvements and waning demand could shape cocoa's price trajectory moving forward. For a deeper dive into the factors influencing cocoa prices, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/cocoa-prices-pressured-dollar-strength-and-improved-supply-outlook)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/cocoa-prices-pressured-dollar-strength-and-improved-supply-outlook)

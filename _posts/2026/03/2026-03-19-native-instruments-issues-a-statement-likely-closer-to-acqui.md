@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly for inv
 
 For market professionals, the key takeaway is to monitor developments surrounding Native Instruments closely, as an acquisition could reshape competitive dynamics in the audio tech industry. For a deeper dive into this evolving story, I recommend checking out the full article for more insights.
 
-[cdm.link](https://cdm.link)
+Source: [cdm.link](https://cdm.link)

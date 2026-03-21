@@ -18,4 +18,4 @@ The recent Texas District Court ruling in favor of several industry groups, incl
 
 For market professionals, the key takeaway is the evolving landscape of the advisory sector, where operational strength is becoming a critical differentiator. I recommend exploring the full article for deeper insights into how these trends could impact your strategies and client offerings.
 
-[wealthmanagement.com](https://www.wealthmanagement.com)
+Source: [wealthmanagement.com](https://www.wealthmanagement.com)

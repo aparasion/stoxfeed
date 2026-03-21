@@ -18,4 +18,4 @@ This dividend payout is significant as it reflects the fund's commitment to deli
 
 For those interested in enhancing their portfolios with dividend-paying assets, this announcement underscores the potential of emerging markets. I recommend checking out the full article for a deeper dive into the fund's performance and dividend growth metrics.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566536-purpose-emerging-markets-dividend-fund-etf-units-declares-cad-0_095-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566536-purpose-emerging-markets-dividend-fund-etf-units-declares-cad-0_095-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

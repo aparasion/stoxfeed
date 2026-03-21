@@ -18,4 +18,4 @@ The implications for the financial markets are stark. The MSCI World Index has d
 
 As the situation evolves, the resilience of hedge funds will depend on the duration of the conflict and its impact on global growth. If tensions persist, we could see increased investor redemptions as market participants seek safer assets. For a deeper dive into how these dynamics are shaping the hedge fund landscape, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/hedge-funds-suffer-worst-losses-since-liberation-day-on-iran-war-turmoil.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/hedge-funds-suffer-worst-losses-since-liberation-day-on-iran-war-turmoil.html)

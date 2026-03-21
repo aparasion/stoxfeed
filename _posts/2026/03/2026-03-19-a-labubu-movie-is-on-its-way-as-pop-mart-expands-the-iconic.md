@@ -18,4 +18,4 @@ This partnership is significant as it highlights Pop Mart's strategy to leverage
 
 For investors and market professionals, this collaboration could signal a pivotal shift in Pop Mart's growth trajectory. Explore the full details of this development to understand its implications for the collectible toy market.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/a-labubu-movie-is-on-its-way-as-pop-mart-expands-the-toy-franchise.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/a-labubu-movie-is-on-its-way-as-pop-mart-expands-the-toy-franchise.html)

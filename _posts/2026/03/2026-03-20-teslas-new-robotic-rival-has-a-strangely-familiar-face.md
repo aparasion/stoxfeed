@@ -18,4 +18,4 @@ Hyundai's stock surged following the announcement, reflecting investor enthusias
 
 For market professionals, this development signals a critical juncture in the automotive sector, where innovation and competition are rapidly evolving. I recommend diving into the full article for a deeper understanding of these emerging dynamics.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/tesla-new-robotic-rival-has-a-strangely-familiar/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/tesla-new-robotic-rival-has-a-strangely-familiar/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The declaration of a special dividend signals strong cash flow and a commitment 
 
 For a deeper dive into Hello Group's financials and what this dividend means for investors, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565678-hello-group-declares-028ads-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565678-hello-group-declares-028ads-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

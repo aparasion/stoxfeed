@@ -18,4 +18,4 @@ This economic stability is crucial for financial markets, particularly as Lane n
 
 For market professionals, the key takeaway is the ECB's vigilance regarding inflation dynamics and external risks, especially in light of the recent geopolitical developments. For a deeper dive into Lane's insights and their implications for the eurozone, I recommend exploring the full interview.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html)

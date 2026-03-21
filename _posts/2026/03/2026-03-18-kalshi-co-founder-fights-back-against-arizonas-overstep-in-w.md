@@ -18,4 +18,4 @@ The implications for financial markets are substantial, as Kalshi and similar pl
 
 Market professionals should closely monitor this situation, as its outcome may influence the regulatory landscape for prediction markets and potentially reshape the interaction between state and federal authorities. For a deeper dive into this developing story, I recommend reading the full article.
 
-[coindesk.com](https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war)
+Source: [coindesk.com](https://www.coindesk.com/policy/2026/03/18/kalshi-co-founder-fights-back-against-arizona-s-overstep-in-what-a-lawyer-calls-a-federal-state-turf-war)

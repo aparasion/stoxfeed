@@ -18,4 +18,4 @@ In related developments, the Port of Virginia has completed a $450 million dredg
 
 For market professionals, the implications of these developments are significant, particularly in assessing regional economic growth and investment opportunities. I recommend exploring the full article for a deeper understanding of how these initiatives might influence local markets and sectors.
 
-[virginiabusiness.com](https://virginiabusiness.com)
+Source: [virginiabusiness.com](https://virginiabusiness.com)

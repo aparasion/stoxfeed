@@ -18,4 +18,4 @@ The implications for the market are noteworthy. Solo Brands has streamlined its 
 
 For professionals monitoring retail and consumer goods, Solo Brands’ restructuring efforts and focus on product-led growth may signal potential investment opportunities in a recovering market. I recommend diving deeper into the full earnings call transcript for a comprehensive understanding of their strategy and financial outlook.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/solo-brands-sbds-q4-2025-earnings-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/solo-brands-sbds-q4-2025-earnings-transcript/?source=iedfolrf0000001)

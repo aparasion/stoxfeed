@@ -18,4 +18,4 @@ Lululemon's results will provide a barometer for the athleisure market, especial
 
 As these earnings unfold, they could set the tone for market sentiment and sector-specific movements. For a deeper dive into the earnings expectations and potential market implications, I recommend checking out the full article on Seeking Alpha.
 
-[seekingalpha.com](https://seekingalpha.com/news/4564779-here-are-the-major-earnings-after-the-close-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4564779-here-are-the-major-earnings-after-the-close-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

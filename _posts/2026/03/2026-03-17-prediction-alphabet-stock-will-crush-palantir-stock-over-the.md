@@ -18,4 +18,4 @@ In contrast, Alphabet's Q4 revenue rose 18% year-over-year to $113.8 billion, bo
 
 For investors weighing these two tech giants, Alphabet appears to offer a more balanced risk-reward profile, making it a compelling choice in the current market landscape. For a deeper dive into the comparative analysis, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/16/prediction-alphabet-stock-will-crush-palantir-stoc/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/16/prediction-alphabet-stock-will-crush-palantir-stoc/?source=iedfolrf0000001)

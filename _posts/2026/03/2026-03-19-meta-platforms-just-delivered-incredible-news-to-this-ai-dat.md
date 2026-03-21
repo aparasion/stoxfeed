@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. Nebius is expected t
 
 For investors, this development underscores the growing importance of AI infrastructure and the potential upside in data center stocks. While Nebius shows promise, caution is warranted due to speculative elements in the sector. For a deeper dive into the details of this significant partnership, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/meta-platforms-incredible-news-to-ai-company/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/meta-platforms-incredible-news-to-ai-company/?source=iedfolrf0000001)

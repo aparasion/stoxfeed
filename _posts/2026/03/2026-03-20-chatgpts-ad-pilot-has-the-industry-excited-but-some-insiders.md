@@ -18,4 +18,4 @@ The slow rollout highlights the challenges and potential of AI-driven advertisin
 
 For professionals in the financial markets, this development underscores the evolving landscape of digital advertising and the potential for substantial growth in AI-powered ad channels. Explore the full story for deeper insights into this emerging trend.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html)

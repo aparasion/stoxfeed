@@ -18,4 +18,4 @@ These developments underscore the challenges biopharma companies face in securin
 
 For market professionals, the FDA's heightened scrutiny signals a need for robust clinical data to navigate the regulatory landscape successfully. I recommend diving deeper into this article for a comprehensive overview of these critical developments and their implications for the biopharma market.
 
-[biospace.com](https://www.biospace.com)
+Source: [biospace.com](https://www.biospace.com)

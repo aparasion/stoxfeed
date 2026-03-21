@@ -18,4 +18,4 @@ In the realm of private credit, the industry is facing its first redemption cycl
 
 For professionals looking to refine their portfolios, these insights provide actionable strategies in both tech and traditional sectors. Dive deeper into these developments by exploring the full article for a comprehensive analysis.
 
-[morningstar.com](https://www.morningstar.com)
+Source: [morningstar.com](https://www.morningstar.com)

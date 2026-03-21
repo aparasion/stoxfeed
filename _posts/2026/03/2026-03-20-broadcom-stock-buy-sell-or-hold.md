@@ -18,4 +18,4 @@ The implications for investors are multifaceted. While Broadcom's current price-
 
 For market professionals, Broadcom's strategic integration with top tech clients and its robust growth trajectory present a compelling case for consideration. I recommend reading the full article for a deeper dive into Broadcom's prospects and valuation metrics.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/broadcom-stock-buy-sell-or-hold/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/broadcom-stock-buy-sell-or-hold/?source=iedfolrf0000001)

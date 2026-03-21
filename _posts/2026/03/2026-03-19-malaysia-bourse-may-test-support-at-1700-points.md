@@ -18,4 +18,4 @@ The broader implications for financial markets are significant, as the KLCI's do
 
 Market professionals should closely monitor these developments, especially the interplay between geopolitical events and commodity prices. For a deeper dive into the market dynamics and sector performances, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/malaysia-bourse-may-test-support-1700-points-0)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/malaysia-bourse-may-test-support-1700-points-0)

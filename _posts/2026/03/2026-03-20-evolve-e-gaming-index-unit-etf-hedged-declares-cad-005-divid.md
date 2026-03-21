@@ -18,4 +18,4 @@ This dividend announcement is significant for investors seeking income-generatin
 
 For those tracking dividend yields and growth opportunities in niche markets, HERO's latest dividend could be a noteworthy addition to your portfolio considerations. I recommend checking out the full article for deeper insights into HERO's dividend scorecard and its implications for the e-gaming sector.
 
-[seekingalpha.com](https://seekingalpha.com/news/4567093-evolve-e-gaming-index-unit-etf-hedged-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4567093-evolve-e-gaming-index-unit-etf-hedged-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

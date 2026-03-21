@@ -18,4 +18,4 @@ These developments are crucial for Peloton as it seeks to rebound from a stagger
 
 For a deeper dive into Peloton's strategy and the implications for its stock performance, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/why-peloton-stock-skyrocketed-tuesday-morning/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/why-peloton-stock-skyrocketed-tuesday-morning/?source=iedfolrf0000001)

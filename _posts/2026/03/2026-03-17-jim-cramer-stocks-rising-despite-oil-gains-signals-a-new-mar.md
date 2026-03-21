@@ -18,4 +18,4 @@ This change in sentiment is particularly noteworthy as fears surrounding geopoli
 
 The key takeaway is that market participants are increasingly willing to overlook rising oil prices in favor of positive company-specific news, signaling a potential shift in investment strategies. For a deeper dive into Cramer's insights, check out the full article on CNBC.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/jim-cramer-stocks-rising-despite-oil-gains-signals-a-new-market-message.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/jim-cramer-stocks-rising-despite-oil-gains-signals-a-new-market-message.html)

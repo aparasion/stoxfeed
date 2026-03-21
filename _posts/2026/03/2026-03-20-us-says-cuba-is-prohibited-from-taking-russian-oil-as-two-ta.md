@@ -18,4 +18,4 @@ This blockade is significant for financial markets as it underscores the complex
 
 Market professionals should monitor the situation closely, as the U.S. has threatened tariffs on countries supplying oil to Cuba, which could influence broader energy market dynamics. For a deeper dive into the implications of this development, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html)

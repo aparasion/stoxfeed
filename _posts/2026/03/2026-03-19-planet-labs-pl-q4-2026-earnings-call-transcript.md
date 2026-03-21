@@ -18,4 +18,4 @@ This financial performance is significant for market professionals, as it unders
 
 For investors, the key takeaway is Planet Labs’ strong momentum in securing high-value contracts and its commitment to innovation in AI technology, indicating a robust outlook for fiscal 2027. I recommend exploring the full details of their earnings call for deeper insights into their strategic direction and market positioning.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/planet-labs-pl-q4-2026-earnings-call-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/planet-labs-pl-q4-2026-earnings-call-transcript/?source=iedfolrf0000001)

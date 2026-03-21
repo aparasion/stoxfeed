@@ -18,4 +18,4 @@ This development is significant for Skanska, as it not only bolsters its project
 
 Investors should keep an eye on Skanska’s execution of this project, as successful completion may enhance its reputation and lead to further opportunities in the education sector. For a deeper dive into the implications of this contract, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/skanska-bags-165-mln-contract-us)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/skanska-bags-165-mln-contract-us)

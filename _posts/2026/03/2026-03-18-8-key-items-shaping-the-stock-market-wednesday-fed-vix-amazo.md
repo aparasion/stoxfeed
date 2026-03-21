@@ -18,4 +18,4 @@ The VIX, often referred to as the market's fear gauge, is reflecting heightened 
 
 For market professionals, the interplay of these elements underscores the importance of staying informed on macroeconomic indicators and sector-specific developments. For a deeper dive into how these factors are shaping today's trading landscape, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEFxMXJucHdOdUxTWlVYcUczdHZ0NXR2bVJDMW4xa0xtM2MyZjQ1bDdLZGZIeERDWGFxLTZxcFVGazlBMk5WUVVvTVphQmo5UGhKSDV3M1F0ME9RUzVhZFF0TTNSOU5paEh5d2hGd3hJNnlkTWZ1SlFmY3otYnVaMnBhcWZlTzh0bG5HWDR2dEdhZklxdkFSUlUxZlh2UThaNmlqM1Myb3g?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEFxMXJucHdOdUxTWlVYcUczdHZ0NXR2bVJDMW4xa0xtM2MyZjQ1bDdLZGZIeERDWGFxLTZxcFVGazlBMk5WUVVvTVphQmo5UGhKSDV3M1F0ME9RUzVhZFF0TTNSOU5paEh5d2hGd3hJNnlkTWZ1SlFmY3otYnVaMnBhcWZlTzh0bG5HWDR2dEdhZklxdkFSUlUxZlh2UThaNmlqM1Myb3g?oc=5)

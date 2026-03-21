@@ -18,4 +18,4 @@ Cramer highlighted that the Dow and Nasdaq have entered correction territory, wh
 
 Investors should remain vigilant, as Cramer suggests that this challenging environment may present selective buying opportunities in quality stocks across various sectors. For a deeper dive into Cramer's analysis and upcoming earnings, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/jim-cramer-says-to-prepare-for-further-stock-declines-but-be-open-to-opportunities.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/jim-cramer-says-to-prepare-for-further-stock-declines-but-be-open-to-opportunities.html)

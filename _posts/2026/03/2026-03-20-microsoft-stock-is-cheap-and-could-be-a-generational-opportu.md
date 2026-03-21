@@ -18,4 +18,4 @@ The stock's recent performance raises questions about its future, especially as 
 
 For professionals considering their next move, this situation underscores the need for careful analysis of both Microsoft and the broader AI landscape. I recommend diving deeper into the full article for a comprehensive understanding of these dynamics.
 
-[nasdaq.com](https://www.nasdaq.com/articles/microsoft-stock-cheap-and-could-be-generational-opportunity)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/microsoft-stock-cheap-and-could-be-generational-opportunity)

@@ -18,4 +18,4 @@ The implications for financial markets are significant. As DeFi continues to mat
 
 For those interested in the evolving landscape of DeFi and Uniswap's role within it, I highly recommend reading the full article for a deeper dive into the factors shaping UNI's future.
 
-[benzinga.com](https://www.benzinga.com/money/uniswap-uni-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/uniswap-uni-price-prediction)

@@ -18,4 +18,4 @@ The anticipated earnings announcement is crucial for DVLT, as it could provide i
 
 Investors should keep an eye on the earnings results, as they may impact not only DVLT's stock trajectory but also broader market trends in AI-driven technology. For a deeper dive into the factors influencing this stock move and what to expect from the earnings report, I recommend checking out the full article on CoinCentral.
 
-[news.google.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcE5fVjRIUGxZZE8zbUdaaDhwb2xoY3ZCVF9uTEMtR05PVjBwNkpFMDIwZjlyN2ZvWEVlQWc3UVJFcEZ2dHJqMEFhblYtWDR6NTEwUlFQdUt4dVhBTVgzRmZsaDZnLVBodm1JNi1WNTJDZWhKOW16d1hpR1FpUTFpZmpIYW42LU1PUURsZVl0V3B5RVc4R0E?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcE5fVjRIUGxZZE8zbUdaaDhwb2xoY3ZCVF9uTEMtR05PVjBwNkpFMDIwZjlyN2ZvWEVlQWc3UVJFcEZ2dHJqMEFhblYtWDR6NTEwUlFQdUt4dVhBTVgzRmZsaDZnLVBodm1JNi1WNTJDZWhKOW16d1hpR1FpUTFpZmpIYW42LU1PUURsZVl0V3B5RVc4R0E?oc=5)

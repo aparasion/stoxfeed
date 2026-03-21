@@ -18,4 +18,4 @@ This turmoil raises serious questions about The Trade Desk's operational integri
 
 For professionals tracking the adtech sector, the situation at The Trade Desk serves as a cautionary tale about the importance of transparency and customer trust. I recommend reading the full article for a deeper understanding of the challenges facing this once-promising player in digital advertising.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/the-trade-desk-is-suddenly-bleeding-customers-is-i/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/the-trade-desk-is-suddenly-bleeding-customers-is-i/?source=iedfolrf0000001)

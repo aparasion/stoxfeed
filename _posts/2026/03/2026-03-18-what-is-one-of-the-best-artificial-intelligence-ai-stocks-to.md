@@ -18,4 +18,4 @@ Nvidia's strategic investments, including a $20 billion licensing deal with AI c
 
 For professionals tracking AI investments, Nvidia's integrated ecosystem and robust growth metrics suggest promising stock performance ahead. I recommend diving into the full article for a deeper understanding of Nvidia's strategic advancements and market implications.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/what-is-one-of-the-best-artificial-intelligence-ai/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/what-is-one-of-the-best-artificial-intelligence-ai/?source=iedfolrf0000001)

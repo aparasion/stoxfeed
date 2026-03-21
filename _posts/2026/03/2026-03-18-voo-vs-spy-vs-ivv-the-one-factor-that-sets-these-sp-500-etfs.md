@@ -18,4 +18,4 @@ Both VOO and IVV boast low expense ratios of 0.03%, while SPY's ratio stands at 
 
 In summary, while all three ETFs offer similar performance, VOO and IVV provide a slight edge in cost efficiency for retail investors. For a deeper dive into these nuances, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/voo-spy-ivv-one-factor-sets-sp-500-etfs-apart/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/voo-spy-ivv-one-factor-sets-sp-500-etfs-apart/?source=iedfolrf0000001)

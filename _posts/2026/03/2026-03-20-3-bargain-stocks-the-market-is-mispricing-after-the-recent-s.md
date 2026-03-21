@@ -18,4 +18,4 @@ Meta Platforms (META) is another attractive option, trading at less than 21 time
 
 Lastly, Salesforce (CRM) is trading at a forward P/S of 4 and a P/E of 15, with a projected revenue growth of over 10% annually through 2030. Its focus on data management and agentic AI positions it well for future success. For a deeper dive into these opportunities, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/3-bargain-stocks-the-market-is-mispricing-after-th/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/3-bargain-stocks-the-market-is-mispricing-after-th/?source=iedfolrf0000001)

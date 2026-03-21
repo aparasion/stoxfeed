@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly for fir
 
 As the discourse around AI's impact continues, market professionals should consider how these dynamics affect investment strategies and sector valuations. For a deeper dive into this topic, I recommend exploring the full article for insights that could inform your next investment decision.
 
-[fortune.com](https://fortune.com)
+Source: [fortune.com](https://fortune.com)

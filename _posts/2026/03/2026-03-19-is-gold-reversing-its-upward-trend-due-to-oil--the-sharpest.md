@@ -18,4 +18,4 @@ The current downturn in gold reflects a broader market repositioning as investor
 
 For market professionals, the key takeaway is that gold’s trajectory may remain bearish as long as the dollar retains its strength and the Fed's hawkish stance persists. A deeper dive into the dynamics at play can be found in the full article, which I highly recommend for a comprehensive understanding.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/is-gold-reversing-its-upward-trend-due-to-oil-the-sharpest-declines-since-2024)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/is-gold-reversing-its-upward-trend-due-to-oil-the-sharpest-declines-since-2024)

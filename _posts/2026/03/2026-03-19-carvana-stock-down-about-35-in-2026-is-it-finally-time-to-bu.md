@@ -16,4 +16,4 @@ Carvana (CVNA) has faced a challenging start to 2026, with shares down approxima
 
 Despite these positive indicators, Carvana's profitability metrics showed some weakness, with adjusted EBITDA margins narrowing to 9.1%. Furthermore, the stock's price-to-earnings ratio remains high at 33, suggesting that investors are pricing in continued rapid growth with minimal margin erosion. For those considering an investment, starting a small position may be prudent, given the potential volatility and risks associated with the used-car market. For a deeper dive into Carvana's financials and market implications, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/carvana-stock-down-about-35-in-2026-is-it-finally/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/carvana-stock-down-about-35-in-2026-is-it-finally/?source=iedfolrf0000001)
