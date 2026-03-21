@@ -52,13 +52,40 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
     debounceTimer = setTimeout(function () { doSearch(input.value); }, 200);
   });
 
-  function scoreItem(item, terms, fields) {
-    var total = 0;
-    for (var t = 0; t < terms.length; t++) {
-      var term = terms[t];
+  function parseQuery(q) {
+    var exact = [];
+    var loose = [];
+    var re = /"([^"]+)"/g;
+    var match;
+    while ((match = re.exec(q)) !== null) {
+      var phrase = match[1].trim().toLowerCase();
+      if (phrase.length > 0) exact.push(phrase);
+    }
+    var remainder = q.replace(/"[^"]*"/g, '').trim().toLowerCase();
+    if (remainder) loose = remainder.split(/\s+/).filter(function (t) { return t.length > 0; });
+    return { exact: exact, loose: loose };
+  }
+
+  function scoreItem(item, parsed, fields) {
+    // Exact phrases must ALL match in at least one field — if any misses, score is 0
+    for (var e = 0; e < parsed.exact.length; e++) {
+      var found = false;
       for (var f = 0; f < fields.length; f++) {
-        var val = fields[f].val;
-        if (val && val.indexOf(term) !== -1) total += fields[f].weight;
+        if (fields[f].val && fields[f].val.indexOf(parsed.exact[e]) !== -1) { found = true; break; }
+      }
+      if (!found) return 0;
+    }
+    var total = 0;
+    // Score exact phrases
+    for (var e2 = 0; e2 < parsed.exact.length; e2++) {
+      for (var f2 = 0; f2 < fields.length; f2++) {
+        if (fields[f2].val && fields[f2].val.indexOf(parsed.exact[e2]) !== -1) total += fields[f2].weight * 2;
+      }
+    }
+    // Score loose terms
+    for (var t = 0; t < parsed.loose.length; t++) {
+      for (var f3 = 0; f3 < fields.length; f3++) {
+        if (fields[f3].val && fields[f3].val.indexOf(parsed.loose[t]) !== -1) total += fields[f3].weight;
       }
     }
     return total;
@@ -66,7 +93,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
 
   function doSearch(query) {
     if (!data) return;
-    var q = query.trim().toLowerCase();
+    var q = query.trim();
 
     if (q.length < 2) {
       resultsEl.innerHTML = '';
@@ -75,13 +102,21 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
       return;
     }
 
-    var terms = q.split(/\s+/);
+    var parsed = parseQuery(q);
+    if (parsed.exact.length === 0 && parsed.loose.length === 0) {
+      resultsEl.innerHTML = '';
+      status.textContent = 'Enter a search term.';
+      return;
+    }
+    // Build combined terms list for highlighting
+    var terms = parsed.loose.slice();
+    for (var i = 0; i < parsed.exact.length; i++) terms.push(parsed.exact[i]);
 
     // Score signals
     var signals = [];
     for (var s = 0; s < data.signals.length; s++) {
       var sig = data.signals[s];
-      var sc = scoreItem(sig, terms, [
+      var sc = scoreItem(sig, parsed, [
         { val: (sig.title || '').toLowerCase(), weight: 10 },
         { val: (sig.description || '').toLowerCase(), weight: 5 },
         { val: (sig.category || '').toLowerCase(), weight: 2 }
@@ -94,7 +129,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
     var articles = [];
     for (var a = 0; a < data.articles.length; a++) {
       var art = data.articles[a];
-      var sa = scoreItem(art, terms, [
+      var sa = scoreItem(art, parsed, [
         { val: (art.title || '').toLowerCase(), weight: 10 },
         { val: (art.subtitle || '').toLowerCase(), weight: 5 }
       ]);
@@ -106,7 +141,7 @@ description: Search all StoxFeed articles, daily briefs, and market intelligence
     var posts = [];
     for (var p = 0; p < data.posts.length; p++) {
       var post = data.posts[p];
-      var sp = scoreItem(post, terms, [
+      var sp = scoreItem(post, parsed, [
         { val: (post.title || '').toLowerCase(), weight: 10 },
         { val: (post.excerpt || '').toLowerCase(), weight: 3 },
         { val: (post.publisher || '').toLowerCase(), weight: 2 },
