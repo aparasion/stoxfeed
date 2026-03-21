@@ -531,10 +531,55 @@ hr {
   min-width: 0;
 }
 
-.search-loading, .search-error {
+.search-box { margin-bottom: var(--space-4); }
+.search-input {
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  font-size: 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+  outline: none;
+  transition: border-color 0.2s;
+}
+.search-input:focus { border-color: var(--accent); }
+.search-status {
   color: var(--muted);
-  font-size: 0.9rem;
-  padding: var(--space-4) 0;
+  font-size: 0.85rem;
+  margin-bottom: var(--space-4);
+}
+.search-result {
+  display: block;
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--border);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s;
+}
+.search-result:hover { background: var(--card-bg); }
+.search-result-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: var(--fg);
+}
+.search-result-meta {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0 0 4px;
+}
+.search-result-excerpt {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.5;
+}
+.search-result mark {
+  background: rgba(0, 200, 83, 0.2);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 2px;
 }
 
 /* ── Timeline Feed ─────────────────────────────────────── */
