@@ -191,18 +191,28 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // ── Nav search toggle ──────────────────────────────────
   var navSearchBtn = document.getElementById("nav-search-btn");
-  var navSearchForm = document.getElementById("nav-search-form");
-  if (navSearchBtn && navSearchForm) {
-    navSearchBtn.addEventListener("click", function () {
-      var isOpen = navSearchForm.classList.toggle("is-open");
-      if (isOpen) navSearchForm.querySelector("input").focus();
+  if (navSearchBtn) {
+    var searchIcon = navSearchBtn.querySelector(".nav-search-icon");
+    var searchInput = navSearchBtn.querySelector(".nav-search-input");
+    searchIcon.addEventListener("click", function (e) {
+      e.preventDefault();
+      var isOpen = navSearchBtn.classList.toggle("is-open");
+      if (isOpen) {
+        searchInput.focus();
+      } else {
+        searchInput.value = "";
+      }
     });
     document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape") navSearchForm.classList.remove("is-open");
+      if (e.key === "Escape") {
+        navSearchBtn.classList.remove("is-open");
+        searchInput.value = "";
+      }
     });
     document.addEventListener("click", function (e) {
-      if (!navSearchBtn.contains(e.target) && !navSearchForm.contains(e.target)) {
-        navSearchForm.classList.remove("is-open");
+      if (!navSearchBtn.contains(e.target)) {
+        navSearchBtn.classList.remove("is-open");
+        searchInput.value = "";
       }
     });
   }

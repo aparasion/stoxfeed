@@ -2,8 +2,7 @@
 layout: default
 title: Search
 permalink: /search/
-nav: true
-nav_order: 2
+nav: false
 description: Search all StoxFeed articles, daily briefs, and market intelligence.
 ---
 

@@ -18,10 +18,10 @@
       {% endunless %}
     {% endfor %}
   </ul>
-  <button class="nav-search-btn" id="nav-search-btn" aria-label="Search" title="Search">
-    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-  </button>
-  <form class="nav-search-form" id="nav-search-form" action="/search/" method="get">
+  <form class="nav-search-btn" id="nav-search-btn" action="/search/" method="get">
+    <button type="button" class="nav-search-icon" aria-label="Search" title="Search">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
     <input type="text" name="q" class="nav-search-input" placeholder="Search…" autocomplete="off">
   </form>
   <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light gray mode" title="Toggle light gray mode">

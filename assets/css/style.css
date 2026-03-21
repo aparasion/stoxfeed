@@ -326,38 +326,45 @@ hr {
 .nav-search-btn {
   display: flex;
   align-items: center;
-  justify-content: center;
-  width: 36px;
   height: 36px;
+  width: 36px;
   border: 1px solid var(--border);
   background: var(--surface);
-  cursor: pointer;
   border-radius: var(--radius-sm);
   color: var(--muted);
-  transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+  overflow: hidden;
+  transition: width 0.25s ease, border-color 0.2s ease;
   flex-shrink: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .nav-search-btn:hover {
-  background: var(--accent-soft);
-  color: var(--accent);
   border-color: var(--accent);
 }
 
-.nav-search-form {
-  display: none;
-  align-items: center;
-  gap: 0;
-  overflow: hidden;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  background: var(--surface);
-  transition: width 0.2s ease, opacity 0.2s ease;
+.nav-search-btn.is-open {
+  width: 200px;
 }
 
-.nav-search-form.is-open {
+.nav-search-icon {
   display: flex;
-  animation: fadeInDown 0.15s ease;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  width: 36px;
+  height: 100%;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: var(--muted);
+  flex-shrink: 0;
+  transition: color 0.2s ease, background 0.2s ease;
+}
+
+.nav-search-icon:hover {
+  color: var(--accent);
+  background: var(--accent-soft);
 }
 
 .nav-search-input {
@@ -365,10 +372,19 @@ hr {
   background: transparent;
   color: var(--text);
   font-size: 0.875rem;
-  padding: 6px 10px;
-  width: 180px;
+  padding: 0 8px 0 0;
+  width: 0;
+  min-width: 0;
+  height: 100%;
   outline: none;
   font-family: inherit;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.nav-search-btn.is-open .nav-search-input {
+  width: 100%;
+  opacity: 1;
 }
 
 .nav-search-input::placeholder {
@@ -377,26 +393,6 @@ hr {
 
 .nav-search-input::-webkit-search-cancel-button {
   display: none;
-}
-
-.nav-search-submit {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  border: none;
-  background: transparent;
-  color: var(--muted);
-  cursor: pointer;
-  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
-  transition: color 0.2s ease, background 0.2s ease;
-  flex-shrink: 0;
-}
-
-.nav-search-submit:hover {
-  color: var(--accent);
-  background: var(--accent-soft);
 }
 
 /* ── Hero Slim ─────────────────────────────────────────── */
@@ -2138,8 +2134,8 @@ a.internal-link:hover {
     border-radius: var(--radius-sm);
   }
 
-  .nav-search-input {
-    width: 140px;
+  .nav-search-btn.is-open {
+    width: 170px;
   }
 
   h1 { font-size: 1.8rem; }
