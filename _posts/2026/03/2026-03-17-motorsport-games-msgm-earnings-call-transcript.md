@@ -18,4 +18,4 @@ This financial rebound highlights the growing popularity of Le Mans Ultimate, wh
 
 As Motorsport Games prepares to launch Le Mans Ultimate on consoles and continues to innovate its gaming experience, the company is well-positioned for sustained growth. For a deeper dive into these developments and their implications for the gaming sector, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/motorsport-games-msgm-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/motorsport-games-msgm-earnings-call-transcript/?source=iedfolrf0000001)

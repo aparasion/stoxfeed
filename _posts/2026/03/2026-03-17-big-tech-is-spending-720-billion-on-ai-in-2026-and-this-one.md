@@ -18,4 +18,4 @@ Among the beneficiaries of this spending surge, Taiwan Semiconductor Manufacturi
 
 For investors, TSMC's role as a key supplier in the AI chip ecosystem makes it a compelling buy-and-hold opportunity. To delve deeper into TSMC's market position and growth prospects, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/big-tech-is-spending-720-billion-on-ai-in-2026-and/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/big-tech-is-spending-720-billion-on-ai-in-2026-and/?source=iedfolrf0000001)

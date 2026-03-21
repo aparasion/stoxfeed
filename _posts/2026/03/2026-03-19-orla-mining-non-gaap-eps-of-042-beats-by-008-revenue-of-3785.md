@@ -18,4 +18,4 @@ This robust earnings report is significant for the mining sector, particularly a
 
 For market professionals, Orla's strong results may indicate a favorable outlook for similar companies in the sector. The stock's recent surge to an all-time high further emphasizes this momentum. I recommend diving into the full article for a deeper analysis of Orla Mining's performance and its implications for the broader market.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566812-orla-mining-non-gaap-eps-of-0_42-beats-by-0_08-revenue-of-378_5m-beats-by-90_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566812-orla-mining-non-gaap-eps-of-0_42-beats-by-0_08-revenue-of-378_5m-beats-by-90_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

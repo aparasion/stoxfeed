@@ -18,4 +18,4 @@ The reverse split comes as CIIT's stock has been struggling, evidenced by a prem
 
 For investors and market analysts, this development underscores the challenges facing CIIT and highlights the importance of maintaining compliance with exchange listing standards. For a deeper understanding of Tianci International's situation and its implications for shareholders, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565222-tianci-international-announces-1-for-7-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565222-tianci-international-announces-1-for-7-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ This shift is critical for financial markets, as it suggests that inflationary p
 
 For market professionals, the key takeaway is the importance of monitoring energy price movements and their implications for consumer behavior and economic growth. I recommend diving deeper into this analysis to fully understand the evolving landscape—check out the full article for more insights.
 
-[Source: oilprice.com](https://oilprice.com/Energy/Energy-General/Why-This-Energy-Shock-Will-Hit-Consumers-Harder-Than-2011.html)
+[oilprice.com](https://oilprice.com/Energy/Energy-General/Why-This-Energy-Shock-Will-Hit-Consumers-Harder-Than-2011.html)

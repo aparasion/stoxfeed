@@ -18,4 +18,4 @@ The recent stock performance highlights the importance of valuation metrics and 
 
 Investors should focus on the key question of whether Adobe can stabilize its operations and regain market trust. For a deeper dive into the current situation and strategic insights on Adobe's stock, I highly recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/is-it-time-to-buy-adobe/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/is-it-time-to-buy-adobe/?source=iedfolrf0000001)

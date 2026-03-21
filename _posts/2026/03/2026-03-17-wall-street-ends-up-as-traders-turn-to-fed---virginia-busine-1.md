@@ -18,4 +18,4 @@ In the broader financial landscape, the Port of Virginia has completed a $450 mi
 
 For investors and market strategists, the interplay between educational investments and infrastructure improvements highlights potential growth areas in Virginia. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[Source: virginiabusiness.com](https://virginiabusiness.com)
+[virginiabusiness.com](https://virginiabusiness.com)

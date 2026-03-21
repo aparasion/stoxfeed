@@ -18,4 +18,4 @@ This decision comes amid rising oil prices and a string of firm inflation readin
 
 Market professionals should note that the Fed's outlook could influence borrowing costs and investment strategies, particularly as geopolitical events unfold. For a deeper dive into the Fed's latest meeting and its implications for the markets, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html)

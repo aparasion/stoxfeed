@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, as rising yields typ
 
 For a deeper dive into how these developments may shape market dynamics in the coming weeks, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/ten-year-yield-skyrockets-nearly-eight-month-closing-high)
+[nasdaq.com](https://www.nasdaq.com/articles/ten-year-yield-skyrockets-nearly-eight-month-closing-high)

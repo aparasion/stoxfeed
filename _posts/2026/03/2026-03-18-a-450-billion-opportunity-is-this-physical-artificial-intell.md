@@ -18,4 +18,4 @@ The company reported a record $2.65 million in revenue for 2025, a 46% increase 
 
 For investors, Serve Robotics represents a long-term play rather than a quick win. While short-term gains may be elusive, the potential for substantial growth in the robotic delivery market makes it worth monitoring. For a deeper dive into Serve's strategy and market outlook, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/a-450-billion-opportunity-is-this-ai-stock-buy-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/a-450-billion-opportunity-is-this-ai-stock-buy-now/?source=iedfolrf0000001)

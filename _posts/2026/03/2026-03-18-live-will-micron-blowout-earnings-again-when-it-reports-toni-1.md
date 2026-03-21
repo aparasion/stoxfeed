@@ -18,4 +18,4 @@ This uptick in stock performance is significant for investors, particularly in t
 
 For those tracking sector movements and potential investment opportunities, these developments warrant attention. Dive deeper into the specifics of these gains and their implications by exploring the full article.
 
-[Source: 247wallst.com](https://247wallst.com)
+[247wallst.com](https://247wallst.com)

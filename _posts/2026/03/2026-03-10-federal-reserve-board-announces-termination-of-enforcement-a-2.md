@@ -18,4 +18,4 @@ This development is crucial for the financial markets as it may enhance the oper
 
 As these institutions regain their footing, market professionals should monitor their subsequent performance closely. For a deeper dive into the implications of this regulatory change, I recommend exploring the full article.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm)

@@ -18,4 +18,4 @@ This strategic move is crucial for BDRX as it seeks to enhance the marketability
 
 Market professionals should consider the implications of this ratio change on BDRX's stock performance and investor sentiment. For a deeper dive into the specifics and potential impacts, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566137-biodexa-pharmaceuticals-announces-adr-ratio-change?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566137-biodexa-pharmaceuticals-announces-adr-ratio-change?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

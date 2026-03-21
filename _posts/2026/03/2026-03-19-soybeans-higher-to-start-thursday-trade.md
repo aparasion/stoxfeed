@@ -18,4 +18,4 @@ The implications for the soybean market are significant, particularly with the U
 
 For professionals in the market, keeping an eye on these developments could provide insights into future price movements and trading strategies. I recommend checking out the full article for a deeper dive into the latest trends and statistics.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soybeans-higher-start-thursday-trade)
+[nasdaq.com](https://www.nasdaq.com/articles/soybeans-higher-start-thursday-trade)

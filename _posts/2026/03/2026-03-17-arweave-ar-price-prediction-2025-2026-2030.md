@@ -18,4 +18,4 @@ The implications for the financial markets are significant. If Arweave successfu
 
 Investors should keep a close eye on Arweave's adoption and scalability as the Web3 landscape evolves. For a deeper dive into Arweave's potential and challenges, I recommend exploring the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/arweave-ar-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/arweave-ar-price-prediction)

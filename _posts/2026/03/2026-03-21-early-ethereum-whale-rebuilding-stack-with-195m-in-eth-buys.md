@@ -18,4 +18,4 @@ Market analysts are closely monitoring these developments, particularly comments
 
 For professionals in the financial markets, these insights underscore the potential for strategic positioning in Ethereum as it navigates this challenging phase. I encourage you to delve deeper into the full article for a comprehensive overview of these market dynamics.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/ethereum-whale-thomasg-eth-buys-19-5m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/ethereum-whale-thomasg-eth-buys-19-5m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

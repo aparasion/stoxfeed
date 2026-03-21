@@ -18,4 +18,4 @@ This momentum is significant for market participants, as TON's robust performanc
 
 For those looking to navigate the evolving landscape of cryptocurrencies, Toncoin presents an intriguing investment opportunity. I recommend diving deeper into the full article for a comprehensive analysis of TON's price predictions and market dynamics.
 
-[Source: benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)

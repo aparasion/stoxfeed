@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. EnergyX's advancemen
 
 Investors looking to capitalize on the lithium boom should consider EnergyX’s potential for significant returns, especially as they scale toward commercial production. For a deeper dive into EnergyX’s plans and market positioning, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/energyx-extraction-pm-gg)
+[benzinga.com](https://www.benzinga.com/money/energyx-extraction-pm-gg)

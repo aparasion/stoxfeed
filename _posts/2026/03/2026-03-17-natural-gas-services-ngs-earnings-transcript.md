@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as Natural Gas Servi
 
 For market professionals, the key takeaway is the company’s strategic emphasis on fleet expansion and operational efficiency, which is likely to enhance margins and shareholder returns in 2026. I recommend reading the full article for a deeper dive into Natural Gas Services Group’s performance and future outlook.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/natural-gas-services-ngs-earnings-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/natural-gas-services-ngs-earnings-transcript/?source=iedfolrf0000001)

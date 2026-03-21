@@ -18,4 +18,4 @@ Wall Street strategists warn that sustained high oil prices could trigger a sign
 
 Given these developments, professionals should consider fortifying their portfolios with high-conviction stocks and building cash reserves to seize potential buying opportunities. For a deeper dive into these market dynamics, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/stock-market-alarm-recession-warning-happen-next/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/stock-market-alarm-recession-warning-happen-next/?source=iedfolrf0000001)

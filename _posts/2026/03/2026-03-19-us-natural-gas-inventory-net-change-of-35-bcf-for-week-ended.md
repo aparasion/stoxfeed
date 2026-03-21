@@ -18,4 +18,4 @@ The market had anticipated a slightly higher injection of 39 Bcf, which may expl
 
 For professionals in the energy sector, this inventory report underscores the importance of closely monitoring supply trends and their implications for pricing. For a deeper dive into the data and its market ramifications, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566203-us-natural-gas-inventory-net-change-of-35-bcf-for-week-ended-march-13-eia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566203-us-natural-gas-inventory-net-change-of-35-bcf-for-week-ended-march-13-eia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

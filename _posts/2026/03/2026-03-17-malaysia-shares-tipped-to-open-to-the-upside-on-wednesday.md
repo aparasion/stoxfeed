@@ -18,4 +18,4 @@ This uptick comes amid positive global sentiment, with Asian markets expected to
 
 For market professionals, the key takeaway is the potential for continued upward momentum in the KLCI, especially if global markets maintain their positive trajectory. For a deeper dive into the factors influencing these movements, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/malaysia-shares-tipped-open-upside-wednesday)
+[nasdaq.com](https://www.nasdaq.com/articles/malaysia-shares-tipped-open-upside-wednesday)

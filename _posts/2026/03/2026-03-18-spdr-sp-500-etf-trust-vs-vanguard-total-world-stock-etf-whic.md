@@ -18,4 +18,4 @@ This shift in focus is underscored by insights from Vanguard's Chief Economist, 
 
 For investors looking to capitalize on this evolving landscape, VT presents a compelling alternative to traditional U.S.-focused funds. For a deeper dive into these insights and strategies, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/spdr-sp-500-etf-trust-vs-vanguard-total-world/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/spdr-sp-500-etf-trust-vs-vanguard-total-world/?source=iedfolrf0000001)

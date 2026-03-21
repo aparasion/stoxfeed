@@ -18,4 +18,4 @@ The implications for the financial markets are notable. Novo Nordisk's ability t
 
 For investors, this presents a compelling opportunity. Given its strong fundamentals and upcoming product launches, Novo Nordisk warrants a closer look. I encourage you to explore the full article for a deeper analysis of its market potential.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/1-reason-im-never-selling-novo-nordisk-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/1-reason-im-never-selling-novo-nordisk-stock/?source=iedfolrf0000001)

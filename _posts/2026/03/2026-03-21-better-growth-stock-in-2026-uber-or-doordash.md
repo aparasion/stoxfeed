@@ -18,4 +18,4 @@ In contrast, DoorDash has solidified its dominance in the U.S. food delivery mar
 
 For market professionals, the key takeaway is that Uber’s aggressive push into autonomous technology presents a compelling growth opportunity, particularly given its favorable valuation compared to DoorDash. For a deeper dive into this analysis, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/better-growth-stock-in-2026-uber-or-doordash/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/better-growth-stock-in-2026-uber-or-doordash/?source=iedfolrf0000001)

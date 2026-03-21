@@ -18,4 +18,4 @@ The ongoing geopolitical tensions in Ukraine and Iran are reshaping the global n
 
 For professionals seeking resilient investment opportunities amid market volatility, exploring top-rated consumer staples may offer a blend of stability and income. I recommend diving into the full article for a deeper analysis of these developments.
 
-[Source: barchart.com](https://www.barchart.com)
+[barchart.com](https://www.barchart.com)

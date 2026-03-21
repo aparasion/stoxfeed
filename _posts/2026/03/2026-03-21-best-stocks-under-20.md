@@ -18,4 +18,4 @@ This segment of the market encompasses a diverse array of sectors, including pre
 
 For professionals looking to optimize their portfolios, stocks under $20 can be a valuable addition. I recommend checking out the full article on Benzinga for a deeper dive into the best options available and strategies for navigating this segment effectively.
 
-[Source: benzinga.com](https://www.benzinga.com/money/stocks-under-20)
+[benzinga.com](https://www.benzinga.com/money/stocks-under-20)

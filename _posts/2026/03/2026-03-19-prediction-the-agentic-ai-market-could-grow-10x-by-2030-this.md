@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. Nvidia's established
 
 Investors looking for stability in the AI sector may find Nvidia an attractive option, given its proven track record and market position. For a deeper dive into Nvidia's strategy and the evolving AI landscape, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/prediction-the-agentic-ai-market-could-grow-10x-by/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/prediction-the-agentic-ai-market-could-grow-10x-by/?source=iedfolrf0000001)

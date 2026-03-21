@@ -18,4 +18,4 @@ The implications for financial markets are significant. A steady interest rate c
 
 Market professionals should closely monitor how these geopolitical developments influence inflation trends and consumer spending. For a deeper dive into the Fed's strategy and the broader economic implications, I recommend reading the full article.
 
-[Source: marketplace.org](https://www.marketplace.org)
+[marketplace.org](https://www.marketplace.org)

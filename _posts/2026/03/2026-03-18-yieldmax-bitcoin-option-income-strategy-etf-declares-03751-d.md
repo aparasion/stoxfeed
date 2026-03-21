@@ -18,4 +18,4 @@ This dividend declaration is significant as it underscores the growing interest 
 
 Investors should consider how YBIT's dividend strategy aligns with their income goals and risk tolerance in the evolving crypto landscape. For a deeper dive into the implications of this announcement, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565933-yieldmax-bitcoin-option-income-strategy-etf-declares-0_3751-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565933-yieldmax-bitcoin-option-income-strategy-etf-declares-0_3751-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

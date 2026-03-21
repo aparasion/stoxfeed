@@ -18,4 +18,4 @@ This development is critical for financial markets, particularly for oil prices,
 
 Market professionals should closely monitor how these dynamics unfold, as they could reshape energy strategies and investment decisions. For a deeper analysis, I recommend exploring the full article for comprehensive insights.
 
-[Source: theguardian.com](https://www.theguardian.com)
+[theguardian.com](https://www.theguardian.com)

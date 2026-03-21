@@ -18,4 +18,4 @@ The geopolitical tensions surrounding the Strait, a vital passage for 20% of the
 
 Market participants should closely monitor developments in the Strait of Hormuz, as any further escalation could significantly impact oil prices and supply stability. For a deeper dive into the implications of these geopolitical tensions on the oil market, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html)
+[cnbc.com](https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html)

@@ -18,4 +18,4 @@ The implications for the financial markets are significant. If passed, the SAVE 
 
 Market professionals should closely monitor the progress of the SAVE America Act, as its passage could lead to substantial shifts in voter engagement and political dynamics, impacting broader economic policies. For a deeper dive into the bill's provisions and potential consequences, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html)

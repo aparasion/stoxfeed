@@ -18,4 +18,4 @@ For the financial markets, this development underscores the ongoing investment i
 
 Investors should consider how this deal may impact Nordex's future earnings and market share in the renewable sector. For a deeper dive into the implications of this partnership, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nordex-secures-544-mw-turbine-orders-prowind-germany-20-year-service-deal)
+[nasdaq.com](https://www.nasdaq.com/articles/nordex-secures-544-mw-turbine-orders-prowind-germany-20-year-service-deal)

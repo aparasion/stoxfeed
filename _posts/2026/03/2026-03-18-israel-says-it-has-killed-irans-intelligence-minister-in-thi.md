@@ -18,4 +18,4 @@ The implications for financial markets are substantial, particularly within sect
 
 For professionals in trading and portfolio management, understanding the evolving geopolitical landscape is crucial. I recommend diving deeper into this developing story to assess its potential impact on market dynamics.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html)

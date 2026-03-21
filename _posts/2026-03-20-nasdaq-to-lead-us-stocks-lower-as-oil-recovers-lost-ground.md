@@ -18,4 +18,4 @@ In a notable development, Abacus Global Management has announced a definitive ag
 
 For market professionals, this acquisition could signal a shift in investment strategies as firms seek to bolster their holdings in established asset managers. The implications for sector dynamics and potential shifts in capital allocation are worth considering. I recommend checking out the full article for deeper insights into this acquisition and its potential market impact.
 
-[Source: proactiveinvestors.com](https://www.proactiveinvestors.com)
+[proactiveinvestors.com](https://www.proactiveinvestors.com)

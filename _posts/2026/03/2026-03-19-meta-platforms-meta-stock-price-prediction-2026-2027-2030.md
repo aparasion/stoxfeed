@@ -18,4 +18,4 @@ The implications for the financial markets are considerable. Analysts maintain a
 
 For those considering a position in META, the stock's strong fundamentals and AI ambitions present an intriguing investment opportunity. I recommend delving into the full article for a comprehensive analysis of the bull and bear cases surrounding Meta's future.
 
-[Source: benzinga.com](https://www.benzinga.com/money/meta-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/meta-stock-price-prediction)

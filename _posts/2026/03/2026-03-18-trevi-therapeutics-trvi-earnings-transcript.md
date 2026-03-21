@@ -18,4 +18,4 @@ This development is significant as it positions Trevi to potentially become a le
 
 Market professionals should closely monitor Trevi's progress and the outcomes of these trials, as they could have substantial implications for the company’s valuation and the broader healthcare sector. For a deeper dive into Trevi's strategic plans and clinical developments, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/trevi-therapeutics-trvi-earnings-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/trevi-therapeutics-trvi-earnings-transcript/?source=iedfolrf0000001)

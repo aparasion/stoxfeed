@@ -18,4 +18,4 @@ The concern is compounded by the rapid obsolescence of AI data center components
 
 For a deeper dive into the implications of this capex surge and its impact on tech stocks, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/this-is-the-real-reason-tech-stocks-struggle/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/this-is-the-real-reason-tech-stocks-struggle/?source=iedfolrf0000001)

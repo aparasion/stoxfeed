@@ -18,4 +18,4 @@ This partnership is significant for the financial markets as it positions Tower 
 
 For those tracking developments in AI and networking technologies, this partnership represents a pivotal step in addressing market needs. I recommend diving deeper into this article to understand the full implications of this collaboration.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/why-tower-semiconductor-stock-is-up-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/why-tower-semiconductor-stock-is-up-today/?source=iedfolrf0000001)

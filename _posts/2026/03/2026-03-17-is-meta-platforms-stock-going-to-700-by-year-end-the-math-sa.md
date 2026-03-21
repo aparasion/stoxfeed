@@ -16,4 +16,4 @@ Meta Platforms (NASDAQ: META) continues to impress investors with a remarkable 4
 
 Despite these challenges, the stock's current enterprise value-to-EBIT ratio of 19.4 is below its 12-month average of 21.4, suggesting room for valuation recovery. If market sentiment turns favorable, Meta's stock could see a 14% rise, potentially reaching $700 by year-end. For a deeper dive into Meta's financial outlook and strategic positioning, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/meta-platforms-stock-going-to-700-by-year-end/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/meta-platforms-stock-going-to-700-by-year-end/?source=iedfolrf0000001)

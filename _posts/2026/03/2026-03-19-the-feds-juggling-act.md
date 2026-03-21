@@ -18,4 +18,4 @@ This situation is critical for market professionals, as the Fed's decisions dire
 
 For a deeper analysis of Powell's remarks and their potential impact on financial markets, I recommend checking out the full article. It provides valuable insights that could inform your investment strategies in these uncertain times.
 
-[Source: ft.com](https://www.ft.com/content/c331ef91-ab2a-4c2d-9740-b8ebb3ce0373)
+[ft.com](https://www.ft.com/content/c331ef91-ab2a-4c2d-9740-b8ebb3ce0373)

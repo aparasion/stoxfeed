@@ -18,4 +18,4 @@ Financial markets are reacting to the rising oil prices, which are expected to i
 
 Market professionals should closely monitor developments in the region, as escalating tensions could further affect oil prices and economic stability. For a deeper understanding of the implications, I recommend exploring the full article for comprehensive insights.
 
-[Source: cbsnews.com](https://www.cbsnews.com)
+[cbsnews.com](https://www.cbsnews.com)

@@ -18,4 +18,4 @@ Lululemon, on the other hand, has seen a slowdown in growth, with a 6% dip in U.
 
 Both stocks present potential opportunities for investors willing to embrace risk, as they trade at historically low price-to-sales ratios. For a deeper dive into their financials and strategic outlooks, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/better-stock-to-buy-right-now-nike-vs-lululemon/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/better-stock-to-buy-right-now-nike-vs-lululemon/?source=iedfolrf0000001)

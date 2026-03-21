@@ -18,4 +18,4 @@ This performance highlights resilience in the nightlife sector, even as broader 
 
 For market professionals, RCI's strategic decisions and revenue stability amidst economic challenges present intriguing implications for future earnings. To dive deeper into the specifics of RCI's earnings call and management outlook, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566830-rci-hospitality-targets-400m-revenue-and-doubles-free-cash-flow-per-share-by-fiscal-2029-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566830-rci-hospitality-targets-400m-revenue-and-doubles-free-cash-flow-per-share-by-fiscal-2029-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

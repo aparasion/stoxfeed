@@ -18,4 +18,4 @@ The financials support this bullish outlook: SentinelOne reported a 22% year-ove
 
 For investors, SentinelOne's attractive price-to-sales ratio of 4.7, compared to its larger rivals, presents a unique opportunity. With a vast addressable market of over $100 billion, the stock's growth potential remains significant. For a more in-depth analysis, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/1-intriguing-ai-stock-to-buy-under-15-in-march/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/1-intriguing-ai-stock-to-buy-under-15-in-march/?source=iedfolrf0000001)

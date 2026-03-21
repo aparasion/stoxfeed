@@ -18,4 +18,4 @@ The move underscores a growing trend among banks and wealth managers to cater to
 
 For market professionals, this represents a strategic shift in wealth management services, potentially opening new revenue streams as banks seek to build long-term relationships with a lucrative demographic. I recommend exploring the full article for deeper insights into this innovative initiative.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html)

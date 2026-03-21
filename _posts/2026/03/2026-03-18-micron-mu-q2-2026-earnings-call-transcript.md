@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as Micron’s result
 
 For market professionals, Micron's performance highlights the critical role of memory technology in the evolving AI landscape. The full article provides deeper insights into Micron's strategic initiatives and future outlook, making it a worthwhile read for anyone tracking developments in the semiconductor space.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/micron-mu-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/micron-mu-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ For investors looking for alternatives, companies like Rocket Lab and Planet Lab
 
 Given their lower market caps and growth potential, Rocket Lab and Planet Labs may offer more attractive risk-reward profiles compared to SpaceX's anticipated high valuation. For a deeper dive into these investment opportunities, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/dont-wait-for-the-spacex-ipo-buy-these-2-hypergrow/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/dont-wait-for-the-spacex-ipo-buy-these-2-hypergrow/?source=iedfolrf0000001)

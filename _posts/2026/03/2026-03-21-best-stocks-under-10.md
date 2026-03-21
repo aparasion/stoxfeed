@@ -18,4 +18,4 @@ The discussion around stocks under $10 is particularly relevant given the curren
 
 For market professionals, the takeaway is clear: stocks under $10 can be a valuable addition to your investment strategy, provided you approach them with careful analysis. I recommend checking out the full article for deeper insights on selecting these stocks effectively.
 
-[Source: benzinga.com](https://www.benzinga.com/money/stocks-under-10)
+[benzinga.com](https://www.benzinga.com/money/stocks-under-10)

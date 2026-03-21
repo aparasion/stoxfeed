@@ -18,4 +18,4 @@ This strong performance highlights the effectiveness of Five Below's value-drive
 
 For market professionals, Five Below's results underscore the potential for growth in the discount retail sector, especially as consumer spending habits shift. I recommend checking out the full article for deeper insights into Five Below's strategy and future outlook.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/why-five-below-stock-is-up-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/why-five-below-stock-is-up-today/?source=iedfolrf0000001)

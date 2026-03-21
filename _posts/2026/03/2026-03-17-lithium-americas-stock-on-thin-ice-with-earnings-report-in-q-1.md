@@ -18,4 +18,4 @@ The lithium sector has been under pressure due to changing demand dynamics and i
 
 Investors should prepare for potential volatility in Lithium Americas' stock as the earnings report date approaches. For a deeper dive into the specifics of the company's situation and what it means for the market, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUtrUGtmdzRvUFVUdGJXV1ZIX0tpSHV6TmtFX3RJZWFRdFdxdlU2THBJXzlVbWcwUUsxbWN3ZWJMcG1HUk1TZkdFaFFnRGp6ZkhLUnRKZUxPLVhZdE5FcnZRUGpZcmhyaVlsNEZ6bTFxeGdnR0pXVF83UEFHanRHbHlPTUhxb2hHZURycnpobnJ4eVJ6dmtDemNBTmdoTW9PUHlsT2tRVWs?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUtrUGtmdzRvUFVUdGJXV1ZIX0tpSHV6TmtFX3RJZWFRdFdxdlU2THBJXzlVbWcwUUsxbWN3ZWJMcG1HUk1TZkdFaFFnRGp6ZkhLUnRKZUxPLVhZdE5FcnZRUGpZcmhyaVlsNEZ6bTFxeGdnR0pXVF83UEFHanRHbHlPTUhxb2hHZURycnpobnJ4eVJ6dmtDemNBTmdoTW9PUHlsT2tRVWs?oc=5)

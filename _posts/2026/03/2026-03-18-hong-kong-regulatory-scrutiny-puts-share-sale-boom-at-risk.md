@@ -18,4 +18,4 @@ The implications for the financial markets are significant. A slowdown in IPO ac
 
 Market participants should closely monitor these regulatory changes, as they could reshape the landscape for capital markets in Hong Kong. For a deeper dive into the potential impacts on the IPO market, I recommend checking out the full article on Bloomberg.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQckVvWVVKdV9Oa1ZEa2VHcndkV2xycWhtWFVrN3ZyblJCSGMyT3lreXV2N0MtNXo3dzJ6MnU2Um5SNFhYOWRBYmFpS201Z1d4dkVxMmxGLU5Rd3NLTE5YWWZaaTZBM0lDU3BKNVNXVm4yaVhvN2twV0llTzFqNV9talA3SW1WTTlGWVdONlQ3UmpKRHpEOTNaRm8xYzlGZFBjMk5xYUVfUlpaaUc0YUtF?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQckVvWVVKdV9Oa1ZEa2VHcndkV2xycWhtWFVrN3ZyblJCSGMyT3lreXV2N0MtNXo3dzJ6MnU2Um5SNFhYOWRBYmFpS201Z1d4dkVxMmxGLU5Rd3NLTE5YWWZaaTZBM0lDU3BKNVNXVm4yaVhvN2twV0llTzFqNV9talA3SW1WTTlGWVdONlQ3UmpKRHpEOTNaRm8xYzlGZFBjMk5xYUVfUlpaaUc0YUtF?oc=5)

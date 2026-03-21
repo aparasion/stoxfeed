@@ -18,4 +18,4 @@ This development is significant as Hyperliquid's platform continues to gain trac
 
 For professionals in the financial markets, the introduction of the GHYP ETF could signal a pivotal shift in how crypto assets are integrated into traditional investment portfolios. I encourage you to read the full article for deeper insights into this emerging trend.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

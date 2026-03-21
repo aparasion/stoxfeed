@@ -18,4 +18,4 @@ This attack not only raises questions about Bores' funding sources but also unde
 
 For market professionals, this situation exemplifies how political dynamics can affect sectoral interests, particularly in tech and crypto. For a deeper dive into the implications of this race, I recommend exploring the full article.
 
-[Source: coindesk.com](https://www.coindesk.com/policy/2026/03/20/sam-bankman-fried-s-past-political-cash-gives-ai-pac-fuel-for-bashing-ny-candidate-bores)
+[coindesk.com](https://www.coindesk.com/policy/2026/03/20/sam-bankman-fried-s-past-political-cash-gives-ai-pac-fuel-for-bashing-ny-candidate-bores)

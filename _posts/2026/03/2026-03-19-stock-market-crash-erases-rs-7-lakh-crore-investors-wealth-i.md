@@ -18,4 +18,4 @@ This impressive debut is particularly noteworthy as it comes amidst challenges, 
 
 For market professionals, the strong opening of "Dhurandhar: The Revenge" signals a potential uptick in box office revenues and a positive trend for the Indian film industry. I recommend checking out the full article for deeper insights into the film's performance and its implications for the market.
 
-[Source: timesofindia.indiatimes.com](https://timesofindia.indiatimes.com)
+[timesofindia.indiatimes.com](https://timesofindia.indiatimes.com)

@@ -18,4 +18,4 @@ The future of CAKE hinges on its ability to adapt within a maturing DeFi landsca
 
 For investors, PancakeSwap remains a notable player in the DeFi space, especially for those seeking established platforms. Its ongoing developments and loyal user base could make CAKE an attractive option, particularly at current price levels. For a deeper dive into the projections and insights, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/pancakeswap-cake-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/pancakeswap-cake-price-prediction)

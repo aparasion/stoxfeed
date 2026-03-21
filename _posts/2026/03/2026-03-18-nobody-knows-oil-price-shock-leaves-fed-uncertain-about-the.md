@@ -18,4 +18,4 @@ The outcome is particularly relevant for financial markets, as it may signal inc
 
 As the political landscape evolves, market professionals should closely monitor these developments for potential implications on policy and economic direction. For a deeper dive into the political ramifications and their potential effects on the markets, I recommend checking out the full article.
 
-[Source: nbcnews.com](https://www.nbcnews.com)
+[nbcnews.com](https://www.nbcnews.com)

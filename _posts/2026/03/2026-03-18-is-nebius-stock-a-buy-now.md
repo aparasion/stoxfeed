@@ -18,4 +18,4 @@ The strategic partnership with Meta Platforms exemplifies Nebius's growing influ
 
 For market professionals, Nebius represents a compelling investment opportunity as it continues to solidify its role in the AI landscape. I recommend diving deeper into the full article to understand the nuances of this rapidly evolving story.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/is-nebius-stock-a-buy-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/is-nebius-stock-a-buy-now/?source=iedfolrf0000001)

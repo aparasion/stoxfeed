@@ -18,4 +18,4 @@ UiPath (NYSE: PATH) is down over 40% but trades at attractive forward multiples 
 
 Lastly, GitLab (NASDAQ: GTLB) is trading nearly 60% lower than its recent highs, with a forward price-to-sales multiple of 3.5. Despite conservative growth guidance, new pricing models and product features may unlock revenue potential. For professionals looking for promising AI investments, these stocks could be worth a closer look. Explore the full article for deeper insights.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/prediction-these-3-under-the-radar-artificial-inte/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/prediction-these-3-under-the-radar-artificial-inte/?source=iedfolrf0000001)

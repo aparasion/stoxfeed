@@ -18,4 +18,4 @@ This guidance is significant for financial markets as it establishes a clearer r
 
 Market participants should take note of these developments, as they could influence strategic decisions around tokenized investments. For a deeper dive into the implications of this clarification, I recommend checking out the full article.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)

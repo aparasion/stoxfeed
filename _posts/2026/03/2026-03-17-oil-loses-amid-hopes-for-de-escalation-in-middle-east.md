@@ -18,4 +18,4 @@ As oil prices show signs of cooling, a bearish divergence could emerge if prices
 
 For market professionals, the evolving situation in the Strait of Hormuz presents both risk and opportunity. I recommend exploring the full article for a deeper analysis of these developments and their implications for your investment strategies.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/oil-loses-amid-hopes-for-de-escalation-in-middle-east)
+[xtb.com](https://www.xtb.com/en/market-analysis/oil-loses-amid-hopes-for-de-escalation-in-middle-east)

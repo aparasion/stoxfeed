@@ -18,4 +18,4 @@ In the commodities sector, Brent crude surged 3% to $111 per barrel, driven by a
 
 For market professionals, the implications are clear: the current volatility may lead to reevaluations of risk exposure, particularly in equities and commodities. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/wall-street-tries-to-stop-the-sell-off-as-oil-surges-alibaba-drops-7-amid-earnings-miss)
+[xtb.com](https://www.xtb.com/en/market-analysis/wall-street-tries-to-stop-the-sell-off-as-oil-surges-alibaba-drops-7-amid-earnings-miss)

@@ -18,4 +18,4 @@ This capital infusion comes at a critical time for Local Bounti, as it seeks to 
 
 For those tracking the agricultural technology sector and its funding dynamics, this development is worth a deeper look. I recommend checking out the full article for insights into Local Bounti's strategic plans and market positioning.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565227-local-bounti-secures-15-million-of-new-capital-to-advance-growth-strategy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565227-local-bounti-secures-15-million-of-new-capital-to-advance-growth-strategy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

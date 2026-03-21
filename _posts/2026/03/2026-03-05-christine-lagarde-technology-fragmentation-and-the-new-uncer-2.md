@@ -18,4 +18,4 @@ Lagarde highlighted that the intertwining of AI development with global trade dy
 
 The key takeaway for market professionals is the urgent need for adaptive strategies that account for this uncertainty. Lagarde's insights underscore the importance of fostering international cooperation to mitigate fragmentation risks. For a deeper understanding of her arguments and their implications, I recommend exploring the full lecture.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)

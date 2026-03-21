@@ -18,4 +18,4 @@ The implications for financial markets are noteworthy. Kalshi operates as a regu
 
 For market professionals, Kalshi's rapid expansion and regulatory hurdles present a complex dynamic worth monitoring. I recommend delving into the full article for a comprehensive overview of these developments.
 
-[Source: coindesk.com](https://www.coindesk.com/business/2026/03/20/kalshi-valuation-doubles-to-usd22-billion-in-latest-funding-round-bloomberg)
+[coindesk.com](https://www.coindesk.com/business/2026/03/20/kalshi-valuation-doubles-to-usd22-billion-in-latest-funding-round-bloomberg)

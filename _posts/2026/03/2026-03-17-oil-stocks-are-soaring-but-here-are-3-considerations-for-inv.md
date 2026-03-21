@@ -18,4 +18,4 @@ For those still considering energy investments, diversification is key. Companie
 
 Investors might also explore midstream companies like Enterprise Products Partners (EPD), which provide steady income through fees rather than direct commodity price exposure. For a deeper understanding of these strategies and their implications, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/oil-stocks-are-soaring-but-here-are-3-consideratio/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/oil-stocks-are-soaring-but-here-are-3-consideratio/?source=iedfolrf0000001)

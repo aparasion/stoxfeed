@@ -18,4 +18,4 @@ This market movement highlights a broader trend of volatility across major crypt
 
 For traders and portfolio managers, this environment presents both risks and opportunities. Monitoring these price fluctuations and sector performances will be crucial for strategic decision-making. For a deeper dive into the current crypto landscape, I recommend checking out the full article.
 
-[Source: decrypt.co](https://decrypt.co)
+[decrypt.co](https://decrypt.co)

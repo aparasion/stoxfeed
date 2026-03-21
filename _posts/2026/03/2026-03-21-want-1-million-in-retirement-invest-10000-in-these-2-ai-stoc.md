@@ -18,4 +18,4 @@ Tempus AI, meanwhile, is transforming precision medicine by utilizing a vast lib
 
 Investors looking for growth opportunities in the evolving healthcare infrastructure should consider these two companies. For a deeper dive into their potential and market implications, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/want-million-retirement-invest-ai-stock-hold/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/want-million-retirement-invest-ai-stock-hold/?source=iedfolrf0000001)

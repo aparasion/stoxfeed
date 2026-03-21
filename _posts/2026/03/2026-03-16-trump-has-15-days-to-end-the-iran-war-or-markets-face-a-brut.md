@@ -18,4 +18,4 @@ In particular, the dollar has strengthened as investors seek safe-haven assets, 
 
 For market professionals, the takeaway is clear: while geopolitical tensions can induce volatility, strategic stock selection may yield opportunities. To dive deeper into these developments and their implications, I recommend reading the full article for a comprehensive analysis.
 
-[Source: marketwatch.com](https://www.marketwatch.com)
+[marketwatch.com](https://www.marketwatch.com)

@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly in the 
 
 For professionals in the insurance and financial sectors, Hobbs' appointment signals a strategic focus on enhancing underwriting capabilities during a pivotal time for M&A activity. For a deeper dive into these developments, I recommend exploring the full article.
 
-[Source: businessinsurance.com](https://www.businessinsurance.com)
+[businessinsurance.com](https://www.businessinsurance.com)

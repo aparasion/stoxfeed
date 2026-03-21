@@ -18,4 +18,4 @@ The implications for the financial markets are notable, particularly within the 
 
 Investors should closely monitor SoFi's response to the allegations and the overall market reaction. For a deeper dive into the report's findings and their potential impact, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-sofi-technologies-falls-after-short-seller-alleges-aggressive-financial-engineering/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-sofi-technologies-falls-after-short-seller-alleges-aggressive-financial-engineering/?source=iedfolrf0000001)

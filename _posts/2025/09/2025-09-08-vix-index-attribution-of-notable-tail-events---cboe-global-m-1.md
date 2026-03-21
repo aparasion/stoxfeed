@@ -18,4 +18,4 @@ The significance of Cboe's offerings lies in their ability to provide real-time 
 
 For market professionals, Cboe's resources can be invaluable in refining trading strategies and improving risk management practices. I recommend exploring the full article to discover how these tools can elevate your trading approach and keep you informed in a dynamic market environment.
 
-[Source: cboe.com](https://www.cboe.com)
+[cboe.com](https://www.cboe.com)

@@ -18,4 +18,4 @@ This surge in fintech innovation is likely to affect stock performance across th
 
 For professionals looking to position their portfolios strategically, monitoring these fintech developments is crucial. The full article provides detailed insights into specific stocks and trends that could shape the landscape, making it a valuable read for anyone interested in the future of financial technology.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX19yd0hSRHRaSkYzV0hFdWdZWEp3VlUzMkJydUZCSkJmM2U5NlphYXRoVzI2Vm03OHJlNlVXeFpMc2lZMzY4eWw1XzRBSVhDM0hmN3pucmlaUjNNTDJoV3F4Z0FxVm9Wa2paLU1CVVdPbW9DbkVWd0ZkUlllb3JlQjFvbEZnX3lpT09kNi1IS3BHT05nVzRDNHZn?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX19yd0hSRHRaSkYzV0hFdWdZWEp3VlUzMkJydUZCSkJmM2U5NlphYXRoVzI2Vm03OHJlNlVXeFpMc2lZMzY4eWw1XzRBSVhDM0hmN3pucmlaUjNNTDJoV3F4Z0FxVm9Wa2paLU1CVVdPbW9DbkVWd0ZkUlllb3JlQjFvbEZnX3lpT09kNi1IS3BHT05nVzRDNHZn?oc=5)

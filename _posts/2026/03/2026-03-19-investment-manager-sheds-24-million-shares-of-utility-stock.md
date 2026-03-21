@@ -18,4 +18,4 @@ The implications of this sale are significant for investors. Portland General El
 
 For market professionals, this transaction underscores the importance of monitoring institutional moves, especially in utilities like Portland General, which provide stable cash flows and dividends. For a deeper dive into the details and implications of this transaction, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/19/investment-manager-sheds-2-4-million-shares-of-utility-stock-according-to-recent-sec-filing/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/19/investment-manager-sheds-2-4-million-shares-of-utility-stock-according-to-recent-sec-filing/?source=iedfolrf0000001)

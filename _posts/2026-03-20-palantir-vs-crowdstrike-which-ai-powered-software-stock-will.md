@@ -18,4 +18,4 @@ For investors, the contrasting business models of these two firms highlight dist
 
 For a deeper dive into the strategies and financials of Palantir and CrowdStrike, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/palantir-vs-crowdstrike-which-ai-powered-software/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/palantir-vs-crowdstrike-which-ai-powered-software/?source=iedfolrf0000001)

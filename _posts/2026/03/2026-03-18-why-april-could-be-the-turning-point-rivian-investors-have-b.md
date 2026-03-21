@@ -18,4 +18,4 @@ The R2 SUV, Rivian's answer to Tesla's Model Y, could be a game changer for the 
 
 For a deeper dive into Rivian's upcoming strategies and market positioning, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/march-could-be-the-turning-point-rivian-investors/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/march-could-be-the-turning-point-rivian-investors/?source=iedfolrf0000001)

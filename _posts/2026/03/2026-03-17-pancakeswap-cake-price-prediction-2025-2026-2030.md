@@ -18,4 +18,4 @@ The implications for the financial markets are notable, particularly as CAKE's p
 
 Investors looking for established DeFi platforms may still find CAKE appealing, especially at current price levels. For a deeper dive into the analysis and forecasts surrounding PancakeSwap, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/pancakeswap-cake-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/pancakeswap-cake-price-prediction)

@@ -18,4 +18,4 @@ This development could have significant implications for U.S. foreign policy and
 
 For market professionals, the resignation signals potential shifts in defense-related stocks and broader geopolitical risk assessments. To understand the full context and implications of this unfolding situation, I recommend checking out the complete article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html)

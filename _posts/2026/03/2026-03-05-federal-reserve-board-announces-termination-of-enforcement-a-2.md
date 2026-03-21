@@ -18,4 +18,4 @@ The lifting of this enforcement action is crucial for Wells Fargo as it removes 
 
 For market professionals, this development may enhance investor sentiment towards Wells Fargo, potentially boosting its stock performance and improving its competitive positioning within the banking sector. For a deeper dive into the implications of this decision, I recommend checking out the full article.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm)

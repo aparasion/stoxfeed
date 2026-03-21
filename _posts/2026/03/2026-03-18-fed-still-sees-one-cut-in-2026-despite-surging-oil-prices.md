@@ -18,4 +18,4 @@ The implications for financial markets are significant. Higher oil prices can le
 
 For market professionals, the Fed's commitment to a measured approach amid volatile oil prices highlights the importance of monitoring inflation indicators and energy market trends. For a deeper dive into the Fed's outlook and its potential impact on the markets, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkFLMHE5UHRqMm84RDI2QWFfc1RGTFFkSXJCajJFMjIxSjl2YW9MNW1EcjJuMTdmLXpxMTNlTXk5MEE4MUxSTGYtMlVjQ3ZDREJfSTZHcncwRGVSWDZSdXBiX1RHNk9ZLTR6UG1ESVFwajFpbzMxclA2RXVVbmU4dGpSR05Pa2dOdHNBOWpSTE9sajljLUoyb3ByZmtVazRPaUIxVGlrazh2cm1IdF9KMw?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkFLMHE5UHRqMm84RDI2QWFfc1RGTFFkSXJCajJFMjIxSjl2YW9MNW1EcjJuMTdmLXpxMTNlTXk5MEE4MUxSTGYtMlVjQ3ZDREJfSTZHcncwRGVSWDZSdXBiX1RHNk9ZLTR6UG1ESVFwajFpbzMxclA2RXVVbmU4dGpSR05Pa2dOdHNBOWpSTE9sajljLUoyb3ByZmtVazRPaUIxVGlrazh2cm1IdF9KMw?oc=5)

@@ -18,4 +18,4 @@ Rheinmetall, Germany's defense giant, reported a 29% sales increase in 2025, wit
 
 Investors should consider these companies as potential portfolio additions, given the robust growth outlook in the defense sector. For a deeper dive into the financial implications and specific investment opportunities, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/2-defense-stocks-to-buy-in-march/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/2-defense-stocks-to-buy-in-march/?source=iedfolrf0000001)

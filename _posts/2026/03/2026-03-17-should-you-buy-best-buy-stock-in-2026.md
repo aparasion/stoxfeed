@@ -18,4 +18,4 @@ The current landscape presents challenges for Best Buy, as consumers are tighten
 
 For market professionals, Best Buy appears to be in a holding pattern, making it a candidate for watch lists rather than immediate investment. For a deeper dive into these developments, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/should-you-buy-best-buy-stock-in-2026/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/should-you-buy-best-buy-stock-in-2026/?source=iedfolrf0000001)

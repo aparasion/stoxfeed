@@ -18,4 +18,4 @@ This bullish movement in live cattle futures is significant for market participa
 
 For those tracking the cattle market, this week’s developments underscore the importance of supply dynamics and pricing trends. I recommend diving deeper into the full article for a comprehensive analysis of these market shifts.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cattle-bounce-higher-ahead-cattle-feed-report)
+[nasdaq.com](https://www.nasdaq.com/articles/cattle-bounce-higher-ahead-cattle-feed-report)

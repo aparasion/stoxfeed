@@ -18,4 +18,4 @@ The implications for the financial markets are profound, as helium prices have s
 
 For market professionals, the key takeaway is the potential for a tightening helium market to benefit industrial gas producers like Linde and Air Products, as demand for critical applications remains high. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html)

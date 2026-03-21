@@ -18,4 +18,4 @@ This bullish outlook is critical for investors as Nvidia's stock has surged 1,15
 
 For market professionals, Nvidia's trajectory suggests strong growth potential, making it a compelling consideration for portfolios. I recommend diving deeper into the full article to explore the detailed analysis and projections surrounding Nvidia's future.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/prediction-will-be-nvidias-stock-price-end-2026-1)
+[nasdaq.com](https://www.nasdaq.com/articles/prediction-will-be-nvidias-stock-price-end-2026-1)

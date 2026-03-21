@@ -18,4 +18,4 @@ This bold prediction comes on the heels of Nvidia's remarkable growth, with reve
 
 For market professionals, Huang's outlook signals potential for significant stock appreciation if Nvidia achieves its ambitious revenue targets. This is a pivotal moment for investors to consider the implications of Nvidia's developments—explore the full story to understand the broader market impact.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/nvidias-jensen-huang-made-a-startling-prediction/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/nvidias-jensen-huang-made-a-startling-prediction/?source=iedfolrf0000001)

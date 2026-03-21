@@ -20,4 +20,4 @@ For market professionals, the current volatility presents both risks and opportu
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/market-wrap-european-stocks-bounce-back-as-oil-nears-usd-110)
+[xtb.com](https://www.xtb.com/en/market-analysis/market-wrap-european-stocks-bounce-back-as-oil-nears-usd-110)

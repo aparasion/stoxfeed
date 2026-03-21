@@ -18,4 +18,4 @@ Ethereum's extensive developer base and its substantial share of the stablecoin 
 
 For market professionals, the key takeaway is clear: Ethereum's framework offers a more promising investment opportunity in the context of stablecoin expansion. I recommend checking out the full article for a deeper understanding of these dynamics.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/xrp-vs-ethereum-why-ethereum-could-soar/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/xrp-vs-ethereum-why-ethereum-could-soar/?source=iedfolrf0000001)

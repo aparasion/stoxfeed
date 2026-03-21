@@ -18,4 +18,4 @@ For financial professionals, this platform provides a comprehensive view of comp
 
 The key takeaway is the potential for enhanced decision-making through timely alerts and visual reports that condense complex data into actionable insights. For a deeper dive into how this platform can streamline your investment process, I recommend checking out the full article.
 
-[Source: simplywall.st](https://simplywall.st)
+[simplywall.st](https://simplywall.st)

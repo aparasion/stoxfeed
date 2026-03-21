@@ -18,4 +18,4 @@ The implications of this rally are significant for various sectors, particularly
 
 For market professionals, this DXY movement suggests a critical moment to evaluate exposure to dollar-sensitive assets. I recommend checking out the full article for a deeper analysis of the factors driving this rally and its potential implications for your trading strategies.
 
-[Source: tradingview.com](https://www.tradingview.com)
+[tradingview.com](https://www.tradingview.com)

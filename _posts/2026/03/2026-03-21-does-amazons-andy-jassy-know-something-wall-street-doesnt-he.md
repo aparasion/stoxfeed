@@ -18,4 +18,4 @@ The implications for the financial markets are significant. AWS, which already g
 
 For investors, Jassy's insights may signal a turning point for AI stocks, alleviating fears about overspending and undershooting revenue expectations. This development is worth exploring further; I recommend checking out the full article for a deeper dive into the potential impact on the market.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/does-amazons-andy-jassy-know-something-wall-street/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/does-amazons-andy-jassy-know-something-wall-street/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This volatility in hog futures is significant for traders as it reflects broader
 
 For those looking to navigate the complexities of the hog market, understanding these nuances is crucial. I recommend diving deeper into the full article for a comprehensive analysis of current trends and their implications.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/hogs-close-mixed-monday)
+[nasdaq.com](https://www.nasdaq.com/articles/hogs-close-mixed-monday)

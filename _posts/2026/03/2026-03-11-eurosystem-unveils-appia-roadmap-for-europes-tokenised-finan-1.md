@@ -18,4 +18,4 @@ The Appia roadmap is significant as it positions the Eurosystem at the forefront
 
 Market professionals should note that Appia represents a critical step towards a more integrated financial ecosystem, potentially impacting investment strategies and the competitive landscape in European markets. For a deeper dive into the implications of this initiative, I recommend exploring the full article.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)

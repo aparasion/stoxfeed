@@ -18,4 +18,4 @@ The implications for the automotive sector are significant, especially as the in
 
 For investors, Chrysler's evolving strategy and the broader implications for the automotive industry present both risks and opportunities. Understanding these dynamics is crucial for making informed decisions. I recommend diving into the full article for a comprehensive analysis of Chrysler's situation and its potential impact on the market.
 
-[Source: autonews.com](https://www.autonews.com)
+[autonews.com](https://www.autonews.com)

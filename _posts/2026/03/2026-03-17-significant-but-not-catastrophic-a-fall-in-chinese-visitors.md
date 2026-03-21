@@ -18,4 +18,4 @@ The implications for the financial markets are notable. While the absence of hig
 
 As Japanese businesses pivot to capture demand from other regions, the long-term recovery of Chinese tourism remains uncertain. For a deeper understanding of these dynamics and their market implications, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/japan-tourism-visits-from-china-down-60percent-in-january-2026.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/japan-tourism-visits-from-china-down-60percent-in-january-2026.html)

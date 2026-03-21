@@ -18,4 +18,4 @@ This consistent dividend policy signals stability for NECB, which may attract in
 
 Investors should consider how this dividend aligns with their income strategies, especially given the current economic landscape. For a deeper dive into NECB's financial health and growth prospects, I recommend checking out the full article for detailed insights and analysis.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566855-northeast-community-bancorp-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566855-northeast-community-bancorp-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

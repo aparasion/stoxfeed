@@ -18,4 +18,4 @@ The implications for financial markets are substantial. Eli Lilly's Zepbound has
 
 Investors should closely monitor these developments, as the weight-loss drug category is rapidly evolving and could significantly impact health outcomes and financial performance in the pharmaceutical industry. For a deeper dive into this evolving market landscape, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/top-sp-500-stocks-watch-after-hims-hers-surprise/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/top-sp-500-stocks-watch-after-hims-hers-surprise/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly as investor
 
 For market professionals, the key takeaway is to monitor how geopolitical tensions and central bank responses may shape market dynamics. For a deeper dive into these unfolding events, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/european-shares-seen-tad-lower-investors-monitor-oil-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/european-shares-seen-tad-lower-investors-monitor-oil-prices)

@@ -18,4 +18,4 @@ Conversely, Visa (V), while offering a lower yield of 0.9%, has impressively inc
 
 Both companies exemplify stability and income generation, making them suitable for long-term investors. For a deeper dive into their financials and market positioning, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/the-best-dividend-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/the-best-dividend-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001)

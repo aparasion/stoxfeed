@@ -18,4 +18,4 @@ This distinction is crucial for investors navigating a complex real estate envir
 
 Ultimately, the choice between VNQ and HAUZ hinges on an investor's existing portfolio and income strategy. For those looking to diversify beyond U.S. real estate, HAUZ presents a compelling option. To delve deeper into their performance and suitability, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/etfs/2026/03/18/hauz-vs-vnq-is-this-international-real-estate-etf-a-better-buy-for-income-investors/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/etfs/2026/03/18/hauz-vs-vnq-is-this-international-real-estate-etf-a-better-buy-for-income-investors/?source=iedfolrf0000001)

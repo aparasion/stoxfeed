@@ -18,4 +18,4 @@ Despite Musk's optimistic vision, Tesla's financial performance has been disappo
 
 For market professionals, the key takeaway is that while Tesla's future potential is enticing, the current financial metrics suggest caution. For a deeper dive into Tesla’s challenges and prospects, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/down-20-from-its-high-is-tesla-stock-a-buy-right-n/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/down-20-from-its-high-is-tesla-stock-a-buy-right-n/?source=iedfolrf0000001)

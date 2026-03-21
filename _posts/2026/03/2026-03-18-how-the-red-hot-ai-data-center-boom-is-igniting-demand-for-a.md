@@ -18,4 +18,4 @@ The implications for the labor market are profound. As the demand for roles such
 
 For market professionals, the evolving landscape underscores the importance of investing in talent acquisition strategies to secure skilled workers in this booming sector. I highly recommend reading the full article for a deeper understanding of these trends and their potential impact on the market.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html)

@@ -18,4 +18,4 @@ This year's event highlights the importance of direct engagement with decision-m
 
 For market professionals, CoinDesk PitchFest at Consensus Miami represents a unique opportunity to identify the next wave of Web3 innovations. I highly recommend exploring the full article to understand how these developments could impact your investment strategies.
 
-[Source: coindesk.com](https://www.coindesk.com/opinion/2026/03/20/why-coindesk-pitchfest-matters-heading-into-miami)
+[coindesk.com](https://www.coindesk.com/opinion/2026/03/20/why-coindesk-pitchfest-matters-heading-into-miami)

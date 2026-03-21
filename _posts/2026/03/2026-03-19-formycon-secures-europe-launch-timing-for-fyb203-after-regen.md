@@ -18,4 +18,4 @@ The implications for the financial markets are notable, particularly for Formyco
 
 For professionals tracking developments in biotech, this agreement represents a pivotal moment for Formycon and its market positioning. I recommend exploring the full story for deeper insights into the potential impacts on the sector.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/formycon-secures-europe-launch-timing-fyb203-after-regeneron-bayer-settlement)
+[nasdaq.com](https://www.nasdaq.com/articles/formycon-secures-europe-launch-timing-fyb203-after-regeneron-bayer-settlement)

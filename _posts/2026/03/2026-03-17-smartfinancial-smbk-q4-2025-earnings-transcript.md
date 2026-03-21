@@ -18,4 +18,4 @@ This performance is significant for the financial markets as it indicates robust
 
 For market professionals, SmartFinancial’s consistent earnings growth and strategic expansion plans signal a strong investment opportunity. I recommend reading the full article for a deeper dive into their financial metrics and future guidance.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/smartfinancial-smbk-q4-2025-earnings-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/smartfinancial-smbk-q4-2025-earnings-transcript/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Disney's experiences division, encompassing its theme parks and cruises, also co
 
 Investors should consider taking advantage of Disney's current valuation and growth potential. For a deeper dive into Disney's financial outlook and strategic advantages, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/crashing-3-reasons-buy-netflix-rival-march-5-years/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/crashing-3-reasons-buy-netflix-rival-march-5-years/?source=iedfolrf0000001)

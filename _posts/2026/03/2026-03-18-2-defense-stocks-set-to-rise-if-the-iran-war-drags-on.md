@@ -18,4 +18,4 @@ Palantir's data integration platforms, Foundry and Gotham, are integral to U.S. 
 
 Investors should note that as geopolitical tensions persist, the long-term prospects for Palantir and CrowdStrike remain strong, driven by their high-margin, recurring revenue models. For a deeper dive into their strategies and market implications, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/2-defense-stocks-set-to-rise-if-the-iran-war-drags/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/2-defense-stocks-set-to-rise-if-the-iran-war-drags/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ D-Wave Quantum is taking a dual approach by focusing on both quantum annealing a
 
 For investors looking to capitalize on the quantum computing wave, IBM offers a more stable option with its established presence and ongoing development of quantum chips like Nighthawk and Loon. For a deeper dive into these promising stocks and their implications for the market, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/want-invest-quantum-computing-start-stocks/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/want-invest-quantum-computing-start-stocks/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ These developments are critical for financial markets as they underscore Relmada
 
 For market professionals, the key takeaway is Relmada’s strengthened pipeline and financial footing, making it a biotech to watch. I recommend exploring the full article for deeper insights into Relmada's strategic direction and market implications.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/relmada-posts-narrower-fy25-loss-advances-nvd-01-toward-phase-3-bladder-cancer)
+[nasdaq.com](https://www.nasdaq.com/articles/relmada-posts-narrower-fy25-loss-advances-nvd-01-toward-phase-3-bladder-cancer)

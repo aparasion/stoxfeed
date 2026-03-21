@@ -18,4 +18,4 @@ This shift not only highlights Palantir's potential to become a major enterprise
 
 For investors, the focus will be on whether the current stock price reflects this growth potential, particularly given its high trailing and forward price-to-earnings ratios. For a deeper dive into Palantir's trajectory and its implications for the market, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/where-could-palantir-be-in-3-years-the-base-case/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/where-could-palantir-be-in-3-years-the-base-case/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for energy 
 
 For market professionals, the key takeaway is the potential for heightened volatility in energy markets and related sectors. Staying informed on these developments will be crucial for strategic investment decisions. I recommend checking out the full article for a deeper understanding of the unfolding situation.
 
-[Source: economictimes.com](https://m.economictimes.com)
+[economictimes.com](https://m.economictimes.com)

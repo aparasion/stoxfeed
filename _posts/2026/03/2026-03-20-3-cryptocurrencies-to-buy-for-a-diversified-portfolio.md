@@ -18,4 +18,4 @@ Investors can further diversify by including Ethereum, the second-largest crypto
 
 This accessible approach to crypto investing allows professionals to explore new opportunities without significant financial commitment. For a deeper dive into constructing this budget-friendly portfolio, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/3-cryptocurrencies-to-buy-for-a-diversified-portfo/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/3-cryptocurrencies-to-buy-for-a-diversified-portfo/?source=iedfolrf0000001)

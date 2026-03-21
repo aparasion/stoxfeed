@@ -18,4 +18,4 @@ This development is particularly relevant for high-income earners in Washington,
 
 Market professionals should closely monitor how this tax affects high-net-worth individuals and the broader economic landscape in Washington. For a deeper dive into the potential ramifications, I recommend reading the full article on CNBC.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/washington-millionaire-tax-marriage.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/washington-millionaire-tax-marriage.html)

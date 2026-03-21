@@ -20,4 +20,4 @@ For market professionals, the key takeaway is to monitor the Fed's decision clos
 
 *StoxFeed tracks this as a market signal: [AI and semiconductor stocks are driving tech sector gains](/signals/#ai-stocks-momentum)*
 
-[Source: news.futunn.com](https://news.futunn.com)
+[news.futunn.com](https://news.futunn.com)

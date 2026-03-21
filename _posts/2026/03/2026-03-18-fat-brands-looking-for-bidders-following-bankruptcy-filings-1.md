@@ -18,4 +18,4 @@ The acquisition is significant for investors as it highlights the ongoing consol
 
 For market professionals, this development underscores the importance of monitoring franchise acquisitions as indicators of sector health and growth potential. To dive deeper into the implications of JRI's latest acquisition, I recommend reading the full article for a comprehensive analysis.
 
-[Source: franchisetimes.com](https://www.franchisetimes.com)
+[franchisetimes.com](https://www.franchisetimes.com)

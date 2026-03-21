@@ -18,4 +18,4 @@ For financial professionals, ensuring that earnings records are accurate is vita
 
 Encouraging clients to verify their earnings records can enhance their financial security and ease the retirement planning process. For a deeper dive into the importance of these checks, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/21/1-social-security-mistake-that-could-cost-you-thou/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/21/1-social-security-mistake-that-could-cost-you-thou/?source=iedfolrf0000001)

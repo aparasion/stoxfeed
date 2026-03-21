@@ -18,4 +18,4 @@ This transition to preferred stock as the primary funding tool for bitcoin purch
 
 For market professionals, this development signals a potential shift in how companies might finance cryptocurrency investments. For a deeper dive into Strategy's evolving approach and its implications for the market, I recommend exploring the full article.
 
-[Source: coindesk.com](https://www.coindesk.com/markets/2026/03/17/strategy-s-massive-bitcoin-purchase-offers-insight-into-its-evolving-funding-model)
+[coindesk.com](https://www.coindesk.com/markets/2026/03/17/strategy-s-massive-bitcoin-purchase-offers-insight-into-its-evolving-funding-model)

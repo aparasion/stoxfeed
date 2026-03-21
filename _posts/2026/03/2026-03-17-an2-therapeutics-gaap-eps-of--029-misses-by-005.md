@@ -18,4 +18,4 @@ This earnings report may impact AN2's stock performance as investors reassess th
 
 For market professionals, the key takeaway is the potential volatility in AN2 Therapeutics' stock following this earnings report. Investors should monitor how this miss affects market sentiment and whether it prompts any strategic shifts from the company. For a deeper dive into AN2's financials and market positioning, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565568-an2-therapeutics-gaap-eps-of-0_29-misses-by-0_05?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565568-an2-therapeutics-gaap-eps-of-0_29-misses-by-0_05?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

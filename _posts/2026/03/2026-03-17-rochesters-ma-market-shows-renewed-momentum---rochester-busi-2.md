@@ -18,4 +18,4 @@ The investment reflects a growing trend among asset managers to diversify their 
 
 Market professionals should keep an eye on how this collaboration influences Manning & Napier's growth trajectory and overall market sentiment in the asset management sector. For a deeper dive into the implications of this strategic investment, I recommend checking out the full article.
 
-[Source: rbj.net](https://rbj.net)
+[rbj.net](https://rbj.net)

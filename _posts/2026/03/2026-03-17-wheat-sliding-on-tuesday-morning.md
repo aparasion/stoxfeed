@@ -18,4 +18,4 @@ These losses come amid disappointing export inspections, with wheat shipments do
 
 For traders and analysts, the current wheat market dynamics highlight the importance of monitoring export data and crop conditions. For a deeper dive into these developments, I recommend exploring the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-sliding-tuesday-morning)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-sliding-tuesday-morning)

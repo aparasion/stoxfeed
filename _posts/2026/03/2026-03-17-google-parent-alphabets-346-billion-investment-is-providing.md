@@ -18,4 +18,4 @@ While AI technologies are garnering attention and driving growth in sectors like
 
 For market professionals, Alphabet's strategic buybacks and solid cash flow position it favorably for sustained growth. Explore the full article to dive deeper into how these dynamics are shaping Alphabet's future.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/google-alphabet-346-billion-investment-not-with-ai/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/google-alphabet-346-billion-investment-not-with-ai/?source=iedfolrf0000001)

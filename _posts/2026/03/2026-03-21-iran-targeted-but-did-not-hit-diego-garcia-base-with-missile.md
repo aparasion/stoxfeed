@@ -18,4 +18,4 @@ This development could have far-reaching implications for global markets, partic
 
 Market professionals should closely monitor how these developments unfold, as they could influence both regional stability and investor sentiment. For a deeper dive into the implications of this incident, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html)
+[cnbc.com](https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html)

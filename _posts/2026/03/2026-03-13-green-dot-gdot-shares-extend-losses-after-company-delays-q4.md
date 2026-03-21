@@ -18,4 +18,4 @@ The delay comes at a critical time, as analysts were anticipating insights into 
 
 For market professionals, this situation underscores the importance of timely financial disclosures and the potential ramifications of delays on stock performance. To gain deeper insights into Green Dot's challenges and the broader market context, I recommend reading the full article for a comprehensive analysis.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXo1RnBJSTYtZnNMeFRFbUJ2T0dMb2RudjBNSFMwbG9TTDNVNXZuUzJpX0hkS1A1OWRiUTVCRzhIRXctQkR5TVU4TnoyUnl6a2xNVlAwbm1XZGhSXzd6UHFSci1uVVJtSGlyZ0tZWkc1ZjRpZDhuREtnQkRtcjBxOXFEUmllWVphVHFkelZDOWRfdW1TZGFYb0lSMUVfUmhHZzNJcXF2MF9rQQ?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXo1RnBJSTYtZnNMeFRFbUJ2T0dMb2RudjBNSFMwbG9TTDNVNXZuUzJpX0hkS1A1OWRiUTVCRzhIRXctQkR5TVU4TnoyUnl6a2xNVlAwbm1XZGhSXzd6UHFSci1uVVJtSGlyZ0tZWkc1ZjRpZDhuREtnQkRtcjBxOXFEUmllWVphVHFkelZDOWRfdW1TZGFYb0lSMUVfUmhHZzNJcXF2MF9rQQ?oc=5)

@@ -18,4 +18,4 @@ Among the stocks highlighted for opportunistic investors are Super Micro Compute
 
 For those looking to navigate the current market volatility, these stocks offer promising potential. I highly recommend checking out the full article for a deeper dive into these investment opportunities.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/3-no-brainer-stocks-to-buy-with-300-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/3-no-brainer-stocks-to-buy-with-300-right-now/?source=iedfolrf0000001)

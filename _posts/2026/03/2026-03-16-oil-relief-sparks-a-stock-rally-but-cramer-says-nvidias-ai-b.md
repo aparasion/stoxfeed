@@ -18,4 +18,4 @@ As oil prices fell, attention turned to Nvidia's GTC conference, where CEO Jense
 
 For market professionals, the interplay between oil prices and tech stocks like Nvidia highlights the importance of geopolitical factors and sector-specific developments. For a deeper dive into Cramer's insights and the implications for your portfolio, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/16/oil-relief-sparks-a-stock-rally-but-cramer-says-nvidias-ai-boom-is-the-real-story.html)
+[cnbc.com](https://www.cnbc.com/2026/03/16/oil-relief-sparks-a-stock-rally-but-cramer-says-nvidias-ai-boom-is-the-real-story.html)

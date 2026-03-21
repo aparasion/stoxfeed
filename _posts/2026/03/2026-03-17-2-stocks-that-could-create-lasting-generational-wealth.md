@@ -18,4 +18,4 @@ On the other hand, MercadoLibre has carved out a strong position in Latin Americ
 
 Investors should consider these stocks for their potential to deliver long-term returns and stability. For a deeper dive into their strategies and performance, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/2-stocks-could-create-lasting-generational-wealth-1)
+[nasdaq.com](https://www.nasdaq.com/articles/2-stocks-could-create-lasting-generational-wealth-1)

@@ -18,4 +18,4 @@ The mixed performance in MP's 2025 earnings reveals a record production of rare-
 
 For market professionals, MP's strategic move into magnet production could signal potential long-term growth, making it worth monitoring as the company navigates through its current challenges. I recommend diving deeper into the full story for a comprehensive understanding of MP's outlook and market positioning.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/major-investors-are-buying-up-shares-of-mp-materia/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/major-investors-are-buying-up-shares-of-mp-materia/?source=iedfolrf0000001)

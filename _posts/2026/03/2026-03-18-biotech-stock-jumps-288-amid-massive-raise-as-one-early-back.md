@@ -18,4 +18,4 @@ This exit is noteworthy as it highlights the volatility and speculative nature o
 
 Investors should view this exit in the context of typical venture capital strategies and focus on Dianthus's execution moving forward. For a deeper dive into the implications of this transaction, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/18/biotech-stock-jumps-288-amid-massive-raise-as-one-early-backer-reports-usd14-million-exit/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/18/biotech-stock-jumps-288-amid-massive-raise-as-one-early-backer-reports-usd14-million-exit/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The decline in oil prices is significant for the financial markets, particularly
 
 For market professionals, the interplay between oil prices and crypto performance is crucial to monitor. I recommend exploring the full article for deeper insights into these developments.
 
-[Source: coindesk.com](https://www.coindesk.com/markets/2026/03/20/bitcoin-jumps-to-usd70-800-as-oil-retreats-ether-and-xrp-lag)
+[coindesk.com](https://www.coindesk.com/markets/2026/03/20/bitcoin-jumps-to-usd70-800-as-oil-retreats-ether-and-xrp-lag)

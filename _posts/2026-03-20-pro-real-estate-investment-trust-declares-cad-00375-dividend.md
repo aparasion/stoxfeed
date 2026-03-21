@@ -18,4 +18,4 @@ This steady dividend declaration is significant for income-focused investors, pa
 
 For portfolio managers and analysts, this development highlights the importance of dividend stability in evaluating real estate investment trusts. It may be worthwhile to examine how this aligns with broader trends in the REIT market. For a deeper dive into PRV.UN's financials and dividend history, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566965-pro-real-estate-investment-trust-declares-cad-0_0375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566965-pro-real-estate-investment-trust-declares-cad-0_0375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ This rejection is significant for the financial markets as it reflects Pfizer's 
 
 Investors should closely monitor how this situation unfolds, as it may signal broader trends in corporate governance and shareholder engagement. For a deeper understanding of Pfizer's position and the implications of this offer, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4567127-pfizer-tells-shareholders-reject-mini-tender-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4567127-pfizer-tells-shareholders-reject-mini-tender-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ The introduction of this tool could have substantial implications for the health
 
 For professionals in finance and healthcare, the rise of AI-driven tools suggests new investment opportunities and strategic partnerships. I recommend exploring the full article for deeper insights into how these developments may influence market trends and investment strategies.
 
-[Source: modernhealthcare.com](https://www.modernhealthcare.com)
+[modernhealthcare.com](https://www.modernhealthcare.com)

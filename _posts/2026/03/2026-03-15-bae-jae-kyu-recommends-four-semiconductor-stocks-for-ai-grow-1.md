@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for oil pri
 
 Market participants should keep a close eye on developments from the recent meeting of foreign ministers from 12 Islamic nations in Riyadh, where strategies to address Iran's aggression were discussed. For a deeper understanding of the unfolding situation, I recommend reading the full article for comprehensive insights.
 
-[Source: chosun.com](https://www.chosun.com)
+[chosun.com](https://www.chosun.com)

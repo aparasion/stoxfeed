@@ -18,4 +18,4 @@ For financial markets, this evolving regulatory landscape may affect stock perfo
 
 Understanding these dynamics is essential for portfolio management and market strategy. For a deeper dive into the implications of this research, I recommend reading the full article.
 
-[Source: promarket.org](https://www.promarket.org)
+[promarket.org](https://www.promarket.org)

@@ -18,4 +18,4 @@ This geopolitical volatility is poised to exacerbate supply disruptions, with Ci
 
 For market professionals, the key takeaway is the potential for significant price volatility in oil markets, influenced by geopolitical developments and supply chain disruptions. I recommend exploring the full article for deeper insights into the implications of these events on energy markets and broader economic conditions.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html)

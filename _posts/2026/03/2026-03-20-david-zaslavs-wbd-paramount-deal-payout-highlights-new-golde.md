@@ -18,4 +18,4 @@ This development is significant for investors and market analysts as it undersco
 
 For market professionals, Zaslav’s substantial payout could influence perceptions of corporate governance and executive compensation norms. I recommend diving deeper into the full article for a comprehensive understanding of the implications surrounding this deal.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/wbd-david-zaslav-pay-paramount.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/wbd-david-zaslav-pay-paramount.html)

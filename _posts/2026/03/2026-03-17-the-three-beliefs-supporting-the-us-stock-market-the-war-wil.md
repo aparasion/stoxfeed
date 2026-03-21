@@ -18,4 +18,4 @@ The approval comes at a time when Chinese brokerage stocks are experiencing a ra
 
 Market professionals should closely monitor the implications of this acquisition on sector dynamics and stock performance. The integration of Yao Cai's services into Ant Group's portfolio could signal increased competition and innovation in the brokerage space. For a deeper dive into the details and potential impacts, I recommend exploring the full article.
 
-[Source: news.futunn.com](https://news.futunn.com)
+[news.futunn.com](https://news.futunn.com)

@@ -18,4 +18,4 @@ Key sectors saw notable movements, with Tata Consultancy Services up 1 percent a
 
 For market professionals, the day's trading highlights the resilience of Indian equities amid geopolitical tensions and the importance of sector-specific developments. For a deeper dive into these market movements, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/indian-shares-rebound-oil-prices-ease-it-stocks-rally)
+[nasdaq.com](https://www.nasdaq.com/articles/indian-shares-rebound-oil-prices-ease-it-stocks-rally)

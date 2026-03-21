@@ -18,4 +18,4 @@ The implications for financial markets are significant. The USDCAD currency pair
 
 For professionals in trading and portfolio management, understanding these inflation trends is crucial for making informed decisions. I recommend exploring the full article for a deeper analysis of the data and its market impact.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/breaking-usdcad-rebounds-after-lower-than-expected-cpi)
+[xtb.com](https://www.xtb.com/en/market-analysis/breaking-usdcad-rebounds-after-lower-than-expected-cpi)

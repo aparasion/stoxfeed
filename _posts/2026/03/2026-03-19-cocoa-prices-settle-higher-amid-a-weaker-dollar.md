@@ -18,4 +18,4 @@ The market is facing mixed signals; while recent purchases from local grinders i
 
 For market professionals, the key takeaway is the delicate balance between supply improvements and weak demand signals. Understanding these trends will be crucial for navigating the cocoa market. For a deeper dive into the factors affecting cocoa prices, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cocoa-prices-settle-higher-amid-weaker-dollar)
+[nasdaq.com](https://www.nasdaq.com/articles/cocoa-prices-settle-higher-amid-weaker-dollar)

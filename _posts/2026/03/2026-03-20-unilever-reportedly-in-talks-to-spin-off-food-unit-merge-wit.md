@@ -18,4 +18,4 @@ This move could have substantial implications for both companies and their respe
 
 Market professionals should monitor these developments closely, as the outcome could influence stock performance and sector dynamics. For a deeper dive into the potential ramifications, I recommend reading the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/unilever-reportedly-talks-spin-food-unit-merge-mccormick)
+[nasdaq.com](https://www.nasdaq.com/articles/unilever-reportedly-talks-spin-food-unit-merge-mccormick)

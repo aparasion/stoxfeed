@@ -18,4 +18,4 @@ This investment highlights a growing trend in the financial sector where alterna
 
 For market professionals, this development underscores the importance of strategic partnerships in the asset management space. As firms like Abacus seek to innovate and enhance their service offerings, it may be worthwhile to monitor Manning & Napier's upcoming performance and any shifts in market dynamics. For a deeper dive into this strategic investment, I recommend exploring the full article.
 
-[Source: rbj.net](https://rbj.net)
+[rbj.net](https://rbj.net)

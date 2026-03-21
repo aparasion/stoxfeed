@@ -18,4 +18,4 @@ The company is capitalizing on soaring demand for memory products driven by Nvid
 
 For market professionals, Micron’s strategic investments in expanding manufacturing capacity and its focus on high-margin products position it as a key player in the evolving AI landscape. I recommend diving deeper into the full article for a comprehensive analysis of Micron's future potential.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html)

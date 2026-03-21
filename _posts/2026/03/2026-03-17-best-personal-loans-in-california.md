@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. As consumer borrowin
 
 For professionals navigating the lending landscape, understanding the nuances of these offerings is crucial. The article provides a comprehensive overview of California's personal loan options, making it a valuable resource for anyone looking to optimize their financial strategy. I highly recommend exploring the full story for deeper insights.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-personal-loans-in-california)
+[benzinga.com](https://www.benzinga.com/money/best-personal-loans-in-california)

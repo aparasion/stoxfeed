@@ -18,4 +18,4 @@ Broadcom's focus on custom AI chips tailored to specific workloads is generating
 
 Investors should consider positioning themselves in TSMC and Broadcom, given their robust growth prospects in the AI sector. For a deeper dive into their potential trajectories, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/2-companies-that-will-join-nvidia-apple-and-alphab/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/2-companies-that-will-join-nvidia-apple-and-alphab/?source=iedfolrf0000001)

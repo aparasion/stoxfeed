@@ -18,4 +18,4 @@ This development is significant for the food sector, as a merger could have resh
 
 For investors, the end of these merger talks highlights the challenges of consolidation in the sector and the need for both companies to explore alternative strategies for growth. Dive deeper into the implications of this development by reading the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566036-kraft-heinz-unilever-held-talks-about-a-food-merger-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566036-kraft-heinz-unilever-held-talks-about-a-food-merger-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ Palo Alto Networks, the largest cybersecurity firm by market cap, reported a 15%
 
 For market professionals, this sell-off may signal a strategic buying opportunity in cybersecurity stocks, given their strong fundamentals and the growing need for advanced security solutions. I highly recommend exploring the full article for deeper insights into these companies and the current market dynamics.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/2-top-cybersecurity-stocks-to-buy-in-march/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/2-top-cybersecurity-stocks-to-buy-in-march/?source=iedfolrf0000001)

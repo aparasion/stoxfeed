@@ -18,4 +18,4 @@ Early data from cities like Austin and Atlanta, where AVs have been integrated i
 
 For investors, the key takeaway is that the real opportunity lies in who can effectively connect riders with diverse vehicle options. As Uber continues to focus on demand aggregation rather than vehicle production, it stands to benefit significantly from the anticipated expansion of the mobility market. For a deeper dive into Uber's strategy and market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/skeptics-fear-autonomous-vehicles-will-destroy-ube/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/skeptics-fear-autonomous-vehicles-will-destroy-ube/?source=iedfolrf0000001)

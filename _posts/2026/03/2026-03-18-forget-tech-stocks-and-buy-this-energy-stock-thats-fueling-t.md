@@ -18,4 +18,4 @@ In contrast, Devon Energy (DVN) offers a more compelling investment narrative, p
 
 Investors should consider Devon's concrete growth initiatives and shareholder returns, which stand in stark contrast to CEG's speculative outlook. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/forget-tech-stocks-and-buy-this-energy-stock-thats/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/forget-tech-stocks-and-buy-this-energy-stock-thats/?source=iedfolrf0000001)

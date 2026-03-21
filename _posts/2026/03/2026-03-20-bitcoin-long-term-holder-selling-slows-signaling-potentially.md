@@ -18,4 +18,4 @@ This development matters for the financial markets as it may signal a shift in s
 
 For market professionals, this trend underscores the importance of monitoring holder behavior as a barometer for future price movements. I recommend checking out the full analysis to gain deeper insights into how these dynamics could shape the cryptocurrency landscape.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQck1NWi1hTUxMaXBWaDZsbExjeWRqWjhLRGVBejk0aVpvWnJ5NkFXbk1hdDFSbnhrbVNNdFlwWmkxWDV2OGVVZW9LTWlFMHZiZVZrcmhpQm9fSDRyT3RDM0ZrYnpjODZyQ042UnlqdVc5UGZ0c0hiYmNuckQ5TVI1NGhKQ1ZFU3l0bEE?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQck1NWi1hTUxMaXBWaDZsbExjeWRqWjhLRGVBejk0aVpvWnJ5NkFXbk1hdDFSbnhrbVNNdFlwWmkxWDV2OGVVZW9LTWlFMHZiZVZrcmhpQm9fSDRyT3RDM0ZrYnpjODZyQ042UnlqdVc5UGZ0c0hiYmNuckQ5TVI1NGhKQ1ZFU3l0bEE?oc=5)

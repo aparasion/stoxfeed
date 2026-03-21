@@ -18,4 +18,4 @@ The financial implications are significant, with Nebius projecting annual recurr
 
 For professionals looking to navigate the evolving AI landscape, Nebius presents a compelling investment opportunity. I highly recommend exploring the full article for a deeper dive into the company's strategic positioning and market potential.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/this-ai-stock-has-a-194-billion-microsoft-deal-a-3/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/this-ai-stock-has-a-194-billion-microsoft-deal-a-3/?source=iedfolrf0000001)

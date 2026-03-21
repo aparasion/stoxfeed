@@ -18,4 +18,4 @@ This development is significant for the financial markets, particularly given HD
 
 For a deeper understanding of the implications for HDFC Bank and the broader banking sector, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/hdfc-bank-shares-fall-chairman-resigns-unethical-practices.html)

@@ -18,4 +18,4 @@ The drop in oil prices is likely to ease inflationary pressures, potentially inf
 
 For market professionals, the interplay between energy prices and stock performance is critical to watch. Dive deeper into the implications of these trends by exploring the full article for a comprehensive analysis.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemRac0NLamtwUGw5TGs3c0tjb0xZaVNkQ3ZnWHdWVGZWeERqaVdVRlhtOVhTYnpaT0k1SjN1cjJkMjdnYzVUWk1mMXRrazkyeHhCd2xYY0k3V1JqWURPeTdfaVI4blNhSTREZHBEb1NXblREVDJ4dV9CU2gwQjg1cGNQOWVmMktlYldwOUREMmpxbktJSnBNV2ZDT2xCV0JETWZBaDhZYkU0QQ?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemRac0NLamtwUGw5TGs3c0tjb0xZaVNkQ3ZnWHdWVGZWeERqaVdVRlhtOVhTYnpaT0k1SjN1cjJkMjdnYzVUWk1mMXRrazkyeHhCd2xYY0k3V1JqWURPeTdfaVI4blNhSTREZHBEb1NXblREVDJ4dV9CU2gwQjg1cGNQOWVmMktlYldwOUREMmpxbktJSnBNV2ZDT2xCV0JETWZBaDhZYkU0QQ?oc=5)

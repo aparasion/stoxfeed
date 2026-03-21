@@ -18,4 +18,4 @@ The focus now shifts to the company’s clinical pipeline, particularly the Take
 
 For market professionals, Curis's operational pivot highlights the importance of monitoring clinical trial progress and funding strategies in biotech. The full details of this strategic shift and its implications can be explored further in the original article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/curis-cris-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/curis-cris-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

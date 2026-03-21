@@ -18,4 +18,4 @@ The swift discontinuation highlights the volatility in the tech sector, particul
 
 For market professionals, the key takeaway is the importance of monitoring consumer response to high-end tech offerings. Understanding these dynamics can inform investment strategies in the technology sector. I recommend diving deeper into the implications of this development in the full article for a comprehensive analysis.
 
-[Source: techi.com](https://www.techi.com)
+[techi.com](https://www.techi.com)

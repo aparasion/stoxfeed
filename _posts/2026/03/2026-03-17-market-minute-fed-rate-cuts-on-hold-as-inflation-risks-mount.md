@@ -18,4 +18,4 @@ For financial markets, this development signals a cautious approach from the Fed
 
 Market professionals should closely monitor the Fed's statements for insights into future monetary policy directions, especially as inflation dynamics evolve. For a deeper understanding of the implications of these developments, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: realeconomy.rsmus.com](https://realeconomy.rsmus.com)
+[realeconomy.rsmus.com](https://realeconomy.rsmus.com)

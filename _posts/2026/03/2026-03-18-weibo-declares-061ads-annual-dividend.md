@@ -18,4 +18,4 @@ This development is significant for investors as it reflects Weibo's commitment 
 
 For professionals tracking dividend-paying stocks, Weibo's latest move could signal a potential opportunity for income-focused strategies. I recommend diving deeper into the full article for a comprehensive analysis of Weibo's financials and dividend outlook.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565698-weibo-declares-061ads-annual-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565698-weibo-declares-061ads-annual-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

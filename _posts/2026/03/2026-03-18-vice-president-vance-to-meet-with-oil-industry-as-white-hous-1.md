@@ -18,4 +18,4 @@ The urgency of this meeting is underscored by the recent spike in diesel prices,
 
 Market professionals should closely monitor these developments, as they could significantly impact energy sector stocks and broader market sentiment. For a deeper dive into the implications of these actions, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html)

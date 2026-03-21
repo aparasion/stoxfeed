@@ -18,4 +18,4 @@ The ramifications for financial markets are profound, as rising oil prices could
 
 Investors should closely monitor the ongoing developments in the Middle East and their implications for energy prices and inflation, as these factors will likely influence market dynamics in the coming weeks. For a deeper dive into this unfolding situation, I recommend reading the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/asian-shares-plunge-iran-conflict-worsens)
+[nasdaq.com](https://www.nasdaq.com/articles/asian-shares-plunge-iran-conflict-worsens)

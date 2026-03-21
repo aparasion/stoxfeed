@@ -18,4 +18,4 @@ This performance is significant as it highlights Zumiez's resilience amid ongoin
 
 For market professionals, the key takeaway is Zumiez's ability to maintain growth and profitability through strategic initiatives, even in a volatile environment. I recommend exploring the full details in the original article for deeper insights into their financial outlook and operational strategies.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/zumiez-zumz-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/zumiez-zumz-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

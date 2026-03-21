@@ -18,4 +18,4 @@ In California, the median home price has reached $830,370, while sales remain sl
 
 For market professionals, the rise in mortgage rates presents a critical factor to monitor, as it may influence consumer behavior and overall housing market stability. For a deeper dive into the implications of these trends, I recommend checking out the full article.
 
-[Source: ts2.tech](https://ts2.tech)
+[ts2.tech](https://ts2.tech)

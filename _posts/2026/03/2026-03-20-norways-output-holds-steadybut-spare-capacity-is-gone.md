@@ -18,4 +18,4 @@ This decline in production comes at a critical time for European energy security
 
 For those tracking energy markets, this development underscores the importance of stable supply sources amid rising geopolitical risks. I recommend reading the full article for a deeper understanding of Norway's role in the current energy landscape.
 
-[Source: oilprice.com](https://oilprice.com/Energy/Crude-Oil/Norways-Output-Holds-Steadybut-Spare-Capacity-Is-Gone.html)
+[oilprice.com](https://oilprice.com/Energy/Crude-Oil/Norways-Output-Holds-Steadybut-Spare-Capacity-Is-Gone.html)

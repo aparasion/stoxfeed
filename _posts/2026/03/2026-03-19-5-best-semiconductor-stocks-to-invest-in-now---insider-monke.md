@@ -18,4 +18,4 @@ As AI continues to reshape various sectors, the implications for stock performan
 
 For those looking to navigate this evolving landscape, understanding which AI stocks are positioned for long-term success is crucial. I recommend checking out the full article for a deeper dive into the best AI stocks to consider for the next decade.
 
-[Source: insidermonkey.com](https://www.insidermonkey.com)
+[insidermonkey.com](https://www.insidermonkey.com)

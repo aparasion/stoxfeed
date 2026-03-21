@@ -18,4 +18,4 @@ This mixed performance highlights the ongoing volatility in the market, influenc
 
 For market professionals, the key takeaway is the divergence in sector performance amid broader market declines. This presents potential opportunities for strategic investments in resilient sectors. For a deeper dive into today's market dynamics, I recommend checking out the full article.
 
-[Source: news.futunn.com](https://news.futunn.com)
+[news.futunn.com](https://news.futunn.com)

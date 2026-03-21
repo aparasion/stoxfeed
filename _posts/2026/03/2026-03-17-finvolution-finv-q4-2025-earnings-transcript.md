@@ -18,4 +18,4 @@ The company’s strategic pivot towards higher-quality borrowers in China has le
 
 Looking ahead, FinVolution anticipates a revenue decline of 5%-15% in 2026 due to ongoing regulatory challenges in China, but the focus on international growth and risk management positions it well for future resilience. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/finvolution-finv-q4-2025-earnings-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/finvolution-finv-q4-2025-earnings-transcript/?source=iedfolrf0000001)

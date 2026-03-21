@@ -18,4 +18,4 @@ The implications for the broader financial markets are significant. The divergen
 
 For market professionals, the key takeaway is to monitor developments in the Strait of Hormuz closely, as prolonged disruptions could lead to substantial shifts in global oil pricing dynamics. I recommend diving deeper into this analysis for a comprehensive understanding of the market implications.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html)

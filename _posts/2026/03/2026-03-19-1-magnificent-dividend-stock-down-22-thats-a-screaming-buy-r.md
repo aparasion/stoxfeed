@@ -18,4 +18,4 @@ Despite these challenges, Abbott's medical device division showed resilience, wi
 
 For investors, this dip could represent a strategic entry point, especially given Abbott's long history of dividend growth and the potential for revenue recovery. For a deeper dive into Abbott's prospects, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/1-magnificent-dividend-stock-down-20-thats-a-screa/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/1-magnificent-dividend-stock-down-20-thats-a-screa/?source=iedfolrf0000001)

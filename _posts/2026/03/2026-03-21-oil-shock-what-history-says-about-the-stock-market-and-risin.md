@@ -18,4 +18,4 @@ The implications of sustained high oil prices extend beyond immediate market rea
 
 For investors, the key takeaway is to remain vigilant about the potential for a bear market amid these rising oil prices. While the S&P 500 has historically rebounded from oil shocks, the current economic indicators warrant careful consideration of alternative investment opportunities. I recommend diving deeper into this analysis for a comprehensive understanding of the market's trajectory during these turbulent times.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/oil-shock-what-history-says-about-stock-market-and-rising-energy-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/oil-shock-what-history-says-about-stock-market-and-rising-energy-prices)

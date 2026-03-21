@@ -18,4 +18,4 @@ This dividend declaration is significant for income-focused investors looking to
 
 For those tracking dividend yields and growth, SRII:CA's latest payout adds to its appeal as a steady income source within the responsible investing space. To dive deeper into the ETF's performance metrics and dividend history, I recommend checking out the full article for a comprehensive overview.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566423-scotia-responsible-investing-intl-equity-index-etf-declares-cad-0027-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566423-scotia-responsible-investing-intl-equity-index-etf-declares-cad-0027-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

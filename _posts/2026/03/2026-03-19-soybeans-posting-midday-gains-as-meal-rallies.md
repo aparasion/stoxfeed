@@ -18,4 +18,4 @@ This underperformance in export sales could impact overall market sentiment and 
 
 For market professionals, the key takeaway is the potential volatility stemming from weak export data amidst changing production estimates. I recommend diving into the full article for a comprehensive analysis of these developments and their implications for the soybean market.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soybeans-posting-midday-gains-meal-rallies)
+[nasdaq.com](https://www.nasdaq.com/articles/soybeans-posting-midday-gains-meal-rallies)

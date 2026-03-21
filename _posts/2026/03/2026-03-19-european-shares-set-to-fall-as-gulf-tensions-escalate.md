@@ -18,4 +18,4 @@ The implications for financial markets are significant, as heightened oil prices
 
 Investors should closely monitor the evolving situation in the Middle East and its potential ramifications on energy markets and inflation, as these factors will likely influence trading strategies in the coming days. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/european-shares-set-fall-gulf-tensions-escalate)
+[nasdaq.com](https://www.nasdaq.com/articles/european-shares-set-fall-gulf-tensions-escalate)

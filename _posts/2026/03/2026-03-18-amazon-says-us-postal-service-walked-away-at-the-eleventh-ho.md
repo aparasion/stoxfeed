@@ -18,4 +18,4 @@ This development is crucial for the logistics sector, as it underscores Amazon's
 
 Market professionals should monitor this evolving relationship, as it could signal broader changes in the logistics landscape and affect related stocks. For a deeper dive into the implications of this development, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html)

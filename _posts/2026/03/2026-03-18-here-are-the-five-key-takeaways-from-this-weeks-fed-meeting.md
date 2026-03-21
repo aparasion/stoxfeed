@@ -18,4 +18,4 @@ This decision and Powell's remarks highlight the Fed's struggle to balance its d
 
 For market professionals, the key takeaway is the Fed's commitment to a flexible approach, suggesting that investors should remain patient and vigilant as they navigate this uncertain environment. For a deeper dive into Powell's insights and the Fed's outlook, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html)

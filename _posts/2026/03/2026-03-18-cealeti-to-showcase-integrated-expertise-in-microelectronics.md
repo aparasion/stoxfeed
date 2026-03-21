@@ -18,4 +18,4 @@ This research is particularly relevant for professionals in the semiconductor an
 
 For market professionals, the implications of these developments extend beyond technical innovation; they could shape investment strategies in semiconductor stocks. I recommend diving into the full article for a comprehensive overview of these groundbreaking findings and their potential market impact.
 
-[Source: semiconductor-digest.com](https://www.semiconductor-digest.com/cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026)
+[semiconductor-digest.com](https://www.semiconductor-digest.com/cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026)

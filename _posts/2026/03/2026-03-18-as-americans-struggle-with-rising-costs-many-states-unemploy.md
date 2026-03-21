@@ -18,4 +18,4 @@ This situation poses potential risks for the broader economy, particularly as jo
 
 Market professionals should closely monitor developments in unemployment benefits, as inadequate support could lead to increased economic distress and impact consumer spending. For a deeper dive into the analysis and its implications, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/state-unemployment-benefits.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/state-unemployment-benefits.html)

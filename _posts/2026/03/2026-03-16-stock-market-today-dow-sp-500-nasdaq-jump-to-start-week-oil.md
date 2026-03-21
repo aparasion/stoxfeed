@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, as Nvidia anticipate
 
 For those looking to understand the nuances of Nvidia's strategy and its potential impact on the market, I recommend diving into the full article for a comprehensive analysis.
 
-[Source: finance.yahoo.com](https://finance.yahoo.com)
+[finance.yahoo.com](https://finance.yahoo.com)

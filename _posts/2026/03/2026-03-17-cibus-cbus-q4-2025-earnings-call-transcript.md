@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, as Cibus positions i
 
 For professionals in the market, Cibus's evolving partnerships and regulatory momentum signal a promising trajectory in gene editing. I recommend diving deeper into the full story to understand the potential impacts on your investment strategy.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/cibus-cbus-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/cibus-cbus-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

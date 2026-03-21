@@ -18,4 +18,4 @@ The appeal of penny stocks lies in their affordability and volatility, offering 
 
 For those interested in capitalizing on the green energy movement, exploring these penny stocks could provide valuable insights and opportunities. I recommend checking out Benzinga's full article for a detailed look at these investments and their market implications.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-green-penny-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-green-penny-stocks)

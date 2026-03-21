@@ -18,4 +18,4 @@ The implications for the financial markets are profound. A sustained disruption 
 
 Market professionals should closely monitor developments in the Strait of Hormuz, as the situation evolves. For a deeper dive into the potential ramifications and strategies being discussed, I recommend exploring the full article for comprehensive insights.
 
-[Source: oilprice.com](https://oilprice.com/Energy/Energy-General/Why-the-Global-Oil-System-Cannot-Replace-Hormuz-Flows.html)
+[oilprice.com](https://oilprice.com/Energy/Energy-General/Why-the-Global-Oil-System-Cannot-Replace-Hormuz-Flows.html)

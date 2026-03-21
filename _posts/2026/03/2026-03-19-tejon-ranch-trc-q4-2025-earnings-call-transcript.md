@@ -18,4 +18,4 @@ This financial update is significant as it reflects TRC's resilience amid challe
 
 For professionals in the financial markets, TRC's evolving strategy and solid liquidity position could present new investment opportunities. I recommend reading the full article for a deeper dive into TRC's performance and strategic outlook.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/tejon-ranch-trc-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/tejon-ranch-trc-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

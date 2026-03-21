@@ -18,4 +18,4 @@ This development is crucial for financial markets as it underscores the ongoing 
 
 Market professionals should monitor this situation closely, as it could shape future interest rate decisions and broader economic policy. For a deeper dive into the implications of Powell's statements and the ongoing investigation, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/powell-says-he-will-stay-on-as-head-of-the-fed-until-warsh-is-confirmed.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/powell-says-he-will-stay-on-as-head-of-the-fed-until-warsh-is-confirmed.html)

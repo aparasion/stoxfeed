@@ -18,4 +18,4 @@ Home Depot has shown robust performance despite high inflation and interest rate
 
 For investors seeking stability and growth in the retail sector, both Home Depot and TJX present compelling opportunities. I highly recommend exploring the full article for deeper insights into these stocks and their market strategies.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/the-top-2-retail-stocks-to-buy-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/the-top-2-retail-stocks-to-buy-right-now/?source=iedfolrf0000001)

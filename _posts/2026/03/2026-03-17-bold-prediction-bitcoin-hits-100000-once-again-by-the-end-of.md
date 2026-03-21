@@ -18,4 +18,4 @@ The implications for financial markets are notable. As the valuation gap persist
 
 For a deeper dive into the factors influencing Bitcoin's valuation and its relationship with gold, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/bold-prediction-bitcoin-hits-100000-once-again-by/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/bold-prediction-bitcoin-hits-100000-once-again-by/?source=iedfolrf0000001)

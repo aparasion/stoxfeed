@@ -18,4 +18,4 @@ The current market dynamics suggest that Bitcoin is struggling to maintain momen
 
 For a deeper understanding of these market shifts and their implications for Bitcoin and broader asset classes, I recommend exploring the full article.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

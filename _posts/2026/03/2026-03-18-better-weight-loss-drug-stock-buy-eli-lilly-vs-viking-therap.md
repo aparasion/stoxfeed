@@ -18,4 +18,4 @@ Meanwhile, Viking Therapeutics (VKTX) is making strides with its candidate VK273
 
 For investors, both Lilly and Viking present compelling opportunities, but Lilly's established market presence and upcoming regulatory decisions could provide immediate growth potential. For a deeper dive into this dynamic sector, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/better-weight-loss-drug-stock-buy-eli-lilly-vs-vik/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/better-weight-loss-drug-stock-buy-eli-lilly-vs-vik/?source=iedfolrf0000001)

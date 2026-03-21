@@ -18,4 +18,4 @@ This development is critical for financial markets, particularly in the energy s
 
 For a deeper understanding of the potential market impacts and strategic considerations, I recommend checking out the full article.
 
-[Source: indiatoday.in](https://www.indiatoday.in)
+[indiatoday.in](https://www.indiatoday.in)

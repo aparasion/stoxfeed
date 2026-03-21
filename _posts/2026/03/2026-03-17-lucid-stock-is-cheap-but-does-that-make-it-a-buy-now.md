@@ -18,4 +18,4 @@ This disparity highlights a critical concern for investors: while Lucid's stock 
 
 For a deeper analysis of Lucid's financials and market position, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/lucid-stock-is-cheap-but-does-that-make-it-a-buy-n/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/lucid-stock-is-cheap-but-does-that-make-it-a-buy-n/?source=iedfolrf0000001)

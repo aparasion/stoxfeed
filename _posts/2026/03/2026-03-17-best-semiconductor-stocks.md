@@ -18,4 +18,4 @@ The article highlights key factors to consider when investing in semiconductor s
 
 For professionals looking to enhance their investment strategies, this comprehensive guide offers valuable insights and resources. I recommend checking out the full article for a deeper understanding of the semiconductor market and the best stocks to consider.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-semiconductor-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-semiconductor-stocks)

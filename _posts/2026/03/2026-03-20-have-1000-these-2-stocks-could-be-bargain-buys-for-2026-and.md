@@ -18,4 +18,4 @@ These developments are crucial for market professionals to consider, as both com
 
 For a deeper dive into the financial outlooks and strategic initiatives of these two companies, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/have-1000-these-2-stocks-could-be-bargain-buys/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/have-1000-these-2-stocks-could-be-bargain-buys/?source=iedfolrf0000001)

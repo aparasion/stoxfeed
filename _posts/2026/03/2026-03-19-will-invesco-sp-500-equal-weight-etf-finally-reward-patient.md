@@ -18,4 +18,4 @@ Despite these setbacks, some investors remain optimistic about the equal-weight 
 
 For market professionals, the key takeaway is that while the Invesco ETF may not currently shine, it offers diversification benefits that could prove valuable in a tech-heavy investment landscape. For a deeper analysis of this ETF's potential, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/will-invesco-sp-500-equal-weight-etf-finally-rewar/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/will-invesco-sp-500-equal-weight-etf-finally-rewar/?source=iedfolrf0000001)

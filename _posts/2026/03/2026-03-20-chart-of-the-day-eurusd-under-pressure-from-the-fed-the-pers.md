@@ -18,4 +18,4 @@ Geopolitical tensions, particularly in the Middle East, are bolstering the US do
 
 For market professionals, the EURUSD's sensitivity to these dynamics highlights the importance of monitoring geopolitical developments and inflation trends. I recommend diving deeper into this analysis for a comprehensive understanding of the current landscape.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/chart-of-the-day-eurusd-under-pressure-from-the-fed-the-persian-gulf-and-inflation)
+[xtb.com](https://www.xtb.com/en/market-analysis/chart-of-the-day-eurusd-under-pressure-from-the-fed-the-persian-gulf-and-inflation)

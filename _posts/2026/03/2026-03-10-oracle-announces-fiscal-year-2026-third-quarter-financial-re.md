@@ -18,4 +18,4 @@ The impressive earnings not only reflect Oracle's successful transition but also
 
 Investors should closely monitor Oracle's ongoing cloud initiatives and their impact on future earnings. For a deeper dive into the specifics of Oracle's financial performance and strategic outlook, I recommend exploring the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3ZiRXh0VnVoSm50UXJBNnFmZk9wNVRTTjNqNUNERF9PLUQxMUlZaGpJODVldHdyMzNDRDF5ZU1Lbnh6LWVWSmMwWDdOeVd0UGt0MmVUSTM0eWtrRGRjZElycGswdzhQcEt4RW1GbDlmcWxkenZycU9uQkMyd0hRbndTaUJNaTA2MzV3M2d0QjR6ME1iY3VyX05MXzZLNFVHTTNBTDkxU2dxejlvMFBPTmo2akZXdFRFZHlFXzhPeTVYNHB4UVlha0I1Z1hRMDZ5cVhyYg?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3ZiRXh0VnVoSm50UXJBNnFmZk9wNVRTTjNqNUNERF9PLUQxMUlZaGpJODVldHdyMzNDRDF5ZU1Lbnh6LWVWSmMwWDdOeVd0UGt0MmVUSTM0eWtrRGRjZElycGswdzhQcEt4RW1GbDlmcWxkenZycU9uQkMyd0hRbndTaUJNaTA2MzV3M2d0QjR6ME1iY3VyX05MXzZLNFVHTTNBTDkxU2dxejlvMFBPTmo2akZXdFRFZHlFXzhPeTVYNHB4UVlha0I1Z1hRMDZ5cVhyYg?oc=5)

@@ -18,4 +18,4 @@ The volatility in NVO’s stock, which currently trades around $38, reflects bot
 
 For market professionals, understanding Novo Nordisk's innovation pipeline and its ability to adapt to evolving market conditions is crucial. I recommend diving deeper into this analysis to grasp the full scope of NVO's market position and future outlook.
 
-[Source: benzinga.com](https://www.benzinga.com/money/ozempic-novo-nordisk-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/ozempic-novo-nordisk-stock-price-prediction)

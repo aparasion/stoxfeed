@@ -18,4 +18,4 @@ This primary outcome is noteworthy for the financial markets, particularly withi
 
 Market professionals should consider the implications of Stratton's victory on future crypto legislation and the broader political landscape. For a deeper dive into the dynamics of this race and its potential impacts, I recommend exploring the full article.
 
-[Source: coindesk.com](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi)
+[coindesk.com](https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi)

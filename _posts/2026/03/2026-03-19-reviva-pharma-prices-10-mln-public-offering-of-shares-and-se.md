@@ -18,4 +18,4 @@ This capital raise is critical for Reviva as it seeks to fund its RECOVER-2 Phas
 
 For market professionals, the implications of this offering and the stock's sharp decline warrant close attention, especially as Reviva navigates its clinical development path. For further insights, I recommend checking out the full article at RTTNews.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/reviva-pharma-prices-10-mln-public-offering-shares-and-series-g-and-h-warrants-stock-down)
+[nasdaq.com](https://www.nasdaq.com/articles/reviva-pharma-prices-10-mln-public-offering-shares-and-series-g-and-h-warrants-stock-down)

@@ -18,4 +18,4 @@ The lockout could significantly impact BP's refining output, particularly at a t
 
 For investors, this situation serves as a reminder of the potential risks associated with labor disputes in the energy sector. Keeping an eye on BP's response and the broader implications for refining margins could provide valuable insights. For a deeper dive into the details of this development, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565622-bp-locks-out-union-workers-at-its-indiana-refinery?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565622-bp-locks-out-union-workers-at-its-indiana-refinery?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

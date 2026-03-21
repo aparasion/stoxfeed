@@ -18,4 +18,4 @@ For market professionals, these fluctuations are critical as they can indicate s
 
 As you assess your trading strategies, consider exploring these highlighted stocks and analyst recommendations for potential opportunities. For a deeper dive into today’s market movements and investment ideas, I highly recommend checking out the full article.
 
-[Source: ca.finance.yahoo.com](https://ca.finance.yahoo.com)
+[ca.finance.yahoo.com](https://ca.finance.yahoo.com)

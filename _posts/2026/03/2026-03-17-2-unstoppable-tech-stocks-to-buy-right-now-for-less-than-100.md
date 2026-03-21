@@ -18,4 +18,4 @@ Meanwhile, Amazon leverages its extensive fulfillment and data center infrastruc
 
 For a deeper dive into these promising tech stocks and their potential impact on your portfolio, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/2-tech-stocks-buy-right-now-less-than-1000/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/2-tech-stocks-buy-right-now-less-than-1000/?source=iedfolrf0000001)

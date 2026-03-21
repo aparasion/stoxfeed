@@ -18,4 +18,4 @@ Western Digital Corporation (WDC) also made headlines, climbing 5.11% to $286.21
 
 These movements suggest a market rally in sectors that are rebounding post-pandemic. For a deeper analysis of these stock performances and their implications, I recommend checking out the full article.
 
-[Source: 247wallst.com](https://247wallst.com)
+[247wallst.com](https://247wallst.com)

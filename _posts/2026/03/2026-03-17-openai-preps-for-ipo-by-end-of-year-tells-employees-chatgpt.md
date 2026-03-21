@@ -18,4 +18,4 @@ The implications for the financial markets are significant. OpenAI's projected r
 
 For professionals tracking AI and tech IPOs, OpenAI's strategic shift and financial projections merit close attention. I highly recommend reading the full article for deeper insights into OpenAI's plans and market positioning.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html)

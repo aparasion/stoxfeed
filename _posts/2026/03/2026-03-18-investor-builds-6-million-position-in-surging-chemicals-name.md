@@ -18,4 +18,4 @@ This investment is significant as Ingevity has demonstrated robust performance, 
 
 For professionals looking to understand the implications of this transaction, it highlights a strategic pivot towards industrial and materials sectors, reinforcing the importance of cyclical stocks in a balanced portfolio. I recommend diving deeper into the full article for a comprehensive analysis of this development.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/18/investor-builds-usd6-million-position-in-surging-chemicals-name-beating-the-s-and-p-500-by-nearly-40-points/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/18/investor-builds-usd6-million-position-in-surging-chemicals-name-beating-the-s-and-p-500-by-nearly-40-points/?source=iedfolrf0000001)

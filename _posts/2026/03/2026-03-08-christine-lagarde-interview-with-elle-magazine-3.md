@@ -18,4 +18,4 @@ This focus on financial empowerment comes at a time when the ECB is launching a 
 
 For market professionals, Lagarde's insights underscore the potential for financial education initiatives to enhance economic resilience and growth. I recommend exploring the full interview to gain deeper insights into her vision for the ECB and its impact on the financial landscape.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)

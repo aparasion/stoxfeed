@@ -18,4 +18,4 @@ For market professionals, the contrasting strategies of GQRE and RWX highlight i
 
 Investors looking at real estate exposure should weigh these factors carefully. GQRE's potential for long-term growth and income may suit those with a bullish outlook on U.S. real estate, while RWX could appeal to those seeking international diversification. For a deeper analysis, I recommend exploring the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/gqre-offers-higher-yield-and-growth-rwx)
+[nasdaq.com](https://www.nasdaq.com/articles/gqre-offers-higher-yield-and-growth-rwx)

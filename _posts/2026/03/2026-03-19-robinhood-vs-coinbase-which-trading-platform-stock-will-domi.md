@@ -18,4 +18,4 @@ This shift is crucial for both companies as they seek to stabilize revenue strea
 
 Investors looking for growth in the fintech sector may find Robinhood's broader approach more appealing, but Coinbase's established infrastructure for digital assets could prove advantageous in the long run. For a deeper dive into their strategies and market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/robinhood-vs-coinbase-which-trading-platform-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/robinhood-vs-coinbase-which-trading-platform-stock/?source=iedfolrf0000001)

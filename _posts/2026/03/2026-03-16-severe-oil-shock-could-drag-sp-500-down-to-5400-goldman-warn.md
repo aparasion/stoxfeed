@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. A sharp increase in 
 
 Market professionals should closely monitor oil price movements and geopolitical developments, as these factors could influence market sentiment and trading strategies. For a deeper dive into Goldman’s analysis and its potential impact, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjNRUEZfTFJleXFLenY0UXZIbGZGVnc3elFkRVI2amZqR3BoRGJTQl8yWmlhbWtqZTlsTjgwMkdEemw1TkkxUUpSWDdVMGlSeUk1a2hvYzUwalF3LWZ2eS1lemNSMURGdDJBazBfRUVteWRqdzlGRUZNZXFtb1RkUHhBOG9KNGxNWnFKTjE0MmxBUHpWaFYtSTFudERzYVJqYllubEhCU3JFREZyV2c?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjNRUEZfTFJleXFLenY0UXZIbGZGVnc3elFkRVI2amZqR3BoRGJTQl8yWmlhbWtqZTlsTjgwMkdEemw1TkkxUUpSWDdVMGlSeUk1a2hvYzUwalF3LWZ2eS1lemNSMURGdDJBazBfRUVteWRqdzlGRUZNZXFtb1RkUHhBOG9KNGxNWnFKTjE0MmxBUHpWaFYtSTFudERzYVJqYllubEhCU3JFREZyV2c?oc=5)

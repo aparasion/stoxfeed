@@ -18,4 +18,4 @@ The implications for the financial markets are noteworthy. With many taxpayers r
 
 For market professionals, the key takeaway is to advise clients on adjusting their tax withholdings to avoid overpayment in the future. This proactive approach can enhance cash flow and investment opportunities. For a deeper dive into this topic, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/19/average-tax-refund-up-why-thats-bad-news/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/19/average-tax-refund-up-why-thats-bad-news/?source=iedfolrf0000001)

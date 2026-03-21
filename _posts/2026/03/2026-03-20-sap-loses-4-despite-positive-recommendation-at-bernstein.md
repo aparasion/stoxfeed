@@ -18,4 +18,4 @@ While SAP's recent fourth-quarter results fell short of expectations—reporting
 
 For a deeper dive into SAP's market positioning and the implications of these developments, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/sap-loses-4-despite-positive-recommendation-at-bernstein)
+[xtb.com](https://www.xtb.com/en/market-analysis/sap-loses-4-despite-positive-recommendation-at-bernstein)

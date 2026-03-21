@@ -18,4 +18,4 @@ This analysis is particularly relevant as the building products sector continues
 
 For those looking to identify promising investment opportunities within the building products space, this episode offers valuable perspectives. I recommend checking out the full video to gain a deeper understanding of Carlisle Companies and its market positioning.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/carlisle-companies-a-strong-contender-in-the-build/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/carlisle-companies-a-strong-contender-in-the-build/?source=iedfolrf0000001)

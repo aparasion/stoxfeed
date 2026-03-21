@@ -18,4 +18,4 @@ The introduction of the Trump Account could have significant implications for th
 
 For market professionals, the Trump Account represents a unique opportunity to engage with new clients and expand investment strategies for younger demographics. I recommend exploring the full details of this initiative to understand its potential impact on future investment trends.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/19/the-one-big-beautiful-bill-created-a-1000-benefit/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/19/the-one-big-beautiful-bill-created-a-1000-benefit/?source=iedfolrf0000001)

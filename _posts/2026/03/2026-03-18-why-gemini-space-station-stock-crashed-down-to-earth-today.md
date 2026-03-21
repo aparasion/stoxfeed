@@ -18,4 +18,4 @@ This downgrade comes just ahead of Gemini’s fourth quarter 2025 earnings repor
 
 For market professionals, the key takeaway is that while Gemini faces headwinds, a recovery in crypto prices and continued credit card growth could stabilize the stock. I recommend reading the full article for a deeper dive into the implications for GEMI.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/why-gemini-space-station-stock-crashed-down-to-ear/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/why-gemini-space-station-stock-crashed-down-to-ear/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for investors are profound, as rising energy prices could lead 
 
 For those navigating the financial landscape, understanding the dynamics of this conflict and its impact on energy prices is crucial. I recommend diving deeper into the full article for a comprehensive analysis of how these events could shape market strategies moving forward.
 
-[Source: cbsnews.com](https://www.cbsnews.com)
+[cbsnews.com](https://www.cbsnews.com)

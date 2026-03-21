@@ -18,4 +18,4 @@ The market is grappling with mixed signals as demand concerns loom large. Major 
 
 For market professionals, the key takeaway is the potential for continued volatility in cocoa prices amid shifting supply dynamics and weak demand signals. For a deeper dive into these developments, I recommend exploring the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/improving-crop-outlook-west-africa-weighs-cocoa-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/improving-crop-outlook-west-africa-weighs-cocoa-prices)

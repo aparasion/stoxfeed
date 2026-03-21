@@ -18,4 +18,4 @@ This airspace closure, albeit temporary, disrupted operations at Dubai Internati
 
 Market professionals should closely monitor how these developments affect airline stocks and regional economic stability. For a deeper dive into the implications of this situation, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/uae-airspace-closure-dubai-airport-drone-strike-middle-east-flights.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/uae-airspace-closure-dubai-airport-drone-strike-middle-east-flights.html)

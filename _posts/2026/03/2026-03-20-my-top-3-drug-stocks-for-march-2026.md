@@ -18,4 +18,4 @@ Vertex Pharmaceuticals maintains a monopoly in cystic fibrosis treatments, with 
 
 Conversely, Pfizer's stock appears undervalued, trading at just 9.3 times forward earnings compared to the sector average of 17.4. With a strong pipeline and a forward dividend yield exceeding 6.3%, Pfizer presents an appealing option for income-focused investors. For a deeper dive into these promising stocks, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/my-top-3-drug-stocks-for-march-2026/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/my-top-3-drug-stocks-for-march-2026/?source=iedfolrf0000001)

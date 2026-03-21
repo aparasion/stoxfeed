@@ -18,4 +18,4 @@ The USDA's shipment data indicates that wheat exports are ahead of schedule, wit
 
 Traders should closely monitor these developments, as the current pricing dynamics could signal opportunities or risks in the wheat market. For a deeper dive into the latest trends and data, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-falling-weaker-friday)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-falling-weaker-friday)

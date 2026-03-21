@@ -18,4 +18,4 @@ The implications for the financial markets are profound, particularly for energy
 
 For market professionals, understanding the interplay between geopolitical events and energy prices is crucial. I recommend diving deeper into this developing story to assess its full impact on market strategies and investment decisions.
 
-[Source: nytimes.com](https://www.nytimes.com)
+[nytimes.com](https://www.nytimes.com)

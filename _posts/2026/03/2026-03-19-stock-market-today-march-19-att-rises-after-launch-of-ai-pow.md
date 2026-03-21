@@ -18,4 +18,4 @@ This positive momentum comes amid a challenging market backdrop, with the S&P 50
 
 For investors, the key takeaway is to monitor how these digital initiatives impact customer metrics and revenue consistency moving forward. I recommend diving deeper into the full story to understand the implications for AT&T and the telecom sector.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-att-rises-after-launching-ai-customer-app/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-att-rises-after-launching-ai-customer-app/?source=iedfolrf0000001)

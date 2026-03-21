@@ -18,4 +18,4 @@ The implications for the financial markets are notable. By cutting costs associa
 
 Investors should monitor Meta's progress in this AI rollout, as successful implementation could provide a competitive edge and positively impact financial performance. For a deeper dive into Meta's strategic shift and its market implications, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/meta-cut-back-third-party-vendors-favor-of-ai-for-content-enforcement.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/meta-cut-back-third-party-vendors-favor-of-ai-for-content-enforcement.html)

@@ -18,4 +18,4 @@ This phenomenon has implications for the broader economy, particularly as the Fe
 
 For market professionals, understanding these trends is crucial as they may affect sectors like advertising and digital media. I encourage you to delve deeper into this analysis by exploring the full article for a comprehensive view of the evolving labor landscape.
 
-[Source: stlouisfed.org](https://www.stlouisfed.org)
+[stlouisfed.org](https://www.stlouisfed.org)

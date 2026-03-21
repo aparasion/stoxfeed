@@ -18,4 +18,4 @@ This uptick in soybean prices is significant as it reflects growing demand and p
 
 Market professionals should keep a close eye on the evolving soybean landscape, particularly with the USDA's March Intentions report due on the 31st. For a deeper dive into these developments, I recommend checking out the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soybeans-post-wednesday-gains)
+[nasdaq.com](https://www.nasdaq.com/articles/soybeans-post-wednesday-gains)

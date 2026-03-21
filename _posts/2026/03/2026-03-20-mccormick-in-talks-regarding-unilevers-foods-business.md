@@ -18,4 +18,4 @@ The potential sale could significantly impact both companies, particularly if Mc
 
 For market professionals, this development raises questions about strategic shifts in the consumer goods sector and potential valuation adjustments for both firms. I recommend checking out the full article for a deeper dive into the implications of this potential transaction.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/mccormick-talks-regarding-unilevers-foods-business)
+[nasdaq.com](https://www.nasdaq.com/articles/mccormick-talks-regarding-unilevers-foods-business)

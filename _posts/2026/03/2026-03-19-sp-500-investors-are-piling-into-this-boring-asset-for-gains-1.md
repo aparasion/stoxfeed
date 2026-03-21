@@ -18,4 +18,4 @@ The movement towards these defensive sectors indicates a broader concern about p
 
 For market professionals, this trend underscores the importance of portfolio diversification and risk management strategies in uncertain times. To gain deeper insights into this shift and its implications for your investment strategy, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelVrdlp5cFhBVzZlNk50Ty1PX3RuamdQMC05dTRvV3l6QTBvUzZ4bVFwY05kTnJfdnNVTmFHaGF0a3hUZnhvd0JCUTl1WHZIQjRiNWxyQXRSRjUzZDR5UXc3eTI3Smw4WUN5TWdQekdqWEQxR2Zyank2djNpM3I5cGJCeDdmY2E3akhBdXJJbmlyMThDczc3YWFpYjlKVzVWSXZLVURCX2o?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelVrdlp5cFhBVzZlNk50Ty1PX3RuamdQMC05dTRvV3l6QTBvUzZ4bVFwY05kTnJfdnNVTmFHaGF0a3hUZnhvd0JCUTl1WHZIQjRiNWxyQXRSRjUzZDR5UXc3eTI3Smw4WUN5TWdQekdqWEQxR2Zyank2djNpM3I5cGJCeDdmY2E3akhBdXJJbmlyMThDczc3YWFpYjlKVzVWSXZLVURCX2o?oc=5)

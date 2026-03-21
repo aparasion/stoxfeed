@@ -18,4 +18,4 @@ The rise in oil prices is influenced by several dynamics, including geopolitical
 
 Before diving into oil investments, it's crucial to conduct thorough research and assess your risk tolerance. For a deeper dive into these considerations and to better navigate the current oil market landscape, I recommend checking out the full article for valuable insights.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRDlUYUFxZlYwcF80T2tVQTM4RGpiMUlzR25tZmhZXzc3QUg3bmprUkw0VS1YNm83Nzc2S0ZBblg5ZGs3QUhlVlU1bHY1Q1lOMm1UaFNNeE5ndzZYa0RwQ0ZaLWVUMVhCZUgzM2pVTUpoMTFNQTRFbzBtM1d3UUJpSHAyWFBtWFJuSVdiWnVmYXFRWXJQVG5lRDJDalh0TGR0ZkVrSjUtQnhvMkZOdWVyRmx1a3ZSenQ0?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRDlUYUFxZlYwcF80T2tVQTM4RGpiMUlzR25tZmhZXzc3QUg3bmprUkw0VS1YNm83Nzc2S0ZBblg5ZGs3QUhlVlU1bHY1Q1lOMm1UaFNNeE5ndzZYa0RwQ0ZaLWVUMVhCZUgzM2pVTUpoMTFNQTRFbzBtM1d3UUJpSHAyWFBtWFJuSVdiWnVmYXFRWXJQVG5lRDJDalh0TGR0ZkVrSjUtQnhvMkZOdWVyRmx1a3ZSenQ0?oc=5)

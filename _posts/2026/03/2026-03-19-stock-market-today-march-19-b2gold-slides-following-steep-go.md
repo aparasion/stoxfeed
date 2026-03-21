@@ -18,4 +18,4 @@ The decline in gold prices—down 5% on Thursday and 8.5% over the past week—h
 
 For investors, this situation underscores the volatility in the gold mining sector and the potential for continued pressure on stock prices. For a deeper analysis of these market dynamics, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-b2gold-slides-following-steep-gold-price-drop/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-b2gold-slides-following-steep-gold-price-drop/?source=iedfolrf0000001)

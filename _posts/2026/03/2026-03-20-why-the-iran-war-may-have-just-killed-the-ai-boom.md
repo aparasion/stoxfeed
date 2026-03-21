@@ -18,4 +18,4 @@ As these pressures mount, analysts warn that the market has not fully accounted 
 
 For market professionals, the key takeaway is that the situation in Iran could have far-reaching effects on the AI buildout and overall economic stability. This article provides a detailed analysis of how these dynamics are unfolding, and I highly recommend reading the full piece for a deeper understanding of the implications for your investment strategies.
 
-[Source: oilprice.com](https://oilprice.com/Energy/Energy-General/Why-the-Iran-War-May-Have-Just-Killed-the-AI-Boom.html)
+[oilprice.com](https://oilprice.com/Energy/Energy-General/Why-the-Iran-War-May-Have-Just-Killed-the-AI-Boom.html)

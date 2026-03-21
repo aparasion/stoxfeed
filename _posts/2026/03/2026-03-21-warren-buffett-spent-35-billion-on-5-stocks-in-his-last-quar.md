@@ -18,4 +18,4 @@ This shift is significant for market professionals, as it highlights Buffett's s
 
 For investors, Domino's stands out as a compelling opportunity, trading at 19 times earnings expectations, making it a potentially lucrative addition to portfolios. For a deeper dive into Buffett's latest moves and insights, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/warren-buffett-bought-5-stocks-best-of-bunch/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/warren-buffett-bought-5-stocks-best-of-bunch/?source=iedfolrf0000001)

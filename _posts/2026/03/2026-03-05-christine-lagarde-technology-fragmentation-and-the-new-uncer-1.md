@@ -18,4 +18,4 @@ This transition is critical for financial markets, as it complicates the forecas
 
 Investors should recognize the interconnectedness of technology and international relations, as both are crucial for sustaining growth. Lagarde's insights underscore the need for a strategic approach to uncertainty, advocating for reforms in global institutions and deeper cooperation among allies. For a deeper understanding of these complex dynamics, I recommend exploring the full lecture for valuable insights into the future of economic policy and market strategy.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html)

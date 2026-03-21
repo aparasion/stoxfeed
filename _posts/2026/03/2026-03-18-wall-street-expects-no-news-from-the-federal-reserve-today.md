@@ -18,4 +18,4 @@ This lack of action could signal stability in the markets, particularly for sect
 
 For market professionals, the key takeaway is to monitor any subtle cues from the Fed that could influence market dynamics. Understanding the Fed's communication strategy is crucial for positioning portfolios effectively. I recommend diving into the full article for a deeper analysis of what this means for your investment strategies.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2hNdkh6TVQwd2UzXzJ6YWp4ZDhrbE95cW04X3VveUhwaXBMM3FnMU5iRk9IdmExWG5kTkVKSDFTRFJhd2tndzRxVXAzZWNHbzFlcDE0eHJJVHFtR3Y3N2p2Z0pXSGxjXzlLUE1oMFhxTFF4bmE1bU5adXJhRldUY3JYY1hGUEdkdExvcHRqNDRRU2ItMFQwcEJzYm1TaTFEUnZhTXdOQ0ljRmlNN3FEMw?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2hNdkh6TVQwd2UzXzJ6YWp4ZDhrbE95cW04X3VveUhwaXBMM3FnMU5iRk9IdmExWG5kTkVKSDFTRFJhd2tndzRxVXAzZWNHbzFlcDE0eHJJVHFtR3Y3N2p2Z0pXSGxjXzlLUE1oMFhxTFF4bmE1bU5adXJhRldUY3JYY1hGUEdkdExvcHRqNDRRU2ItMFQwcEJzYm1TaTFEUnZhTXdOQ0ljRmlNN3FEMw?oc=5)

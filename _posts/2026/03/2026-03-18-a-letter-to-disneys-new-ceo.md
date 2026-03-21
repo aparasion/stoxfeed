@@ -18,4 +18,4 @@ The financial implications are clear: Disney's stock has not only failed to reac
 
 As D'Amaro embarks on this journey, the market is keenly watching for his strategic moves. For a deeper dive into the challenges and expectations facing Disney, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/a-letter-to-disneys-new-ceo/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/a-letter-to-disneys-new-ceo/?source=iedfolrf0000001)

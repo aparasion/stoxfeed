@@ -16,4 +16,4 @@ Crude oil prices rebounded sharply on Tuesday, with WTI Crude for April delivery
 
 This disruption is not only affecting oil supply but also driving up fuel prices for consumers in the U.S., where diesel has surpassed $5 per gallon. The International Energy Agency is poised to release strategic reserves to stabilize prices, but normalization may take time. For market professionals, the evolving geopolitical landscape presents both risks and opportunities in energy investments. I recommend exploring the full article for a deeper understanding of these developments.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/crude-oil-soars-iran-intensifies-attacks-production-facilities)
+[nasdaq.com](https://www.nasdaq.com/articles/crude-oil-soars-iran-intensifies-attacks-production-facilities)

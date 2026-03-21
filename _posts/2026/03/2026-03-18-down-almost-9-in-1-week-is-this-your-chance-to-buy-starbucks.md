@@ -18,4 +18,4 @@ The market is reacting to concerns over the sustainability of Starbucks' growth 
 
 For professionals in the financial markets, this situation presents a critical takeaway: while Starbucks shows promising signs of recovery, the high valuation and ongoing investment costs suggest caution. For a deeper dive into Starbucks' financials and strategic outlook, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/down-almost-9-in-1-week-is-this-your-chance-to-buy/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/down-almost-9-in-1-week-is-this-your-chance-to-buy/?source=iedfolrf0000001)

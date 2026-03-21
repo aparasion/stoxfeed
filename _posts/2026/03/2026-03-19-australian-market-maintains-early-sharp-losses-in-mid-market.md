@@ -18,4 +18,4 @@ This broad-based sell-off reflects investor concerns over global economic condit
 
 For market professionals, the sharp drop in TPG Telecom shares, down almost 30% due to an ex-dividend adjustment, highlights the volatility surrounding corporate actions. For a deeper dive into the market dynamics at play, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/australian-market-maintains-early-sharp-losses-mid-market)
+[nasdaq.com](https://www.nasdaq.com/articles/australian-market-maintains-early-sharp-losses-mid-market)

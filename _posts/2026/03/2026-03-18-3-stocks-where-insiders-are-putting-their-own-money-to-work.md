@@ -18,4 +18,4 @@ The implications of these insider actions are noteworthy. E.W. Scripps could see
 
 For a deeper dive into the nuances of these insider trades and their potential impacts, I recommend exploring the full article.
 
-[Source: insidertrades.com](https://www.insidertrades.com/education/3-stocks-where-insiders-are-putting-their-own-money-to-work)
+[insidertrades.com](https://www.insidertrades.com/education/3-stocks-where-insiders-are-putting-their-own-money-to-work)

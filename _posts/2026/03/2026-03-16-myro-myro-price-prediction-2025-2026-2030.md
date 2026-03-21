@@ -18,4 +18,4 @@ The current market sentiment is bearish, with the Fear & Greed Index indicating 
 
 For those navigating the volatile landscape of meme coins, Myro presents both risks and potential rewards. Dive deeper into the analysis and forecasts by exploring the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/myro-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/myro-price-prediction)

@@ -18,4 +18,4 @@ This downward pressure on wheat prices comes amidst a backdrop of strong export 
 
 For traders and analysts, the evolving dynamics of wheat futures and export data present critical insights into market trends. I recommend checking out the full article for a deeper dive into the factors influencing these movements.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-collapses-lower-friday)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-collapses-lower-friday)

@@ -18,4 +18,4 @@ Investors have flocked to SSR Mining to capitalize on silver's strong run, but t
 
 For professionals considering an investment, the key takeaway is to assess silver's potential for recovery before buying into SSR Mining. For a deeper dive into this situation, I recommend exploring the full article for comprehensive insights.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/should-you-buy-the-dip-on-ssr-mining-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/should-you-buy-the-dip-on-ssr-mining-stock/?source=iedfolrf0000001)

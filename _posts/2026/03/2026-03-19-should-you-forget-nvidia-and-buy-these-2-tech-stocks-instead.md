@@ -18,4 +18,4 @@ Alphabet (GOOG) and Broadcom (AVGO) are highlighted as strong alternatives in th
 
 For market professionals, the key takeaway is to consider a diversified portfolio that includes established players like Alphabet and Broadcom, which are well-positioned for sustained growth in the evolving AI landscape. I recommend checking out the full article for a deeper dive into these developments.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/should-you-forget-nvidia-and-buy-these-2-tech-stoc/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/should-you-forget-nvidia-and-buy-these-2-tech-stoc/?source=iedfolrf0000001)

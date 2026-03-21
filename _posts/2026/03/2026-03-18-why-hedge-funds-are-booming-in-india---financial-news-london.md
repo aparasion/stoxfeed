@@ -18,4 +18,4 @@ This hiring spree comes as firms like Close Brothers face pressure to enhance pa
 
 For market professionals, these developments signal critical shifts in talent acquisition and product offerings that could influence investment strategies and portfolio allocations. I encourage you to delve deeper into these trends by exploring the full article for a comprehensive analysis.
 
-[Source: fnlondon.com](https://www.fnlondon.com)
+[fnlondon.com](https://www.fnlondon.com)

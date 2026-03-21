@@ -18,4 +18,4 @@ Goldman Sachs analyst Kate McShane emphasized that the meeting typically boosts 
 
 Investors should closely monitor the insights from Walmart's meeting, as they could significantly influence market sentiment and stock performance. For a deeper dive into the analysts' perspectives, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2023/03/27/why-walmart-stock-was-a-winner-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2023/03/27/why-walmart-stock-was-a-winner-today/?source=iedfolrf0000001)

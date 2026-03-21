@@ -18,4 +18,4 @@ The implications for the financial markets are significant. With U.S. natural ga
 
 For traders and analysts, the evolving dynamics in natural gas supply and demand present critical insights. I recommend diving deeper into this topic by exploring the full article for a comprehensive analysis of the current market conditions.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-fall-sympathy-declines-crude-oil)
+[nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-fall-sympathy-declines-crude-oil)

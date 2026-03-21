@@ -20,4 +20,4 @@ Market professionals should keep a close eye on the interplay between rising oil
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-supported-lower-bond-yields-0)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-supported-lower-bond-yields-0)

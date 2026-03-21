@@ -18,4 +18,4 @@ The fallout from the ongoing conflict has led to rising bond yields, with the 10
 
 For market professionals, the key takeaway is the growing risk of inflationary pressures stemming from geopolitical tensions, which could lead to a tighter monetary policy environment. Understanding these dynamics is crucial for portfolio management and investment strategy. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-plunge-us-plans-escalate-iran-war)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-plunge-us-plans-escalate-iran-war)

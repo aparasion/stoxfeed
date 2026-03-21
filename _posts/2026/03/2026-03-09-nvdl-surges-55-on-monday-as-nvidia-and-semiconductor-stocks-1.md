@@ -18,4 +18,4 @@ In contrast, NVIDIA Corporation (NASDAQ: NVDA) has shown remarkable resilience, 
 
 For professionals in trading and portfolio management, the developments around SoFi and the contrasting performance of established players like NVIDIA and Fastly underscore the importance of due diligence in stock selection. For a deeper dive into these trends and their implications, I recommend checking out the full article.
 
-[Source: 247wallst.com](https://247wallst.com)
+[247wallst.com](https://247wallst.com)

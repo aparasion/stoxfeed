@@ -18,4 +18,4 @@ The implications of this legislation are significant for the financial markets, 
 
 For financial professionals, understanding the potential fallout from the SAVE America Act is crucial. The bill's passage could lead to shifts in voter turnout and political power dynamics that may influence market sentiment and investment strategies. I recommend diving deeper into the full article for a comprehensive analysis of the bill's provisions and its broader implications.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/save-america-act-voter-id-trump-senate.html)

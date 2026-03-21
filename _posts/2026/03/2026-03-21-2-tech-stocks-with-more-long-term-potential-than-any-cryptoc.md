@@ -18,4 +18,4 @@ TSMC, holding a commanding 70% market share in processor manufacturing, reported
 
 For market professionals looking for solid investments in technology, TSMC and Alphabet present compelling opportunities. I highly recommend exploring the full article for deeper insights into these companies and their market positions.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/tech-stocks-with-more-long-potential-than-crypto/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/tech-stocks-with-more-long-potential-than-crypto/?source=iedfolrf0000001)

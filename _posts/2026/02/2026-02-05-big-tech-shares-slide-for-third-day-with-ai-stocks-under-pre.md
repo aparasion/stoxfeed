@@ -18,4 +18,4 @@ The ongoing sell-off is impacting market sentiment, with the tech sector showing
 
 For market professionals, this development underscores the importance of reassessing exposure to tech and AI stocks in light of recent trends. I recommend diving deeper into the full article for a comprehensive analysis of the factors driving this market movement.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)

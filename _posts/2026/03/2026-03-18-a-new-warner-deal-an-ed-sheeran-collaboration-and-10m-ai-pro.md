@@ -18,4 +18,4 @@ The financial implications are notable, as TME's expanding subscriber base could
 
 For investors, TME's subscriber growth signals robust consumer demand in the digital music sector, potentially translating to improved earnings. For a deeper dive into Tencent Music's strategies and the implications for the industry, I recommend exploring the full article.
 
-[Source: musicbusinessworldwide.com](https://www.musicbusinessworldwide.com)
+[musicbusinessworldwide.com](https://www.musicbusinessworldwide.com)

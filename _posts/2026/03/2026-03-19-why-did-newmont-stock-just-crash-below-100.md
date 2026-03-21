@@ -18,4 +18,4 @@ The drop in Newmont's stock is closely tied to a sharp decline in gold prices, w
 
 For investors, the current volatility presents a test of patience. While Newmont is generating strong free cash flows and bolstering its balance sheet, it may be prudent to wait for market stability before making new investments. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/why-did-newmont-stock-just-crash-below-100/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/why-did-newmont-stock-just-crash-below-100/?source=iedfolrf0000001)

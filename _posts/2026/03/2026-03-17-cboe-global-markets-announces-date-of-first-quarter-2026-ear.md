@@ -18,4 +18,4 @@ The implications for the broader market are significant, particularly as investo
 
 For market professionals, the key takeaway is the enduring appeal of 'good enough' portfolios like Vanguard's, which can effectively meet the needs of a diverse investor base. For a deeper dive into Vanguard's success and its impact on the market, I recommend checking out the full article.
 
-[Source: morningstar.com](https://www.morningstar.com)
+[morningstar.com](https://www.morningstar.com)

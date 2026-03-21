@@ -18,4 +18,4 @@ The stablecoin market, worth $316 billion, is gaining traction among financial i
 
 For market professionals, this dip might be an opportune moment to reassess their Ethereum positions, especially given its ongoing relevance in the evolving cryptocurrency landscape. I recommend diving deeper into the full article for a comprehensive analysis of Ethereum's potential.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/is-it-too-late-to-buy-ethereum-in-2026/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/is-it-too-late-to-buy-ethereum-in-2026/?source=iedfolrf0000001)

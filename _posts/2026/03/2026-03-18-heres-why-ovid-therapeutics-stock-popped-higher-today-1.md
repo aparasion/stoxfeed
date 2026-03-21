@@ -18,4 +18,4 @@ The implications for Ovid's stock are significant, as the positive safety data c
 
 For market professionals, Ovid's developments represent a compelling opportunity in the biopharmaceutical sector. I recommend exploring the full article for a deeper dive into the implications of OV329's progress and Ovid's strategic direction.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/heres-why-ovid-therapeutics-stock-popped-higher-to/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/heres-why-ovid-therapeutics-stock-popped-higher-to/?source=iedfolrf0000001)

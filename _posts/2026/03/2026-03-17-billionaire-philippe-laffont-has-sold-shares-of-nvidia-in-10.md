@@ -18,4 +18,4 @@ This trend could signal broader concerns about the sustainability of Nvidia's gr
 
 For market professionals, Laffont's actions serve as a cautionary tale about the risks associated with investing in high-growth tech stocks. To delve deeper into the implications of these developments, I recommend exploring the full article for a comprehensive analysis.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/billionaire-philippe-laffont-sold-nvda-10-quarters/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/billionaire-philippe-laffont-sold-nvda-10-quarters/?source=iedfolrf0000001)

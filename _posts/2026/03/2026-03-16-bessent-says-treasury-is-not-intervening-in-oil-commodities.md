@@ -18,4 +18,4 @@ This statement comes as oil prices showed signs of stabilization, with U.S. crud
 
 For market professionals, this development underscores the importance of monitoring government policy signals in relation to commodity pricing. For a deeper dive into the implications of Bessent's remarks, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/16/bessent-says-treasury-is-not-intervening-in-oil-commodities-markets-and-has-no-authority-to-do-so.html)
+[cnbc.com](https://www.cnbc.com/2026/03/16/bessent-says-treasury-is-not-intervening-in-oil-commodities-markets-and-has-no-authority-to-do-so.html)

@@ -18,4 +18,4 @@ Despite these challenges, the S&P 500 has remained resilient, with corporate ear
 
 For market professionals, the key takeaway is to stay vigilant amidst the volatility. Understanding the interplay of geopolitical events, inflation risks, and market valuations will be crucial in navigating potential corrections. For a deeper dive into these dynamics, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/is-the-sp-500-headed-for-a-correction/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/is-the-sp-500-headed-for-a-correction/?source=iedfolrf0000001)

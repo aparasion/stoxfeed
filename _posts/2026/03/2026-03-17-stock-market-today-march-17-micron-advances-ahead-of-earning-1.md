@@ -18,4 +18,4 @@ The mixed results highlight a potential disconnect between Lululemon's solid pas
 
 For professionals tracking retail performance, Lululemon's results and outlook warrant close attention. To delve deeper into the implications of these developments, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: finance.yahoo.com](https://finance.yahoo.com)
+[finance.yahoo.com](https://finance.yahoo.com)

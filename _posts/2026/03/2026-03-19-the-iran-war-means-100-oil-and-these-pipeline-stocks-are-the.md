@@ -18,4 +18,4 @@ The implications for these midstream companies are substantial. As U.S. oil prod
 
 For income-focused investors, these midstream partnerships present a compelling opportunity, particularly as they navigate the current geopolitical landscape. I highly recommend exploring the full article for a deeper dive into the metrics and strategies that make these companies stand out in today's market.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/the-iran-war-means-100-oil-and-these-pipeline-stoc/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/the-iran-war-means-100-oil-and-these-pipeline-stoc/?source=iedfolrf0000001)

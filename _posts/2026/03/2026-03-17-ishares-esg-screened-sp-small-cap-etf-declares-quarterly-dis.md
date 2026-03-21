@@ -18,4 +18,4 @@ This announcement is significant for investors focused on ESG (Environmental, So
 
 For market professionals, the key takeaway is the ETF's ability to balance dividend income with ESG principles, which could enhance its attractiveness in a market increasingly leaning towards sustainable investment strategies. For further insights, I recommend checking out the full article for a deeper dive into the ETF's performance metrics and strategy.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565469-ishares-esg-screened-sp-small-cap-etf-declares-quarterly-distribution-of-00014?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565469-ishares-esg-screened-sp-small-cap-etf-declares-quarterly-distribution-of-00014?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

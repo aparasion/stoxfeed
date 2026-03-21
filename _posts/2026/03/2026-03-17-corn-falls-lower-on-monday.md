@@ -18,4 +18,4 @@ The implications for the corn market are notable, as accumulated sales are now 3
 
 For market professionals, the recent price movements and export data underscore the volatility and potential shifts in corn supply dynamics. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/corn-falls-lower-monday)
+[nasdaq.com](https://www.nasdaq.com/articles/corn-falls-lower-monday)

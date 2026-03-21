@@ -18,4 +18,4 @@ This development is significant as it highlights the increasing demand for sophi
 
 For market professionals, the emergence of these alternative products underscores the importance of adapting to evolving investor needs. It may be worth exploring how this shift could impact portfolio management strategies and overall market performance. I recommend checking out the full article for a deeper dive into these developments.
 
-[Source: fundselectorasia.com](https://fundselectorasia.com)
+[fundselectorasia.com](https://fundselectorasia.com)

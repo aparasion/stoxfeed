@@ -18,4 +18,4 @@ In the EV sector, Rivian trades at a significantly lower sales multiple of 3x co
 
 Investors should closely monitor these developments, particularly the implications of Fed policy on asset valuations and sector performance. For a deeper dive into these market dynamics, I recommend checking out the full article.
 
-[Source: investinglive.com](https://investinglive.com)
+[investinglive.com](https://investinglive.com)

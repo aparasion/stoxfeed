@@ -18,4 +18,4 @@ This development is significant for financial markets as it suggests a more hawk
 
 For market professionals, this shift underscores the importance of monitoring inflation trends and Fed communications closely. Understanding these dynamics could be pivotal for portfolio strategies in the coming months. I recommend reading the full article for a deeper analysis of the implications for interest rates and market sentiment.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html)

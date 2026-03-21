@@ -18,4 +18,4 @@ For financial professionals, these recommendations could signal potential opport
 
 Investors seeking to optimize their portfolios can benefit from the insights and analytics provided by The Motley Fool. I encourage you to explore the full article for a deeper dive into these stock picks and the underlying investment philosophy.
 
-[Source: fool.com](https://www.fool.com)
+[fool.com](https://www.fool.com)

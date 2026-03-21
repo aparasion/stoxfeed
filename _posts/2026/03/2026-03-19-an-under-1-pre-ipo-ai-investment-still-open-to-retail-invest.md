@@ -18,4 +18,4 @@ The significance of Immersed lies in its potential to redefine the $250 billion 
 
 For market professionals, this presents a unique chance to invest in a company that could be a game-changer in the tech landscape. I recommend checking out the full article for deeper insights into Immersed’s strategy and growth potential.
 
-[Source: benzinga.com](https://www.benzinga.com/money/immersed-pm-fb)
+[benzinga.com](https://www.benzinga.com/money/immersed-pm-fb)

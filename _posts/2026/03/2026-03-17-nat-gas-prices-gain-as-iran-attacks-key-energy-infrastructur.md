@@ -18,4 +18,4 @@ The backdrop of geopolitical tensions, particularly the war in Iran, has signifi
 
 For market professionals, the interplay of geopolitical risks and domestic production trends will be critical in shaping future price movements. Dive deeper into the full analysis to better understand these dynamics.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-gain-iran-attacks-key-energy-infrastructure)
+[nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-gain-iran-attacks-key-energy-infrastructure)

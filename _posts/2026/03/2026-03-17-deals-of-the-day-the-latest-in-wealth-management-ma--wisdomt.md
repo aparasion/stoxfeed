@@ -18,4 +18,4 @@ Meanwhile, the ongoing conflict in the Gulf region, particularly the U.S.-Israel
 
 For professionals in the wealth management sector, these developments underscore the importance of adaptive asset allocation strategies in response to geopolitical events. I recommend exploring the full article for deeper insights into these market dynamics and their potential impacts.
 
-[Source: familywealthreport.com](https://www.familywealthreport.com)
+[familywealthreport.com](https://www.familywealthreport.com)

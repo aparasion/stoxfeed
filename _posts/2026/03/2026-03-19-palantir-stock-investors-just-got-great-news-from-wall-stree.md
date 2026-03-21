@@ -18,4 +18,4 @@ The financial implications are significant, with Palantir's remaining performanc
 
 For market professionals considering Palantir, the stock’s volatility may warrant a cautious approach. Strategies like dollar-cost averaging could mitigate risk while capitalizing on the company's growth trajectory. For a deeper dive into Palantir's prospects, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/palantir-stock-investors-great-news-wall-street/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/palantir-stock-investors-great-news-wall-street/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This market downturn is exacerbated by geopolitical tensions, including Iran's a
 
 For professionals in trading and portfolio management, the implications are clear: heightened volatility and rising interest rates could reshape investment strategies. For a deeper dive into these developments and their potential impact on the markets, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-fall-spillover-effects-iran-war)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-fall-spillover-effects-iran-war)

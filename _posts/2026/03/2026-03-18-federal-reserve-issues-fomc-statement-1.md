@@ -18,4 +18,4 @@ This decision reflects the Fed's cautious approach to monetary policy, balancing
 
 For a deeper understanding of the Fed's current outlook and its implications for the markets, I recommend exploring the full statement directly.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm)

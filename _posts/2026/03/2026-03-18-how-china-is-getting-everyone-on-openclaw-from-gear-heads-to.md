@@ -18,4 +18,4 @@ The surge in OpenClaw's popularity aligns with China's strategic plan to integra
 
 For market professionals, the development of OpenClaw presents both opportunities and challenges in the tech sector. Understanding its implications on productivity and regulatory landscapes will be crucial. Dive deeper into this evolving story to grasp its full impact on the market.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html)

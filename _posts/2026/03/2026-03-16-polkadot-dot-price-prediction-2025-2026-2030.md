@@ -18,4 +18,4 @@ The potential for Polkadot’s growth hinges on its ability to enhance scalabili
 
 For market professionals, the key takeaway is that while Polkadot showcases strong fundamentals, its future price trajectory may be constrained by external factors. For a deeper dive into the analysis and forecasts, I recommend exploring the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/polkadot-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/polkadot-price-prediction)

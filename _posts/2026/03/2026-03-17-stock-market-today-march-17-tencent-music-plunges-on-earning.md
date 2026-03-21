@@ -18,4 +18,4 @@ The significant trading volume of 63.9 million shares—over 800% above its thre
 
 For investors, the key takeaway is to monitor how the new user metrics will influence future growth prospects. This earnings report serves as a critical indicator of Tencent Music's competitive positioning in the evolving digital music landscape. For a deeper dive into the implications of these results, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-tencent-music-plunges-on-earnings-miss-and-user-concerns/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-tencent-music-plunges-on-earnings-miss-and-user-concerns/?source=iedfolrf0000001)

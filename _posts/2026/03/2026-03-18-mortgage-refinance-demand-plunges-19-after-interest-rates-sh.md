@@ -18,4 +18,4 @@ The impact of these rising rates is evident, particularly in the refinance secto
 
 As the Federal Reserve's upcoming meeting looms, market professionals should remain vigilant, as any commentary could influence bond markets and, consequently, mortgage rates. For a deeper dive into these trends and their implications, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html)

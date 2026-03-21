@@ -18,4 +18,4 @@ This development is significant for the financial markets, as it indicates a cau
 
 Market professionals should take note of the Fed's evolving stance, as it could impact trading strategies and portfolio allocations in the coming months. For a deeper dive into these developments, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html)

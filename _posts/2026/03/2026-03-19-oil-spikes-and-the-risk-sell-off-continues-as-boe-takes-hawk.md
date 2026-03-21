@@ -18,4 +18,4 @@ The implications for the UK financial markets are profound, as confidence in UK 
 
 Market professionals should closely monitor the BOE's next moves and their potential impact on both the UK economy and asset prices. For a deeper dive into these developments, I highly recommend exploring the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/oil-spikes-and-the-risk-sell-off-continues-as-boe-takes-hawkish-tilt)
+[xtb.com](https://www.xtb.com/en/market-analysis/oil-spikes-and-the-risk-sell-off-continues-as-boe-takes-hawkish-tilt)

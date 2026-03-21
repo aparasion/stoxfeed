@@ -18,4 +18,4 @@ The broader market faced headwinds, with the S&P 500 and Nasdaq Composite declin
 
 For investors, Planet Labs presents a compelling growth story, especially with a net dollar retention rate of 118%. To delve deeper into this dynamic market development, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/20/stock-market-today-march-20-planet-labs-surges-after-record-revenue-and-upbeat-guidance/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/20/stock-market-today-march-20-planet-labs-surges-after-record-revenue-and-upbeat-guidance/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The company expects to net approximately $17 million from this financing, reduci
 
 This development underscores the importance of liquidity in biotech transitions. For a deeper dive into Outlook's strategy and market implications, I recommend reading the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/outlook-therapeutics-secures-184-million-financing-stock)
+[nasdaq.com](https://www.nasdaq.com/articles/outlook-therapeutics-secures-184-million-financing-stock)

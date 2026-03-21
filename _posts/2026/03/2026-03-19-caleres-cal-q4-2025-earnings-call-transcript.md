@@ -18,4 +18,4 @@ The financial implications are significant. Despite a strong e-commerce performa
 
 Investors should note that while Caleres is positioning itself for recovery, the integration of Stuart Weitzman and external economic factors may create volatility. For a deeper dive into Caleres' strategic initiatives and outlook, I recommend exploring the full earnings call transcript.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/caleres-cal-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/caleres-cal-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

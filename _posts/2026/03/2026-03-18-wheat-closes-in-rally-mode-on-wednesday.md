@@ -18,4 +18,4 @@ The anticipated dry conditions and warm temperatures could further tighten suppl
 
 For a deeper dive into the factors driving these market movements and their implications, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-closes-rally-mode-wednesday)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-closes-rally-mode-wednesday)

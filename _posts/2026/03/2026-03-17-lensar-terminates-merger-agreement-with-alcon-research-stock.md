@@ -18,4 +18,4 @@ The termination of this merger not only impacts LENSAR's stock performance but a
 
 As LENSAR retains a $10 million deposit from the merger agreement, the company is poised to focus on advancing its ALLY Robotic Cataract Laser System. For further insights into LENSAR's strategy and upcoming financial results, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/lensar-terminates-merger-agreement-alcon-research-stock-down)
+[nasdaq.com](https://www.nasdaq.com/articles/lensar-terminates-merger-agreement-alcon-research-stock-down)

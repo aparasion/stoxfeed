@@ -18,4 +18,4 @@ Currently trading around $340, TSMC has delivered impressive returns, with a 95%
 
 Investors considering TSMC should weigh its strong market position against geopolitical uncertainties and the volatility of AI-related investments. For a deeper dive into TSMC's outlook and stock performance, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/tsm-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/tsm-stock-price-prediction)

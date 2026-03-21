@@ -18,4 +18,4 @@ The potential disruption to energy supplies is already reflected in rising commo
 
 As the situation unfolds, market professionals should consider the implications for their portfolios and investment strategies. For a deeper dive into the details and analysis of this critical development, I recommend checking out the full article.
 
-[Source: theguardian.com](https://www.theguardian.com)
+[theguardian.com](https://www.theguardian.com)

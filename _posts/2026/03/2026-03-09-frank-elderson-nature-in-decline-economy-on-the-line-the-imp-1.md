@@ -18,4 +18,4 @@ The implications for financial markets are profound, as many banks' corporate le
 
 For market professionals, the takeaway is clear: as central banks and supervisors increasingly account for nature-related risks, firms must enhance their risk assessments to mitigate potential financial vulnerabilities. This evolving landscape is worth exploring further—check out the full article for a deeper understanding of these critical developments.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)

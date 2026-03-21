@@ -18,4 +18,4 @@ This move is noteworthy for investors, as it signals confidence in the companyâ€
 
 For market professionals, this repurchase could indicate a strategic shift in capital allocation and may influence future earnings per share. I recommend reading the full article for a deeper dive into Scholastic's financial strategies and market positioning.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/scholastic-plans-200-mln-modified-dutch-auction-share-buyback)
+[nasdaq.com](https://www.nasdaq.com/articles/scholastic-plans-200-mln-modified-dutch-auction-share-buyback)

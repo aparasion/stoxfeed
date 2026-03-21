@@ -18,4 +18,4 @@ This uptick in wheat prices comes amid mixed export data and forecasts indicatin
 
 Market participants should keep a close eye on these developments, as fluctuations in wheat supply and demand dynamics could significantly impact pricing strategies. For a deeper dive into these trends, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-pushes-higher-thursdays-close)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-pushes-higher-thursdays-close)

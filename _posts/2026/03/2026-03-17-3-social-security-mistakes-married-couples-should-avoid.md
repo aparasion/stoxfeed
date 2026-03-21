@@ -18,4 +18,4 @@ Understanding spousal benefits is crucial, as they are capped at 50% of the high
 
 For professionals advising clients on retirement planning, these insights highlight the necessity of thorough discussions about Social Security options. To delve deeper into these strategies and their implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/17/3-social-security-mistakes-married-couples-should/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/17/3-social-security-mistakes-married-couples-should/?source=iedfolrf0000001)

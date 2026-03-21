@@ -18,4 +18,4 @@ The implications of Micron's results extend beyond its own performance; they cou
 
 Investors should closely monitor not only the earnings report but also management’s guidance for Q3 and beyond, as this will provide insight into the sustainability of the current memory supercycle. For a deeper dive into Micron’s anticipated performance and its broader market implications, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/micron-q2-2026-preview-memory-supercycle-in-full-swing)
+[xtb.com](https://www.xtb.com/en/market-analysis/micron-q2-2026-preview-memory-supercycle-in-full-swing)

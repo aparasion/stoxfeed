@@ -18,4 +18,4 @@ This announcement is significant for income-focused investors, particularly thos
 
 Investors should consider how this dividend aligns with their income strategies and the overall performance of the preferred shares sector. For a deeper dive into the fund’s dividend scorecard and yield chart, I recommend checking out the full article for more insights.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566538-purpose-us-preferred-share-fund-etf-series-declares-cad-0_094-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566538-purpose-us-preferred-share-fund-etf-series-declares-cad-0_094-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

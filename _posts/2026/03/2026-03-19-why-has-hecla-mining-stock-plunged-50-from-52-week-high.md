@@ -18,4 +18,4 @@ The current market dynamics are challenging for Hecla, especially as high oil pr
 
 For long-term investors, the steep decline in Hecla's stock may present a buying opportunity, especially as the company focuses on its core silver assets and plans to bolster its exploration efforts. For a deeper dive into Hecla's strategy and market position, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/why-has-hecla-mining-stock-plunged-50-from-52-week/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/why-has-hecla-mining-stock-plunged-50-from-52-week/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The market's reaction reflects concerns over inflation and geopolitical tensions
 
 Investors should closely monitor the outcomes of the FOMC meeting and the evolving geopolitical landscape, as these factors will likely shape market dynamics in the near term. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-fall-us-ppi-jumps-and-iran-war-escalates)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-fall-us-ppi-jumps-and-iran-war-escalates)

@@ -18,4 +18,4 @@ The forecast reflects cautious optimism, hinging on Hedera's ability to convert 
 
 For market professionals, the key takeaway is that while HBAR has a differentiated value proposition, its future hinges on tangible adoption metrics. I recommend checking out the full article for a deeper dive into the implications of these forecasts.
 
-[Source: benzinga.com](https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction)

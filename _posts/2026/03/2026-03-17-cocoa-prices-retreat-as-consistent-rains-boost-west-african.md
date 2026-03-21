@@ -18,4 +18,4 @@ The market's bearish sentiment is compounded by weak demand signals, particularl
 
 For market professionals, the key takeaway is the potential for ongoing volatility in cocoa prices, driven by supply dynamics and demand shifts. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cocoa-prices-retreat-consistent-rains-boost-west-african-crop-prospects)
+[nasdaq.com](https://www.nasdaq.com/articles/cocoa-prices-retreat-consistent-rains-boost-west-african-crop-prospects)

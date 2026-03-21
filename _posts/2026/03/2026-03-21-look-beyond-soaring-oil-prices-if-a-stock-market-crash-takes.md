@@ -18,4 +18,4 @@ The Federal Reserve's increasing division among members could further jeopardize
 
 For professionals navigating this landscape, understanding these dynamics is crucial. I recommend diving deeper into the full article for a comprehensive analysis of these pivotal factors.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/beyond-oil-prices-stock-market-crash-donald-trump/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/beyond-oil-prices-stock-market-crash-donald-trump/?source=iedfolrf0000001)

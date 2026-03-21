@@ -18,4 +18,4 @@ The implications for the financial markets are notable. TMC's stock, currently t
 
 For those considering TMC, the stock represents a high-risk, high-reward scenario in the evolving U.S. metal supply chain. I recommend checking out the full article for a deeper dive into TMC's strategy and market potential.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/should-you-invest-500-in-tmc-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/should-you-invest-500-in-tmc-right-now/?source=iedfolrf0000001)

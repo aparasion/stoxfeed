@@ -18,4 +18,4 @@ The impact on Super Micro's stock has been significant, with shares plummeting 3
 
 Investors should closely monitor Super Micro's compliance measures and market response in the coming weeks, as the situation unfolds. For a deeper dive into the implications of this case, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html)

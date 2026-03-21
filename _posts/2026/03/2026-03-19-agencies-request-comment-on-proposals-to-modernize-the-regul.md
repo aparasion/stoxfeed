@@ -18,4 +18,4 @@ The changes could lead to a modest reduction in overall capital requirements, pa
 
 Market professionals should closely monitor these developments, as the final outcomes could reshape capital strategies and risk management across the banking landscape. For a deeper dive into the implications of these proposals, I recommend checking out the full article.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm)

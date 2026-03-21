@@ -18,4 +18,4 @@ The growing focus on biotech is significant for market professionals, as these c
 
 For those looking to navigate this dynamic landscape, understanding the intricacies of biotech investments is crucial. I recommend diving deeper into this article to explore the nuances and opportunities within the biotech sector.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-biotech-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-biotech-stocks)

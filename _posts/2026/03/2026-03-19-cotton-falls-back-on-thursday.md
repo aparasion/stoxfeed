@@ -18,4 +18,4 @@ The data revealed Vietnam as the leading buyer, purchasing 61,800 RB, while ship
 
 Market professionals should closely monitor these trends, as they could signal shifts in supply dynamics and pricing strategies moving forward. For a deeper dive into the latest developments and their implications, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cotton-falls-back-thursday-0)
+[nasdaq.com](https://www.nasdaq.com/articles/cotton-falls-back-thursday-0)

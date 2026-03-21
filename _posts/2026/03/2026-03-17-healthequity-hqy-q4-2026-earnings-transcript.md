@@ -18,4 +18,4 @@ These results highlight HealthEquity's strong operational leverage and its abili
 
 As HealthEquity raises its fiscal 2027 guidance across key financial metrics, market professionals should consider the implications of its strong performance and strategic initiatives. For a deeper dive into the details and future outlook, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/healthequity-hqy-q4-2026-earnings-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/healthequity-hqy-q4-2026-earnings-transcript/?source=iedfolrf0000001)

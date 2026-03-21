@@ -18,4 +18,4 @@ The significance of these trading houses extends beyond mere equity stakes; they
 
 For market professionals, the trading houses present an attractive option for capital appreciation and income generation. Explore the full story to understand the nuances and potential of these investments further.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/warren-buffett-loves-these-5-stocks-greg-abel-want/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/warren-buffett-loves-these-5-stocks-greg-abel-want/?source=iedfolrf0000001)

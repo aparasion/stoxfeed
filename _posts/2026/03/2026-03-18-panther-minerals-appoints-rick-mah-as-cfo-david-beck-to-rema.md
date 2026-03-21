@@ -18,4 +18,4 @@ This leadership shift is significant for Panther Minerals as it may influence in
 
 Market professionals should note how this change could affect Panther's strategic direction and financial stability. For a deeper dive into the implications of this leadership transition, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565657-panther-minerals-appoints-rick-mah-as-cfo-david-beck-to-remain-on-board?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565657-panther-minerals-appoints-rick-mah-as-cfo-david-beck-to-remain-on-board?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ This decision reflects the Fed's cautious approach amid persistent inflationary 
 
 For professionals in trading and portfolio management, understanding Powell's insights is crucial. I recommend checking out the full article for a deeper dive into his comments and their implications for market strategy.
 
-[Source: finance.yahoo.com](https://finance.yahoo.com)
+[finance.yahoo.com](https://finance.yahoo.com)

@@ -18,4 +18,4 @@ For market professionals, the implications of Bitcoin's performance are critical
 
 In summary, while the days of astronomical returns may be behind us, Bitcoin still offers the potential for considerable portfolio enhancement. For a deeper dive into the factors influencing Bitcoin's future, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/is-bitcoin-still-your-ticket-to-becoming-a-crypto/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/is-bitcoin-still-your-ticket-to-becoming-a-crypto/?source=iedfolrf0000001)

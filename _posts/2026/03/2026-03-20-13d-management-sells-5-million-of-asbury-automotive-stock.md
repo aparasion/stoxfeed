@@ -18,4 +18,4 @@ This move is significant as it reflects 13D Management's strategy to reallocate 
 
 Investors should consider the implications of 13D's exit, particularly as Asbury's valuation remains low relative to its earnings potential. For a deeper dive into the details and analysis, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/20/13d-management-sells-5-million-asbury-automotive-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/20/13d-management-sells-5-million-asbury-automotive-stock/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for the financial markets are significant. Alphabet's cloud div
 
 Investors should closely monitor Alphabet's execution of this strategy and the broader market's appetite for AI infrastructure. The company's strong financial foundation, with a net income of $132 billion in 2025, provides a buffer against potential risks. For a deeper dive into Alphabet's strategic direction and market implications, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/heres-why-googles-185-billion-ai-bet-in-2026-could/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/heres-why-googles-185-billion-ai-bet-in-2026-could/?source=iedfolrf0000001)

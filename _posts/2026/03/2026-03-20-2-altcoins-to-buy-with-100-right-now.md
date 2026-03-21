@@ -18,4 +18,4 @@ The implications for financial markets are clear: as the crypto landscape evolve
 
 For a deeper dive into the potential of these altcoins and their market dynamics, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/2-altcoins-buy-100-right-now)
+[nasdaq.com](https://www.nasdaq.com/articles/2-altcoins-buy-100-right-now)

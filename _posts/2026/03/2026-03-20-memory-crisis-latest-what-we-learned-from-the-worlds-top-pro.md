@@ -18,4 +18,4 @@ The memory chip sector is experiencing a tight supply situation, with Micron's C
 
 Investors should consider the implications of increased capital expenditures from leading memory manufacturers, as this could signal a shift in supply dynamics. While the current landscape suggests a tight market, the historical trend indicates that significant new investments often lead to oversupply. For a deeper dive into these developments and their potential impact on the memory chip market, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/memory-crisis-latest-dram-chips-micron-samsung-sk-hynix.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/memory-crisis-latest-dram-chips-micron-samsung-sk-hynix.html)

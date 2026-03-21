@@ -18,4 +18,4 @@ The market dynamics are complex, as the International Coffee Organization report
 
 For traders and analysts, the key takeaway is the delicate balance between supply and demand in the coffee market. Understanding these dynamics will be crucial for navigating potential price fluctuations. For a deeper dive into these developments, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/concerns-over-supply-disruptions-support-coffee-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/concerns-over-supply-disruptions-support-coffee-prices)

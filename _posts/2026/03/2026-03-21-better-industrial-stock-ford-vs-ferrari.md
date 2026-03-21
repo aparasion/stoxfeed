@@ -18,4 +18,4 @@ In contrast, Ferrari's financials showcase a robust growth trajectory, with a re
 
 For investors seeking stability and growth, Ferrari emerges as the superior choice. For a deeper analysis of these two automotive giants, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/better-industrial-stock-ford-vs-ferrari/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/better-industrial-stock-ford-vs-ferrari/?source=iedfolrf0000001)

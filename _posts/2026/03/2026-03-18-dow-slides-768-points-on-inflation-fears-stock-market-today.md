@@ -18,4 +18,4 @@ This market volatility comes at a time when earnings reports are expected, addin
 
 For market professionals, the key takeaway is to remain vigilant about macroeconomic indicators and sector performance as these factors evolve. For a deeper dive into the implications of these trends, I recommend exploring the full article for comprehensive insights.
 
-[Source: kiplinger.com](https://www.kiplinger.com)
+[kiplinger.com](https://www.kiplinger.com)

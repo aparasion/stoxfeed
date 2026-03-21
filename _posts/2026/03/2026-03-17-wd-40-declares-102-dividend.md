@@ -18,4 +18,4 @@ This announcement comes on the heels of disappointing Q1 earnings, where WD-40 r
 
 For investors, the dividend declaration may provide a sense of stability, but the underlying earnings miss and declining stock performance suggest caution. For a deeper dive into WD-40’s financials and market outlook, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565471-wdminus-40-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565471-wdminus-40-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

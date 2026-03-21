@@ -18,4 +18,4 @@ The impact on the semiconductor supply chain is notable, with some European chip
 
 For market professionals, this development highlights the importance of monitoring supply chain dynamics and logistics costs, especially for high-value imports. To gain deeper insights into these trends, I recommend exploring the full article on CNBC.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html)

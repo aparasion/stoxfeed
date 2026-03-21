@@ -18,4 +18,4 @@ In contrast, Moderna, valued at approximately $22 billion, has demonstrated rema
 
 For investors, the choice hinges on risk tolerance: those seeking growth and willing to embrace volatility may favor Moderna, while those prioritizing steady dividends and stability should consider Pfizer. For a deeper dive into their strategies and financial outlooks, check out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/pfizer-vs-moderna-which-pharma-stock-has-more-upsi/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/pfizer-vs-moderna-which-pharma-stock-has-more-upsi/?source=iedfolrf0000001)

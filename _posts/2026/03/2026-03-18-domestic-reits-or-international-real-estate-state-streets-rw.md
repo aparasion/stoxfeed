@@ -18,4 +18,4 @@ RWR's concentrated portfolio includes around 100 U.S. REITs, with top holdings l
 
 For those seeking straightforward U.S. real estate exposure, RWR stands out as a more efficient choice, particularly as the sector anticipates a potential rebound in 2026. For a deeper dive into these ETFs and their implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/etfs/2026/03/18/domestic-reits-or-international-real-estate-state-street-s-rwr-and-rwx-offer-very-different-answers/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/etfs/2026/03/18/domestic-reits-or-international-real-estate-state-street-s-rwr-and-rwx-offer-very-different-answers/?source=iedfolrf0000001)

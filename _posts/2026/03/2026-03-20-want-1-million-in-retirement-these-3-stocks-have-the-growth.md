@@ -16,4 +16,4 @@ Three emerging stocks—Sezzle, LegalZoom, and Braze—are positioned as potenti
 
 Investors should consider these companies not just for their current performance, but for their potential to evolve and capture market share in their respective sectors. For a deeper dive into these investment opportunities, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/million-retirement-stocks-growth-sezl-lz-brze/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/million-retirement-stocks-growth-sezl-lz-brze/?source=iedfolrf0000001)

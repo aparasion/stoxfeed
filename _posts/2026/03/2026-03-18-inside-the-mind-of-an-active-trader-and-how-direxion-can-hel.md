@@ -18,4 +18,4 @@ The significance of these funds is underscored by their performance during major
 
 For market professionals, the rapid growth of leveraged funds—at a 29% annual pace since 2020—presents both opportunities and risks. Understanding how these products can be utilized in various market conditions is crucial. I recommend exploring the full article for deeper insights into the evolving landscape of leveraged trading strategies.
 
-[Source: benzinga.com](https://www.benzinga.com/money/direxion-y2)
+[benzinga.com](https://www.benzinga.com/money/direxion-y2)

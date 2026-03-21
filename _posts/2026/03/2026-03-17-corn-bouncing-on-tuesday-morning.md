@@ -18,4 +18,4 @@ Despite the recent losses, the Export Inspections report revealed that 1.658 mil
 
 For market professionals, the key takeaway is the ongoing strength in export demand, which may provide a buffer against price volatility. For a deeper dive into this developing story, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/corn-bouncing-tuesday-morning)
+[nasdaq.com](https://www.nasdaq.com/articles/corn-bouncing-tuesday-morning)

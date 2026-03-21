@@ -18,4 +18,4 @@ The declaration of this dividend is significant for income-focused investors and
 
 For those keen on dividend strategies and ETF performance, this announcement is worth a closer look. Explore the full details in the original article for insights into Vanguard's dividend scorecard and growth potential.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4567071-vanguard-us-dividend-app-index-etf-cad-hdg-declares-cad-0_1952-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4567071-vanguard-us-dividend-app-index-etf-cad-hdg-declares-cad-0_1952-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

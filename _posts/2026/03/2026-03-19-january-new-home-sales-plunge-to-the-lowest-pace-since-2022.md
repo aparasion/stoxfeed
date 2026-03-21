@@ -18,4 +18,4 @@ The increase in inventory to a 9.7-month supply, up from eight months in Decembe
 
 For market professionals, these trends suggest a potential slowdown in the housing sector that could impact related industries and broader economic indicators. For a deeper dive into the implications, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/january-new-home-sales.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/january-new-home-sales.html)

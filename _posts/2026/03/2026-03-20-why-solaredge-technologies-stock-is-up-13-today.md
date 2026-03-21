@@ -18,4 +18,4 @@ This upgrade comes amid a backdrop of mixed performance for SolarEdge, which has
 
 Market professionals should keep a close eye on how SolarEdge navigates this volatile landscape and leverages the unexpected boost from rising oil prices. For a deeper dive into the implications of this upgrade, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/why-solaredge-technologies-stock-is-up-13-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/why-solaredge-technologies-stock-is-up-13-today/?source=iedfolrf0000001)

@@ -20,4 +20,4 @@ For market professionals, the key takeaway is the Fed's likely prioritization of
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/oil-prices-spike-into-the-fed-meeting)
+[xtb.com](https://www.xtb.com/en/market-analysis/oil-prices-spike-into-the-fed-meeting)

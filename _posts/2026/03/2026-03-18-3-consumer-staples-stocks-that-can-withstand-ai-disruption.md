@@ -18,4 +18,4 @@ These businesses have demonstrated resilience, evidenced by Coca-Cola's consiste
 
 While these stocks may not deliver outsized returns, their durability makes them attractive for conservative portfolios. For a deeper analysis of how these companies are adapting to technological changes, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/3-consumer-staples-stocks-withstand-ai-disruption/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/3-consumer-staples-stocks-withstand-ai-disruption/?source=iedfolrf0000001)

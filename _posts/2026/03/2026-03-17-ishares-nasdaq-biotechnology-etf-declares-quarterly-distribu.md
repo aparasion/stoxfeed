@@ -18,4 +18,4 @@ This dividend declaration is significant as it reflects the ongoing commitment o
 
 For a deeper dive into the implications of this distribution and insights on the biotech sector's performance, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565105-ishares-nasdaq-biotechnology-etf-declares-quarterly-distribution-of-01218?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565105-ishares-nasdaq-biotechnology-etf-declares-quarterly-distribution-of-01218?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

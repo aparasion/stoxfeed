@@ -18,4 +18,4 @@ This data is crucial for financial professionals, as it highlights the varying b
 
 For those looking to boost their net worth, investing in the stock market through vehicles like 401(k)s or IRAs remains a viable strategy. For a deeper dive into these insights, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/19/heres-the-average-net-worth-for-gen-xers-where-do/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/19/heres-the-average-net-worth-for-gen-xers-where-do/?source=iedfolrf0000001)

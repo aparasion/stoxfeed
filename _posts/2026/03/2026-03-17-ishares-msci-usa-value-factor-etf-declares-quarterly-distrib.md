@@ -18,4 +18,4 @@ This distribution is particularly relevant as it underscores the ETF's performan
 
 Investors should consider how VLUE's dividend payout aligns with their income strategies, particularly in light of recent market volatility. For a deeper dive into the ETF's performance and strategic implications, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565468-ishares-msci-usa-value-factor-etf-declares-quarterly-distribution-of-06312?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565468-ishares-msci-usa-value-factor-etf-declares-quarterly-distribution-of-06312?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

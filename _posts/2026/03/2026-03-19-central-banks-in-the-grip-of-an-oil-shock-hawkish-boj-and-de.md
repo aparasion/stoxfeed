@@ -18,4 +18,4 @@ In Switzerland, the Swiss National Bank opted to keep interest rates at 0% but i
 
 For market professionals, these developments highlight the delicate balance central banks must maintain amid rising inflation and geopolitical tensions. The situation warrants close monitoring, particularly for currency traders and portfolio managers, as these dynamics could significantly impact exchange rates and investment strategies. For a deeper dive into these central bank strategies and their implications, check out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/central-banks-in-the-grip-of-an-oil-shock-hawkish-boj-and-defensive-rate-decisions-in-europe)
+[xtb.com](https://www.xtb.com/en/market-analysis/central-banks-in-the-grip-of-an-oil-shock-hawkish-boj-and-defensive-rate-decisions-in-europe)

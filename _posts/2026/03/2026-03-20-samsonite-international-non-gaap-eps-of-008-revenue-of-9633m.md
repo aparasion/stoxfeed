@@ -18,4 +18,4 @@ The positive earnings surprise is likely to bolster investor confidence in Samso
 
 For investors and market professionals, Samsonite's results highlight the importance of monitoring consumer trends in travel and leisure sectors. For a deeper dive into the financials and implications of this earnings report, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566861-samsonite-international-non-gaap-eps-of-0_08-revenue-of-963_3m-beats-by-16_54m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566861-samsonite-international-non-gaap-eps-of-0_08-revenue-of-963_3m-beats-by-16_54m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

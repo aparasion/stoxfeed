@@ -18,4 +18,4 @@ This acquisition is significant as it underscores the growing trend of integrati
 
 For market professionals, the MedArrive-Inbound Health deal highlights the importance of technological advancements in healthcare and their implications for investment opportunities. To delve deeper into this acquisition and its potential market effects, I recommend checking out the full article.
 
-[Source: hitconsultant.net](https://hitconsultant.net)
+[hitconsultant.net](https://hitconsultant.net)

@@ -18,4 +18,4 @@ The implications for the financial markets are considerable, particularly for te
 
 For market professionals, the evolving regulatory landscape around AI poses both risks and opportunities. Understanding these dynamics will be crucial as the situation unfolds. For a deeper dive into this issue, I recommend exploring the full article on CNBC.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html)

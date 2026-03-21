@@ -18,4 +18,4 @@ These sectors are not only gaining traction but also reflect broader macro trend
 
 For professionals looking to optimize their portfolios, Gardner's insights offer a strategic lens on where to focus investments. To dive deeper into these trends and discover specific stock recommendations, I encourage you to check out the full article for a comprehensive analysis.
 
-[Source: fool.com](https://www.fool.com)
+[fool.com](https://www.fool.com)

@@ -18,4 +18,4 @@ This disruption has not only driven crude prices higher but has also significant
 
 For a deeper understanding of the IEA's recommendations and the broader implications for the oil market, I encourage you to read the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/iea-oil-fuel-prices-energy-advice-consumers-crisis.html)

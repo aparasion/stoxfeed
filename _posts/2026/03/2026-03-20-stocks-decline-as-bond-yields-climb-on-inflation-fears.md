@@ -18,4 +18,4 @@ This market pressure comes amid heightened geopolitical tensions, with reports o
 
 For professionals, the key takeaway is the potential for sustained volatility in both equities and bonds, driven by geopolitical developments and inflation concerns. For a deeper understanding of these market movements, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-decline-bond-yields-climb-inflation-fears)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-decline-bond-yields-climb-inflation-fears)

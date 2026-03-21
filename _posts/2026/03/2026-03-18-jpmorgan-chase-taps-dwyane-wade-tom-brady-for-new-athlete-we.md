@@ -18,4 +18,4 @@ This move highlights the increasing competition among financial institutions to 
 
 For market professionals, this development underscores the potential for growth in financial services tailored to high-net-worth individuals, particularly those in the sports sector. I recommend exploring the full article for deeper insights into JPMorgan's strategic approach.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html)

@@ -18,4 +18,4 @@ The bond offering underscores a critical challenge for Nebius: its cash flow is 
 
 Investors should approach Nebius with caution, given its potential for high returns alongside substantial risks. For a deeper dive into Nebius' financial landscape and future outlook, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/nebius-stock-just-reminded-investors-about-its-big/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/nebius-stock-just-reminded-investors-about-its-big/?source=iedfolrf0000001)

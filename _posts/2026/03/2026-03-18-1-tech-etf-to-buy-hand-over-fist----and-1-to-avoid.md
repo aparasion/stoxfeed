@@ -18,4 +18,4 @@ The article emphasizes that while the Magnificent Seven has benefited from recen
 
 For investors seeking sustainable growth in technology, the Vanguard ETF represents a more prudent strategy. For a deeper dive into the implications of these investment choices, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/1-tech-etf-to-buy-hand-over-fist-and-1-to-avoid/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/1-tech-etf-to-buy-hand-over-fist-and-1-to-avoid/?source=iedfolrf0000001)

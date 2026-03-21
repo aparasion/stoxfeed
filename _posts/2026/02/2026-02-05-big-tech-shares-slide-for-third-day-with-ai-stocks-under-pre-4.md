@@ -18,4 +18,4 @@ The implications for the financial markets are profound, as these declines could
 
 For market professionals, this situation underscores the importance of diversifying portfolios and reassessing exposure to tech stocks. For a deeper dive into the factors driving this trend, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)

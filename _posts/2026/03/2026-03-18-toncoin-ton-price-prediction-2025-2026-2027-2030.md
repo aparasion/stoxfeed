@@ -18,4 +18,4 @@ The implications for investors are significant, as TON's market cap of $22.28 bi
 
 For a deeper dive into the factors influencing Toncoin's trajectory and detailed price predictions, I highly recommend exploring the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)

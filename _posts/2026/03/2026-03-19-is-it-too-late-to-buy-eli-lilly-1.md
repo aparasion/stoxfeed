@@ -18,4 +18,4 @@ The current market valuation of Eli Lilly, reflected in its high price-to-earnin
 
 For those considering an investment in Eli Lilly, it may be prudent to explore the full article for a deeper understanding of the potential risks and rewards in this dynamic sector.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/is-it-too-late-to-buy-eli-lilly/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/is-it-too-late-to-buy-eli-lilly/?source=iedfolrf0000001)

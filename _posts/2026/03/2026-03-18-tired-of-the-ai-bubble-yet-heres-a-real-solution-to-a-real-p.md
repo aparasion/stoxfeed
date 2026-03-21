@@ -18,4 +18,4 @@ GACW's ASW offers significant operational advantages for mining companies, inclu
 
 For investors seeking exposure to a burgeoning sector, GACW presents a compelling opportunity with its patented technology and strong market potential. I recommend exploring the full story to understand the implications of this innovative solution in the industrial landscape.
 
-[Source: benzinga.com](https://www.benzinga.com/money/global-air-cylinder-pm-gg)
+[benzinga.com](https://www.benzinga.com/money/global-air-cylinder-pm-gg)

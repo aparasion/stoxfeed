@@ -18,4 +18,4 @@ The recent discussions between U.S. Treasury Secretary Bessent and Chinese offic
 
 Market professionals should keep an eye on these developments, as they could significantly influence soybean pricing and export dynamics. For a deeper dive into the implications of these trends, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soybeans-getting-early-turnaround-tuesday-bounce)
+[nasdaq.com](https://www.nasdaq.com/articles/soybeans-getting-early-turnaround-tuesday-bounce)

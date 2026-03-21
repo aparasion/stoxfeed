@@ -18,4 +18,4 @@ This dividend decision is significant as it reflects the fund's ongoing commitme
 
 For those looking to enhance their income strategies, the Purpose Canadian Preferred Share Fund's latest dividend could be a noteworthy addition. I recommend checking out the full article for deeper insights into the fund's performance and dividend history.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566537-purpose-canadian-preferred-share-fund-etf-units-declares-cad-0_095-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566537-purpose-canadian-preferred-share-fund-etf-units-declares-cad-0_095-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ The Federal Reserve maintained interest rates but indicated a shift in the outlo
 
 Market professionals should closely monitor the evolving geopolitical landscape and its potential impact on energy markets and inflation, as these factors could significantly influence investment strategies. For a deeper analysis, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-rising-middle-east-tensions-oil-back-on-the-rise-18-03-2026)
+[xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-rising-middle-east-tensions-oil-back-on-the-rise-18-03-2026)

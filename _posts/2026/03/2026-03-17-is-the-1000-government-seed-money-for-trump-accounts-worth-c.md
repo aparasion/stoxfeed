@@ -18,4 +18,4 @@ This initiative could have broader implications for financial markets, particula
 
 For financial professionals, the rollout of Trump Accounts represents an opportunity to engage with clients about early investment strategies. I recommend exploring the full details in The Motley Fool's guide to Trump Accounts to better understand how this initiative can impact your financial planning discussions.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/17/is-the-1000-government-seed-money-for-trump-accoun/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/17/is-the-1000-government-seed-money-for-trump-accoun/?source=iedfolrf0000001)

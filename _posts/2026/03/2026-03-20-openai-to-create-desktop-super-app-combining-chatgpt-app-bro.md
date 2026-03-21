@@ -18,4 +18,4 @@ This unification reflects OpenAI's aggressive orientation towards high-productiv
 
 For market professionals, this development signals OpenAI's commitment to innovation and operational focus, which could significantly impact its valuation and market positioning. I recommend exploring the full article for deeper insights into OpenAI's strategic direction.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html)

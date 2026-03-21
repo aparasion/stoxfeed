@@ -18,4 +18,4 @@ These inflationary pressures could have significant implications for the financi
 
 Market participants should closely monitor the Fed's upcoming policy decisions, as they could shape market sentiment and asset performance in the near term. For a deeper dive into the implications of this data, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/breaking-us-ppi-much-higher-than-expected-us100-loses)
+[xtb.com](https://www.xtb.com/en/market-analysis/breaking-us-ppi-much-higher-than-expected-us100-loses)

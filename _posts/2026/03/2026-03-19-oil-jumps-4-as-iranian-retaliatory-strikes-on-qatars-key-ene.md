@@ -18,4 +18,4 @@ The implications for financial markets are significant, as the ongoing conflict 
 
 For professionals in trading and portfolio management, this situation underscores the need for vigilance in monitoring geopolitical developments. I recommend diving into the full article for a deeper understanding of the potential market ramifications.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html)

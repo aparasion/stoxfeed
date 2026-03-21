@@ -18,4 +18,4 @@ The analyst's bullish stance is supported by positive client feedback on Digital
 
 For investors, this development underscores the potential upside in DigitalOcean's stock, making it a compelling option in the cloud computing sector. I recommend checking out the full article for a deeper dive into the analysis and implications for your investment strategy.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/why-digitalocean-stock-soared-on-wednesday/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/why-digitalocean-stock-soared-on-wednesday/?source=iedfolrf0000001)

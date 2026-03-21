@@ -18,4 +18,4 @@ For financial professionals, understanding these dynamics is essential, as they 
 
 For a deeper dive into retirement planning strategies and how to navigate Social Security benefits, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/18/x-steps-to-take-to-collect-the-max-monthly-social/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/18/x-steps-to-take-to-collect-the-max-monthly-social/?source=iedfolrf0000001)

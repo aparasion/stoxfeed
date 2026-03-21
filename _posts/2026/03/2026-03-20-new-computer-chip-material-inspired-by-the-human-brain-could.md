@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, particularly for sec
 
 For market professionals, this development signals a pivotal shift in AI hardware that could reshape industry standards and investment strategies. I recommend exploring the full article for a deeper understanding of how this technology may impact the future of AI and the broader tech landscape.
 
-[Source: semiconductor-digest.com](https://www.semiconductor-digest.com/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use/?utm_source=rss&utm_medium=rss&utm_campaign=new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)
+[semiconductor-digest.com](https://www.semiconductor-digest.com/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use/?utm_source=rss&utm_medium=rss&utm_campaign=new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)

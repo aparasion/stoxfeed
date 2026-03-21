@@ -20,4 +20,4 @@ Market professionals should keep a close eye on the forthcoming proposal, as it 
 
 *StoxFeed tracks this as a market signal: [Institutional Bitcoin adoption is growing through ETFs and corporate holdings](/signals/#bitcoin-institutional-adoption)*
 
-[Source: coindesk.com](https://www.coindesk.com/policy/2026/03/17/senator-tim-scott-says-market-structure-negotiations-are-advancing)
+[coindesk.com](https://www.coindesk.com/policy/2026/03/17/senator-tim-scott-says-market-structure-negotiations-are-advancing)

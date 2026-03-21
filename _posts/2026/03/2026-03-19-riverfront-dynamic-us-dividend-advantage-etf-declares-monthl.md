@@ -18,4 +18,4 @@ This distribution is significant as it reflects the ETF's commitment to deliveri
 
 For market professionals, RFDA's performance and distribution strategy could signal broader trends in dividend-focused investing. For a deeper dive into the ETF's performance metrics and strategic positioning, I recommend checking out the full article for more insights.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566669-riverfront-dynamic-us-dividend-advantage-etf-declares-monthly-distribution-of-02683?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566669-riverfront-dynamic-us-dividend-advantage-etf-declares-monthly-distribution-of-02683?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

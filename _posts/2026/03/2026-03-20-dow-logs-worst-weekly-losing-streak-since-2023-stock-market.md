@@ -18,4 +18,4 @@ This downturn is particularly relevant for portfolio managers and traders as it 
 
 For market professionals, the key takeaway is the importance of vigilance in asset allocation and risk management during volatile periods. Understanding the implications of these market movements can help inform strategic decisions. For a deeper dive into the current market dynamics, I recommend checking out the full article.
 
-[Source: kiplinger.com](https://www.kiplinger.com)
+[kiplinger.com](https://www.kiplinger.com)

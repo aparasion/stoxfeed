@@ -18,4 +18,4 @@ This development is particularly significant as it underscores the ECB's ongoing
 
 Market professionals should closely monitor these initiatives, as they may influence regulatory frameworks and investment strategies across the Eurozone. For a deeper dive into these developments, I recommend reading the full article on the ECB's website.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260320~5dfc6af626.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260320~5dfc6af626.en.html)

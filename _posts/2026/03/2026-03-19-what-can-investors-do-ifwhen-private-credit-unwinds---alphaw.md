@@ -18,4 +18,4 @@ The implications for the financial markets are significant. A downturn in privat
 
 For market professionals, this development underscores the importance of monitoring private credit dynamics closely. Understanding the interconnectedness of these markets could be crucial for portfolio management strategies moving forward. I recommend diving deeper into this topic by exploring the full article for a comprehensive analysis.
 
-[Source: alpha-week.com](https://www.alpha-week.com)
+[alpha-week.com](https://www.alpha-week.com)

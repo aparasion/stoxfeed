@@ -18,4 +18,4 @@ The implications for the energy sector are significant, especially as Oklo's rec
 
 For professionals in the financial markets, Oklo's developments highlight the intersection of regulatory progress and market sentiment in the energy sector. I recommend exploring the full article for deeper insights into Oklo's strategy and its potential impact on the nuclear energy landscape.
 
-[Source: sherwood.news](https://sherwood.news)
+[sherwood.news](https://sherwood.news)

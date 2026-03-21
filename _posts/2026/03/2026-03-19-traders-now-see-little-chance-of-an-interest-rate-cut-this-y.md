@@ -18,4 +18,4 @@ The implications for financial markets are significant. The CME Group's FedWatch
 
 As traders recalibrate their strategies, the next critical data point will be incoming inflation reports, particularly regarding tariff-sensitive goods. For a deeper dive into how these developments may shape market dynamics, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/traders-rate-cut.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/traders-rate-cut.html)

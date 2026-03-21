@@ -18,4 +18,4 @@ The broader cryptocurrency market is also showing signs of recovery, with severa
 
 For market professionals, the significant inflows into Bitcoin ETFs and the bullish movements in altcoins like HYPE and ADA could indicate a broader trend towards recovery in the crypto space. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: coincentral.com](https://coincentral.com)
+[coincentral.com](https://coincentral.com)

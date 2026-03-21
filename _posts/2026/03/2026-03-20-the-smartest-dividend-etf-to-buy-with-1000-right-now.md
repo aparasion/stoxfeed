@@ -18,4 +18,4 @@ Investors may find SCHD particularly appealing given its historical performance,
 
 For professionals looking to enhance their portfolios with resilient dividend stocks, SCHD presents a compelling case. I recommend exploring the full article for deeper insights into its performance and strategy.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/the-smartest-dividend-etf-to-buy-with-1000-right/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/the-smartest-dividend-etf-to-buy-with-1000-right/?source=iedfolrf0000001)

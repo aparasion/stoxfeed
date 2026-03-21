@@ -18,4 +18,4 @@ Looking ahead, Nvidia anticipates further sales growth, projecting quarterly rev
 
 For a deeper dive into Nvidia's strategic innovations and market positioning, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/nvidia-just-reported-68-billion-in-revenue-heres-w/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/nvidia-just-reported-68-billion-in-revenue-heres-w/?source=iedfolrf0000001)

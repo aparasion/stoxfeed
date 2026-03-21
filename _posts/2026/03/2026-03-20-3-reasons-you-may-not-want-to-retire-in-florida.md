@@ -18,4 +18,4 @@ These factors could influence retirees' financial decisions, particularly regard
 
 Ultimately, while Florida has much to offer, it’s crucial for retirees to weigh these considerations against their personal circumstances. For a deeper dive into alternative retirement destinations that provide similar benefits without the drawbacks, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/20/3-reasons-you-may-not-want-to-retire-in-florida/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/20/3-reasons-you-may-not-want-to-retire-in-florida/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as disruptions in th
 
 For professionals in the energy sector, the evolving situation presents both risks and opportunities. I recommend diving deeper into this article for a comprehensive understanding of the market dynamics at play.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html)

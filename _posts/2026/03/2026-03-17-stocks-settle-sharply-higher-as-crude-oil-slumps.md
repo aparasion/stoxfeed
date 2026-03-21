@@ -18,4 +18,4 @@ This market movement is particularly relevant as lower oil prices could enhance 
 
 Investors should closely monitor ongoing geopolitical tensions and their potential impact on oil supply, as Goldman Sachs warns that sustained disruptions could push crude prices to record highs. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-settle-sharply-higher-crude-oil-slumps)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-settle-sharply-higher-crude-oil-slumps)

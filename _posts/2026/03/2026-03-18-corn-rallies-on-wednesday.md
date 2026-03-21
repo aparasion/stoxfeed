@@ -18,4 +18,4 @@ The latest EIA data revealed a decline in ethanol production to 1.093 million ba
 
 For market professionals, the implications of fluctuating corn prices and ethanol production trends are critical for positioning in agricultural commodities. To delve deeper into the details and forecasts surrounding these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/corn-rallies-wednesday)
+[nasdaq.com](https://www.nasdaq.com/articles/corn-rallies-wednesday)

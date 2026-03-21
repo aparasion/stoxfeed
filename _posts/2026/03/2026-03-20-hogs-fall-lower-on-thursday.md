@@ -18,4 +18,4 @@ These developments indicate a bearish sentiment in the hog market, influenced by
 
 For those closely monitoring livestock futures, the current pricing trends and USDA reports provide crucial insights. I recommend diving deeper into the full article for a comprehensive analysis of the market's direction and implications.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/hogs-fall-lower-thursday)
+[nasdaq.com](https://www.nasdaq.com/articles/hogs-fall-lower-thursday)

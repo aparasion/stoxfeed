@@ -18,4 +18,4 @@ This development is significant for the energy sector, as ExxonMobil's integrate
 
 For a deeper understanding of ExxonMobil's strategic initiatives and their implications for the energy market, I recommend exploring the full article.
 
-[Source: corporate.exxonmobil.com](https://corporate.exxonmobil.com)
+[corporate.exxonmobil.com](https://corporate.exxonmobil.com)

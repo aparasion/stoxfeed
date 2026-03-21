@@ -18,4 +18,4 @@ The clearance is crucial for Nvidia, which had faced a $5.5 billion charge relat
 
 For market professionals, this approval could signal a potential rebound in Nvidia's sales in China, making it an important development to monitor. I recommend exploring the full article for a deeper understanding of Nvidia's strategic positioning in the evolving regulatory landscape.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nvidia-resumes-h200-chip-production-china-after-receiving-purchase-orders)
+[nasdaq.com](https://www.nasdaq.com/articles/nvidia-resumes-h200-chip-production-china-after-receiving-purchase-orders)
