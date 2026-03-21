@@ -20,7 +20,7 @@
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="{{ site.author | default: 'StoxFeed' }}">
   <link rel="canonical" href="{{ canonical_url }}">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com https://formspree.io https://buttondown.com; frame-src https://buttondown.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com https://pagead2.googlesyndication.com; connect-src 'self' https://www.google-analytics.com https://formspree.io https://buttondown.com https://pagead2.googlesyndication.com; frame-src https://buttondown.com https://googleads.g.doubleclick.net; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formspree.io https://buttondown.com;">
   <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <meta name="referrer" content="strict-origin-when-cross-origin">
 
@@ -185,6 +185,24 @@ document.addEventListener("DOMContentLoaded", function () {
       if (!siteNav.contains(e.target)) {
         siteNav.classList.remove("is-open");
         navToggle.setAttribute("aria-expanded", "false");
+      }
+    });
+  }
+
+  // ── Nav search toggle ──────────────────────────────────
+  var navSearchBtn = document.getElementById("nav-search-btn");
+  var navSearchForm = document.getElementById("nav-search-form");
+  if (navSearchBtn && navSearchForm) {
+    navSearchBtn.addEventListener("click", function () {
+      var isOpen = navSearchForm.classList.toggle("is-open");
+      if (isOpen) navSearchForm.querySelector("input").focus();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") navSearchForm.classList.remove("is-open");
+    });
+    document.addEventListener("click", function (e) {
+      if (!navSearchBtn.contains(e.target) && !navSearchForm.contains(e.target)) {
+        navSearchForm.classList.remove("is-open");
       }
     });
   }

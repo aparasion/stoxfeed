@@ -9,12 +9,7 @@ layout: default
 
 <div class="feed-layout">
   <main class="feed-main">
-    <article class="post{% if page.categories contains 'monthly-summary' %} monthly-report-post{% endif %}" data-pagefind-body>
-
-      {% comment %} Pagefind filter metadata — hidden from display {% endcomment %}
-      {% if page.publisher %}<span data-pagefind-filter="publisher" style="display:none">{{ page.publisher }}</span>{% endif %}
-      {% for cat in page.categories %}<span data-pagefind-filter="category" style="display:none">{{ cat }}</span>{% endfor %}
-      <span data-pagefind-meta="date:{{ page.date | date: '%B %d, %Y' }}" style="display:none"></span>
+    <article class="post{% if page.categories contains 'monthly-summary' %} monthly-report-post{% endif %}">
 
       {% if page.signal_ids and page.signal_ids.size > 0 %}
       <p class="signal-context">

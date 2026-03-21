@@ -41,16 +41,8 @@ jobs:
       - name: Fetch market tickers
         run: python scripts/fetch_tickers.py
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
       - name: Build site
         run: bundle exec jekyll build --destination _site
-
-      - name: Index with Pagefind
-        run: npx pagefind --site _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
