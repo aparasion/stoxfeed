@@ -756,14 +756,16 @@ hr {
 .banner-placeholder {
   background: color-mix(in srgb, var(--border) 50%, transparent);
   border-radius: var(--radius-sm);
-  height: 120px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  min-height: 120px;
   font-size: 0.7rem;
   color: var(--muted);
   font-weight: 600;
   letter-spacing: 0.04em;
+}
+
+.banner-placeholder .adsbygoogle {
+  width: 100%;
+  min-height: 120px;
 }
 
 .banner-placeholder.banner-tall {
