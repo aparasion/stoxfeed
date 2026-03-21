@@ -18,4 +18,4 @@ Investors may be cautious about entering after such a substantial rise, but GE V
 
 For a deeper analysis of GE Vernova's market position and future prospects, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/is-ge-vernova-the-smartest-investment-you-can-make/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/is-ge-vernova-the-smartest-investment-you-can-make/?source=iedfolrf0000001)

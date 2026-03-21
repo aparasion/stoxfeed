@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly as Alib
 
 For investors, Alibaba's struggle to meet expectations amid ambitious growth plans signals a need for cautious evaluation of its market positioning. To gain deeper insights into Alibaba's latest developments and strategic direction, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/alibaba-december-quarter-earnings-ai-investment.html)

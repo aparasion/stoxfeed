@@ -18,4 +18,4 @@ This development is significant as it positions Nasdaq at the forefront of a rap
 
 For market professionals, this approval underscores the importance of staying informed about the evolving landscape of tokenized assets. I recommend exploring the full article for a deeper understanding of the implications for trading and settlement processes.
 
-[Source: coindesk.com](https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading)
+[coindesk.com](https://www.coindesk.com/policy/2026/03/18/sec-approves-nasdaq-s-move-to-allow-tokenized-securities-trading)

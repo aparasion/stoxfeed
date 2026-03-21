@@ -18,4 +18,4 @@ The introduction of Stitch, which Google is offering for free, poses a direct ch
 
 For market professionals, the implications of Google's move are clear: Figma's growth strategy may need reevaluation in light of increased competition. I recommend diving into the full article for a deeper understanding of these dynamics and their potential impact on the software landscape.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/figma-stock-drops-11percent-after-google-releases-vibe-design-product-stitch.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/figma-stock-drops-11percent-after-google-releases-vibe-design-product-stitch.html)

@@ -18,4 +18,4 @@ This surge in interest is fueled by Elf Labs' impressive milestones, including g
 
 For market professionals, the key takeaway is Elf Labs' unique position as a private company poised for public market success, making it a compelling opportunity for investors. To delve deeper into Elf Labs' strategy and offerings, I recommend checking out the full article for a comprehensive overview.
 
-[Source: benzinga.com](https://www.benzinga.com/money/elf-labs-ip)
+[benzinga.com](https://www.benzinga.com/money/elf-labs-ip)

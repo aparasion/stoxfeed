@@ -18,4 +18,4 @@ The positive earnings report is likely to bolster investor sentiment in the logi
 
 For market professionals, this development underscores the importance of monitoring earnings reports for potential shifts in sector dynamics. I recommend checking out the full article for a deeper dive into FedEx's performance and future outlook.
 
-[Source: finance.yahoo.com](https://finance.yahoo.com)
+[finance.yahoo.com](https://finance.yahoo.com)

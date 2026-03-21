@@ -20,4 +20,4 @@ For those looking to navigate these turbulent waters, the full article offers de
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/oil-prices-soar-40-years-history-huge-move-stocks/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/oil-prices-soar-40-years-history-huge-move-stocks/?source=iedfolrf0000001)

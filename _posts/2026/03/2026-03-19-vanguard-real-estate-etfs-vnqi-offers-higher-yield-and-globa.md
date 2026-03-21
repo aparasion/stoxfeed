@@ -18,4 +18,4 @@ The choice between these funds hinges on investor priorities. VNQ's concentratio
 
 Ultimately, both ETFs serve unique roles in a portfolio, depending on whether income or geographic exposure is the priority. For a comprehensive analysis of these funds, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/etfs/2026/03/19/vanguard-real-estate-etfs-vnqi-offers-higher-yield-and-global-reach-while-vnq-provide-u-s-exposure/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/etfs/2026/03/19/vanguard-real-estate-etfs-vnqi-offers-higher-yield-and-global-reach-while-vnq-provide-u-s-exposure/?source=iedfolrf0000001)

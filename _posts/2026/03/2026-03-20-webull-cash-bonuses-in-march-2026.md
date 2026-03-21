@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as such promotions c
 
 For market professionals, this promotion signals a continued push towards democratizing investing and enhancing user engagement. To learn more about Webull's offerings and how they might impact trading strategies, check out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/how-to-get-free-stock-from-webull-november-2024)
+[benzinga.com](https://www.benzinga.com/money/how-to-get-free-stock-from-webull-november-2024)

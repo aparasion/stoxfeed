@@ -18,4 +18,4 @@ The market's dynamics are further complicated by the upcoming Cattle on Feed rep
 
 Traders should closely monitor the Cattle on Feed data for potential implications on future pricing trends. For a deeper dive into these developments, I recommend checking out the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cattle-bouncing-ahead-cattle-feed-report)
+[nasdaq.com](https://www.nasdaq.com/articles/cattle-bouncing-ahead-cattle-feed-report)

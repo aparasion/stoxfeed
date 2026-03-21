@@ -18,4 +18,4 @@ This shift is significant for financial markets as it can influence stock perfor
 
 For investors and market analysts, understanding these strategies is crucial as they can reshape the competitive landscape of the metal fabrication sector. To delve deeper into the implications of these M&A strategies, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdG4zeGMydVVzOVMySW4tQmltS2FURkYzcVItczg2aWdDRGE0aE9VZHhBdy1xLTJUTjlaQ1dkT2ZtZE9GMDlwTTV2VmtnQVJ1YVhjLVJQb2o3d0diMktYUkZkTnROTi1tQ1EwV3hzTzFaTjl2X1JmaWV4S3piVC0wQ2t0dHp2Q0tfRGhlMXpNTm9FUVZBOHU0T0M0NGx5VzNlMnhTbUYyb0FQUk9YR1VPemM1akJST19idFExOEpzNUM3ajNfbDZ4Nzl0SVdSZw?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxQdG4zeGMydVVzOVMySW4tQmltS2FURkYzcVItczg2aWdDRGE0aE9VZHhBdy1xLTJUTjlaQ1dkT2ZtZE9GMDlwTTV2VmtnQVJ1YVhjLVJQb2o3d0diMktYUkZkTnROTi1tQ1EwV3hzTzFaTjl2X1JmaWV4S3piVC0wQ2t0dHp2Q0tfRGhlMXpNTm9FUVZBOHU0T0M0NGx5VzNlMnhTbUYyb0FQUk9YR1VPemM1akJST19idFExOEpzNUM3ajNfbDZ4Nzl0SVdSZw?oc=5)

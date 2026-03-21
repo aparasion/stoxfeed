@@ -18,4 +18,4 @@ The stock has seen a steep decline, down 18% in 2026 and about 56% over the past
 
 For a deeper dive into Nike's performance and strategic outlook, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nike-stock-has-been-absolutely-slammed-bolstering-its-dividend-yield-buying-opportunity)
+[nasdaq.com](https://www.nasdaq.com/articles/nike-stock-has-been-absolutely-slammed-bolstering-its-dividend-yield-buying-opportunity)

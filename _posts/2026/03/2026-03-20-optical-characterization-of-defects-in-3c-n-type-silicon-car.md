@@ -18,4 +18,4 @@ However, the integration of 3C-SiC with silicon comes with substantial challenge
 
 To mitigate these challenges, a multimodal optical characterization strategy has been developed to analyze defect formation and its effects on material quality. This innovative approach promises to enhance the efficiency of process development and improve the commercial viability of 3C-SiC technologies. For a deeper dive into these developments, I recommend reading the full article in Semiconductor Digest.
 
-[Source: semiconductor-digest.com](https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/?utm_source=rss&utm_medium=rss&utm_campaign=optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy)
+[semiconductor-digest.com](https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/?utm_source=rss&utm_medium=rss&utm_campaign=optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy)

@@ -18,4 +18,4 @@ The stock has shown a positive trajectory over the past year, with a 19% return,
 
 For investors, Boeing represents a potential long-term buy, especially as the company is expected to benefit from increasing demand for modern, fuel-efficient aircraft. For a deeper dive into Boeing's outlook and the factors influencing its stock price, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/boeing-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/boeing-stock-price-prediction)

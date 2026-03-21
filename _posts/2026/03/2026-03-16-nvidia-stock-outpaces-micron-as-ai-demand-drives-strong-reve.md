@@ -18,4 +18,4 @@ The investment is likely to have significant implications for the tech sector, p
 
 For market professionals, this development underscores the critical role of AI in shaping future business strategies. I recommend exploring the full article to gain deeper insights into how this investment could influence Meta's market position and the broader tech landscape.
 
-[Source: techi.com](https://www.techi.com)
+[techi.com](https://www.techi.com)

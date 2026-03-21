@@ -18,4 +18,4 @@ The recent uptick in oil prices underscores the ongoing recovery from the pandem
 
 For a deeper understanding of how these price movements could affect your trading decisions and portfolio management, I recommend exploring the full article.
 
-[Source: statista.com](https://www.statista.com)
+[statista.com](https://www.statista.com)

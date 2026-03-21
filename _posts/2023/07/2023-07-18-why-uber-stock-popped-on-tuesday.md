@@ -18,4 +18,4 @@ This positive sentiment comes as Uber prepares for its second-quarter earnings r
 
 For those closely tracking Uber's performance, this article provides valuable insights into the company's growth trajectory and market positioning. I recommend reading the full story for a deeper understanding of these developments.
 
-[Source: fool.com](https://www.fool.com/investing/2023/07/18/why-uber-stock-popped-on-tuesday/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2023/07/18/why-uber-stock-popped-on-tuesday/?source=iedfolrf0000001)

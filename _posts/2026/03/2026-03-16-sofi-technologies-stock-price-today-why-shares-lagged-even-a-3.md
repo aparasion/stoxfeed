@@ -18,4 +18,4 @@ The implications for Palantir's market position are significant. With shares tra
 
 For market professionals, the key takeaway is the need to assess how competitive dynamics in the defense sector may influence Palantir's valuation and growth trajectory. I recommend diving deeper into the full story for a comprehensive understanding of these developments.
 
-[Source: ts2.tech](https://ts2.tech)
+[ts2.tech](https://ts2.tech)

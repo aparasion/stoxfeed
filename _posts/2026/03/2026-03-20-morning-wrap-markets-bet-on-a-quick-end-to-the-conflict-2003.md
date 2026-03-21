@@ -18,4 +18,4 @@ In the commodities market, Brent crude dropped below $110 per barrel, attributed
 
 Market professionals should monitor these geopolitical developments closely, as they could influence volatility in energy prices and broader market dynamics. For a deeper dive into these unfolding events, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/morning-wrap-markets-bet-on-a-quick-end-to-the-conflict-20-03-2026)
+[xtb.com](https://www.xtb.com/en/market-analysis/morning-wrap-markets-bet-on-a-quick-end-to-the-conflict-20-03-2026)

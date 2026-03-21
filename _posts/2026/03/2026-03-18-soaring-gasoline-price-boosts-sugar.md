@@ -18,4 +18,4 @@ Despite this bullish momentum, analysts warn of an impending global sugar surplu
 
 Market participants should closely monitor the evolving dynamics of sugar production and export policies, particularly from India, as these factors will significantly impact future price movements. For a deeper dive into these trends, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soaring-gasoline-price-boosts-sugar)
+[nasdaq.com](https://www.nasdaq.com/articles/soaring-gasoline-price-boosts-sugar)

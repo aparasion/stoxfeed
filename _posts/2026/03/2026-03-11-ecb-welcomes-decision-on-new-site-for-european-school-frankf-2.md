@@ -18,4 +18,4 @@ This move is expected to bolster Frankfurt's appeal as an international business
 
 For market professionals, the establishment of the ESF could signal a strengthening of Frankfurt's position in the European financial landscape. I recommend exploring the full article to understand the broader implications of this development.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)

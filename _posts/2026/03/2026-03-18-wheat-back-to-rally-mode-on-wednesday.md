@@ -18,4 +18,4 @@ The upcoming Export Sales report, expected to show wheat sales between 300,000 M
 
 For professionals in the commodity markets, this rally presents potential trading opportunities. I recommend exploring the full article for deeper insights and analysis on this developing situation.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-back-rally-mode-wednesday)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-back-rally-mode-wednesday)

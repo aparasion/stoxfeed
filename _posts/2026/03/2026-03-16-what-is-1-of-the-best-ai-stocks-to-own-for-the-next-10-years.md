@@ -18,4 +18,4 @@ This growth trajectory underscores Nvidia's pivotal role in the AI boom, making 
 
 For a deeper dive into Nvidia's market strategy and future prospects, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/1-best-ai-stock-to-own-for-the-next-10-years/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/1-best-ai-stock-to-own-for-the-next-10-years/?source=iedfolrf0000001)

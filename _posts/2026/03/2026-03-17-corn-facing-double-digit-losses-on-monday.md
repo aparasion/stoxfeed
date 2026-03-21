@@ -18,4 +18,4 @@ The latest Commitment of Traders report indicates a significant increase in spec
 
 For professionals in the market, the interplay between domestic exports and international supply trends could signal potential volatility in corn prices. I recommend checking out the full article for a deeper analysis of these developments.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/corn-facing-double-digit-losses-monday)
+[nasdaq.com](https://www.nasdaq.com/articles/corn-facing-double-digit-losses-monday)

@@ -18,4 +18,4 @@ The current market dynamics show that while supply-side pressures are easing, bu
 
 For a deeper dive into the implications of these developments for ETH and the broader crypto market, I recommend checking out the full article.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

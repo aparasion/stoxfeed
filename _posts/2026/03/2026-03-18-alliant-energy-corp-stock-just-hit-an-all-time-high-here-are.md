@@ -18,4 +18,4 @@ The utility's strategic investments are noteworthy; Alliant is increasing its ca
 
 For market professionals, Alliant Energy's robust growth trajectory and regulatory advantages present a compelling case for further exploration. I recommend checking out the full article for a deeper dive into the factors driving this utility's impressive performance.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/alliant-energy-corp-stock-just-hit-all-time-high-here-are-3-tailwinds-boosting-stock)
+[nasdaq.com](https://www.nasdaq.com/articles/alliant-energy-corp-stock-just-hit-all-time-high-here-are-3-tailwinds-boosting-stock)

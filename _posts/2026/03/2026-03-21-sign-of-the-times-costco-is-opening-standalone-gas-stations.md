@@ -18,4 +18,4 @@ The move is particularly relevant as rising gas prices could drive increased dem
 
 For investors, this development signals Costco's strategic approach to enhancing customer experience and driving revenue growth. To delve deeper into the implications of this expansion, I recommend checking out the full article for more insights.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4567106-sign-of-the-times-costco-is-opening-standalone-gas-stations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4567106-sign-of-the-times-costco-is-opening-standalone-gas-stations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

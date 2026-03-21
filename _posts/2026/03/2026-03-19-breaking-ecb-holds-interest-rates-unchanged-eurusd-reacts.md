@@ -18,4 +18,4 @@ This decision reflects the ECB's commitment to controlling inflation, even as ge
 
 Market professionals should note that the ECB's stance indicates a cautious approach in the face of rising inflationary pressures, which could influence currency movements and sector performance. For a deeper dive into the ECB's latest decisions and their potential market impacts, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/breaking-ecb-holds-interest-rates-unchanged-eurusd-reacts)
+[xtb.com](https://www.xtb.com/en/market-analysis/breaking-ecb-holds-interest-rates-unchanged-eurusd-reacts)

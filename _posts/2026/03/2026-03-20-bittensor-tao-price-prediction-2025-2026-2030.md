@@ -18,4 +18,4 @@ This forecast is significant as it underscores the increasing interest in decent
 
 For market professionals, Bittensor represents a compelling opportunity in the intersection of AI and blockchain. The evolving landscape suggests potential for substantial returns, making it worthwhile to delve deeper into this emerging project. Explore the full article for a comprehensive analysis.
 
-[Source: benzinga.com](https://www.benzinga.com/money/bittensor-tao-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/bittensor-tao-price-prediction)

@@ -18,4 +18,4 @@ The dynamics in the sugar market are complicated by conflicting forecasts. While
 
 For market professionals, the key takeaway is the potential for volatility in sugar prices driven by production forecasts and geopolitical factors. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/sugar-prices-rally-gasoline-soars)
+[nasdaq.com](https://www.nasdaq.com/articles/sugar-prices-rally-gasoline-soars)

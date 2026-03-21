@@ -18,4 +18,4 @@ Despite the current price increase, analysts remain cautious about future supply
 
 Market professionals should closely monitor these dynamics, as the interplay between ethanol demand and global production forecasts could lead to volatility in sugar prices. For a deeper dive into these trends, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/sugar-sharply-higher-gasoline-prices-soar)
+[nasdaq.com](https://www.nasdaq.com/articles/sugar-sharply-higher-gasoline-prices-soar)

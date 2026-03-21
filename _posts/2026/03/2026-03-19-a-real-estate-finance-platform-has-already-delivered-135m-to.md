@@ -18,4 +18,4 @@ This service is particularly relevant for market professionals looking to enhanc
 
 For those eager to stay ahead of market shifts, exploring Stock Titan's innovative features could be a game-changer. I highly recommend checking out the full article for a deeper dive into how this platform can enhance your trading experience.
 
-[Source: stocktitan.net](https://www.stocktitan.net)
+[stocktitan.net](https://www.stocktitan.net)

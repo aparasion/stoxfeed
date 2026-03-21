@@ -18,4 +18,4 @@ The South Korean stock market, previously one of the best performers globally, i
 
 For a deeper dive into the ramifications of the Iran conflict on South Korean markets and investment strategies, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/if-the-strait-of-hormuz-reopens-this-etf-could-exp/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/if-the-strait-of-hormuz-reopens-this-etf-could-exp/?source=iedfolrf0000001)

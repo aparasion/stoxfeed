@@ -18,4 +18,4 @@ This rally matters to financial markets as it signals investor confidence in eco
 
 For market professionals, the key takeaway is to watch for the Fed's announcement, as it could set the tone for trading in the coming weeks. For a deeper dive into the implications of this development, I recommend checking out the full article on Bloomberg.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTdCeWFYUFdTREZKZU56Z2dzVTIweWdYUUR5Q0dNUEVCTVJjdjdKNURCZkpzSkcxTEg2Y28wN01QMmY1N2hia0pFM1Z0NF92ZU02Q2lyS1F1Y1JjNDNfcFAwOHQ4OHVFWlV4VzZ6SGtjNk5PTnVXU0JOZGM2bjRrWkVCTFJXS2Q2SmJ2T3N3anhXdEljdXFPYm4tLVVUUVFzWFNwclgzVmpIU1E?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTdCeWFYUFdTREZKZU56Z2dzVTIweWdYUUR5Q0dNUEVCTVJjdjdKNURCZkpzSkcxTEg2Y28wN01QMmY1N2hia0pFM1Z0NF92ZU02Q2lyS1F1Y1JjNDNfcFAwOHQ4OHVFWlV4VzZ6SGtjNk5PTnVXU0JOZGM2bjRrWkVCTFJXS2Q2SmJ2T3N3anhXdEljdXFPYm4tLVVUUVFzWFNwclgzVmpIU1E?oc=5)

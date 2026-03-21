@@ -18,4 +18,4 @@ The decision to divest comes amid a challenging period for Haemonetics, whose sh
 
 For investors, this development underscores the evolving narrative around Haemonetics, suggesting a shift from a growth-oriented investment to a more nuanced evaluation of stability and profitability. For a deeper dive into the implications of this transaction, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/20/what-investors-should-know-about-a-usd24-million-exit-from-a-medical-device-stock-down-9-this-past-year/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/20/what-investors-should-know-about-a-usd24-million-exit-from-a-medical-device-stock-down-9-this-past-year/?source=iedfolrf0000001)

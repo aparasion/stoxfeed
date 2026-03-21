@@ -18,4 +18,4 @@ This mixed performance highlights the volatility in the soybean market, influenc
 
 For a deeper dive into the latest trends and implications for your trading strategy, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soybeans-pops-higher-thursday-meal-rallies)
+[nasdaq.com](https://www.nasdaq.com/articles/soybeans-pops-higher-thursday-meal-rallies)

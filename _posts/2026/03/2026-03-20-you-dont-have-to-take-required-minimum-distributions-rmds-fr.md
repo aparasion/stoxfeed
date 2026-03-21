@@ -18,4 +18,4 @@ This knowledge is crucial for financial professionals managing client portfolios
 
 For those advising clients on retirement strategies, understanding RMD rules is vital. I recommend diving deeper into the full article to explore effective strategies for managing RMDs and maximizing retirement income.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/20/dont-have-to-take-required-minimum-distributions/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/20/dont-have-to-take-required-minimum-distributions/?source=iedfolrf0000001)

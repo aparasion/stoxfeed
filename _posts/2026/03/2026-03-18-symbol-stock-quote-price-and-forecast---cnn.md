@@ -18,4 +18,4 @@ The implications for financial markets are substantial, particularly in sectors 
 
 For market professionals, the key takeaway is the heightened volatility that may arise from this conflict, particularly in energy markets. Staying informed on developments is crucial, and I recommend reading the full article for a deeper understanding of the potential market impacts.
 
-[Source: cnn.com](https://www.cnn.com)
+[cnn.com](https://www.cnn.com)

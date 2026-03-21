@@ -18,4 +18,4 @@ This earnings report is significant for investors as it highlights H World Group
 
 For market professionals, H World Group's performance may signal a broader recovery trend in the hospitality industry. For a deeper dive into the implications of these results, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565754-h-world-group-non-gaap-eps-of-0_53-beats-by-0_18-revenue-of-933m-beats-by-5_87m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565754-h-world-group-non-gaap-eps-of-0_53-beats-by-0_18-revenue-of-933m-beats-by-5_87m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

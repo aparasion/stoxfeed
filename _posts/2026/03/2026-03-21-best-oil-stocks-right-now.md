@@ -18,4 +18,4 @@ The oil and gas industry remains volatile, influenced by geopolitical factors an
 
 For market professionals, understanding the dynamics of oil stocks is crucial. With potential growth opportunities amidst uncertainties, now is a pivotal time to evaluate these assets. I highly recommend diving deeper into the full article for a comprehensive analysis of the oil sector and its implications for your portfolio.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-oil-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-oil-stocks)

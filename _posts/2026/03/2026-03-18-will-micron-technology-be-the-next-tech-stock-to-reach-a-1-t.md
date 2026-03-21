@@ -18,4 +18,4 @@ This growth trajectory is underpinned by impressive revenue figures, with the la
 
 Investors should remain cautious; while Micron shows promise, any signs of reduced tech spending could lead to significant volatility. For a deeper dive into Micron's potential and market dynamics, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/will-micron-technology-be-the-next-tech-stock-to-r/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/will-micron-technology-be-the-next-tech-stock-to-r/?source=iedfolrf0000001)

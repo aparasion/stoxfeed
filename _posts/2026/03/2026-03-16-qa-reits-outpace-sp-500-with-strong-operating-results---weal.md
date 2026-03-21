@@ -18,4 +18,4 @@ This focus on intentional growth strategies is particularly relevant as financia
 
 For market professionals, the RIA Edge 100 underscores the importance of strategic operational investments in driving long-term success. I recommend checking out the full article for deeper insights into these emerging trends in the advisory landscape.
 
-[Source: wealthmanagement.com](https://www.wealthmanagement.com)
+[wealthmanagement.com](https://www.wealthmanagement.com)

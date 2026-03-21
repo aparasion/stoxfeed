@@ -18,4 +18,4 @@ The market's reaction underscores a broader trend where tech-driven solutions ar
 
 Investors should consider how these developments may influence their portfolios, especially in tech and transportation sectors. For a deeper dive into the implications of Uber's deal and its impact on the market, I recommend checking out the full article.
 
-[Source: marketwatch.com](https://www.marketwatch.com)
+[marketwatch.com](https://www.marketwatch.com)

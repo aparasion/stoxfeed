@@ -18,4 +18,4 @@ The rising energy costs are likely to impact consumer spending and could force t
 
 For market professionals, the key takeaway is to monitor developments in the Iran conflict closely, as further escalation could lead to sustained high energy prices and ripple effects across various sectors. I recommend checking out the full article for a deeper dive into the potential market implications.
 
-[Source: cbsnews.com](https://www.cbsnews.com)
+[cbsnews.com](https://www.cbsnews.com)

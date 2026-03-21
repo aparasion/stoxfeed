@@ -18,4 +18,4 @@ The decline in Nebius’s stock comes on the heels of a recent spike tied to a m
 
 For investors contemplating Nebius Group, the current market sentiment suggests caution, especially as analysts from The Motley Fool have identified other stocks as more favorable investment opportunities. For a deeper dive into the implications of Nebius's capital strategy and its market position, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stock-market-today-march-17-nebius-group-falls-after-announcing-375-billion-capital-raise)
+[nasdaq.com](https://www.nasdaq.com/articles/stock-market-today-march-17-nebius-group-falls-after-announcing-375-billion-capital-raise)

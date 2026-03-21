@@ -18,4 +18,4 @@ The decision comes as Box's stock saw a decline of 3.17% during the regular trad
 
 For market professionals, the expanded buyback program may present an opportunity to reassess Box's valuation and growth trajectory. I recommend checking out the full article for deeper insights into Box’s financial strategy and market implications.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/box-expands-share-buyback-program-500-mln)
+[nasdaq.com](https://www.nasdaq.com/articles/box-expands-share-buyback-program-500-mln)

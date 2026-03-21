@@ -18,4 +18,4 @@ The shift reflects Meta's broader strategy to pivot away from costly VR investme
 
 For market professionals, this development underscores the challenges facing tech companies in the VR space and highlights Meta's strategic redirection. For a deeper dive into the implications of this shift, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html)

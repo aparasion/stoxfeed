@@ -18,4 +18,4 @@ This earnings test can significantly impact financial planning, especially for t
 
 For financial professionals, advising clients on the timing of Social Security claims is critical. Explore the full details of the earnings test and its implications for retirement planning in the original article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/20/what-the-2026-social-security-earnings-limit-means/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/20/what-the-2026-social-security-earnings-limit-means/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The increase in the VIX has significant implications for stock performance, part
 
 Market professionals should closely monitor the VIX as a barometer of investor sentiment and potential market corrections. For a deeper understanding of the factors driving this volatility and its implications for your investment strategy, I recommend reading the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nU0p1Z09jUlB3bTA4djA1MU5JR3ZrMmRwN3pPQUtpeGFrZkZzeGhYQ2I4QW1zQ3docEtVN3FCbmVfOXlYVDhTVXNWajNsakR4NEE1c2x4dHdXWGZ1ZEdvbXFwUdIBY0FVX3lxTE9nU0p1Z09jUlB3bTA4djA1MU5JR3ZrMmRwN3pPQUtpeGFrZkZzeGhYQ2I4QW1zQ3docEtVN3FCbmVfOXlYVDhTVXNWajNsakR4NEE1c2x4dHdXWGZ1ZEdvbXFwUQ?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nU0p1Z09jUlB3bTA4djA1MU5JR3ZrMmRwN3pPQUtpeGFrZkZzeGhYQ2I4QW1zQ3docEtVN3FCbmVfOXlYVDhTVXNWajNsakR4NEE1c2x4dHdXWGZ1ZEdvbXFwUdIBY0FVX3lxTE9nU0p1Z09jUlB3bTA4djA1MU5JR3ZrMmRwN3pPQUtpeGFrZkZzeGhYQ2I4QW1zQ3docEtVN3FCbmVfOXlYVDhTVXNWajNsakR4NEE1c2x4dHdXWGZ1ZEdvbXFwUQ?oc=5)

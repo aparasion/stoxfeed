@@ -18,4 +18,4 @@ The heightened inflationary pressures, driven by tariffs and escalating energy c
 
 As the Fed meeting approaches, the market remains defensive, with investor sentiment reflecting caution amid elevated oil prices and geopolitical uncertainty. Additionally, attention is turning to Micron Technology's earnings report, which could further influence market dynamics. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/sell-off-on-wall-street-accelerates-us30-loses-almost-1)
+[xtb.com](https://www.xtb.com/en/market-analysis/sell-off-on-wall-street-accelerates-us30-loses-almost-1)

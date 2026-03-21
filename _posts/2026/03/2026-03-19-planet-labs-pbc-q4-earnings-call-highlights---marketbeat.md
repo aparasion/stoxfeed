@@ -18,4 +18,4 @@ This performance is particularly relevant as it underscores the increasing relia
 
 For those interested in the nuances of Planet Labs' financial performance and strategic outlook, I highly recommend diving into the full earnings call highlights for a comprehensive understanding.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxONFh1bWVYVVhYdVZaSzg1QnNwRGNERmRkaDlTQUptSWxLc0xDVmlJcnlNb3lQb1FYMlNoX2dIUDZNbGh4ekJuZzVZMUU1M19Kak5RQlp5QTF6aWFOZk1lamhTTm9FNUd4QVdQbm9lUzJ0OF9BT0NPTXlBdm9QMnhGbl9BdW0zQWxXUy1fNk1TbkpwekdSZkRKbmNoX2hSZw?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxONFh1bWVYVVhYdVZaSzg1QnNwRGNERmRkaDlTQUptSWxLc0xDVmlJcnlNb3lQb1FYMlNoX2dIUDZNbGh4ekJuZzVZMUU1M19Kak5RQlp5QTF6aWFOZk1lamhTTm9FNUd4QVdQbm9lUzJ0OF9BT0NPTXlBdm9QMnhGbl9BdW0zQWxXUy1fNk1TbkpwekdSZkRKbmNoX2hSZw?oc=5)

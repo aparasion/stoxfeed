@@ -18,4 +18,4 @@ Lennar, heavily impacted by the recent housing downturn due to rising mortgage r
 
 For professionals looking to enhance their portfolios, these industrial stocks offer compelling value and growth prospects. I encourage you to read the full article for deeper insights into these investment opportunities.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/the-top-2-industrial-stocks-to-buy-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/the-top-2-industrial-stocks-to-buy-right-now/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The company's innovative product pipeline, including advancements in foldable sm
 
 For a deeper dive into Samsung's stock predictions and strategic positioning, I highly recommend exploring the full article for comprehensive insights.
 
-[Source: benzinga.com](https://www.benzinga.com/money/samsung-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/samsung-stock-price-prediction)

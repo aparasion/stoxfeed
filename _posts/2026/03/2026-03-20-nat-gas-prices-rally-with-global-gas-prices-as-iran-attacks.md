@@ -18,4 +18,4 @@ This development is crucial for market participants as it underscores the volati
 
 For traders and portfolio managers, the interplay between geopolitical events and domestic production levels presents both risks and opportunities. I recommend diving deeper into this analysis to better understand the implications for your strategies—check out the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-rally-global-gas-prices-iran-attacks-curb-supplies)
+[nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-rally-global-gas-prices-iran-attacks-curb-supplies)

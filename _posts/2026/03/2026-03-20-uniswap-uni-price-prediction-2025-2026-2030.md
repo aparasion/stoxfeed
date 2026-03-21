@@ -18,4 +18,4 @@ The potential for UNI holders to benefit from governance rights and future fee-s
 
 For market professionals, understanding Uniswap's evolving landscape and its implications for the DeFi space is essential. I highly recommend exploring the full article for a comprehensive analysis of Uniswap’s future prospects and the factors influencing its market position.
 
-[Source: benzinga.com](https://www.benzinga.com/money/uniswap-uni-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/uniswap-uni-price-prediction)

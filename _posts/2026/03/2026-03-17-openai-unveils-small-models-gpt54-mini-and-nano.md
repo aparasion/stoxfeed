@@ -18,4 +18,4 @@ The implications for the financial markets are noteworthy. With pricing set at $
 
 Investors should keep an eye on how these developments affect OpenAI's market position and the broader AI landscape. For a deeper dive into the specifics of these models and their market implications, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565444-openai-unveils-small-models-gpt54-mini-and-nano?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565444-openai-unveils-small-models-gpt54-mini-and-nano?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

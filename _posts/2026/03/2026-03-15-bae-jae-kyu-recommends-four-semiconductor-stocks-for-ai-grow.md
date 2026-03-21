@@ -18,4 +18,4 @@ This potential change could significantly impact liquidity in the domestic stock
 
 Market participants should monitor this development closely, as it could lead to increased trading volumes and volatility in the short term. For a deeper dive into President Lee's proposals and their implications for the capital markets, I recommend checking out the full article.
 
-[Source: chosun.com](https://www.chosun.com)
+[chosun.com](https://www.chosun.com)

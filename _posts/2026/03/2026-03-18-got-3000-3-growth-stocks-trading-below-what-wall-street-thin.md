@@ -16,4 +16,4 @@ Multiple analysts are signaling strong potential upside for three stocks, with t
 
 SoundHound (SOUN) rounds out the trio, boasting a projected revenue doubling in 2025 and a consensus target of $16.60, indicating a 116% upside. Each of these stocks presents compelling investment opportunities, particularly for those with $3,000 to allocate. For a deeper dive into these stocks and their market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/growth-stocks-trading-below-wall-street-worth/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/growth-stocks-trading-below-wall-street-worth/?source=iedfolrf0000001)

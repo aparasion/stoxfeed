@@ -18,4 +18,4 @@ The introduction of these perpetual futures comes amid a growing demand for cont
 
 For market professionals, this development signals a shift in trading dynamics, potentially increasing competition among platforms. I recommend checking out the full article for deeper insights into Coinbase's strategic expansion and its implications for the broader market.
 
-[Source: coindesk.com](https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers)
+[coindesk.com](https://www.coindesk.com/markets/2026/03/20/coinbase-introduces-stock-perpetual-futures-contracts-for-non-u-s-customers)

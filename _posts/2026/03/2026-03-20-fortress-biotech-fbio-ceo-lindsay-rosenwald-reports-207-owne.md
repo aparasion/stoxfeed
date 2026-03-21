@@ -18,4 +18,4 @@ This development is significant for market professionals as it enhances trading 
 
 For those looking to refine their trading decisions with cutting-edge tools, Stock Titan presents a compelling solution. I encourage you to check out the full article to explore all the features and benefits in detail.
 
-[Source: stocktitan.net](https://www.stocktitan.net)
+[stocktitan.net](https://www.stocktitan.net)

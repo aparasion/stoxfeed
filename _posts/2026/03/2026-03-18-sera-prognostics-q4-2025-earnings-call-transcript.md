@@ -18,4 +18,4 @@ This financial performance underscores Sera Prognostics’ strategic shift towar
 
 Investors should monitor Sera Prognostics' progress in converting payer discussions into coverage decisions, as successful execution of its commercialization strategy could lead to a gradual revenue build. For a deeper dive into the company's plans and performance, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/sera-prognostics-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/sera-prognostics-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

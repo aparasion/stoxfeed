@@ -18,4 +18,4 @@ The implications for financial markets are substantial. Oracle's remarkable back
 
 Investors should closely monitor Oracle's performance and backlog as indicators of its future market position. For a deeper dive into the competitive dynamics between these tech giants, I recommend exploring the full article for detailed insights.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/prediction-oracle-will-be-worth-more-than-meta-by/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/prediction-oracle-will-be-worth-more-than-meta-by/?source=iedfolrf0000001)

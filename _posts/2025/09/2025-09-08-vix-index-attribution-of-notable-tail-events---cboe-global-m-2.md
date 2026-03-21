@@ -18,4 +18,4 @@ This development is particularly significant as market volatility continues to i
 
 For professionals looking to deepen their understanding of volatility trading, Cboe's educational resources and market insights are invaluable. I recommend checking out the full article for a deeper dive into how these tools can enhance your trading strategy and improve investment outcomes.
 
-[Source: cboe.com](https://www.cboe.com)
+[cboe.com](https://www.cboe.com)

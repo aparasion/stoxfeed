@@ -18,4 +18,4 @@ This development is significant for financial markets as it underscores the grow
 
 Market participants should take note of how these M&A activities might influence the competitive landscape and operational strategies of insurance firms. For a deeper dive into the implications of this guide and the broader M&A trends, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDNPSE1aRFhjd3pnOEQxVDdtQWwzRlpKRHFSY3ZtN0k2TkJvcXQ0aDdodmRiWHVsSlVfbW1ieUJoZTF3SXhKcjdGdEx0dHFueGlLMURiRjhaOVE0XzFIUXNybk1KNERFOWl0T21VRjdBNnNWeDAtOFQ2Wll6eGJ1aHFRdUs3Q2xWSTFUdmhJQVpWQW52MGgtNTNEQ29QdWYwVXJRT2FMQ0dIeVZfZWdFQ0tuVnJlT0VadWFFRTNHQ2ZjRFlHRjNmM1pWbmo2QjZ5c1J4ZkhZdzNTQjA?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDNPSE1aRFhjd3pnOEQxVDdtQWwzRlpKRHFSY3ZtN0k2TkJvcXQ0aDdodmRiWHVsSlVfbW1ieUJoZTF3SXhKcjdGdEx0dHFueGlLMURiRjhaOVE0XzFIUXNybk1KNERFOWl0T21VRjdBNnNWeDAtOFQ2Wll6eGJ1aHFRdUs3Q2xWSTFUdmhJQVpWQW52MGgtNTNEQ29QdWYwVXJRT2FMQ0dIeVZfZWdFQ0tuVnJlT0VadWFFRTNHQ2ZjRFlHRjNmM1pWbmo2QjZ5c1J4ZkhZdzNTQjA?oc=5)

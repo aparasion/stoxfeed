@@ -18,4 +18,4 @@ These results are significant for the financial markets, as they highlight Alvot
 
 Investors should consider how Alvotech's latest developments could impact its competitive positioning and future earnings potential. For a deeper dive into the implications of these results, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566173-alvotech-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566173-alvotech-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

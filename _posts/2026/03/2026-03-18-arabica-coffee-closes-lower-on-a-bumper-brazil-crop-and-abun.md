@@ -18,4 +18,4 @@ The mixed performance of coffee prices reflects broader supply dynamics, particu
 
 For market participants, these developments suggest a complex landscape for coffee trading, with potential volatility driven by supply forecasts and geopolitical factors. For a deeper dive into these trends, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/arabica-coffee-closes-lower-bumper-brazil-crop-and-abundant-ice-inventories)
+[nasdaq.com](https://www.nasdaq.com/articles/arabica-coffee-closes-lower-bumper-brazil-crop-and-abundant-ice-inventories)

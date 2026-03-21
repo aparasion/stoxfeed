@@ -18,4 +18,4 @@ This forecast is crucial for financial markets as it underscores AWS's pivotal r
 
 For a deeper dive into how Amazon plans to leverage AI and expand its cloud services, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/amazon-stock-investors-just-got-fantastic-news-fro/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/amazon-stock-investors-just-got-fantastic-news-fro/?source=iedfolrf0000001)

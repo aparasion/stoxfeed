@@ -18,4 +18,4 @@ However, potential investors should approach with caution. Swarmer is still in i
 
 Investors should thoroughly assess Swarmer's S-1 filing and monitor developments closely, especially regarding new contracts, before making any investment decisions. For a deeper dive into Swarmer's financials and market positioning, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/thinking-about-buying-swarmer-after-its-explosive/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/thinking-about-buying-swarmer-after-its-explosive/?source=iedfolrf0000001)

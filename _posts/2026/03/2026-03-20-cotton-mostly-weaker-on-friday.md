@@ -18,4 +18,4 @@ This slowdown in cotton exports is significant, as it represents only 83% of the
 
 For traders and analysts, the implications of these trends are critical. Monitoring cotton's performance against other commodities could reveal potential trading opportunities or risks. I recommend exploring the full article for a deeper dive into the current state of the cotton market.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cotton-mostly-weaker-friday)
+[nasdaq.com](https://www.nasdaq.com/articles/cotton-mostly-weaker-friday)

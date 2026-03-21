@@ -20,4 +20,4 @@ For professionals in the financial markets, this development signals a crucial s
 
 *StoxFeed tracks this as a market signal: [Institutional Bitcoin adoption is growing through ETFs and corporate holdings](/signals/#bitcoin-institutional-adoption)*
 
-[Source: coindesk.com](https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield)
+[coindesk.com](https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield)

@@ -20,4 +20,4 @@ For market professionals, the implications are clear: the Fed's commitment to ma
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/dollar-gains-weak-stocks-and-hawkish-fed)
+[nasdaq.com](https://www.nasdaq.com/articles/dollar-gains-weak-stocks-and-hawkish-fed)

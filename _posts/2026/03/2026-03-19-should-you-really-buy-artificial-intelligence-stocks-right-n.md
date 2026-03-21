@@ -18,4 +18,4 @@ The demand for AI technology remains robust, with firms across various sectors r
 
 For market professionals, this presents a compelling opportunity to invest in quality AI stocks at reasonable prices. As the evidence supporting AI's growth continues to accumulate, now may be the time to explore these investments further. I recommend checking out the full article for a deeper dive into the current landscape and future prospects of AI stocks.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/should-you-really-buy-ai-stocks-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/should-you-really-buy-ai-stocks-now/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The broader implications for the financial markets are significant. As oil price
 
 For market professionals, the takeaway is clear: caution is warranted when considering investments in silver mining stocks amid these volatile conditions. For a deeper dive into the factors at play, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/why-first-majestic-silver-corporation-plummeted-by/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/why-first-majestic-silver-corporation-plummeted-by/?source=iedfolrf0000001)

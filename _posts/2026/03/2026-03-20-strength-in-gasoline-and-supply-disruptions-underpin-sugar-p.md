@@ -18,4 +18,4 @@ The sugar market is grappling with contrasting supply forecasts. While analysts 
 
 For market professionals, the interplay between rising ethanol demand and fluctuating sugar production forecasts presents both risks and opportunities. For a deeper dive into these dynamics, I recommend checking out the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/strength-gasoline-and-supply-disruptions-underpin-sugar-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/strength-gasoline-and-supply-disruptions-underpin-sugar-prices)

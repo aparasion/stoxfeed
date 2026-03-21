@@ -18,4 +18,4 @@ The growing institutional interest, highlighted by Grayscale's move to convert i
 
 For those comfortable with high-risk altcoins, Bittensor presents a unique opportunity that combines scarcity with practical utility. If you're interested in exploring this compelling asset further, I highly recommend reading the full article for a deeper understanding.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/built-like-bitcoin-designed-for-ai-is-bittensor-ta/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/built-like-bitcoin-designed-for-ai-is-bittensor-ta/?source=iedfolrf0000001)

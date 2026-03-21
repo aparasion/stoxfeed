@@ -18,4 +18,4 @@ This move underscores a growing interest in short-duration bond funds amid fluct
 
 For professionals navigating the current market landscape, understanding the implications of such strategic moves is crucial. I recommend diving deeper into the full article to explore the nuances of FTSM's investment strategy and its potential role in portfolio management.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/20/second-line-capital-buys-usd6-8-million-in-first-trust-enhanced-short-maturity-etf/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/20/second-line-capital-buys-usd6-8-million-in-first-trust-enhanced-short-maturity-etf/?source=iedfolrf0000001)

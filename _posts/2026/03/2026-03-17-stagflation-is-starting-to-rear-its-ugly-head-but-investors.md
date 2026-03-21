@@ -18,4 +18,4 @@ Despite these indicators, analysts suggest that panic may be premature. Wall Str
 
 For market professionals, the key takeaway is to remain cautious but not reactive. Long-term strategies should not be derailed by short-term fluctuations. For a deeper dive into these economic trends and their implications, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/stagflation-starting-investors-dont-need-to-panic/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/stagflation-starting-investors-dont-need-to-panic/?source=iedfolrf0000001)

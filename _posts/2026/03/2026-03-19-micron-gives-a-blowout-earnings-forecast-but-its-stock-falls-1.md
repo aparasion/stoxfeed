@@ -18,4 +18,4 @@ The potential for increased restrictions or sanctions on Iranian oil could tight
 
 For market professionals, the situation presents a crucial opportunity to reassess energy investments and consider the implications of fluctuating oil prices on portfolios. To delve deeper into the details and potential market ramifications, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: marketwatch.com](https://www.marketwatch.com)
+[marketwatch.com](https://www.marketwatch.com)

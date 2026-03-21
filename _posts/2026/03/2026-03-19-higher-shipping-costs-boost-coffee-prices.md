@@ -18,4 +18,4 @@ The recent surge follows a period of bearish sentiment driven by favorable weath
 
 For market professionals, the current spike in coffee prices may present short-term trading opportunities, but the long-term outlook remains complex. I recommend exploring the full article for a deeper dive into these dynamics and their potential impact on your strategies.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/higher-shipping-costs-boost-coffee-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/higher-shipping-costs-boost-coffee-prices)

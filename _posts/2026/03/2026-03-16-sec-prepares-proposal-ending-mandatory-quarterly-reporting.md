@@ -18,4 +18,4 @@ This development is crucial for the financial markets as it highlights a potenti
 
 The takeaway for market professionals is clear: monitoring the credit access trends among younger entrepreneurs will be essential in forecasting economic growth and sector performance. For more insights on this pressing issue, I recommend checking out the full article.
 
-[Source: pymnts.com](https://www.pymnts.com)
+[pymnts.com](https://www.pymnts.com)

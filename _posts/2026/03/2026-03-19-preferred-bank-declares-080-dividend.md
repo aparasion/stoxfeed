@@ -18,4 +18,4 @@ This development is significant for investors focusing on income-generating stoc
 
 Investors should consider how this dividend fits within their broader investment strategies, especially in light of the bank's historical earnings and growth prospects. For a deeper dive into Preferred Bank's financials and dividend history, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566171-preferred-bank-declares-0_80-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566171-preferred-bank-declares-0_80-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

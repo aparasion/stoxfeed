@@ -18,4 +18,4 @@ The surge in demand for enterprise solid-state drives (SSDs), particularly from 
 
 While Sandisk's path to a $1 trillion market cap remains challenging, its growth trajectory appears strong. For a deeper dive into Sandisk's potential and the broader implications for the tech sector, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/can-sandisk-becomes-trillion-dollar-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/can-sandisk-becomes-trillion-dollar-stock/?source=iedfolrf0000001)

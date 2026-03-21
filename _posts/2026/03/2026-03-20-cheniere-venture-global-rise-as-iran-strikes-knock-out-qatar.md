@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. U.S. gas prices rose
 
 For market professionals, this development underscores the volatility and interconnectedness of global energy markets. I encourage you to read the full article for a deeper understanding of these shifts and their potential impact on your strategies.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566872-cheniere-venture-global-rise-as-iran-strikes-knock-out-qatar-lng-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566872-cheniere-venture-global-rise-as-iran-strikes-knock-out-qatar-lng-capacity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

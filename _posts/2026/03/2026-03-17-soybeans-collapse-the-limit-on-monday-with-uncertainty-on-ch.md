@@ -18,4 +18,4 @@ The recent meeting between U.S. Treasury Secretary Bessent and Chinese officials
 
 Market professionals should monitor these dynamics closely, as they could influence soybean pricing and overall agricultural sector performance. For a deeper dive into the latest market trends and insights, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/soybeans-collapse-limit-monday-uncertainty-china)
+[nasdaq.com](https://www.nasdaq.com/articles/soybeans-collapse-limit-monday-uncertainty-china)

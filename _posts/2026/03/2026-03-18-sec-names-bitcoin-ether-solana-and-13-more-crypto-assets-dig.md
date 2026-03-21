@@ -18,4 +18,4 @@ The conference is timely as it addresses critical issues impacting the adoption 
 
 For professionals in trading and portfolio management, Synchronize Europe represents an opportunity to gain insights into emerging technologies that could reshape financial markets. I highly recommend exploring the full details of the event and its implications for the industry.
 
-[Source: fintechweekly.com](https://www.fintechweekly.com)
+[fintechweekly.com](https://www.fintechweekly.com)

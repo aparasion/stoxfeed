@@ -18,4 +18,4 @@ The surge in energy prices, driven by conflict-related disruptions, has heighten
 
 Market professionals should closely monitor the evolving geopolitical situation and its implications for energy prices and inflation, as these factors are likely to influence central bank policies and market sentiment. For a deeper analysis, I recommend exploring the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-finish-lower-iran-war-spurs-inflation-concerns)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-finish-lower-iran-war-spurs-inflation-concerns)

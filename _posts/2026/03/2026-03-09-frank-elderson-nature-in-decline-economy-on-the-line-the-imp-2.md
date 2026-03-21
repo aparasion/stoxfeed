@@ -18,4 +18,4 @@ The implications for the financial markets are profound. As nature-related risks
 
 Professionals in the financial sector should take note of these developments, as the growing focus on nature-related risks could influence lending practices, asset valuations, and overall market stability. For a deeper dive into the ECB's strategies and the broader implications for financial systems, I recommend exploring the full article.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)

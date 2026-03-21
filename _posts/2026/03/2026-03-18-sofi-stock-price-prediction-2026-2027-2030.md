@@ -18,4 +18,4 @@ The financial markets are closely monitoring SoFi's ability to maintain growth a
 
 For professionals in the financial sector, SoFi's trajectory highlights the complexities of investing in fintech. Understanding its evolving competitive landscape and regulatory environment will be key. I recommend reading the full analysis for deeper insights into SoFi's potential and the implications for your investment strategies.
 
-[Source: benzinga.com](https://www.benzinga.com/money/sofi-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/sofi-stock-price-prediction)

@@ -18,4 +18,4 @@ As geopolitical tensions, particularly the conflict in Iran, threaten to disrupt
 
 Market professionals should prepare for potential volatility stemming from the Fed's announcements and the broader implications of energy price fluctuations. For a deeper dive into these developments and their potential impact on your investment strategy, I highly recommend checking out the full article.
 
-[Source: kiplinger.com](https://www.kiplinger.com)
+[kiplinger.com](https://www.kiplinger.com)

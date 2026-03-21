@@ -18,4 +18,4 @@ Molina Healthcare has faced considerable challenges, with shares plummeting 53% 
 
 For investors, this transaction highlights the strategic shift towards more defensive, policy-driven investments amidst a challenging market environment. I recommend checking out the full article for deeper insights into Molina's position and Redwood's strategy.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/18/molina-healthcare-stock-falls-53-as-one-fund-adds-usd8-5-million-is-it-a-buy/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/18/molina-healthcare-stock-falls-53-as-one-fund-adds-usd8-5-million-is-it-a-buy/?source=iedfolrf0000001)

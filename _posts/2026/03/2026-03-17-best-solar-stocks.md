@@ -18,4 +18,4 @@ The solar sector is gaining traction, with companies like SunPower, Brookfield R
 
 For market professionals, understanding the financial health and management strategies of solar companies is crucial, especially as the sector faces challenges amid evolving energy policies. Explore the full article for deeper insights into the solar market and investment strategies.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-solar-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-solar-stocks)

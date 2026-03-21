@@ -18,4 +18,4 @@ The implications for financial markets are profound, particularly in the energy 
 
 For market professionals, the evolving geopolitical landscape underscores the importance of monitoring developments in Gulf-Iran relations. The full article provides deeper insights into the strategic choices facing Gulf leaders and the potential ramifications for energy markets—definitely worth a read.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/gulf-states-iran-attacks-retaliation-strikes-energy-oil-gas-water-strait-of-hormuz.html)

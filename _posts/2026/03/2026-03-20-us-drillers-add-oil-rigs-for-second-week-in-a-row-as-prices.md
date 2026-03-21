@@ -18,4 +18,4 @@ This shift in rig count comes amid a slight drop in U.S. crude oil production, w
 
 For professionals in the energy sector, the implications of these trends are significant, particularly regarding supply stability and pricing strategies. I recommend diving deeper into the full article for a comprehensive analysis of these developments and their potential impact on the market.
 
-[Source: oilprice.com](https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Rigs-For-Second-Week-In-A-Row-As-Prices-Soar.html)
+[oilprice.com](https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Rigs-For-Second-Week-In-A-Row-As-Prices-Soar.html)

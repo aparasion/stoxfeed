@@ -18,4 +18,4 @@ Notably, over 65% of S&P 500 earnings calls for Q4 mentioned AI, underscoring it
 
 For market professionals, the key takeaway is the rising significance of AI in M&A activities and earnings discussions, suggesting a need to reassess valuation models and investment approaches. I encourage you to delve deeper into these insights by exploring the full review on FactSet’s platform.
 
-[Source: insight.factset.com](https://insight.factset.com)
+[insight.factset.com](https://insight.factset.com)

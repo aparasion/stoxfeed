@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly for inv
 
 For professionals tracking healthcare investments, this development underscores the potential for strategic shifts in the industry. I recommend exploring the full article for a deeper understanding of the evolving landscape and its implications for future investments.
 
-[Source: modernhealthcare.com](https://www.modernhealthcare.com)
+[modernhealthcare.com](https://www.modernhealthcare.com)

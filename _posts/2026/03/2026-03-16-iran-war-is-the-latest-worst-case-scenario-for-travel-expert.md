@@ -18,4 +18,4 @@ The impact on the travel sector is notable, as heightened uncertainty could lead
 
 For market professionals, understanding these trends may signal shifts in consumer behavior and spending within the travel industry. For a deeper dive into travel strategies and expert insights, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/16/iran-war-travel-disruptions-how-to-avoid.html)
+[cnbc.com](https://www.cnbc.com/2026/03/16/iran-war-travel-disruptions-how-to-avoid.html)

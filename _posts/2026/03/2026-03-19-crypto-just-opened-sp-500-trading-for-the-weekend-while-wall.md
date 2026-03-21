@@ -18,4 +18,4 @@ In a notable regulatory shift, the SEC has reduced KYC requirements for Bitcoin,
 
 For market professionals, these developments underscore the need to closely monitor regulatory changes and their implications for liquidity and risk management strategies. I recommend diving deeper into the full article for a comprehensive analysis of these critical trends.
 
-[Source: cryptoslate.com](https://cryptoslate.com)
+[cryptoslate.com](https://cryptoslate.com)

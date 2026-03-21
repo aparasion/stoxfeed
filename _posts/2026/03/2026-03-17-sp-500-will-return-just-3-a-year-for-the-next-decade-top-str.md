@@ -18,4 +18,4 @@ This development is crucial for investors as it highlights a potential shift in 
 
 For market professionals, Hinge's growth trajectory suggests a promising investment opportunity in the online dating space, particularly as it continues to differentiate itself. I encourage you to read the full article for deeper insights into Hinge's strategy and its implications for the sector.
 
-[Source: fortune.com](https://fortune.com)
+[fortune.com](https://fortune.com)

@@ -18,4 +18,4 @@ This dip comes amid broader market declines, with the S&P 500 and Nasdaq Composi
 
 For those tracking the hydrogen sector and Plug Power's recovery trajectory, the ongoing legal developments will be critical. I recommend checking out the full article for a deeper dive into these dynamics.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/18/stock-market-today-march-18-plug-power-slides-after-securities-fraud-lawsuit-over-doe-loan-guarantee/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/18/stock-market-today-march-18-plug-power-slides-after-securities-fraud-lawsuit-over-doe-loan-guarantee/?source=iedfolrf0000001)

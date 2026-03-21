@@ -18,4 +18,4 @@ The platform's real-time capabilities allow users to monitor thousands of data p
 
 For professionals seeking a competitive edge in the fast-paced financial markets, MEYKA AI offers a comprehensive suite of tools that streamline research and decision-making. I highly recommend checking out the full article to explore how MEYKA AI can elevate your investing game.
 
-[Source: meyka.com](https://meyka.com)
+[meyka.com](https://meyka.com)

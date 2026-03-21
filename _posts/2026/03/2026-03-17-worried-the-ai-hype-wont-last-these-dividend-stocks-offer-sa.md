@@ -18,4 +18,4 @@ Eli Lilly is thriving, particularly in the weight-loss drug market, with a remar
 
 For investors looking to balance AI exposure with stability, Eli Lilly and Medtronic present attractive options. Dive deeper into their strategies and financials in the full article for a comprehensive analysis.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/worried-the-ai-hype-wont-last-these-dividend-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/worried-the-ai-hype-wont-last-these-dividend-stock/?source=iedfolrf0000001)

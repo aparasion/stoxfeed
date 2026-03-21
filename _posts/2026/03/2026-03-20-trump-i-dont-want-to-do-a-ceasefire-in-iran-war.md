@@ -18,4 +18,4 @@ This development has significant implications for financial markets, particularl
 
 For a deeper understanding of how these geopolitical dynamics could affect your investment strategy, I recommend exploring the full article for detailed insights.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html)

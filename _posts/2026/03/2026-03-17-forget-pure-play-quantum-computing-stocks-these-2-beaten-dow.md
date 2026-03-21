@@ -18,4 +18,4 @@ Zscaler, focused on post-quantum cryptography, is also thriving with a 26% reven
 
 For those seeking to diversify their portfolios with quantum computing exposure, now may be an opportune moment to consider IBM and Zscaler. I recommend checking out the full article for deeper insights into these promising investments.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/forget-pure-play-quantum-computing-stocks-these-2/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/forget-pure-play-quantum-computing-stocks-these-2/?source=iedfolrf0000001)

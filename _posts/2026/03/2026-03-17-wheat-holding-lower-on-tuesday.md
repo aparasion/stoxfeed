@@ -18,4 +18,4 @@ This downward trend in wheat prices is significant for market participants, as i
 
 For a deeper dive into the factors affecting wheat prices and broader commodity trends, I highly recommend exploring the full article for comprehensive insights.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-holding-lower-tuesday)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-holding-lower-tuesday)

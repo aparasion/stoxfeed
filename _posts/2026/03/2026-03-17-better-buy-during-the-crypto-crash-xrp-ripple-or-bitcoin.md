@@ -16,4 +16,4 @@ XRP and Bitcoin have both experienced significant declines from their record hig
 
 For market professionals, the key takeaway is that while both cryptocurrencies face challenges, Bitcoin's decentralized nature and growing acceptance among institutional investors may provide a more stable investment opportunity than XRP. For a deeper dive into the nuances of these digital assets, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/better-buy-during-crypto-crash-xrp-ripple-bitcoin/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/better-buy-during-crypto-crash-xrp-ripple-bitcoin/?source=iedfolrf0000001)

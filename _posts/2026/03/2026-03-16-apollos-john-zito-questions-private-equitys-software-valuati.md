@@ -18,4 +18,4 @@ This situation is particularly critical as major players like JPMorgan Chase beg
 
 For financial professionals, Zito's insights underscore the importance of rigorous valuation practices in private equity and the potential ripple effects on market stability. This is a must-read for anyone navigating the complexities of private credit and software investments—explore the full article for deeper insights.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html)
+[cnbc.com](https://www.cnbc.com/2026/03/16/apollo-john-zito-private-equity-software-valuations.html)

@@ -18,4 +18,4 @@ This demand surge indicates a robust outlook for these companies, with full orde
 
 Investors should view the semiconductor memory sector with optimism, as the ongoing demand for memory underpins the technology boom. The solid foundations laid by this demand suggest a favorable environment for revenue stability and growth for the foreseeable future. For a deeper dive into these developments, I recommend exploring the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/memory-shortage-until-2030-the-memory-hungry-rally-could-last-longer-than-we-think)
+[xtb.com](https://www.xtb.com/en/market-analysis/memory-shortage-until-2030-the-memory-hungry-rally-could-last-longer-than-we-think)

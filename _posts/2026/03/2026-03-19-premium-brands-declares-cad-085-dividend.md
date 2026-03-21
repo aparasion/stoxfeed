@@ -18,4 +18,4 @@ This consistent dividend indicates the company's stable cash flow and commitment
 
 For market professionals, this announcement underscores the importance of evaluating dividend stocks as part of a balanced portfolio strategy. To delve deeper into Premium Brands' financial outlook and dividend growth potential, I recommend checking out the full article for more insights.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566263-premium-brands-declares-cad-0_85-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566263-premium-brands-declares-cad-0_85-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

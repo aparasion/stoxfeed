@@ -18,4 +18,4 @@ This leadership change comes at a crucial time, as Disney's recent quarterly ear
 
 Market professionals should keep a close eye on how D'Amaro's leadership impacts Disney's stock performance and strategic direction moving forward. For a deeper dive into this transition and its implications, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html)

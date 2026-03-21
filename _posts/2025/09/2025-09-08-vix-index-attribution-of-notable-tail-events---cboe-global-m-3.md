@@ -18,4 +18,4 @@ The significance of Cboe's offerings lies in their ability to provide efficient 
 
 For those looking to deepen their understanding of market dynamics, Cboe also offers educational resources, including courses and insights from market experts. This is an excellent opportunity for traders to refine their skills and stay informed. I encourage you to explore the full article for a deeper dive into Cboe's offerings and how they can benefit your trading strategies.
 
-[Source: cboe.com](https://www.cboe.com)
+[cboe.com](https://www.cboe.com)

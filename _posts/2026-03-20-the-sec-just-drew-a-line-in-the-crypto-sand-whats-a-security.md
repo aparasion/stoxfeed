@@ -18,4 +18,4 @@ This new classification is crucial for the financial markets as it lowers the re
 
 As the crypto market matures and regulatory frameworks solidify, investors can engage with these assets with greater confidence. For a deeper dive into the implications of this guidance, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/whats-a-crypto-security-and-whats-not/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/whats-a-crypto-security-and-whats-not/?source=iedfolrf0000001)

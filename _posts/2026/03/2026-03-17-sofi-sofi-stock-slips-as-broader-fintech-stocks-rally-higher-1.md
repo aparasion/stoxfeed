@@ -18,4 +18,4 @@ The fintech sector's overall upswing can be attributed to increased consumer ado
 
 For market professionals, the key takeaway is to monitor SoFi's strategic responses to these sector dynamics and its ability to capitalize on growth opportunities. For a deeper dive into the factors affecting SoFi and the fintech landscape, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3B1M1hnTG1NNzYzMGh6ZFF5RU1DWWx3SXlmdmgzdFNDazFYRVlXQTdVaGpmZzVXQVRleUZkQkxJU1RZcGVzNGJiNzl0NHFtUHhSSG55NWszMWJWcEdOYkxicnM5UTBtWUZtSVl2WlU5UnVELWxMek9RdDRnZGdaUGQ1bEtuWUFCVGxuc2wxRXM?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3B1M1hnTG1NNzYzMGh6ZFF5RU1DWWx3SXlmdmgzdFNDazFYRVlXQTdVaGpmZzVXQVRleUZkQkxJU1RZcGVzNGJiNzl0NHFtUHhSSG55NWszMWJWcEdOYkxicnM5UTBtWUZtSVl2WlU5UnVELWxMek9RdDRnZGdaUGQ1bEtuWUFCVGxuc2wxRXM?oc=5)

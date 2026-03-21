@@ -18,4 +18,4 @@ This analysis is crucial for market professionals as it underscores the volatili
 
 For those looking to navigate the evolving software landscape, Borges' insights provide valuable context. I recommend tuning into the full discussion on the Exchanges podcast for a deeper understanding of these trends.
 
-[Source: goldmansachs.com](https://www.goldmansachs.com)
+[goldmansachs.com](https://www.goldmansachs.com)

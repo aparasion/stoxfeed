@@ -18,4 +18,4 @@ Publicly traded private credit firms, particularly business development companie
 
 As uncertainty looms, investors are advised to remain vigilant and consider building cash reserves to capitalize on potential market pullbacks. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/goldman-sachs-just-sounded-the-alarm-on-private-cr/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/goldman-sachs-just-sounded-the-alarm-on-private-cr/?source=iedfolrf0000001)

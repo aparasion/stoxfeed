@@ -18,4 +18,4 @@ Goldman Sachs recently highlighted the accelerating demand for semiconductors, p
 
 For market professionals, the key takeaway is that despite the recent stock dip, ASML's long-term growth potential, driven by robust demand from major clients, suggests it may warrant a premium valuation. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/why-did-asml-stock-just-drop/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/why-did-asml-stock-just-drop/?source=iedfolrf0000001)

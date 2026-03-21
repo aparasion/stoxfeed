@@ -16,4 +16,4 @@ Investors are increasingly eyeing the artificial intelligence (AI) sector for po
 
 While both companies show promise, they come with inherent risks, making them suitable for only a small portion of a diversified portfolio. The potential for substantial returns exists, but investors should temper expectations regarding achieving millionaire status solely through these stocks. For a deeper dive into their growth prospects and market strategies, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/2-millionaire-maker-artificial-intelligence-ai-sto/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/2-millionaire-maker-artificial-intelligence-ai-sto/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The ETF's holdings extend beyond semiconductors to major players in AI and cloud
 
 Investors should consider the Vanguard ETF as a compelling option for exposure to the booming tech sector, particularly as AI spending accelerates. For a deeper dive into the potential of this ETF and its key holdings, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/prediction-vanguard-etf-crush-sp-500-again-2026/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/prediction-vanguard-etf-crush-sp-500-again-2026/?source=iedfolrf0000001)

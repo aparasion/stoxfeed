@@ -18,4 +18,4 @@ This initiative is significant for financial markets as it highlights the growin
 
 For professionals looking to enhance their investment strategies, exploring Sure Dividend's resources could provide valuable insights into high-yield opportunities and dividend growth stocks. I recommend checking out the full article for a deeper dive into their offerings and recent stock analyses.
 
-[Source: suredividend.com](https://www.suredividend.com)
+[suredividend.com](https://www.suredividend.com)

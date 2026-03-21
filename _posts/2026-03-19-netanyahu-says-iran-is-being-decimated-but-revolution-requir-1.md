@@ -18,4 +18,4 @@ This development is crucial for financial markets, particularly in sectors sensi
 
 For those looking to understand the broader implications of these statements on market dynamics, I recommend exploring the full article for a deeper analysis of this evolving situation.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html)

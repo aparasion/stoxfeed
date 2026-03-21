@@ -18,4 +18,4 @@ Oklo Inc. (NYSE: OKLO) emerges as a compelling investment opportunity within thi
 
 For those willing to embrace long-term volatility, Oklo’s small modular reactor technology could provide substantial upside as it aligns with the energy demands of the tech industry. I encourage you to explore the full article for a deeper dive into this promising opportunity.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/prediction-buying-hot-ticker-stock-today-could-set/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/prediction-buying-hot-ticker-stock-today-could-set/?source=iedfolrf0000001)

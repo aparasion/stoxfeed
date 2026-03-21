@@ -18,4 +18,4 @@ The dynamics in the coffee market are shifting, with Brazil's recent rains allev
 
 For market professionals, the implications are clear: while current prices are buoyed by supply disruptions, the forecast of a bumper Brazilian crop could lead to significant downward pressure on coffee prices. Dive deeper into these developments by exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/supply-concerns-boost-coffee-prices-0)
+[nasdaq.com](https://www.nasdaq.com/articles/supply-concerns-boost-coffee-prices-0)

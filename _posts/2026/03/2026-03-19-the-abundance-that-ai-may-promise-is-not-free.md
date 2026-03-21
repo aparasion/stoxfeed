@@ -18,4 +18,4 @@ The implications for financial markets are profound. Companies like Nvidia and A
 
 Investors should consider the long-term dynamics of AI and energy infrastructure as key drivers of market performance. For a deeper dive into these transformative ideas and their market implications, I recommend exploring the full article.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/abundance-ai-promise-is-not-free?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/abundance-ai-promise-is-not-free?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

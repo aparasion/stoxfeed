@@ -18,4 +18,4 @@ This uptick comes amid a challenging year for Grail, particularly after a disapp
 
 For investors, the key takeaway is that despite recent setbacks, the potential for future data to validate the Galleri test could make Grail an attractive buy at current levels. For a deeper dive into this development, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/heres-why-grail-shares-crushed-the-market-this-wee/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/heres-why-grail-shares-crushed-the-market-this-wee/?source=iedfolrf0000001)

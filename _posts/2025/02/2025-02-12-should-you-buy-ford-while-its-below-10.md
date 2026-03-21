@@ -18,4 +18,4 @@ The market's reaction highlights investor concerns about Ford's long-term growth
 
 For a deeper dive into Ford's financial outlook and strategic challenges, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2025/02/12/should-you-buy-ford-while-its-below-10/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2025/02/12/should-you-buy-ford-while-its-below-10/?source=iedfolrf0000001)

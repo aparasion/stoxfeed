@@ -16,4 +16,4 @@ Oklo (OKLO) shares surged 10% in early trading on Tuesday, driven by investor an
 
 These announcements not only bolster Oklo's growth prospects but also align with national efforts to enhance energy security and recycling initiatives. Investors are keenly awaiting the earnings call for insights on revenue generation timelines and cash strategies, as analysts maintain a buy rating with a $138 price target, suggesting substantial upside potential. For a deeper dive into Oklo's developments and earnings outlook, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/oklo-stock-jumped-today-should-you-buy-before-earn/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/oklo-stock-jumped-today-should-you-buy-before-earn/?source=iedfolrf0000001)

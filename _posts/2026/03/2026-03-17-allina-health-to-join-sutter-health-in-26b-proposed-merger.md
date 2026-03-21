@@ -18,4 +18,4 @@ For investors and market professionals, this merger could have implications for 
 
 As the merger progresses, stakeholders should monitor its impact on market dynamics and operational efficiencies in the sector. For a deeper dive into the details of this transaction and its implications, I recommend checking out the full article.
 
-[Source: fiercehealthcare.com](https://www.fiercehealthcare.com)
+[fiercehealthcare.com](https://www.fiercehealthcare.com)

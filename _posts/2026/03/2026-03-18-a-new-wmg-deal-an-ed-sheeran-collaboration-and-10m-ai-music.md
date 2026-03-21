@@ -18,4 +18,4 @@ The financial implications of Deezer's profitability could resonate across the s
 
 For those tracking the intersection of technology and music, Deezer's success and the broader trends in AI-generated content present intriguing opportunities. I recommend diving into the full article for a deeper understanding of these developments and their market implications.
 
-[Source: musicbusinessworldwide.com](https://www.musicbusinessworldwide.com)
+[musicbusinessworldwide.com](https://www.musicbusinessworldwide.com)

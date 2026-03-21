@@ -18,4 +18,4 @@ The implications for the retail giant are significant. Costco's stock, which has
 
 Given these factors, it may be prudent for investors to hold off on purchasing additional Costco shares until the tariff situation is clarified. For a deeper dive into this evolving story, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/tariff-related-lawsuits-could-hurt-costco-stock-bu/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/tariff-related-lawsuits-could-hurt-costco-stock-bu/?source=iedfolrf0000001)

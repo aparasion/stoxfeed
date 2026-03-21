@@ -18,4 +18,4 @@ The rise in oil prices reflects market anxiety about potential disruptions in on
 
 For market professionals, this situation underscores the importance of staying attuned to geopolitical developments and their implications for commodity prices. I recommend reading the full article for a deeper analysis of how these tensions could shape market strategies moving forward.
 
-[Source: cnbc.com](https://www.cnbc.com)
+[cnbc.com](https://www.cnbc.com)

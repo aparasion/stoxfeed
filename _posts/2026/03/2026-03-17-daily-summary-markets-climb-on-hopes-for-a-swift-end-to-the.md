@@ -18,4 +18,4 @@ Brent crude oil remains elevated above $100 per barrel due to ongoing geopolitic
 
 A key takeaway is Nvidia's raised financial forecast, aiming for $1 trillion in revenue by 2027, which aligns with industry trends amid persistent memory shortages. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-markets-climb-on-hopes-for-a-swift-end-to-the-conflict)
+[xtb.com](https://www.xtb.com/en/market-analysis/daily-summary-markets-climb-on-hopes-for-a-swift-end-to-the-conflict)

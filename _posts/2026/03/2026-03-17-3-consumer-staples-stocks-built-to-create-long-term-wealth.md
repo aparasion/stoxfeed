@@ -18,4 +18,4 @@ Altria has also shown resilience, with a 6.2% dividend yield and recent outperfo
 
 Walmart's transformation into a digital retail powerhouse has led to significant returns, though its current valuation raises questions. Continued e-commerce growth and AI integration could bolster future earnings and sustain its upward trajectory. For a deeper dive into these consumer staples, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/3-consumer-staples-stocks-built-to-create-long-ter/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/3-consumer-staples-stocks-built-to-create-long-ter/?source=iedfolrf0000001)

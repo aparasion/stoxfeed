@@ -18,4 +18,4 @@ This announcement comes at a pivotal time for CVS, as the company faces scrutiny
 
 For market professionals, the stability of CVS's dividend amidst these pressures signals a commitment to shareholder returns, but the underlying issues warrant close monitoring. For a deeper dive into CVS's financial outlook and implications of these developments, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566170-cvs-declares-0_665-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566170-cvs-declares-0_665-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ The demand for AI computing infrastructure is surging, particularly for companie
 
 For investors, this dip in valuations for key players in the AI space could represent a strategic buying opportunity. To gain deeper insights into these stocks and the broader implications for your portfolio, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/meet-5-magnificent-seven-stocks-are-brilliant-buys-now)
+[nasdaq.com](https://www.nasdaq.com/articles/meet-5-magnificent-seven-stocks-are-brilliant-buys-now)

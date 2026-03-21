@@ -18,4 +18,4 @@ The upcoming Martin Luther King Jr. Day holiday will see markets and government 
 
 For market professionals, the lagging sales figures could signal potential volatility in wheat prices moving forward. For a deeper dive into the factors influencing these trends, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-mixed-midday-1)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-mixed-midday-1)

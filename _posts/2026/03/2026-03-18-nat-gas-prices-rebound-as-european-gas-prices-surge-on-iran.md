@@ -18,4 +18,4 @@ The implications for the financial markets are notable. While forecasts of warme
 
 Market professionals should keep a close eye on the upcoming EIA nat-gas inventory report, which is anticipated to show a larger-than-normal build. For a deeper dive into these developments and their potential impacts, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-rebound-european-gas-prices-surge-iran-risks)
+[nasdaq.com](https://www.nasdaq.com/articles/nat-gas-prices-rebound-european-gas-prices-surge-iran-risks)

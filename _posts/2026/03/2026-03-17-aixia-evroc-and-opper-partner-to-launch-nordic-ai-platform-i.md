@@ -18,4 +18,4 @@ This development is significant for the financial markets as it positions Aixia 
 
 For market professionals, the Build Nordics AI initiative represents a pivotal move in the AI space, with implications for future earnings and sector dynamics. I recommend reading the full article for a deeper understanding of this collaboration's potential impact.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/aixia-evroc-and-opper-partner-launch-nordic-ai-platform-initiative)
+[nasdaq.com](https://www.nasdaq.com/articles/aixia-evroc-and-opper-partner-launch-nordic-ai-platform-initiative)

@@ -20,4 +20,4 @@ For a deeper understanding of how these developments could affect Japan's econom
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/bank-of-japan-keeps-rates-steady-as-expected-warns-iran-war-may-push-up-inflation.html)

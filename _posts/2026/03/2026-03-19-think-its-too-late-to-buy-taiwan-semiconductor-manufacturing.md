@@ -18,4 +18,4 @@ The implications for the financial markets are significant. TSMC's dominance ens
 
 For a deeper dive into TSMC's market position and future prospects, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/think-its-too-late-to-buy-taiwan-semiconductor-man/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/think-its-too-late-to-buy-taiwan-semiconductor-man/?source=iedfolrf0000001)

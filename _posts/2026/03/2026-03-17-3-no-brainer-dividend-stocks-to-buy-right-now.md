@@ -18,4 +18,4 @@ Similarly, Campbell's Company (CPB) offers a hefty 7.2% dividend yield, even as 
 
 Lastly, Mondelez International (MDLZ) stands to benefit from declining cocoa prices, which should ease profit margin pressures. With an attractive 3.5% dividend yield and an expected 8% annual earnings growth, Mondelez is well-positioned for recovery. For a deeper dive into these investment opportunities, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/3-no-brainer-dividend-stocks-to-buy-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/3-no-brainer-dividend-stocks-to-buy-right-now/?source=iedfolrf0000001)

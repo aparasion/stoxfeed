@@ -18,4 +18,4 @@ The acquisition comes at a time when the aerospace industry is experiencing heig
 
 Investors should keep an eye on AeroVironment's integration strategy and its impact on future earnings. For a deeper dive into the implications of this acquisition, I recommend checking out the full article.
 
-[Source: virginiabusiness.com](https://virginiabusiness.com)
+[virginiabusiness.com](https://virginiabusiness.com)

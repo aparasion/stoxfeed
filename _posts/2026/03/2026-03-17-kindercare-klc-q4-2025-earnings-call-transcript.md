@@ -18,4 +18,4 @@ The implications for the financial markets are notable. KLC's guidance for 2026 
 
 Investors should closely monitor KinderCare's strategic initiatives aimed at improving center-level execution and occupancy rates, as well as its ongoing efforts to manage underperforming locations. For a deeper dive into KinderCare's earnings call insights and future outlook, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/kindercare-klc-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/kindercare-klc-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

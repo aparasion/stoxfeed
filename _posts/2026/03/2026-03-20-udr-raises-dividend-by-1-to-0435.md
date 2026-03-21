@@ -18,4 +18,4 @@ This increase in dividend signals UDR's commitment to returning value to shareho
 
 For investors, UDR's steady dividend growth and positive revenue trajectory may present a compelling buying opportunity in the REIT sector. For a deeper dive into UDR's financials and strategic outlook, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566856-udr-raises-dividend-by-1-to-0435?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566856-udr-raises-dividend-by-1-to-0435?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

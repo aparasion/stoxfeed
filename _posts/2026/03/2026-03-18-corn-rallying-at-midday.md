@@ -18,4 +18,4 @@ The market is closely watching upcoming export sales data, expected to show betw
 
 For a deeper dive into the current trends affecting corn and other commodities, I highly recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/corn-rallying-midday)
+[nasdaq.com](https://www.nasdaq.com/articles/corn-rallying-midday)

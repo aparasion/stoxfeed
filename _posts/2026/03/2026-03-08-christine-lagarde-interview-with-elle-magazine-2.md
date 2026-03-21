@@ -18,4 +18,4 @@ This focus on financial education comes at a pivotal time for the European econo
 
 For market professionals, Lagarde's insights underscore the interconnectedness of gender equality, financial literacy, and economic growth. To delve deeper into her vision and the ECB's initiatives, I recommend exploring the full interview.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)

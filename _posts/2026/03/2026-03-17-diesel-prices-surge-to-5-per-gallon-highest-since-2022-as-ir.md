@@ -18,4 +18,4 @@ The implications for financial markets are significant, as rising diesel costs a
 
 For market professionals, the key takeaway is that sustained high fuel prices could influence operational costs across multiple sectors and may lead to adjustments in earnings forecasts. I recommend checking out the full details in the original article for a deeper understanding of these developments.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html)

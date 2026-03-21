@@ -20,4 +20,4 @@ For market professionals, the immediate takeaway is to monitor HDFC Bank's recov
 
 *StoxFeed tracks this as a market signal: [Federal Reserve rate decisions are driving bond and equity market moves](/signals/#fed-rate-trajectory)*
 
-[Source: economictimes.com](https://m.economictimes.com)
+[economictimes.com](https://m.economictimes.com)

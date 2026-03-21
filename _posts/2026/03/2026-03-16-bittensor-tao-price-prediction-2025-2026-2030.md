@@ -18,4 +18,4 @@ The implications for the financial markets are significant, especially as intere
 
 For professionals in trading and portfolio management, Bittensor represents a compelling opportunity in the evolving AI landscape. To delve deeper into the details of this promising project and its market potential, I highly recommend reading the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/bittensor-tao-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/bittensor-tao-price-prediction)

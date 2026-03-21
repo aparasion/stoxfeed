@@ -18,4 +18,4 @@ The implications for Nvidia's stock are substantial. Analysts predict earnings c
 
 For professionals in the financial markets, Nvidia's trajectory presents a compelling opportunity. The company's strong fundamentals and the anticipated demand for AI infrastructure could drive substantial returns. I recommend diving into the full article for a detailed analysis of Nvidia's growth prospects and market positioning.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/prediction-nvidia-stock-will-be-worth-this-2-years/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/prediction-nvidia-stock-will-be-worth-this-2-years/?source=iedfolrf0000001)

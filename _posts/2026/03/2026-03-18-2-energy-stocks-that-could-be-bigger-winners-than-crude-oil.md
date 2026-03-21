@@ -18,4 +18,4 @@ In this environment, U.S. producers like CF Industries emerge as strong candidat
 
 For professionals navigating these turbulent waters, CF Industries and Woodside Energy present valuable opportunities. I recommend diving deeper into the full article for a comprehensive analysis of these stocks and their potential in the current market landscape.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/2-energy-stocks-that-could-be-bigger-winners-than/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/2-energy-stocks-that-could-be-bigger-winners-than/?source=iedfolrf0000001)

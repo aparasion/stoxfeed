@@ -18,4 +18,4 @@ Despite the early enthusiasm, Intel's gains evaporated as investors opted to tak
 
 For market professionals, the takeaway is clear: while Intel remains a strong player in the semiconductor space, the volatility reflects broader market sentiments and profit-taking behavior. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/why-intel-stock-spiked-7-on-monday-then-slumped/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/why-intel-stock-spiked-7-on-monday-then-slumped/?source=iedfolrf0000001)

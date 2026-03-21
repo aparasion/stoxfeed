@@ -18,4 +18,4 @@ The gold mining sector has shown resilience amid economic uncertainty, with gold
 
 For those looking to diversify their portfolios, investing in gold stocks could be a strategic move, especially if gold prices remain strong. I recommend checking out the full article for a deeper dive into the best gold stocks and investment strategies in the current market.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-gold-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-gold-stocks)

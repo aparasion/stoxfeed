@@ -18,4 +18,4 @@ This impressive financial performance reflects a healthy operating environment, 
 
 For market professionals, CAAP's strong liquidity position and low net leverage ratio enhance its financial flexibility for expansion. To dive deeper into these developments and their implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/caap-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/caap-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

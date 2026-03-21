@@ -18,4 +18,4 @@ The slowdown in IPO activity reflects a broader trend, as several high-profile c
 
 For market professionals, the key takeaway is that the IPO landscape in India may remain subdued in the near term, with pricing and timing becoming critical factors for upcoming listings. To gain deeper insights into this evolving situation, I recommend reading the full article for a comprehensive analysis.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/iran-war-dampen-most-active-ipo-market.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/iran-war-dampen-most-active-ipo-market.html)

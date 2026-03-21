@@ -18,4 +18,4 @@ CVS Health is grappling with challenges related to Medicare Advantage payment ra
 
 For professionals seeking to navigate this turbulent market, both CVS Health and AbbVie present compelling buying opportunities. I encourage you to explore the full analysis in the original article for deeper insights.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/best-healthcare-stocks-to-buy-after-the-market-pul/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/best-healthcare-stocks-to-buy-after-the-market-pul/?source=iedfolrf0000001)

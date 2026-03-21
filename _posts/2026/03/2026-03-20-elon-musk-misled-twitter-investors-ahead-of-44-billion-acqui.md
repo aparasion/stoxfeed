@@ -18,4 +18,4 @@ This verdict highlights the risks associated with high-profile acquisitions and 
 
 For a deeper understanding of the case and its implications for both Musk and the broader market, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html)

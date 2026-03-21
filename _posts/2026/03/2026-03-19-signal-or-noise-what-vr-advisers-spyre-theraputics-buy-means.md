@@ -18,4 +18,4 @@ Spyre Therapeutics, a preclinical-stage biotech firm, focuses on developing mono
 
 Investors should consider the implications of VR Adviser's concentrated biotech strategy and the volatility that comes with it. If you're navigating similar high-risk investments, it's essential to evaluate your risk tolerance carefully. For a deeper dive into this transaction and its market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/18/signal-or-noise-what-vr-adviser-s-spyre-theraputics-buy-means-for-fools/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/18/signal-or-noise-what-vr-adviser-s-spyre-theraputics-buy-means-for-fools/?source=iedfolrf0000001)

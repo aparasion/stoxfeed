@@ -18,4 +18,4 @@ In individual stock news, Unusual Machines Inc (AMEX:UMAC) saw its shares declin
 
 For market professionals, the key takeaway is the interplay between geopolitical events and stock performance, which can create both opportunities and risks. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com)
+[benzinga.com](https://www.benzinga.com)

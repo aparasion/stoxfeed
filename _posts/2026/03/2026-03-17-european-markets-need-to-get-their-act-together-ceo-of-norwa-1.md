@@ -18,4 +18,4 @@ Tangen's remarks come at a critical time as European markets face fragmentation,
 
 For market professionals, Tangen's insights signal a pivotal moment for European capital markets. The full article provides a deeper exploration of these challenges and the potential implications for investment strategies.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html)

@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for sectors
 
 For market professionals, understanding the dynamics of U.S.-Cuba relations is crucial, as any escalation could impact broader regional stability and investment opportunities. I recommend diving deeper into this developing story for a comprehensive view of its implications.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/cuba-crisis-trump-energy-power-blackout-fuel-havana.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/cuba-crisis-trump-energy-power-blackout-fuel-havana.html)

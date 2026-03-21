@@ -18,4 +18,4 @@ This situation reflects broader trends in the education sector, where teacher sa
 
 For market professionals, Alicea's experience serves as a reminder of the financial pressures within the education sector, potentially influencing discussions around public policy and funding for education. For a deeper dive into her financial strategies and insights, I recommend checking out the full story.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/nyc-teacher-side-hustle-pay-off-student-debt.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/nyc-teacher-side-hustle-pay-off-student-debt.html)

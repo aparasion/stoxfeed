@@ -18,4 +18,4 @@ Despite the overall market uptrend, some major miners like Rio Tinto and BHP are
 
 Investors should keep an eye on the implications of these job figures and sector movements for future market trends. For a deeper dive into today’s market dynamics, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/australian-market-extends-early-gains-mid-market-3)
+[nasdaq.com](https://www.nasdaq.com/articles/australian-market-extends-early-gains-mid-market-3)

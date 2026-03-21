@@ -18,4 +18,4 @@ Despite its impressive performance, Carvana still holds only 1.6% of the fragmen
 
 For investors, the potential for continued growth in Carvana’s stock remains strong, driven by operational efficiencies and market dynamics. To dive deeper into Carvana's future prospects and the implications for its stock, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/must-see-graphs-driving-top-stock-higher-cvna/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/must-see-graphs-driving-top-stock-higher-cvna/?source=iedfolrf0000001)

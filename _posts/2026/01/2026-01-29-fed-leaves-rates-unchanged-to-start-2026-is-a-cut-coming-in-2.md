@@ -18,4 +18,4 @@ The immediate implications for financial markets are noteworthy, particularly in
 
 For market professionals, the key takeaway is to remain vigilant regarding geopolitical developments and their potential impacts on commodity prices and overall market stability. To gain deeper insights into the situation and its ramifications, I recommend exploring the full article for a comprehensive analysis.
 
-[Source: jpmorgan.com](https://www.jpmorgan.com)
+[jpmorgan.com](https://www.jpmorgan.com)

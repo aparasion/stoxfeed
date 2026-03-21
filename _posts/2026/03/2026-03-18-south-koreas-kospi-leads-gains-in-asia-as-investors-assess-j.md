@@ -18,4 +18,4 @@ This uptick in Asian markets comes amid ongoing geopolitical tensions, particula
 
 For market professionals, the interplay between geopolitical risks and monetary policy decisions remains crucial. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html)

@@ -18,4 +18,4 @@ The acquisition is significant as it reflects the ongoing consolidation trend wi
 
 For market professionals, this acquisition underscores the importance of monitoring franchise expansions as indicators of sector health. Dive deeper into the full story to understand the implications for JRI and the broader franchise landscape.
 
-[Source: franchisetimes.com](https://www.franchisetimes.com)
+[franchisetimes.com](https://www.franchisetimes.com)

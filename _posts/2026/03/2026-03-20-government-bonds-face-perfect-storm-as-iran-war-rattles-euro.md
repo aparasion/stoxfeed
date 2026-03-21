@@ -18,4 +18,4 @@ This volatility in yields reflects broader economic pressures, particularly from
 
 For market professionals, the key takeaway is the heightened likelihood of interest rate hikes in the coming months, particularly in the U.K. and potentially across Europe. This evolving landscape warrants close monitoring, and I encourage you to delve deeper into the full article for a comprehensive analysis of these developments.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html)

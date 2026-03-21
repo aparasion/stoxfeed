@@ -18,4 +18,4 @@ Holding rates steady could signal confidence in the domestic economy, but the Fe
 
 For professionals navigating these turbulent waters, understanding the Fed's stance and its implications on interest rates is vital. I recommend diving deeper into the full story for a comprehensive view of how these developments could shape market dynamics.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVU1RkJWRzJHZVEwZ3A2cWhsMG42NExGU1NsNmlmODBBQVd1dDJkRDM5X0d5Y1F0WmtkX2pfMnNMSXprTkVkMGJxZXlPTDNfQzMzZnVHLVZHbEVsc2FTVThyQUlwcEN3N1ZGQ1JuN2dNMl9ZaVo5WHplNWhGMVVZREFKcGpzbnoyV0NzYmZjVzhaOTJmRjMyOS10TzFobTQ3N0w2TlhOT19RYWx2SGNTMm9IVncxbWR1R3lPdEJaV043djktYzRpQWZxdHgtdktSYkcxOGxR?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVU1RkJWRzJHZVEwZ3A2cWhsMG42NExGU1NsNmlmODBBQVd1dDJkRDM5X0d5Y1F0WmtkX2pfMnNMSXprTkVkMGJxZXlPTDNfQzMzZnVHLVZHbEVsc2FTVThyQUlwcEN3N1ZGQ1JuN2dNMl9ZaVo5WHplNWhGMVVZREFKcGpzbnoyV0NzYmZjVzhaOTJmRjMyOS10TzFobTQ3N0w2TlhOT19RYWx2SGNTMm9IVncxbWR1R3lPdEJaV043djktYzRpQWZxdHgtdktSYkcxOGxR?oc=5)

@@ -18,4 +18,4 @@ The growing interest in art investing is significant as it offers a hedge agains
 
 For professionals looking to enhance their portfolios, incorporating blue-chip art could provide a differentiated return stream and reduce reliance on equity-driven outcomes. I recommend exploring the full article for deeper insights into how art can fit into your investment strategy.
 
-[Source: benzinga.com](https://www.benzinga.com/money/masterworks-blue-chip-pm-retargetclever)
+[benzinga.com](https://www.benzinga.com/money/masterworks-blue-chip-pm-retargetclever)

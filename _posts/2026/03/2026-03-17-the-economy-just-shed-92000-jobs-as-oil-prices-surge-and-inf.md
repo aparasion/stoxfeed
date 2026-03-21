@@ -18,4 +18,4 @@ While current inflation rates are lower than those seen in the 1970s, the dual p
 
 For market professionals, this serves as a crucial reminder to focus on long-term investment strategies. History shows that while bear markets can be painful, they eventually give way to recovery. For deeper insights into these dynamics and their implications, I highly recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/oil-stagflation-sp500-bear-market-lessons-history/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/oil-stagflation-sp500-bear-market-lessons-history/?source=iedfolrf0000001)

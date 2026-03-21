@@ -18,4 +18,4 @@ This development is pivotal for Alstom as it underscores a commitment to improvi
 
 For investors and market professionals, this move signals Alstom's strategic growth in the rail sector, reflecting a robust pipeline of contracts that may bolster stock performance. For a deeper dive into the implications of these contracts, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/alstom-secures-gbp-330-mln-scotrail-beacon-contracts-class-222-fleet-support-and-upgrades)
+[nasdaq.com](https://www.nasdaq.com/articles/alstom-secures-gbp-330-mln-scotrail-beacon-contracts-class-222-fleet-support-and-upgrades)

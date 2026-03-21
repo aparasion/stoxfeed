@@ -18,4 +18,4 @@ This development is crucial for the financial markets as it may enhance the oper
 
 For investors and market professionals, this change could represent a strategic opportunity, especially in assessing the future growth prospects of these banks. I recommend exploring the full article for a deeper understanding of the implications for your investment strategies.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm)

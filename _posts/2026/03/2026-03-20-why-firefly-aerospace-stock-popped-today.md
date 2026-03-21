@@ -18,4 +18,4 @@ The implications for Firefly are significant. The company is transitioning from 
 
 For those tracking emerging players in the aerospace sector, Firefly's earnings report and strategic contracts present a compelling case for potential growth. I recommend diving deeper into the full article for a comprehensive analysis of Firefly's financial outlook and market positioning.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/why-firefly-aerospace-stock-popped-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/why-firefly-aerospace-stock-popped-today/?source=iedfolrf0000001)

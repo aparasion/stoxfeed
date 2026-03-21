@@ -18,4 +18,4 @@ The financial markets are closely watching this development as the SAVE Act coul
 
 One key takeaway is the potential for increased volatility in sectors tied to regulatory changes as the SAVE Act progresses. For a deeper dive into these developments and their implications for the market, I recommend checking out the full article.
 
-[Source: foxbusiness.com](https://www.foxbusiness.com)
+[foxbusiness.com](https://www.foxbusiness.com)

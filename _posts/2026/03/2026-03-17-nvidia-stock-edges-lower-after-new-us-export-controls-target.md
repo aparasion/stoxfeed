@@ -18,4 +18,4 @@ The implications for the semiconductor sector are significant, as these restrict
 
 For market professionals, the key takeaway is to assess Nvidia's strategic response to these export controls and their potential impact on earnings forecasts. For a deeper dive into the ramifications of these developments, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkFYMl8yRUs1SFdpRlBMOWZldERZa1NHSlczR3plYW5aZUoxSk9Qc1BhRjZrUGJIN3VCYlpwaXRNMk5HT0xNN2xXNUpLT0pwenVoRGxwUzNZWWdsbGQ4WWtTRnU0a01TbVRsTUotTUxWOHZKalhmcGxIeGFHZTdBODFfa1k5U1JlNUYyYVdCYTBqTGZKdnRESUNQZmY?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkFYMl8yRUs1SFdpRlBMOWZldERZa1NHSlczR3plYW5aZUoxSk9Qc1BhRjZrUGJIN3VCYlpwaXRNMk5HT0xNN2xXNUpLT0pwenVoRGxwUzNZWWdsbGQ4WWtTRnU0a01TbVRsTUotTUxWOHZKalhmcGxIeGFHZTdBODFfa1k5U1JlNUYyYVdCYTBqTGZKdnRESUNQZmY?oc=5)

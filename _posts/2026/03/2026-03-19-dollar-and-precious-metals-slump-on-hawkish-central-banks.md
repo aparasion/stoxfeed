@@ -18,4 +18,4 @@ The dollar's weakness has significant implications for currency markets, with th
 
 For market professionals, the evolving dynamics of interest rate expectations and geopolitical tensions underscore the need to closely monitor currency movements and central bank policies. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/dollar-and-precious-metals-slump-hawkish-central-banks)
+[nasdaq.com](https://www.nasdaq.com/articles/dollar-and-precious-metals-slump-hawkish-central-banks)

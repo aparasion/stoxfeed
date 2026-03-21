@@ -18,4 +18,4 @@ This development has significant implications for the tech sector and the broade
 
 As companies navigate this transformative landscape, understanding the balance between AI integration and workforce management will be crucial. For a deeper dive into these trends and their potential impact on the market, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html)

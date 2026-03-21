@@ -18,4 +18,4 @@ The performance of these stocks is particularly relevant as they reflect broader
 
 For investors seeking reliable dividend stocks amidst market volatility, these three companies present compelling options. Dive deeper into their potential by exploring the full article for more insights.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/the-smartest-dividend-stocks-to-buy-with-150-right/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/the-smartest-dividend-stocks-to-buy-with-150-right/?source=iedfolrf0000001)

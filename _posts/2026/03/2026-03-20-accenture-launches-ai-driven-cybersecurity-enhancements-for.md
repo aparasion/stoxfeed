@@ -18,4 +18,4 @@ This initiative is particularly significant for the cybersecurity sector, as it 
 
 For professionals in the financial markets, Accenture's advancements signal a robust response to the evolving landscape of cybersecurity, potentially influencing investment strategies in tech and security sectors. I recommend checking out the full article for deeper insights into these developments.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/accenture-launches-ai-driven-cybersecurity-enhancements-microsoft-security)
+[nasdaq.com](https://www.nasdaq.com/articles/accenture-launches-ai-driven-cybersecurity-enhancements-microsoft-security)

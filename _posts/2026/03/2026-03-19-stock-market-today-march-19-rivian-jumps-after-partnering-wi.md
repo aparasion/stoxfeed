@@ -18,4 +18,4 @@ The investment comes at a crucial time for Rivian, which has seen its stock plum
 
 For market professionals, Rivian's evolving strategy and partnership dynamics present intriguing opportunities, particularly for those willing to navigate the inherent risks. I encourage you to read the full article for deeper insights into this development.
 
-[Source: fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-rivian-jumps-after-partnering-with-uber-on-usd1-25-billion-robotaxi-investment-plan/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-rivian-jumps-after-partnering-with-uber-on-usd1-25-billion-robotaxi-investment-plan/?source=iedfolrf0000001)

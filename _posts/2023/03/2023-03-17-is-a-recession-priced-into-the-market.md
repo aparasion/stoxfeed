@@ -18,4 +18,4 @@ This discrepancy suggests that investors may need to reassess their expectations
 
 For market professionals, this insight underscores the importance of closely monitoring earnings revisions and macroeconomic trends, as they could significantly impact portfolio strategies. For a deeper dive into Li's analysis and its implications for the market, I recommend checking out the full interview.
 
-[Source: fool.com](https://www.fool.com/investing/2023/03/17/is-a-recession-priced-into-the-market/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2023/03/17/is-a-recession-priced-into-the-market/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for financial markets are significant. Traders’ choices can d
 
 For professionals in trading and portfolio management, selecting the right platform is crucial for optimizing performance. To dive deeper into the rankings and features of these platforms, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: benzinga.com](https://www.benzinga.com/money/day-trading-platforms)
+[benzinga.com](https://www.benzinga.com/money/day-trading-platforms)

@@ -18,4 +18,4 @@ The stability in cryptocurrency prices comes as investors shift focus to the eme
 
 For market professionals, the interplay between interest rates, cryptocurrency dynamics, and safe-haven assets like gold is crucial to monitor. I recommend diving deeper into this analysis for a comprehensive understanding of these trends and their implications on your investment strategies.
 
-[Source: fxstreet.com](https://www.fxstreet.com)
+[fxstreet.com](https://www.fxstreet.com)

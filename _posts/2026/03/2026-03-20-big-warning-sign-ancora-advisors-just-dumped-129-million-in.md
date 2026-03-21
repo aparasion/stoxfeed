@@ -18,4 +18,4 @@ This move raises questions about the motivations behind such a substantial dives
 
 For market professionals, this development serves as a reminder that large institutional trades can often be driven by factors unrelated to a company's fundamentals. To delve deeper into the implications of Ancora's move and Sealed Air's market position, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/20/big-warning-sign-ancora-advisors-just-dumped-usd129-million-in-sealed-air-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/20/big-warning-sign-ancora-advisors-just-dumped-usd129-million-in-sealed-air-stock/?source=iedfolrf0000001)

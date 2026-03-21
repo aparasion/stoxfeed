@@ -18,4 +18,4 @@ The performance of these stocks is crucial for investors, as they reflect broade
 
 For investors looking to capitalize on the fintech boom, keeping an eye on these stocks could provide valuable insights into market movements. I recommend checking out the full article for a deeper dive into the specific companies and their growth prospects.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX19yd0hSRHRaSkYzV0hFdWdZWEp3VlUzMkJydUZCSkJmM2U5NlphYXRoVzI2Vm03OHJlNlVXeFpMc2lZMzY4eWw1XzRBSVhDM0hmN3pucmlaUjNNTDJoV3F4Z0FxVm9Wa2paLU1CVVdPbW9DbkVWd0ZkUlllb3JlQjFvbEZnX3lpT09kNi1IS3BHT05nVzRDNHZn?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX19yd0hSRHRaSkYzV0hFdWdZWEp3VlUzMkJydUZCSkJmM2U5NlphYXRoVzI2Vm03OHJlNlVXeFpMc2lZMzY4eWw1XzRBSVhDM0hmN3pucmlaUjNNTDJoV3F4Z0FxVm9Wa2paLU1CVVdPbW9DbkVWd0ZkUlllb3JlQjFvbEZnX3lpT09kNi1IS3BHT05nVzRDNHZn?oc=5)

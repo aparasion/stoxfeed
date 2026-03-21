@@ -18,4 +18,4 @@ Target, on the other hand, has faced challenges including high inventories and d
 
 Both stocks offer enticing entry points for investors looking to capitalize on potential rebounds. For a deeper dive into their prospects and strategies, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/got-2000-2-top-growth-stocks-to-buy-that-could-dou/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/got-2000-2-top-growth-stocks-to-buy-that-could-dou/?source=iedfolrf0000001)

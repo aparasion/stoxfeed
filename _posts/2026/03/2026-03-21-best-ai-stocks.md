@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as these companies n
 
 For those looking to capitalize on the AI trend, understanding the catalysts, project pipelines, and technical signals of these stocks is crucial. I encourage you to explore the full article for a deeper dive into these opportunities and insights on selecting the best AI investments.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-artificial-intelligence-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-artificial-intelligence-stocks)

@@ -18,4 +18,4 @@ TDS shares have appreciated about 19% over the past year, aligning with S&P 500 
 
 For investors, this development underscores the importance of adapting to evolving market conditions and company strategies. For a deeper dive into the implications of Stonehill's exit and TDS's transformation, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/18/this-telecom-stock-is-up-19-this-past-year-so-why-did-one-fund-just-exit/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/18/this-telecom-stock-is-up-19-this-past-year-so-why-did-one-fund-just-exit/?source=iedfolrf0000001)

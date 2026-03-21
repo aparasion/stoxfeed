@@ -18,4 +18,4 @@ The resurgence of the crypto market is significant for financial professionals, 
 
 For those looking to capitalize on emerging trends in the crypto landscape, IPO Genie presents a compelling case. I highly recommend reading the full article for deeper insights into this potential investment opportunity.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDhObS1YTk1UYTA0bDM4aVhia2R6RkdNTE4yNWphTTN1cW90WmxvZEJDRGFkeUhfQkcxcmNhbk10T3dEaW81aW9zcmQ3d09aLUVDVmpmSjFxNEh3YVRjWEU3Wk9QS3JWRWFsMndJU2FNZ25MWVI3U0MwYndIX05QNHUyME9Uc0w2MVZBZ1k1aGY5STI1R2UyZU5wMHZNaUJUeEZhRHpKMEU?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDhObS1YTk1UYTA0bDM4aVhia2R6RkdNTE4yNWphTTN1cW90WmxvZEJDRGFkeUhfQkcxcmNhbk10T3dEaW81aW9zcmQ3d09aLUVDVmpmSjFxNEh3YVRjWEU3Wk9QS3JWRWFsMndJU2FNZ25MWVI3U0MwYndIX05QNHUyME9Uc0w2MVZBZ1k1aGY5STI1R2UyZU5wMHZNaUJUeEZhRHpKMEU?oc=5)

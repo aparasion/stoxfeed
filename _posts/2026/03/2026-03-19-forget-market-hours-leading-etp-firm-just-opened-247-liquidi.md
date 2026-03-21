@@ -18,4 +18,4 @@ This move comes at a time when the demand for tokenized assets is surging, with 
 
 For market professionals, this development underscores the importance of staying agile in a rapidly evolving landscape. The ability to trade tokenized assets 24/7 could reshape risk management strategies and trading behaviors. I highly recommend reading the full article for deeper insights into how this service could impact your trading and investment strategies.
 
-[Source: coindesk.com](https://www.coindesk.com/markets/2026/03/19/forget-market-hours-leading-etp-firm-just-opened-24-7-liquidity-for-tokenized-stocks-gold-and-money-market-funds)
+[coindesk.com](https://www.coindesk.com/markets/2026/03/19/forget-market-hours-leading-etp-firm-just-opened-24-7-liquidity-for-tokenized-stocks-gold-and-money-market-funds)

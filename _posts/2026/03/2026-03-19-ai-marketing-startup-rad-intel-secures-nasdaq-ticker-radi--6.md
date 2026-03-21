@@ -18,4 +18,4 @@ The financial implications are noteworthy: RAD Intel has raised $60 million from
 
 For investors looking for opportunities in the rapidly evolving AI landscape, RAD Intel presents a compelling case. I recommend checking out the full article for deeper insights into their growth strategy and market positioning.
 
-[Source: benzinga.com](https://www.benzinga.com/money/rad-intel-nasdaq)
+[benzinga.com](https://www.benzinga.com/money/rad-intel-nasdaq)

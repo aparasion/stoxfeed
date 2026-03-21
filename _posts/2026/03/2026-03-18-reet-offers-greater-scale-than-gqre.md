@@ -18,4 +18,4 @@ This divergence in characteristics matters as the Federal Reserve's recent shift
 
 Ultimately, the choice between REET and GQRE hinges on individual priorities—liquidity versus yield. For a deeper analysis of these funds and their implications for your portfolio, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/etfs/2026/03/18/reet-offers-greater-scale-than-gqre/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/etfs/2026/03/18/reet-offers-greater-scale-than-gqre/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This development is significant for the financial markets as it democratizes acc
 
 For market professionals, the introduction of Generated Assets signals a shift towards more personalized investment solutions that could reshape portfolio management. Dive deeper into this innovative platform and its implications by exploring the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/public-ai-pm-gg)
+[benzinga.com](https://www.benzinga.com/money/public-ai-pm-gg)

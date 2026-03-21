@@ -18,4 +18,4 @@ In contrast, Getty Images (NYSE: GETY) delivered a stronger performance, with Q4
 
 For market professionals, ASO's underperformance may signal caution within the retail sector, while GETY's results highlight resilience in digital content. For a deeper analysis of these developments, I recommend checking out the full article.
 
-[Source: stockstory.org](https://stockstory.org)
+[stockstory.org](https://stockstory.org)

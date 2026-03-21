@@ -18,4 +18,4 @@ The broader implications for Tilray are significant, especially as the U.S. cann
 
 For market professionals, Tilray's situation highlights the risks of investing in the cannabis sector, where uncertainty looms large. For a deeper dive into the specifics of Tilray's financials and market position, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/why-i-wouldnt-touch-tilray-brands-stock-with-a-10/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/why-i-wouldnt-touch-tilray-brands-stock-with-a-10/?source=iedfolrf0000001)

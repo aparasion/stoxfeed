@@ -18,4 +18,4 @@ The recent downturn saw the Dow, S&P 500, and Nasdaq all close lower, but Cramer
 
 For a deeper understanding of Cramer's strategies and the current market dynamics, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/jim-cramer-sometimes-you-have-to-hold-your-nose-and-buy-stocks.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/jim-cramer-sometimes-you-have-to-hold-your-nose-and-buy-stocks.html)

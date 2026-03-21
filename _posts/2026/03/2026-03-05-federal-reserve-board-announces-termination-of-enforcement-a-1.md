@@ -18,4 +18,4 @@ The lifting of this enforcement action is expected to positively impact Wells Fa
 
 For those closely monitoring financial sector developments, this news marks a pivotal moment for Wells Fargo and could influence broader market sentiment regarding regulatory compliance and bank valuations. I recommend checking out the full article for a deeper dive into the implications of this decision.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm)

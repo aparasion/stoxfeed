@@ -18,4 +18,4 @@ However, a deeper dive into Oracle's regulatory filings reveals potential risks 
 
 For investors, while Oracle's stock appears attractively priced at 28 times earnings compared to its AI peers, the concentration risk related to OpenAI warrants caution. For a more comprehensive analysis, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/oracles-backlog-potential-windfall-or-ticking-time/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/oracles-backlog-potential-windfall-or-ticking-time/?source=iedfolrf0000001)

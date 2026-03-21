@@ -18,4 +18,4 @@ The company's recent setbacks, including the halting of promising drug candidate
 
 For a deeper dive into Editas Medicine's challenges and market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/is-editas-medicine-going-to-0/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/is-editas-medicine-going-to-0/?source=iedfolrf0000001)

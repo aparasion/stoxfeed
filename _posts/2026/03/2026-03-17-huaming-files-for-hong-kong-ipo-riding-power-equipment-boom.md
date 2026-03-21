@@ -18,4 +18,4 @@ Rocket Companies Inc (NYSE: RKT) is a notable standout, with shares climbing hig
 
 For market professionals, the mixed futures indicate a wait-and-see approach as traders digest recent trends and economic signals. To gain deeper insights into these market movements, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: benzinga.com](https://www.benzinga.com)
+[benzinga.com](https://www.benzinga.com)

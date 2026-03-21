@@ -18,4 +18,4 @@ This move is significant for the retail and logistics sectors, intensifying comp
 
 For market professionals, Amazon's aggressive push into ultra-fast delivery could reshape consumer expectations and spending patterns. For a deeper dive into the details and potential impacts, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/amazon-rolls-out-1-hour-3-hour-delivery-in-latest-fast-shipping-test.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/amazon-rolls-out-1-hour-3-hour-delivery-in-latest-fast-shipping-test.html)

@@ -18,4 +18,4 @@ This transition is crucial for UPS's financial outlook, as analysts project an a
 
 As UPS approaches a potential inflection point, it could deliver robust returns for long-term investors. For a deeper dive into UPS's strategy and market positioning, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/1-magnificent-industrial-stock-down-58-to-buy-and/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/1-magnificent-industrial-stock-down-58-to-buy-and/?source=iedfolrf0000001)

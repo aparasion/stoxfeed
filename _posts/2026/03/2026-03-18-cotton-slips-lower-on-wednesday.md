@@ -18,4 +18,4 @@ The current market dynamics suggest cautious sentiment among traders, particular
 
 For professionals tracking cotton markets, this volatility underscores the importance of external economic indicators. I encourage you to read the full article for a deeper analysis of these trends and their implications.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/cotton-slips-lower-wednesday)
+[nasdaq.com](https://www.nasdaq.com/articles/cotton-slips-lower-wednesday)

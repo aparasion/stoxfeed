@@ -18,4 +18,4 @@ This investment is poised to enhance Bell's competitive edge in the telecommunic
 
 Investors should closely monitor how this development influences Bell's financial outlook and market positioning. For a deeper dive into the details of this strategic investment and its potential market impact, I recommend checking out the full article.
 
-[Source: bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+[bnnbloomberg.ca](https://www.bnnbloomberg.ca)

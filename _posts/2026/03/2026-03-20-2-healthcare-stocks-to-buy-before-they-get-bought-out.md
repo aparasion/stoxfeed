@@ -18,4 +18,4 @@ The performance of these stocks could hinge on their clinical outcomes and poten
 
 Investors should closely monitor these companies as they navigate their clinical trials and market positioning, especially with possible acquisition scenarios on the horizon. For a deeper dive into their potential, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/2-healthcare-stocks-to-buy-before-they-get-bought/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/2-healthcare-stocks-to-buy-before-they-get-bought/?source=iedfolrf0000001)

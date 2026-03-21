@@ -18,4 +18,4 @@ The earnings report highlights a significant shift in Spire's financial trajecto
 
 For those tracking emerging growth opportunities in the satellite data sector, Spire's latest earnings offer valuable insights. I recommend checking out the full article for a deeper dive into their financial outlook and strategic direction.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565753-spire-non-gaap-eps-of-0_39-beats-by-0_11-revenue-of-15_83m-beats-by-0_34m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565753-spire-non-gaap-eps-of-0_39-beats-by-0_11-revenue-of-15_83m-beats-by-0_34m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

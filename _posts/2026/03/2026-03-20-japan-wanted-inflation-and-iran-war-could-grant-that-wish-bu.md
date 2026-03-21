@@ -18,4 +18,4 @@ This backdrop complicates the BOJ's policy strategy, as higher global energy pri
 
 Market professionals should closely monitor these developments, as the BOJ's response to rising inflation could influence interest rates and overall market sentiment. For a deeper dive into the implications of Japan's inflationary pressures, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/iran-war-japan-inflation-boj-oil-prices.html)

@@ -18,4 +18,4 @@ In earnings news, FedEx's restructuring has exceeded expectations, leading to a 
 
 For market professionals, the interplay between these developments and broader market trends is crucial. Dive deeper into the full article for a comprehensive analysis of these significant movements.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html)

@@ -18,4 +18,4 @@ This development is crucial for the financial markets as it positions Lilly to s
 
 As Lilly prepares for additional trial results and potential regulatory filings, market professionals should monitor how retatrutide's performance influences investor sentiment and competitive dynamics within the diabetes treatment landscape. For a deeper dive into this development, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/eli-lillys-obesity-drug-retatrutide-clears-late-stage-diabetes-trial.html)

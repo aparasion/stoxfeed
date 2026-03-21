@@ -18,4 +18,4 @@ Karooooo Limited (KARO) is making waves with a 22% growth in subscription revenu
 
 Pagaya Technologies (PGY) achieved its first profitable year in 2025, with revenue hitting $1.3 billion and adjusted EBITDA soaring 76%. Its capital-light model allows for rapid scaling and high margins, making it an attractive opportunity given its valuation relative to revenue. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/fast-growing-tech-stocks-never-heard-cwan-karo/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/fast-growing-tech-stocks-never-heard-cwan-karo/?source=iedfolrf0000001)

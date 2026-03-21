@@ -18,4 +18,4 @@ This dividend declaration is particularly relevant as it underscores the ETF's s
 
 For market professionals, the YQQQ dividend could be a strategic consideration for portfolio diversification, particularly for those focused on income generation. I recommend exploring the full details in the original article for deeper insights into the ETF's performance metrics and dividend growth potential.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565934-yieldmax-short-n100-option-income-strategy-etf-declares-0_0713-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565934-yieldmax-short-n100-option-income-strategy-etf-declares-0_0713-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

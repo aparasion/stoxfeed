@@ -18,4 +18,4 @@ On the other hand, MercadoLibre is navigating a temporary dip in profit margins 
 
 For investors seeking long-term gains, both stocks present compelling cases. Dive deeper into their growth strategies and market positioning by exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/top-2-once-in-a-decade-sector-picks-for-long-term/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/top-2-once-in-a-decade-sector-picks-for-long-term/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This shift towards lower-calorie consumption is already impacting dining habits,
 
 For market professionals, the key takeaway is that the rise of GLP-1 drugs presents both challenges and opportunities. Brands that pivot to healthier, protein-rich options may not only mitigate risks but also capture a growing segment of health-focused consumers.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html)
+[cnbc.com](https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html)

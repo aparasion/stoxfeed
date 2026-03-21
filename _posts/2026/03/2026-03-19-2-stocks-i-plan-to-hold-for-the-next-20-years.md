@@ -18,4 +18,4 @@ Meanwhile, Enterprise Products Partners has a 6% yield and has consistently rais
 
 Both stocks offer compelling long-term investment opportunities in the energy sector. For a deeper dive into their fundamentals and growth prospects, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/2-stocks-i-plan-to-hold-for-the-next-20-years/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/2-stocks-i-plan-to-hold-for-the-next-20-years/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Looking ahead, projections indicate a mixed outlook for Zoom. While demand for v
 
 For professionals considering Zoom's stock, the balance of strong financials against competitive risks presents a nuanced investment opportunity. Dive deeper into the full analysis to better understand the implications for your portfolio.
 
-[Source: benzinga.com](https://www.benzinga.com/money/zoom-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/zoom-stock-price-prediction)

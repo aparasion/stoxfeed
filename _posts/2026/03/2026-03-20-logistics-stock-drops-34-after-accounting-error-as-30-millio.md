@@ -18,4 +18,4 @@ Hub Group's stock has struggled, down 5.5% over the past year, particularly foll
 
 For investors, this acquisition by Broad Bay signals confidence in Hub Group's long-term prospects, even amidst short-term volatility. For a deeper dive into the implications of this investment and Hub Group's market position, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/20/logistics-stock-drops-34-after-accounting-error-as-usd30-million-stake-emerges/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/20/logistics-stock-drops-34-after-accounting-error-as-usd30-million-stake-emerges/?source=iedfolrf0000001)

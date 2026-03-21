@@ -18,4 +18,4 @@ The implications for the cocoa market are significant, especially as demand rema
 
 For market professionals, the key takeaway is the growing supply surplus and declining demand, which could continue to weigh on cocoa prices. For a deeper dive into the current trends and forecasts, I recommend exploring the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/improved-supply-outlook-and-ample-supplies-weigh-cocoa-prices)
+[nasdaq.com](https://www.nasdaq.com/articles/improved-supply-outlook-and-ample-supplies-weigh-cocoa-prices)

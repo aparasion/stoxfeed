@@ -18,4 +18,4 @@ This ambitious forecast has major implications for Amazon's stock performance. I
 
 For a deeper dive into Amazon's growth prospects and the potential impact on its stock, I highly recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/prediction-this-will-be-amazons-stock-price-in-5-y/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/prediction-this-will-be-amazons-stock-price-in-5-y/?source=iedfolrf0000001)

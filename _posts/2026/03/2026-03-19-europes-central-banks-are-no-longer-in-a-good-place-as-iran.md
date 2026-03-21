@@ -18,4 +18,4 @@ The Bank of England, which had anticipated a rate cut, may now hold its key inte
 
 Market participants should closely monitor the central banks' guidance for insights into future policy adjustments. For a deeper dive into these developments, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html)

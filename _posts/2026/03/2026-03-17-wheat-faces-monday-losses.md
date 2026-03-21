@@ -18,4 +18,4 @@ The latest Export Inspections report revealed that wheat shipments totaled 343,0
 
 For market professionals, the key takeaway is the potential volatility in wheat prices amid fluctuating export demand and deteriorating crop conditions. For a deeper dive into the data and trends shaping the wheat market, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/wheat-faces-monday-losses)
+[nasdaq.com](https://www.nasdaq.com/articles/wheat-faces-monday-losses)

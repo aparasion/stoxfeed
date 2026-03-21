@@ -18,4 +18,4 @@ This latest scandal adds to Supermicro's troubled history, which includes past a
 
 For market professionals, the implications are clear: Supermicro's credibility is severely compromised, making it a risky investment. With its history of controversies and current legal challenges, investors may want to reconsider their positions. For a deeper analysis, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/supermicro-scandal-sinks-stock-buy-stay-away-smci/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/supermicro-scandal-sinks-stock-buy-stay-away-smci/?source=iedfolrf0000001)

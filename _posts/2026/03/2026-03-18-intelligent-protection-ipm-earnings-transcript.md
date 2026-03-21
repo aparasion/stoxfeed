@@ -18,4 +18,4 @@ This performance highlights IPM's strategic focus on managed IT services, which 
 
 For a deeper dive into IPM's financials and strategic initiatives, I highly recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/intelligent-protection-ipm-earnings-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/18/intelligent-protection-ipm-earnings-transcript/?source=iedfolrf0000001)

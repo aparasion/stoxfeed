@@ -18,4 +18,4 @@ This project underscores the urgent need for reliable, dispatchable power as the
 
 For market professionals, this development signals a robust investment opportunity in natural gas infrastructure and AI-related sectors. To dive deeper into the implications of this partnership and its potential impact on energy markets, I recommend checking out the full article.
 
-[Source: oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/US-Bets-on-Natural-Gas-to-Power-10-GW-AI-Buildout-in-Ohio.html)
+[oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/US-Bets-on-Natural-Gas-to-Power-10-GW-AI-Buildout-in-Ohio.html)

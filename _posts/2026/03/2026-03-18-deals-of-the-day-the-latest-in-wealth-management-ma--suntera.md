@@ -18,4 +18,4 @@ The acquisition is expected to bolster Suntera's capabilities in delivering comp
 
 Market professionals should keep an eye on how this acquisition influences competitive dynamics and client offerings in the wealth management space. For a deeper dive into the implications of this deal and its potential ripple effects, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlA5LUNtZWIwWXNIZ0tOVzQ5U0IwN3JsUFQxbUJEaVQzckw5dzRxbzlhTVNjdTVZdnFDak9xTy1wNXBnRUtTNEk5aEQtSHA4YWZFUXJPNHQ4Y1l6ODlrYjhrVlRIeEtuVUY1dFl4NU03MlF3RklmVkRRazRlbDZ4YjlDYmJURzJVSmZIY0FObkNsbEsyMDE5VEtVODFHSXRubU9UQk9KQTF2ajFXZmxfVnR3ZTB6TmJ1RXd6T0Fn?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlA5LUNtZWIwWXNIZ0tOVzQ5U0IwN3JsUFQxbUJEaVQzckw5dzRxbzlhTVNjdTVZdnFDak9xTy1wNXBnRUtTNEk5aEQtSHA4YWZFUXJPNHQ4Y1l6ODlrYjhrVlRIeEtuVUY1dFl4NU03MlF3RklmVkRRazRlbDZ4YjlDYmJURzJVSmZIY0FObkNsbEsyMDE5VEtVODFHSXRubU9UQk9KQTF2ajFXZmxfVnR3ZTB6TmJ1RXd6T0Fn?oc=5)

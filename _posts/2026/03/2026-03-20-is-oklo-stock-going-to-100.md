@@ -18,4 +18,4 @@ For investors, the stakes are high. While Oklo has made progress in its licensin
 
 In summary, Oklo's future hinges on critical milestones: NRC licensing, successful reactor deployment, and establishing a sustainable business model. For a deeper dive into Oklo's potential and hurdles, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/is-oklo-stock-going-to-100/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/is-oklo-stock-going-to-100/?source=iedfolrf0000001)

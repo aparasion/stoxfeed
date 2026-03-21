@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, as any disruption in
 
 One key takeaway is the potential for increased volatility in oil prices, which could reverberate through various sectors dependent on energy costs. For a deeper dive into these developments and their implications, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: semafor.com](https://www.semafor.com)
+[semafor.com](https://www.semafor.com)

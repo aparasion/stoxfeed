@@ -18,4 +18,4 @@ The implications for financial markets are noteworthy, as prediction markets are
 
 For professionals in trading and portfolio management, this agreement signals an evolving landscape in sports betting and prediction markets. I highly recommend exploring the full article for deeper insights into how this partnership could shape future market dynamics.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/mlb-polymarket-prediction-markets.html)

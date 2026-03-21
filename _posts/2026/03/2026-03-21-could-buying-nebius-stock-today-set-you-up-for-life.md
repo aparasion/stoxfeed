@@ -18,4 +18,4 @@ The implications for financial markets are noteworthy. Nebius’s strategy of re
 
 Investors should approach Nebius with cautious optimism, considering a small position to capitalize on potential growth while mitigating risk. For a deeper dive into this emerging player and insights on other promising stocks, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/could-buying-nebius-stock-today-set-you-life)
+[nasdaq.com](https://www.nasdaq.com/articles/could-buying-nebius-stock-today-set-you-life)

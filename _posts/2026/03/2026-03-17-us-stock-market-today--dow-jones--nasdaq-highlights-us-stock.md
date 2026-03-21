@@ -18,4 +18,4 @@ The financial implications of these developments are significant, especially for
 
 For market professionals, the key takeaway is to monitor the evolving situation in the Gulf closely, as it could lead to substantial volatility in oil prices and related equities. For a deeper dive into these dynamics, I recommend checking out the full article for comprehensive insights.
 
-[Source: economictimes.com](https://m.economictimes.com)
+[economictimes.com](https://m.economictimes.com)

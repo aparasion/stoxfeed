@@ -18,4 +18,4 @@ This finding is crucial for financial markets, particularly for investors and in
 
 For market professionals, understanding these dynamics is essential as they navigate the evolving landscape of digital assets. I recommend checking out the full article for a deeper dive into the implications of this research.
 
-[Source: coindesk.com](https://www.coindesk.com)
+[coindesk.com](https://www.coindesk.com)

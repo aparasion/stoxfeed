@@ -18,4 +18,4 @@ The S&P 500 has dropped 1.5% as investors brace for a prolonged conflict, with A
 
 For investors, the implications are clear: heightened geopolitical risks could lead to increased volatility in energy-related stocks and broader market sectors. For a deeper dive into these developments and their potential impact, I recommend checking out the full article.
 
-[Source: afr.com](https://www.afr.com)
+[afr.com](https://www.afr.com)

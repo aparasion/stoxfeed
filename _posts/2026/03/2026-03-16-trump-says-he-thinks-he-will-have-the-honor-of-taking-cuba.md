@@ -18,4 +18,4 @@ The implications for financial markets could be significant, particularly for se
 
 For professionals in trading and portfolio management, understanding the evolving geopolitical landscape is crucial. This situation warrants close attention, and I recommend exploring the full article for a deeper analysis of these developments.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/16/cuba-trump-taking.html)
+[cnbc.com](https://www.cnbc.com/2026/03/16/cuba-trump-taking.html)

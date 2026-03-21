@@ -18,4 +18,4 @@ Understanding the timing of RMDs is crucial for managing tax implications and in
 
 For financial professionals, advising clients on RMD strategies is essential to optimize their retirement income while minimizing tax burdens. For a deeper dive into RMD strategies and implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/20/is-there-a-right-time-to-take-your-required-minimu/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/20/is-there-a-right-time-to-take-your-required-minimu/?source=iedfolrf0000001)

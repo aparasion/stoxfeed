@@ -18,4 +18,4 @@ This announcement is significant for income-focused investors and could influenc
 
 For market professionals, the upcoming dividend payment presents an opportunity to assess the yield and growth potential of Power Financial's preferred shares. For further details on the dividend scorecard and market implications, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566671-power-financial-corporation-1st-pfd-r-5_5-percent-declares-cad-0_3438-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566671-power-financial-corporation-1st-pfd-r-5_5-percent-declares-cad-0_3438-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

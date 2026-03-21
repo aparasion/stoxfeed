@@ -18,4 +18,4 @@ The obesity drug market presents a significant opportunity for Pfizer, projected
 
 Despite these challenges, Pfizer's extensive pipeline offers potential for recovery and growth. For a deeper dive into Pfizer's strategic outlook and the implications for investors, I highly recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/should-you-avoid-pfizer-heres-the-key-risk-to/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/should-you-avoid-pfizer-heres-the-key-risk-to/?source=iedfolrf0000001)

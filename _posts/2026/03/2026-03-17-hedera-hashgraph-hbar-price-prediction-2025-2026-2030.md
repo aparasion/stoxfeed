@@ -18,4 +18,4 @@ The financial implications are significant; while Hedera has secured partnership
 
 For market professionals, the key takeaway is that HBAR's future value is closely tied to its ability to generate real-world applications and user engagement. For a deeper dive into Hedera's potential and challenges, I recommend exploring the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction)

@@ -20,4 +20,4 @@ For those considering Newmont stock, the current dip may present a buying opport
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/why-newmont-stock-is-tumbling-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/why-newmont-stock-is-tumbling-today/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The partnership is a significant endorsement of Rivian's autonomous driving tech
 
 For market professionals, this development underscores the importance of strategic alliances in the EV space. To dive deeper into the implications of this partnership, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566545-what-analysts-are-saying-about-rivians-new-partnership-with-uber?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566545-what-analysts-are-saying-about-rivians-new-partnership-with-uber?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ The drop in oil prices is crucial for the financial markets, as it alleviates in
 
 For professionals tracking market trends, this rally presents an opportunity to reassess portfolio allocations in response to shifting energy costs and sector performance. I recommend diving deeper into the full article for a comprehensive analysis of these developments.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemRac0NLamtwUGw5TGs3c0tjb0xZaVNkQ3ZnWHdWVGZWeERqaVdVRlhtOVhTYnpaT0k1SjN1cjJkMjdnYzVUWk1mMXRrazkyeHhCd2xYY0k3V1JqWURPeTdfaVI4blNhSTREZHBEb1NXblREVDJ4dV9CU2gwQjg1cGNQOWVmMktlYldwOUREMmpxbktJSnBNV2ZDT2xCV0JETWZBaDhZYkU0QQ?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemRac0NLamtwUGw5TGs3c0tjb0xZaVNkQ3ZnWHdWVGZWeERqaVdVRlhtOVhTYnpaT0k1SjN1cjJkMjdnYzVUWk1mMXRrazkyeHhCd2xYY0k3V1JqWURPeTdfaVI4blNhSTREZHBEb1NXblREVDJ4dV9CU2gwQjg1cGNQOWVmMktlYldwOUREMmpxbktJSnBNV2ZDT2xCV0JETWZBaDhZYkU0QQ?oc=5)

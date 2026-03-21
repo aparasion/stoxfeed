@@ -18,4 +18,4 @@ On the other hand, Cameco, the world’s second-largest uranium miner, is capita
 
 Investors looking to hedge against potential AI-related volatility may find value in these two companies. For a deeper dive into their financials and future prospects, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stock-market-headed-ai-bubble-burst-here-are-2-industrial-stocks-can-offset-tech-stock)
+[nasdaq.com](https://www.nasdaq.com/articles/stock-market-headed-ai-bubble-burst-here-are-2-industrial-stocks-can-offset-tech-stock)

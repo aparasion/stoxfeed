@@ -18,4 +18,4 @@ This stability in interest rates reflects the ECB's commitment to its 2% inflati
 
 Market professionals should closely monitor the ECB's forthcoming analyses and projections, especially regarding the potential scenarios related to energy supply disruptions. For a deeper understanding of the ECB's strategy and implications for the eurozone economy, I recommend checking out the full article.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260319~3057739775.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260319~3057739775.en.html)

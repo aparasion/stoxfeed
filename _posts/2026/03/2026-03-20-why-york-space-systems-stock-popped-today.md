@@ -18,4 +18,4 @@ The company's involvement in key contracts, particularly with NASA and the Space
 
 For a deeper dive into York's financials and future prospects, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/why-york-space-systems-stock-popped-today/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/why-york-space-systems-stock-popped-today/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This acquisition is significant for the financial markets as it reflects ongoing
 
 Investors should monitor this development closely, as it may influence Home BancShares' stock trajectory and market positioning. For a deeper dive into the implications of this merger, I recommend checking out the full article.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)

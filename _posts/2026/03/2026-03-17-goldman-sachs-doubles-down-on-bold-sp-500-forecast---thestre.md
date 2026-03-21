@@ -18,4 +18,4 @@ This forecast is particularly relevant as it suggests that sectors tied to consu
 
 For those looking to navigate the current market landscape, Goldman Sachs' insights provide a compelling perspective on potential opportunities. I recommend checking out the full article for a deeper dive into their analysis and the implications for your investment strategy.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDV2UmlTVHVXTHU0bjRVa0hQU1hsUHRWY3Uta3d4YUxETjhHQkxyVUxMM1E1VkFKb2t6YzIyZ0lKSG5UaWFNN21PVmUwN3RHb0hTZWpwOUY1SHJrVkU3OWY3d1JWX2dVZTJfdkJZZnltZnQxSjcyZXNXaENsZmllNEVGbWUzaklSYXBYSnJFbw?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDV2UmlTVHVXTHU0bjRVa0hQU1hsUHRWY3Uta3d4YUxETjhHQkxyVUxMM1E1VkFKb2t6YzIyZ0lKSG5UaWFNN21PVmUwN3RHb0hTZWpwOUY1SHJrVkU3OWY3d1JWX2dVZTJfdkJZZnltZnQxSjcyZXNXaENsZmllNEVGbWUzaklSYXBYSnJFbw?oc=5)

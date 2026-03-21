@@ -18,4 +18,4 @@ The resilience of J&J’s stock during economic uncertainty highlights the stabi
 
 For professionals looking to strengthen their portfolios, J&J stands out as a solid buy and hold. I recommend diving deeper into the full article for a comprehensive analysis of J&J's market position and future outlook.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/2-reasons-to-buy-j-and-j-stock-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/2-reasons-to-buy-j-and-j-stock-right-now/?source=iedfolrf0000001)

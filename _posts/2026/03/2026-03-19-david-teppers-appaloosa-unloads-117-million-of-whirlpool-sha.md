@@ -18,4 +18,4 @@ This divestment comes as Whirlpool’s stock struggles, down 42% over the past y
 
 Investors should closely monitor Whirlpool's performance and Appaloosa's future moves, as this could signal broader market sentiment regarding the stock. For a deeper dive into the implications of this transaction, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/19/david-tepper-s-appaloosa-unloads-usd117-million-of-whirlpool-shares-amid-stock-s-decline/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/19/david-tepper-s-appaloosa-unloads-usd117-million-of-whirlpool-shares-amid-stock-s-decline/?source=iedfolrf0000001)

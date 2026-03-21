@@ -18,4 +18,4 @@ The International Grains Council reported an increase in global corn production 
 
 For market professionals, the current dynamics in corn futures highlight potential volatility ahead. For a deeper dive into the latest trends and data, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/corn-nears-last-weeks-high-thursdays-rally)
+[nasdaq.com](https://www.nasdaq.com/articles/corn-nears-last-weeks-high-thursdays-rally)

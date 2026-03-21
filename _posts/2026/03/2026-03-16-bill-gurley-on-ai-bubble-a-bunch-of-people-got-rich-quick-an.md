@@ -18,4 +18,4 @@ This reset could present opportunities for savvy investors, particularly in the 
 
 For a deeper understanding of Gurley’s insights and the implications for your investment strategy, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html)
+[cnbc.com](https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html)

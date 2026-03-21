@@ -18,4 +18,4 @@ This surge in earnings not only highlights the potential of the Nigerian enterta
 
 For those interested in the evolving landscape of music streaming and its economic impact, this report offers valuable insights. I encourage you to read the full article for a deeper understanding of these trends and their potential market implications.
 
-[Source: forbesafrica.com](https://www.forbesafrica.com)
+[forbesafrica.com](https://www.forbesafrica.com)

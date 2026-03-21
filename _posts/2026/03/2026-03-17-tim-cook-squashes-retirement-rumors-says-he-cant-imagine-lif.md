@@ -18,4 +18,4 @@ This reassurance from Cook is crucial as Apple approaches its 50th anniversary a
 
 For a deeper dive into Cook's statements and their implications for Apple's future, I highly recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html)

@@ -18,4 +18,4 @@ Bravo acknowledged that while some companies are rightly seeing their valuations
 
 Market professionals should closely monitor the evolving software landscape as AI continues to reshape industry dynamics. For a deeper dive into Bravo's insights and the implications for specific software stocks, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/orlando-bravo-software-ai-valuation-cut.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/orlando-bravo-software-ai-valuation-cut.html)

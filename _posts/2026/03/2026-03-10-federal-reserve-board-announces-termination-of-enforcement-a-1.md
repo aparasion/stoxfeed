@@ -18,4 +18,4 @@ This development is noteworthy for the banking sector as it may enhance the oper
 
 Market professionals should consider the implications of these terminations on the competitive landscape, as both banks may now pursue growth strategies more aggressively. For a deeper dive into the details and potential market impacts, I recommend checking out the full article.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm)

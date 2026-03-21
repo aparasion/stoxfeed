@@ -18,4 +18,4 @@ Such enforcement measures can impact market confidence, particularly in the regi
 
 For market professionals, these developments serve as a reminder of the importance of governance and risk management within financial institutions. Understanding the implications of regulatory actions can provide valuable insights into market dynamics. I recommend diving deeper into the full article for a comprehensive overview of the enforcement actions and their potential impact on the banking landscape.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm)

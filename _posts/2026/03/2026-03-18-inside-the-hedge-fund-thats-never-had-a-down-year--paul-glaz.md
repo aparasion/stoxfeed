@@ -18,4 +18,4 @@ The LIMRA report indicates a notable surge in pension risk transfers in the four
 
 For professionals in trading and portfolio management, understanding these developments is crucial. Dive deeper into the implications of Rest's investment and the LIMRA findings by exploring the full article.
 
-[Source: pionline.com](https://www.pionline.com)
+[pionline.com](https://www.pionline.com)

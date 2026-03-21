@@ -18,4 +18,4 @@ The success of the R2 lineup is crucial for Rivian amid a challenging EV market 
 
 For a deeper dive into Rivian's strategic positioning and market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/where-will-rivian-stock-be-in-1-year/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/where-will-rivian-stock-be-in-1-year/?source=iedfolrf0000001)

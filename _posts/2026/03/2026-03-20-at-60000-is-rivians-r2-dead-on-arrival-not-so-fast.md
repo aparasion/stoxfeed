@@ -18,4 +18,4 @@ The implications for Rivian and the broader market are substantial. By prioritiz
 
 Investors should view the initial price point as a strategic move rather than a setback. For a deeper dive into Rivian's pricing strategy and market positioning, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/at-60000-is-rivians-r2-dead-on-arrival-not-so-fast/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/at-60000-is-rivians-r2-dead-on-arrival-not-so-fast/?source=iedfolrf0000001)

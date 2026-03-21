@@ -18,4 +18,4 @@ Chevron's robust performance in 2025, marked by record production and cash flow 
 
 For market professionals, the key takeaway is that Chevron's operational leverage and cost reduction initiatives position it well for continued cash flow generation. For a deeper dive into Berkshire's strategic moves and Chevron's outlook, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/warren-buffett-bought-8-million-shares-of-this-oil/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/warren-buffett-bought-8-million-shares-of-this-oil/?source=iedfolrf0000001)

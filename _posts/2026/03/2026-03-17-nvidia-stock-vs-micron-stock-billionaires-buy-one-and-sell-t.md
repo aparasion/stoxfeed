@@ -18,4 +18,4 @@ Nvidia has reported impressive financial results, with a 73% revenue increase an
 
 For investors, the key takeaway is that while Micron shows potential, Nvidia's strong fundamentals and market dominance make it the more compelling investment. For a deeper dive into their performance and market dynamics, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/nvidia-stock-micron-stock-billionaire-buy-sell/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/nvidia-stock-micron-stock-billionaire-buy-sell/?source=iedfolrf0000001)

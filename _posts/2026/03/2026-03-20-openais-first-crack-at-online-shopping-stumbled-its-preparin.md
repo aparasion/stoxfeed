@@ -18,4 +18,4 @@ This strategic change underscores the complexities of integrating AI into e-comm
 
 For market professionals, the evolving landscape of AI in retail presents both challenges and opportunities. As OpenAI refines its commerce strategy, the potential for partnerships—especially with giants like Amazon—could reshape the e-commerce sector. I recommend checking out the full article for deeper insights into these developments and their implications for the market.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/open-ai-agentic-shopping-etsy-shopify-walmart-amazon.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/open-ai-agentic-shopping-etsy-shopify-walmart-amazon.html)

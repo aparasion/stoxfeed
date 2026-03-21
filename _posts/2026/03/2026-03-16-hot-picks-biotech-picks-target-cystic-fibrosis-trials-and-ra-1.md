@@ -20,4 +20,4 @@ For market professionals, this report presents a clear signal to reassess energy
 
 *StoxFeed tracks this as a market signal: [AI and semiconductor stocks are driving tech sector gains](/signals/#ai-stocks-momentum)*
 
-[Source: bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+[bnnbloomberg.ca](https://www.bnnbloomberg.ca)

@@ -18,4 +18,4 @@ In particular, Rocket Lab's shares dipped in after-hours trading following the c
 
 For market professionals, the key takeaway is the divergence between crypto and equity performance amid changing interest rate expectations. This scenario underscores the importance of monitoring sector-specific developments and funding strategies, as they can significantly influence stock valuations. For a deeper dive into these market dynamics, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com)
+[benzinga.com](https://www.benzinga.com)

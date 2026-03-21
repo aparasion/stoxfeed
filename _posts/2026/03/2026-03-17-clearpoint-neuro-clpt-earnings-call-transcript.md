@@ -18,4 +18,4 @@ This financial performance reflects ClearPoint's strategic focus on expanding it
 
 For market professionals, ClearPoint's evolving landscape and ambitious growth strategy present intriguing opportunities. I recommend checking out the full article for a deeper dive into their financials and strategic outlook.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/clearpoint-neuro-clpt-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/clearpoint-neuro-clpt-earnings-call-transcript/?source=iedfolrf0000001)

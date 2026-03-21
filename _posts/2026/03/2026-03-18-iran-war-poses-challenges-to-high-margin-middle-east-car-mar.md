@@ -18,4 +18,4 @@ As the luxury vehicle segment in the Middle East is projected to grow at a compo
 
 For market professionals, the key takeaway is the need to watch how geopolitical tensions influence consumer behavior and sales dynamics in this lucrative segment. For a deeper dive into the implications for the automotive sector, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/iran-war-poses-challenges-to-high-margin-middle-east-car-market.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/iran-war-poses-challenges-to-high-margin-middle-east-car-market.html)

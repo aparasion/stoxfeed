@@ -18,4 +18,4 @@ This development is significant for market professionals seeking to leverage rea
 
 For professionals looking to gain a competitive edge, Quiver's comprehensive features, including customizable watchlists and exclusive content, present a valuable opportunity. I highly recommend exploring the full article to understand how Quiver can enhance your trading approach and provide deeper market insights.
 
-[Source: quiverquant.com](https://www.quiverquant.com)
+[quiverquant.com](https://www.quiverquant.com)

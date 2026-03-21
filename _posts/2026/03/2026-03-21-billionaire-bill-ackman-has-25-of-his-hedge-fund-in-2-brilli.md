@@ -18,4 +18,4 @@ Ackman’s bullish outlook on Amazon stems from its dominance in e-commerce and 
 
 For market professionals, Ackman's investments underscore the potential of AI in driving significant returns. For a deeper dive into his investment rationale and market implications, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/bill-ackman-25-hedge-fund-invest-2-ai-stocks/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/bill-ackman-25-hedge-fund-invest-2-ai-stocks/?source=iedfolrf0000001)

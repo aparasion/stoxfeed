@@ -18,4 +18,4 @@ ExxonMobil (XOM) is highlighted for its unparalleled cash flow generation, with 
 
 For market professionals, these insights underscore the energy sector's resilience and potential for continued returns. Dive deeper into the analysis to explore these investment opportunities further.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/3-no-brainer-energy-stocks-to-buy-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/3-no-brainer-energy-stocks-to-buy-right-now/?source=iedfolrf0000001)

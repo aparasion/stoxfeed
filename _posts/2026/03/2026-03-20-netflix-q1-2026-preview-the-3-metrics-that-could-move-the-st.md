@@ -18,4 +18,4 @@ The company plans to spend $20 billion on content this year, raising concerns ab
 
 Investors should closely monitor these metrics as they prepare for the earnings report, as they will significantly influence Netflix's short-term stock trajectory. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/netflix-q1-2026-preview-the-3-metrics-that-could-m/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/netflix-q1-2026-preview-the-3-metrics-that-could-m/?source=iedfolrf0000001)

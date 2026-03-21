@@ -18,4 +18,4 @@ As demand for AI computing power surges, CoreWeave's partnerships with major pla
 
 For a deeper dive into CoreWeave's growth prospects and the broader implications for the tech sector, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/1-artificial-intelligence-ai-stock-that-could-be-w/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/1-artificial-intelligence-ai-stock-that-could-be-w/?source=iedfolrf0000001)

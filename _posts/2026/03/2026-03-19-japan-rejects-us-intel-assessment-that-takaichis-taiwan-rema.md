@@ -18,4 +18,4 @@ The implications for financial markets are significant. Takaichi's comments had 
 
 As tensions in the region continue to evolve, market professionals should closely monitor developments in Japan-China relations and their potential impact on trade and investment strategies. For a deeper dive into this complex situation, I recommend exploring the full article for more insights.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/19/japan-rejects-us-intelligence-taiwan-policy-shift-takaichi-energy-hormuz.html)
+[cnbc.com](https://www.cnbc.com/2026/03/19/japan-rejects-us-intelligence-taiwan-policy-shift-takaichi-energy-hormuz.html)

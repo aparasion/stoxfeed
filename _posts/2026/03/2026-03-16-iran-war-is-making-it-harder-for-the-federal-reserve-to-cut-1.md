@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly in the ener
 
 Market professionals should closely monitor developments in the Strait of Hormuz and oil prices, as these factors could influence broader market trends. For a deeper dive into the ramifications of these geopolitical shifts, I recommend reading the full article for comprehensive insights.
 
-[Source: cbsnews.com](https://www.cbsnews.com)
+[cbsnews.com](https://www.cbsnews.com)

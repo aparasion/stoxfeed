@@ -18,4 +18,4 @@ As oil prices climb, sectors reliant on stable energy costs are bracing for pote
 
 For market professionals, the key takeaway is to closely monitor developments in the Middle East, as the situation evolves. The full article provides in-depth insights and forecasts that can help inform your investment decisions during this turbulent period.
 
-[Source: jpmorgan.com](https://www.jpmorgan.com)
+[jpmorgan.com](https://www.jpmorgan.com)

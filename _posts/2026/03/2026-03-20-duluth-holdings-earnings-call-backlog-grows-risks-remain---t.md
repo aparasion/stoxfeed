@@ -18,4 +18,4 @@ This backlog growth is significant for investors as it suggests a positive outlo
 
 For market professionals, Duluth's ability to convert its backlog into sales will be a key metric to watch. To dive deeper into the details of their earnings call and the implications for the stock, I recommend checking out the full article.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUdqRmRLNmd5b29lTjhRSnlTWUZqdHpkQnExN1RKdGV4NFlBZmUwZ0JMeGxXNVlaYS1HeGlWTUlmVEdrUkVIU0NSZ0FWYXlENnl0SEV1b0pCcFlVTWdrQVpmY1Q4R3pIVlMyczFLeFlfV1R6WWNkZ1duVGFPNV9tNXpyVm5aX0w1a0U5U2dWdG5BTzRSQlA4U2N2TFppZnVNeWR0S2xDSGx2V0RG?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUdqRmRLNmd5b29lTjhRSnlTWUZqdHpkQnExN1RKdGV4NFlBZmUwZ0JMeGxXNVlaYS1HeGlWTUlmVEdrUkVIU0NSZ0FWYXlENnl0SEV1b0pCcFlVTWdrQVpmY1Q4R3pIVlMyczFLeFlfV1R6WWNkZ1duVGFPNV9tNXpyVm5aX0w1a0U5U2dWdG5BTzRSQlA4U2N2TFppZnVNeWR0S2xDSGx2V0RG?oc=5)

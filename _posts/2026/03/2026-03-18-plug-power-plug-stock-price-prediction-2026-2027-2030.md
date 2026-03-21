@@ -18,4 +18,4 @@ The company's operational progress, including a revenue report of $177 million i
 
 For those looking to invest in the hydrogen economy, Plug Power presents a speculative opportunity with significant upside, contingent on successful execution of its cost-reduction strategies and market positioning. I recommend diving into the full article for a detailed analysis of Plug Power's current financial landscape and future projections.
 
-[Source: benzinga.com](https://www.benzinga.com/money/plug-power-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/plug-power-stock-price-prediction)

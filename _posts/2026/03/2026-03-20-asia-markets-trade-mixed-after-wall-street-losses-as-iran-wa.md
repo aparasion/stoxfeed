@@ -18,4 +18,4 @@ The fallout from the regional conflict has also affected metals, with gold and s
 
 For market professionals, the implications of these developments are clear: energy stocks may see volatility, and the potential for further price spikes looms if supply disruptions continue. For a deeper dive into the market dynamics at play, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/asia-markets-today-nikkei-hang-seng-kospi.html)

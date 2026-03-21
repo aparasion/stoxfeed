@@ -18,4 +18,4 @@ In addition to daily fluctuations, the report features the most active stocks, r
 
 For professionals looking to refine their investment approach, this article offers a curated list of fundamental and technical trade ideas, making it a useful resource for identifying potential opportunities. I recommend checking out the full article for a deeper dive into these actionable insights.
 
-[Source: ca.finance.yahoo.com](https://ca.finance.yahoo.com)
+[ca.finance.yahoo.com](https://ca.finance.yahoo.com)

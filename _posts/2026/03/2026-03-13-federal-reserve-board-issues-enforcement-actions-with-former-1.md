@@ -18,4 +18,4 @@ These actions highlight ongoing regulatory scrutiny in the banking sector, which
 
 For market professionals, this development serves as a reminder of the importance of robust governance and compliance frameworks within financial institutions. To delve deeper into the specifics of these enforcement actions, I recommend checking out the full story at the Federal Reserve's official release.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm)

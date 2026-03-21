@@ -18,4 +18,4 @@ The article outlines several notable companies, including Heron Therapeutics, Bl
 
 Traders are encouraged to leverage short interest data to gauge market sentiment and identify both short and long opportunities. For a deeper dive into the strategies and stocks that could impact your portfolio, I recommend checking out the full article on Benzinga Pro.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-high-short-interest-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-high-short-interest-stocks)

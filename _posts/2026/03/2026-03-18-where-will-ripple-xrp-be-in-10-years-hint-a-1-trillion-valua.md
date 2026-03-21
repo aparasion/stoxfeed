@@ -18,4 +18,4 @@ This ecosystem approach aims to foster a network of decentralized finance (DeFi)
 
 For market professionals, Ripple's evolving strategy and focus on asset tokenization could signal substantial long-term growth potential in the crypto space. I recommend diving deeper into this development by exploring the full article for a comprehensive understanding.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/where-will-hot-ticker-be-in-10-years/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/where-will-hot-ticker-be-in-10-years/?source=iedfolrf0000001)

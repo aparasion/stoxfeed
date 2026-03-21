@@ -18,4 +18,4 @@ This dividend declaration is significant for investors focused on income generat
 
 For those tracking dividend stocks or evaluating responsible investment options, this announcement highlights an opportunity to assess the ETF's performance and growth potential. I recommend checking out the full article for more details on SRIU's dividend scorecard and its implications for your investment strategy.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566425-scotia-responsible-investing-u-s-equity-index-etf-declares-cad-0_063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566425-scotia-responsible-investing-u-s-equity-index-etf-declares-cad-0_063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

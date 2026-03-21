@@ -18,4 +18,4 @@ Nvidia stands out as a key player, commanding 92% of the AI data center GPU mark
 
 For professionals looking to capitalize on market dips, these three stocks present compelling long-term investment opportunities. I highly recommend diving into the full article for a deeper analysis of these companies and their potential in the evolving AI landscape.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/ai-stocks-trading-bargain-prices-sell-off/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/ai-stocks-trading-bargain-prices-sell-off/?source=iedfolrf0000001)

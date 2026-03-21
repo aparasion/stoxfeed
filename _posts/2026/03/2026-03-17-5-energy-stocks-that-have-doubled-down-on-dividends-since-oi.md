@@ -18,4 +18,4 @@ The implications for the financial markets are significant. For instance, Devon 
 
 For market professionals, understanding these dynamics is crucial. The article provides deeper insights into how these energy giants are positioning themselves for sustained growth and shareholder value. I recommend exploring the full story for a comprehensive analysis of their strategies and performance.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/5-energy-stocks-that-have-doubled-down-on-dividend/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/5-energy-stocks-that-have-doubled-down-on-dividend/?source=iedfolrf0000001)

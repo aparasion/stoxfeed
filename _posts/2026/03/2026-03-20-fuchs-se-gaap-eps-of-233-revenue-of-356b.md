@@ -18,4 +18,4 @@ The slight revenue growth suggests that Fuchs SE has managed to maintain its mar
 
 For market professionals, the key takeaway is to assess how Fuchs SE's earnings align with broader sector trends and investor expectations. For a deeper dive into the implications of these results, I recommend exploring the full article for detailed insights.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4567078-fuchs-se-gaap-eps-of-233-revenue-of-356b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4567078-fuchs-se-gaap-eps-of-233-revenue-of-356b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ The launch of Salesforce's Agentforce platform is a key driver of this momentum,
 
 As Salesforce continues to innovate and expand its AI offerings, its robust data assets and strategic acquisitions position it to redefine CRM software by 2026. For a deeper dive into Salesforce's AI strategy and market implications, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/the-artificial-intelligence-ai-stock-that-could-re/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/the-artificial-intelligence-ai-stock-that-could-re/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Lagarde's comments come at a pivotal time for Europe, where the ECB is launching
 
 For market professionals, Lagarde's insights underscore the potential for gender-focused financial initiatives to drive economic growth. This evolving landscape warrants attention, and I recommend exploring the full interview for a deeper understanding of these critical issues.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260308~1c03ad3ece.en.html)

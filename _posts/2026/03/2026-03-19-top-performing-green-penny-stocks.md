@@ -18,4 +18,4 @@ The shift towards environmentally friendly investments is significant for financ
 
 For those considering diversifying into green investments, these penny stocks could represent a strategic opportunity. I encourage you to explore the full article on Benzinga for a deeper dive into each company's potential and the broader implications for the market.
 
-[Source: benzinga.com](https://www.benzinga.com/money/best-green-penny-stocks)
+[benzinga.com](https://www.benzinga.com/money/best-green-penny-stocks)

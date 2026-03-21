@@ -18,4 +18,4 @@ This situation has broader implications for the financial markets, particularly 
 
 For market professionals, the key takeaway is the importance of advising clients on comprehensive retirement planning beyond Social Security. Understanding these dynamics can help in strategizing investments and anticipating shifts in market demand. For a deeper dive into this critical topic, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/21/think-youll-live-on-social-security-alone-heres-th/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/21/think-youll-live-on-social-security-alone-heres-th/?source=iedfolrf0000001)

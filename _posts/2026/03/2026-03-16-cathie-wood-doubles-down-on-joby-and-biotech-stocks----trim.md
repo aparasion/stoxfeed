@@ -18,4 +18,4 @@ In the commodities space, gold is under pressure, struggling to regain bullish m
 
 For market professionals, the key takeaway is to watch the GER40's response to this resistance and the implications for European equities. Additionally, keeping an eye on gold's price action could provide insights into broader market trends. For a deeper analysis, I recommend checking out the full article.
 
-[Source: tradingview.com](https://www.tradingview.com)
+[tradingview.com](https://www.tradingview.com)

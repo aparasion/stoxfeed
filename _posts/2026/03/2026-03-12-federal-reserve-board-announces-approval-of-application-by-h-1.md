@@ -18,4 +18,4 @@ This acquisition is significant as it could lead to increased competition in the
 
 For market professionals, this merger presents an opportunity to assess how consolidation in the banking industry may affect broader financial trends and investment strategies. I recommend diving into the full article for a comprehensive understanding of the implications surrounding this acquisition.
 
-[Source: federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)
+[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)

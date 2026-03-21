@@ -18,4 +18,4 @@ The financial markets are likely to react to this development, particularly with
 
 Market professionals should closely monitor these developments, as they may influence not only energy stocks but also broader market sentiment. For a deeper dive into the implications of this funding request and regional tensions, I recommend checking out the full article.
 
-[Source: theguardian.com](https://www.theguardian.com)
+[theguardian.com](https://www.theguardian.com)

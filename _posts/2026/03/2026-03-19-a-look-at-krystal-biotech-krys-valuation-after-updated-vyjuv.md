@@ -18,4 +18,4 @@ For financial professionals, this tool enhances decision-making by highlighting 
 
 The implication for market participants is clear: leveraging such tools can lead to more informed investment strategies and improved portfolio performance. I recommend checking out the full article to explore how these insights can enhance your investment approach.
 
-[Source: simplywall.st](https://simplywall.st)
+[simplywall.st](https://simplywall.st)

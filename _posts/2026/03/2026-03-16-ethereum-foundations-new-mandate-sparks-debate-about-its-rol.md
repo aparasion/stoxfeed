@@ -18,4 +18,4 @@ The implications of this mandate are significant for Ethereum's market position.
 
 Market professionals should consider how this debate may influence Ethereum's adoption and development trajectory. For a deeper understanding of the implications and community reactions, I recommend exploring the full article.
 
-[Source: coindesk.com](https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities)
+[coindesk.com](https://www.coindesk.com/tech/2026/03/16/ethereum-foundation-s-new-mandate-sparks-debate-about-its-role-priorities)

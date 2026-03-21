@@ -18,4 +18,4 @@ This distribution significantly impacts the crypto market, as it enhances recove
 
 For market professionals, the upcoming payout presents a critical moment to assess the implications for both the crypto sector and broader financial markets. I recommend diving deeper into the full article for a comprehensive understanding of the recovery process and its effects on market dynamics.
 
-[Source: coindesk.com](https://www.coindesk.com/business/2026/03/18/sam-bankman-fried-s-bankrupt-exchange-ftx-set-to-repay-creditors-usd2-2-billion-this-month)
+[coindesk.com](https://www.coindesk.com/business/2026/03/18/sam-bankman-fried-s-bankrupt-exchange-ftx-set-to-repay-creditors-usd2-2-billion-this-month)

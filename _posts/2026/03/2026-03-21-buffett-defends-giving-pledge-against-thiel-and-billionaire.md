@@ -18,4 +18,4 @@ This backlash is significant for the financial landscape, as it reflects a broad
 
 Market professionals should note that these developments could impact public sentiment towards philanthropy and influence corporate governance practices, as the traditional norms around charitable giving are increasingly questioned by a new generation of wealth holders.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html)
+[cnbc.com](https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html)

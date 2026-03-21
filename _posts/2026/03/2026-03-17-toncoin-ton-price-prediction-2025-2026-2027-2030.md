@@ -18,4 +18,4 @@ The outlook for Toncoin is optimistic, with analysts forecasting potential price
 
 For those considering adding TON to their portfolios, the long-term growth potential appears compelling, especially with bullish predictions suggesting substantial price increases in the coming years. I recommend checking out the full article for a deeper dive into the factors influencing Toncoin’s market position and future prospects.
 
-[Source: benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)

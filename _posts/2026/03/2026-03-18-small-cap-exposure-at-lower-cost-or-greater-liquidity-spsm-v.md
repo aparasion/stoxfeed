@@ -18,4 +18,4 @@ These differences matter as they can influence investor decisions based on tradi
 
 Ultimately, the choice between SPSM and IJR hinges on individual investment priorities—cost efficiency versus liquidity. For a deeper dive into these ETFs and their implications for your portfolio, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/etfs/2026/03/17/small-cap-exposure-at-lower-cost-or-greater-liquidity-spsm-vs-ijr/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/etfs/2026/03/17/small-cap-exposure-at-lower-cost-or-greater-liquidity-spsm-vs-ijr/?source=iedfolrf0000001)

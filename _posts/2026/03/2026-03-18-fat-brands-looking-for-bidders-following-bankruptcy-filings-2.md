@@ -18,4 +18,4 @@ The acquisition is significant for the financial markets as it reflects ongoing 
 
 For market professionals, this development underscores the importance of monitoring franchise consolidation as a barometer for sector health. To gain deeper insights into JRI's strategic expansion and its implications for the industry, I recommend exploring the full article for a comprehensive analysis.
 
-[Source: franchisetimes.com](https://www.franchisetimes.com)
+[franchisetimes.com](https://www.franchisetimes.com)

@@ -18,4 +18,4 @@ Broadcom (AVGO) has reported a remarkable 106% year-over-year growth in AI chip 
 
 Investors looking to capitalize on the AI boom should consider these stocks for their long-term portfolios. For a deeper dive into the opportunities and risks associated with these semiconductor giants, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/2-unstoppable-artificial-intelligence-ai-stocks-to/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/2-unstoppable-artificial-intelligence-ai-stocks-to/?source=iedfolrf0000001)

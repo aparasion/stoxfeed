@@ -18,4 +18,4 @@ The current market environment is compounded by high valuations, with the S&P 50
 
 For market professionals, this data serves as a cautionary reminder that while bull markets can be prolonged, corrections are also part of the cycle. Understanding these historical patterns can help investors navigate potential downturns. I encourage you to explore the full article for a deeper analysis of these trends and their implications.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/the-sp-500-just-sounded-an-alarm-history-investors/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/the-sp-500-just-sounded-an-alarm-history-investors/?source=iedfolrf0000001)

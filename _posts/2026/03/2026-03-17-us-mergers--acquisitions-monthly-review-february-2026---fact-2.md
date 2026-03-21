@@ -18,4 +18,4 @@ The report highlights that over 65% of S&P 500 earnings calls in Q4 mentioned "A
 
 For market professionals, understanding these trends is essential for portfolio positioning and strategy development. The insights from FactSet provide a valuable framework for assessing potential investment opportunities. I highly recommend exploring the full article to gain deeper insights into analyst ratings and thematic momentum that could impact your investment decisions.
 
-[Source: insight.factset.com](https://insight.factset.com)
+[insight.factset.com](https://insight.factset.com)

@@ -18,4 +18,4 @@ The implications for the financial markets are significant, especially as Polkad
 
 For market professionals, Polkadot represents both an opportunity and a cautionary tale in the evolving cryptocurrency landscape. To delve deeper into the specifics of these forecasts and the factors influencing them, I recommend checking out the full article for a comprehensive analysis.
 
-[Source: benzinga.com](https://www.benzinga.com/money/polkadot-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/polkadot-price-prediction)

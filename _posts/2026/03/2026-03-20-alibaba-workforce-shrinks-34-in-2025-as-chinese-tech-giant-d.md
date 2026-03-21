@@ -18,4 +18,4 @@ The workforce reduction is part of Alibaba's broader strategy to streamline oper
 
 For market professionals, Alibaba's aggressive restructuring signals a shift in focus that could reshape its competitive landscape. To gain deeper insights into these developments and their implications, I recommend exploring the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html)
+[cnbc.com](https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html)

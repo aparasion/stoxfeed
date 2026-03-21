@@ -18,4 +18,4 @@ Lane noted that while the trade war's impact has been manageable, the rise of Ch
 
 Investors should monitor how geopolitical tensions, particularly in the Middle East, may affect energy prices and inflation dynamics in the eurozone. For a deeper dive into Lane's insights and their implications for the market, I recommend reading the full interview in the Financial Times.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html)

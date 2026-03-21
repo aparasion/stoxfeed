@@ -18,4 +18,4 @@ The announcement is significant for income-focused investors and could influence
 
 For a deeper dive into the implications of this dividend announcement and to explore the fund's performance metrics, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565488-brookfield-global-infrastructure-securities-income-fund-declares-cad-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565488-brookfield-global-infrastructure-securities-income-fund-declares-cad-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

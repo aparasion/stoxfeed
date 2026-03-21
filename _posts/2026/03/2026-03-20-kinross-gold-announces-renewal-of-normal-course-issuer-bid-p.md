@@ -18,4 +18,4 @@ This move signals Kinross's commitment to returning capital to shareholders and 
 
 Investors should consider how this renewed buyback program might affect earnings per share and overall market sentiment toward Kinross Gold. For a deeper dive into the implications of this announcement, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/kinross-gold-announces-renewal-normal-course-issuer-bid-program)
+[nasdaq.com](https://www.nasdaq.com/articles/kinross-gold-announces-renewal-normal-course-issuer-bid-program)

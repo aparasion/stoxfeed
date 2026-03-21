@@ -18,4 +18,4 @@ Despite these challenges, Target's extensive retail footprint—operating nearly
 
 For those considering a contrarian investment, Target's potential for recovery, coupled with its strong dividend history, makes it worth a closer look. I recommend diving into the full article for a deeper analysis of Target's prospects.
 
-[Source: fool.com](https://www.fool.com/investing/2025/11/26/reasons-buy-target-stock-like-theres-no-tomorrow/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2025/11/26/reasons-buy-target-stock-like-theres-no-tomorrow/?source=iedfolrf0000001)

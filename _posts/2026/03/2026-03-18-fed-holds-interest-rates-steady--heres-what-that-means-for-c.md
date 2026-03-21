@@ -18,4 +18,4 @@ The Fed's pause impacts various sectors, with the 10-year Treasury yield climbin
 
 For market professionals, the Fed's decision underscores the importance of monitoring inflation trends and interest rates, as these will directly affect borrowing costs and investment strategies. For a deeper dive into the implications of this decision, I recommend checking out the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/fed-march-rate-decision.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/fed-march-rate-decision.html)

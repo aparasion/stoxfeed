@@ -18,4 +18,4 @@ TSMC leads the foundry space, controlling 72% of revenue and partnering with maj
 
 Investors looking for long-term growth should consider these semiconductor stocks as pivotal players in the AI-driven future. For a deeper dive into their potential, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/buy-these-3-semiconductor-stocks-now-and-thank-you/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/buy-these-3-semiconductor-stocks-now-and-thank-you/?source=iedfolrf0000001)

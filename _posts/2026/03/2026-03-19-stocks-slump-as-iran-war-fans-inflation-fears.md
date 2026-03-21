@@ -20,4 +20,4 @@ Market professionals should closely monitor the implications of these geopolitic
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-slump-iran-war-fans-inflation-fears)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-slump-iran-war-fans-inflation-fears)

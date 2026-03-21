@@ -18,4 +18,4 @@ The implications for the financial markets are profound, as the Fed's stance on 
 
 Market professionals should closely monitor these developments, especially the potential for further inflationary pressures and their impact on Fed policy. For a deeper analysis of these trends and their implications, I recommend reading the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/stocks-sharply-lower-iran-war-and-hawkish-powell)
+[nasdaq.com](https://www.nasdaq.com/articles/stocks-sharply-lower-iran-war-and-hawkish-powell)

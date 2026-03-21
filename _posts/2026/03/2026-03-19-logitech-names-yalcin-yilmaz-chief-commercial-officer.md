@@ -18,4 +18,4 @@ This leadership change comes at a time when Logitech is focusing on enhancing it
 
 For a deeper dive into how this leadership shift might influence Logitech’s strategic direction and market position, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/logitech-names-yalcin-yilmaz-chief-commercial-officer)
+[nasdaq.com](https://www.nasdaq.com/articles/logitech-names-yalcin-yilmaz-chief-commercial-officer)

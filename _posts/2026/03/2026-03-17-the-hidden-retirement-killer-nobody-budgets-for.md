@@ -18,4 +18,4 @@ This financial insight is crucial for market professionals, as rising healthcare
 
 For those looking to refine their retirement strategies or investment portfolios, Frankel’s advice offers valuable guidance on mitigating this often-overlooked financial burden. I highly recommend watching the full discussion to gain deeper insights into effective retirement planning.
 
-[Source: fool.com](https://www.fool.com/retirement/2026/03/17/the-hidden-retirement-killer-nobody-budgets-for/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/retirement/2026/03/17/the-hidden-retirement-killer-nobody-budgets-for/?source=iedfolrf0000001)

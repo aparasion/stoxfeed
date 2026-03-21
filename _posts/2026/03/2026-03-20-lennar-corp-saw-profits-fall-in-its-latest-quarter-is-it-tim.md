@@ -18,4 +18,4 @@ The implications for the financial markets are notable, as Lennar's declining pe
 
 For investors, this presents a potential buying opportunity. As affordability improves and demand rises, Lennar could see a significant recovery in both volume and profitability. I encourage you to explore the full article for deeper insights into Lennar's strategy and the housing market outlook.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/lennar-corp-saw-profits-fall-in-its-latest-quarter/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/lennar-corp-saw-profits-fall-in-its-latest-quarter/?source=iedfolrf0000001)

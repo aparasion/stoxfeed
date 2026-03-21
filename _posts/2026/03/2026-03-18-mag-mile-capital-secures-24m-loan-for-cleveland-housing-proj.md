@@ -18,4 +18,4 @@ This financing move is significant as it highlights MMCP's ongoing commitment to
 
 For those monitoring real estate financing trends and MMCP's market performance, this development is worth a closer look. I recommend exploring the full article for deeper insights into the project and its impact on the company’s future.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565671-mag-mile-capital-secures-24m-loan-for-cleveland-housing-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565671-mag-mile-capital-secures-24m-loan-for-cleveland-housing-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

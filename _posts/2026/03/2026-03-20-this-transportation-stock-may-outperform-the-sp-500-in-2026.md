@@ -18,4 +18,4 @@ Tesla's recent sales decline can be attributed to the expiration of the EV tax c
 
 For market professionals, Tesla's current valuation may represent a strategic entry point, especially if Musk's initiatives materialize as planned. I encourage you to delve into the full article for a deeper understanding of Tesla's market positioning and future potential.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/this-transportation-stock-may-outperform-the-sp-50/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/this-transportation-stock-may-outperform-the-sp-50/?source=iedfolrf0000001)

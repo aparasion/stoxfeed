@@ -18,4 +18,4 @@ The decline in Q4 gross margin to 30% reflects increased promotions and a reduce
 
 Looking ahead, Torrid expects 2026 net sales between $940 million and $960 million, with adjusted EBITDA guidance of $65 million to $75 million. This strategic pivot, particularly the reintroduction of footwear and the expansion of opening price point assortments, positions the company for potential recovery and growth. For a deeper dive into Torrid's financial outlook and strategic initiatives, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/torrid-curv-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/torrid-curv-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ VYM's diversified portfolio includes 559 stocks across various sectors, such as 
 
 For professionals looking to enhance their income strategy, VYM could be a valuable addition. I encourage you to delve deeper into this ETF's performance and potential by reading the full article for a comprehensive analysis.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/1-dividend-etf-that-could-turn-500-monthly-into-a/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/1-dividend-etf-that-could-turn-500-monthly-into-a/?source=iedfolrf0000001)

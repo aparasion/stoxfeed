@@ -18,4 +18,4 @@ Such a move could significantly impact the maritime sector, which has been strug
 
 Market professionals should keep a close eye on developments in this investigation, as any tariffs could reshape the competitive landscape and influence investment strategies. For a deeper dive into the implications of this potential shift, I recommend reading the full article for comprehensive insights.
 
-[Source: tradewindsnews.com](https://www.tradewindsnews.com)
+[tradewindsnews.com](https://www.tradewindsnews.com)

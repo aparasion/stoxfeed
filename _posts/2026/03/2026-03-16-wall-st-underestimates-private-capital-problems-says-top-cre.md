@@ -18,4 +18,4 @@ This development is crucial for investors as it signals a shift in risk percepti
 
 Market professionals should closely monitor these trends, as they could reshape investment strategies and asset allocations in the coming months. For a deeper dive into the analysis and its ramifications, I recommend checking out the full article in the Financial Times.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZmEydkZlNnZXS2tiZWZBTXpiN3IyTVpMU2dxZnd1bjg2bk9TMkY0LWdsT2RHMmJ0SnVCdklxWERnZm1HVUxaZlgtLXdXbHZQVFJ5VG1JTkQ3blZQR0pXaHpjcE5sazVPLWpPVTNIREg?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZmEydkZlNnZXS2tiZWZBTXpiN3IyTVpMU2dxZnd1bjg2bk9TMkY0LWdsT2RHMmJ0SnVCdklxWERnZm1HVUxaZlgtLXdXbHZQVFJ5VG1JTkQ3blZQR0pXaHpjcE5sazVPLWpPVTNIREg?oc=5)

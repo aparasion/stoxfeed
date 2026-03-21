@@ -18,4 +18,4 @@ The implications for Tencent Music are substantial, as a declining user base rai
 
 For professionals tracking the evolving landscape of digital media, Tencent Music's challenges underscore the need for vigilance regarding user engagement trends. I recommend reading the full article for a deeper dive into the company's current position and future strategies.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/why-tencent-music-entertainment-stock-withered-on/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/why-tencent-music-entertainment-stock-withered-on/?source=iedfolrf0000001)

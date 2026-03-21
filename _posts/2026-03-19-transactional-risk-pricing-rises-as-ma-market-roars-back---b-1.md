@@ -18,4 +18,4 @@ This situation could have broader implications for the insurance sector, particu
 
 Market professionals should monitor how these legal developments influence investor sentiment and insurance underwriting practices. For a deeper dive into these trends and their implications, I recommend checking out the full article.
 
-[Source: businessinsurance.com](https://www.businessinsurance.com)
+[businessinsurance.com](https://www.businessinsurance.com)

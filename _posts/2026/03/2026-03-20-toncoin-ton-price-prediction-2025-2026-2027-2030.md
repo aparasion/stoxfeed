@@ -18,4 +18,4 @@ The cryptocurrency market is witnessing a shift as investors seek alternatives t
 
 For market professionals, Toncoin presents an intriguing investment opportunity, particularly as it approaches its all-time high. For a deeper dive into the analysis and price predictions, I recommend checking out the full article.
 
-[Source: benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)

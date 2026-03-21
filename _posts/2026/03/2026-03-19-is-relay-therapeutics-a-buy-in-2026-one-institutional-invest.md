@@ -18,4 +18,4 @@ This move is particularly noteworthy as Relay Therapeutics has seen its stock su
 
 For market professionals, Nextech's accumulation of Relay shares serves as a compelling indicator of institutional interest. Investors may want to monitor Relay's pipeline developments closely, or consider sector ETFs like the SPDR S&P Biotech ETF (XBI) for broader exposure to this dynamic market. For a deeper dive into this transaction and its implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/coverage/filings/2026/03/19/is-relay-therapeutics-a-buy-in-2026-one-institutional-investor-just-made-a-usd6-million-bet/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/filings/2026/03/19/is-relay-therapeutics-a-buy-in-2026-one-institutional-investor-just-made-a-usd6-million-bet/?source=iedfolrf0000001)

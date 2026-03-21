@@ -18,4 +18,4 @@ For market professionals, this means enhanced efficiency in identifying investme
 
 The key takeaway is the potential for improved decision-making through data-driven insights, ultimately leading to better portfolio performance. I recommend checking out the full article to explore how this tool can transform your investment strategy and enhance your market acumen.
 
-[Source: simplywall.st](https://simplywall.st)
+[simplywall.st](https://simplywall.st)

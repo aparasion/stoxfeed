@@ -18,4 +18,4 @@ This growth is reflected in Vertiv's robust financial outlook, with management g
 
 Given its current valuation and growth potential, Vertiv appears to be undervalued relative to its peers, with a price-to-sales ratio of 10. For professionals in the market, this suggests a compelling investment opportunity; I recommend diving into the full article for a deeper analysis of Vertiv's growth narrative.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/20/vertiv-is-quietly-powering-every-ai-data-center-in/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/20/vertiv-is-quietly-powering-every-ai-data-center-in/?source=iedfolrf0000001)

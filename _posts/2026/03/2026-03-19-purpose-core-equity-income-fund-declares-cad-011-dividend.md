@@ -18,4 +18,4 @@ This declaration is particularly relevant for portfolio managers and income-focu
 
 Investors should consider how this dividend aligns with their income strategies and overall portfolio performance. For a deeper analysis and insights on the Purpose Core Equity Income Fund's dividend scorecard and growth potential, I recommend checking out the full article.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566535-purpose-core-equity-income-fund-declares-cad-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566535-purpose-core-equity-income-fund-declares-cad-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

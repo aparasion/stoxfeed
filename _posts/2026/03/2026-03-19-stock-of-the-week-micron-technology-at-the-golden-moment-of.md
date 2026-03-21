@@ -18,4 +18,4 @@ The results underscore Micron's pivotal role in the AI-driven memory supercycle,
 
 Investors should note that while short-term fluctuations may arise from capital expenditure concerns, Micron's strategic investments are essential for maintaining its competitive edge in a rapidly evolving market. For a deeper dive into Micron's financial outlook and market position, I recommend exploring the full article.
 
-[Source: xtb.com](https://www.xtb.com/en/market-analysis/stock-of-the-week-micron-technology-at-the-golden-moment-of-the-memory-cycle)
+[xtb.com](https://www.xtb.com/en/market-analysis/stock-of-the-week-micron-technology-at-the-golden-moment-of-the-memory-cycle)

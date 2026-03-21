@@ -18,4 +18,4 @@ This finding is crucial for financial markets as it highlights the robustness of
 
 For market professionals, this study underscores the importance of understanding the underlying technology of cryptocurrencies in assessing their viability as investment assets. I recommend diving into the full article for a deeper insight into the implications of this research on Bitcoin's future.
 
-[Source: coindesk.com](https://www.coindesk.com)
+[coindesk.com](https://www.coindesk.com)

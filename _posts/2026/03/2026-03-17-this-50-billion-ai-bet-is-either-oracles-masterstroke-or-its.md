@@ -18,4 +18,4 @@ Oracle's recent performance underscores the momentum in AI, with remaining perfo
 
 The implications for investors are significant: Oracle's strategic move positions it to seize a critical opportunity in the evolving AI landscape, potentially marking a pivotal moment for the company. For a deeper dive into Oracle's plans and the broader AI market dynamics, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/this-50-billion-ai-bet-is-either-oracles-masterstr/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/this-50-billion-ai-bet-is-either-oracles-masterstr/?source=iedfolrf0000001)

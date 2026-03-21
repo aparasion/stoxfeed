@@ -16,4 +16,4 @@ Microsoft (MSFT) shares have plummeted nearly 19% year-to-date, significantly un
 
 The implications for investors are clear: while Microsoft is positioned for long-term growth through its AI initiatives, the immediate financial pressures may hinder earnings potential and stock performance. With a current price-to-earnings ratio of around 25, the stock may lack a sufficient margin of safety. For a deeper dive into Microsoft's financial landscape and strategic outlook, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/microsoft-stock-has-been-absolutely-slammed-this-y/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/microsoft-stock-has-been-absolutely-slammed-this-y/?source=iedfolrf0000001)

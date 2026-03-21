@@ -18,4 +18,4 @@ The implications for the market are profound. As refiners pivot to alternative s
 
 For professionals in the sector, understanding these developments is crucial. I recommend diving into the full article for a comprehensive overview of the current market landscape and its potential impacts.
 
-[Source: oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Pay-Record-Premiums-for-Non-Middle-East-Crude.html)
+[oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Pay-Record-Premiums-for-Non-Middle-East-Crude.html)

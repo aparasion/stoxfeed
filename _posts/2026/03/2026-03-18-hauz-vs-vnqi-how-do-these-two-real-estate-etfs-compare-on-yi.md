@@ -18,4 +18,4 @@ The differences in portfolio structure are noteworthy; HAUZ is heavily weighted 
 
 For investors looking to enhance their real estate holdings, understanding these nuances is crucial. Dive deeper into the full comparison to see which ETF aligns best with your investment goals.
 
-[Source: fool.com](https://www.fool.com/coverage/etfs/2026/03/18/hauz-vs-vnqi-how-do-these-two-real-estate-etfs-compare-on-yield-cost-and-performance/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/coverage/etfs/2026/03/18/hauz-vs-vnqi-how-do-these-two-real-estate-etfs-compare-on-yield-cost-and-performance/?source=iedfolrf0000001)

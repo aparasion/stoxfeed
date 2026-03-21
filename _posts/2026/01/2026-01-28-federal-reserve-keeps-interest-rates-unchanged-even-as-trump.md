@@ -18,4 +18,4 @@ Stratton's primary success could have significant implications for the financial
 
 As the election approaches, market participants should consider how Stratton's candidacy may shape the political landscape and its potential effects on market sentiment. For a deeper dive into the implications of this primary outcome, I recommend checking out the full article for more insights.
 
-[Source: apnews.com](https://apnews.com)
+[apnews.com](https://apnews.com)

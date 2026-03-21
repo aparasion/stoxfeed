@@ -18,4 +18,4 @@ Despite generating stable earnings and a reliable dividend, Qualcomm faces signi
 
 For investors, Qualcomm's potential for substantial gains remains uncertain. The stock could rise 46% by 2030 if it meets optimistic estimates, making it a topic worth exploring further in the original article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/21/could-qualcomm-stock-turn-1000-into-10000/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/21/could-qualcomm-stock-turn-1000-into-10000/?source=iedfolrf0000001)

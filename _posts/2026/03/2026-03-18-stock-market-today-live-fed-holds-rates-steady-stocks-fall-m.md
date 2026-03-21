@@ -18,4 +18,4 @@ This report is particularly relevant as it underscores the significant performan
 
 For professionals looking to optimize their portfolios, the Motley Fool's recommendations offer valuable guidance. I encourage you to delve deeper into their analysis and stock picks by exploring the full article for a comprehensive understanding of these investment opportunities.
 
-[Source: fool.com](https://www.fool.com)
+[fool.com](https://www.fool.com)

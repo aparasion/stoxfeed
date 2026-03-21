@@ -18,4 +18,4 @@ This surge is particularly noteworthy against the backdrop of ongoing layoffs in
 
 For market professionals, the performance of Swarmer could be a harbinger for upcoming IPOs in the defense sector. To gain deeper insights into the IPO landscape and the factors influencing it, I recommend checking out the full article on Crunchbase News.
 
-[Source: news.crunchbase.com](https://news.crunchbase.com)
+[news.crunchbase.com](https://news.crunchbase.com)

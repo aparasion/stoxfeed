@@ -18,4 +18,4 @@ Sector movements reflected these geopolitical tensions, with energy stocks benef
 
 Investors should closely monitor the implications of geopolitical developments on oil supply and energy sector performance. For a deeper dive into these market dynamics, I recommend checking out the full article.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/european-shares-mixed-oil-resumes-climb)
+[nasdaq.com](https://www.nasdaq.com/articles/european-shares-mixed-oil-resumes-climb)

@@ -18,4 +18,4 @@ The implications for financial markets are profound, particularly in the energy 
 
 Investors should closely monitor developments in the Strait of Hormuz, a critical chokepoint for oil shipments, as any escalation could have immediate repercussions on oil prices and market stability. For a deeper dive into the unfolding situation and its market implications, I recommend checking out the full article.
 
-[Source: nbcnews.com](https://www.nbcnews.com)
+[nbcnews.com](https://www.nbcnews.com)

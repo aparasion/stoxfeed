@@ -18,4 +18,4 @@ Coca-Cola remains a cornerstone of Berkshire’s holdings, with a history of con
 
 For market professionals seeking reliable long-term investments, these stocks exemplify Buffett's principles of value and consistency. Dive deeper into the insights and implications of these holdings by exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/3-warren-buffett-stocks-to-hold-forever/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/3-warren-buffett-stocks-to-hold-forever/?source=iedfolrf0000001)

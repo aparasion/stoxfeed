@@ -18,4 +18,4 @@ This development is significant for market participants as it allows for quicker
 
 For traders looking to stay ahead of market trends, Stock Titan's real-time updates and alerts could provide a competitive edge. I recommend checking out the full article for a deeper dive into how these features can benefit your trading strategy.
 
-[Source: stocktitan.net](https://www.stocktitan.net)
+[stocktitan.net](https://www.stocktitan.net)

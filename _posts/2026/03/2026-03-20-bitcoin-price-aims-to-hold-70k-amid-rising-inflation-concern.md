@@ -18,4 +18,4 @@ The correlation between Bitcoin and US equities remains strong, as traders grapp
 
 For professionals tracking Bitcoin's trajectory, this recent downturn underscores the importance of monitoring both technical patterns and macroeconomic indicators. For a deeper dive into the analysis and market implications, I recommend checking out the full article.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/bitcoin-price-aims-to-hold-70k-amid-rising-inflation-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

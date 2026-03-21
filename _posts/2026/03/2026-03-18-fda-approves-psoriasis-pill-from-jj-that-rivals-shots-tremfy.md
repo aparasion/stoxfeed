@@ -18,4 +18,4 @@ The introduction of Icotyde could disrupt the market dominated by injectable tre
 
 For market professionals, the approval of Icotyde represents a pivotal moment in the pharmaceutical sector, particularly in autoimmune treatments. To delve deeper into the potential impacts and market dynamics, I recommend exploring the full article for comprehensive insights.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/icotyde-psoriasis-pill-from-jj-to-rival-tremfya-skyrizi-il-23-shots.html)

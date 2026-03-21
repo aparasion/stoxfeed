@@ -18,4 +18,4 @@ This initiative is significant for the financial markets as it underscores the E
 
 For professionals in finance, the EuroSteps initiative represents an opportunity to engage with a growing demographic of financially literate women, potentially shaping future market dynamics. I recommend checking out the full article for more insights into this impactful initiative.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html)

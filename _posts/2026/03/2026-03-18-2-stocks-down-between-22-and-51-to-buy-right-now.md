@@ -18,4 +18,4 @@ On the other hand, American Express has also faced a downturn, with its stock un
 
 For market professionals, these sell-offs may represent strategic entry points. I recommend exploring the full article for deeper insights into these companies' prospects and the broader market implications.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/2-stocks-down-between-22-and-51-to-buy-right-now/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/2-stocks-down-between-22-and-51-to-buy-right-now/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The ongoing DHS shutdown, while less disruptive than last year’s government cl
 
 Market professionals should monitor the developments closely, as a resolution could stabilize operations at DHS and alleviate pressures in the travel sector. For a deeper dive into the implications of this ongoing situation, I recommend checking out the full article on CNBC.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/dhs-shutdown-trump-homeland-security-senate-democrats-counteroffer.html)

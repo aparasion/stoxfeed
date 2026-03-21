@@ -18,4 +18,4 @@ This restructuring raises significant concerns for shareholders, who will see th
 
 For market professionals, the key takeaway is the heightened risk associated with New Fortress Energy's new structure and the potential for further dilution. For a deeper dive into the intricacies of this deal and its market implications, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/18/why-new-fortress-energy-stock-just-fell-203/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/18/why-new-fortress-energy-stock-just-fell-203/?source=iedfolrf0000001)

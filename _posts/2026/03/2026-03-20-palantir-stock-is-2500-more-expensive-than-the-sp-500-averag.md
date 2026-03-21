@@ -18,4 +18,4 @@ The company's growth appears robust, particularly within U.S. government contrac
 
 For market professionals, the key takeaway is that while Palantir is currently outperforming, its high valuation and historical precedents suggest significant risk. For a deeper dive into these dynamics, I recommend exploring the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/palantir-stock-is-2500-more-expensive-than-the-sp/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/palantir-stock-is-2500-more-expensive-than-the-sp/?source=iedfolrf0000001)

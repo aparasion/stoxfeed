@@ -18,4 +18,4 @@ In contrast, Vertex Pharmaceuticals maintains a robust cystic fibrosis franchise
 
 For investors weighing these two stocks, Eli Lilly's growth trajectory and pipeline diversification make it a compelling choice. For a deeper dive into their comparative strengths, I recommend checking out the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/19/best-growth-stock-to-buy-right-now-eli-lilly-vs-ve/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/19/best-growth-stock-to-buy-right-now-eli-lilly-vs-ve/?source=iedfolrf0000001)

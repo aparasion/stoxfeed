@@ -18,4 +18,4 @@ The significance of ProKidney's developments is underscored by the growing CKD p
 
 For those following biotech trends, ProKidney's progress and the potential market impact of Rilparencel are worth a closer look. I recommend checking out the full article for more insights into their financials and clinical timelines.
 
-[Source: nasdaq.com](https://www.nasdaq.com/articles/prokidney-expects-phase-3-proact-1-pivotal-trial-results-rilparencel-q2-2027)
+[nasdaq.com](https://www.nasdaq.com/articles/prokidney-expects-phase-3-proact-1-pivotal-trial-results-rilparencel-q2-2027)

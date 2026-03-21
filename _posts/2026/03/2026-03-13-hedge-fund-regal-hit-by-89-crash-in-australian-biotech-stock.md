@@ -18,4 +18,4 @@ This dramatic fall not only affects Regal's financial standing but also sends ri
 
 For professionals in trading and portfolio management, this serves as a crucial reminder of the importance of due diligence in biotech investments. To dive deeper into the implications of this crash and its broader market effects, I recommend checking out the full article on Bloomberg.
 
-[Source: news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2Z0NzBFYXp2V0VwQTVoRHFhWFRxdzhvTmpnYU82cks5ZEJrOTlMdXY1akEzZVJ2TkRiODVXUXZLRG9xYVptT19xbW1QNzZNLURUNWR0bzBReTJELVo4ck1NQ1ZaakZmMEp1QjF1OFVHVlliWWxlUlEtWEdVb2hLeGljMHFSTm84aS1ZOWRRRVlBaldfc2RoSlpLdG9LUmVzay1VZjRsLVVRWk55YnpyNQ?oc=5)
+[news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2Z0NzBFYXp2V0VwQTVoRHFhWFRxdzhvTmpnYU82cks5ZEJrOTlMdXY1akEzZVJ2TkRiODVXUXZLRG9xYVptT19xbW1QNzZNLURUNWR0bzBReTJELVo4ck1NQ1ZaakZmMEp1QjF1OFVHVlliWWxlUlEtWEdVb2hLeGljMHFSTm84aS1ZOWRRRVlBaldfc2RoSlpLdG9LUmVzay1VZjRsLVVRWk55YnpyNQ?oc=5)

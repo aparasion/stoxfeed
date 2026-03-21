@@ -18,4 +18,4 @@ This decision not only addresses educational needs but also signals coordinated 
 
 Market professionals should note that this development could bolster Frankfurt's appeal as a financial center, making it an important consideration for investment strategies. For a deeper dive into the implications of this decision, I recommend exploring the full article.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)

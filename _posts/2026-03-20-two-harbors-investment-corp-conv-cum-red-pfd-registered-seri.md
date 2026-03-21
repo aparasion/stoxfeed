@@ -18,4 +18,4 @@ This announcement is significant for investors tracking income-generating securi
 
 For those looking to assess the implications of this dividend amid the company's broader financial trajectory, I recommend exploring the full article for a deeper analysis of Two Harbors' current position and future prospects.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4566968-two-harbors-investment-corp-conv-cum-red-pfd-registered-series-b-declares-0_4766-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4566968-two-harbors-investment-corp-conv-cum-red-pfd-registered-series-b-declares-0_4766-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

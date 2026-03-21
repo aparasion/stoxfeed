@@ -18,4 +18,4 @@ In contrast, Karat Packaging reported robust double-digit sales growth, driven b
 
 For professionals tracking sector performance, these earnings calls highlight the importance of pricing dynamics and operational strategies in navigating market pressures. Dive deeper into these insights by exploring the full article.
 
-[Source: stockstory.org](https://stockstory.org)
+[stockstory.org](https://stockstory.org)

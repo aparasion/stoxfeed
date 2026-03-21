@@ -18,4 +18,4 @@ The financial markets should note Oracle's strategic moves to reduce cash burn a
 
 However, Oracle's heavy debt burden, totaling $124.72 billion, poses a significant risk, potentially limiting its cash flow and financial health in the near future. For a deeper analysis of Oracle's potential and challenges, I recommend reading the full article.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/17/oracle-soaring-after-blowout-earnings-buy-stock/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/17/oracle-soaring-after-blowout-earnings-buy-stock/?source=iedfolrf0000001)

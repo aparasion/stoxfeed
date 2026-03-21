@@ -18,4 +18,4 @@ This expansion signals Ledger's commitment to capturing a growing market segment
 
 For professionals in the financial markets, Ledger's strategic moves and the evolving IPO landscape highlight critical trends in digital asset infrastructure. I recommend diving into the full article for a comprehensive overview of these developments.
 
-[Source: cointelegraph.com](https://cointelegraph.com/news/ledger-hires-ex-circle-executive-opens-nyc-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+[cointelegraph.com](https://cointelegraph.com/news/ledger-hires-ex-circle-executive-opens-nyc-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

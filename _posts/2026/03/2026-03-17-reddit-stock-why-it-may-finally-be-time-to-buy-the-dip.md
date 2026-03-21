@@ -18,4 +18,4 @@ The implications for the financial markets are noteworthy. Reddit's impressive g
 
 For those considering Reddit as a long-term investment, the company's unique market position and strong cash generation make it an intriguing prospect. I recommend diving deeper into this analysis to understand the full context of Reddit's business dynamics and market potential.
 
-[Source: fool.com](https://www.fool.com/investing/2026/03/16/reddit-stock-why-it-may-finally-be-time-to-buy-the/?source=iedfolrf0000001)
+[fool.com](https://www.fool.com/investing/2026/03/16/reddit-stock-why-it-may-finally-be-time-to-buy-the/?source=iedfolrf0000001)

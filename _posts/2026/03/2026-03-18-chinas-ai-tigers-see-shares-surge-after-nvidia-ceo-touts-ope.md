@@ -18,4 +18,4 @@ This surge underscores the growing momentum in China's AI sector, with firms rap
 
 For market professionals, this development signals an opportunity to reassess positions in AI-related stocks and consider the broader implications of China's advancing AI capabilities. I recommend diving into the full article for a deeper understanding of these trends and their potential impact on the market.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html)
+[cnbc.com](https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html)

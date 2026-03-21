@@ -18,4 +18,4 @@ The implications of Kent's departure could ripple through financial markets, par
 
 For those tracking the intersection of politics and financial markets, Kent's resignation underscores the volatility of U.S. foreign policy and its potential economic impact. I recommend exploring the full article for a deeper understanding of the implications surrounding this significant development.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html)

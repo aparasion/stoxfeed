@@ -18,4 +18,4 @@ This rate hike signals a tightening monetary policy environment as the RBA grapp
 
 For a deeper understanding of the implications of this rate hike on the Australian economy and financial markets, I recommend reading the full article.
 
-[Source: cnbc.com](https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html)
+[cnbc.com](https://www.cnbc.com/2026/03/17/australia-central-bank-interest-rates-rise.html)

@@ -18,4 +18,4 @@ The decline in oil prices is significant as it alleviates inflationary pressures
 
 For professionals, the key takeaway is the potential for continued bullish momentum if the risk-on trade persists. I recommend diving deeper into this analysis to understand the implications for your portfolio strategy—check out the full article for a comprehensive breakdown.
 
-[Source: finance.yahoo.com](https://finance.yahoo.com)
+[finance.yahoo.com](https://finance.yahoo.com)

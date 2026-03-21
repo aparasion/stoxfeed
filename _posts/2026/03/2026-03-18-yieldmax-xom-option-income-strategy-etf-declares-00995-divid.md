@@ -18,4 +18,4 @@ This announcement is significant for those tracking dividend-paying stocks, part
 
 For professionals looking to enhance their portfolios with reliable income streams, XOMO's latest dividend declaration is worth noting. I encourage you to delve into the full article for a comprehensive analysis of XOMO's dividend scorecard and growth potential.
 
-[Source: seekingalpha.com](https://seekingalpha.com/news/4565930-yieldmax-xom-option-income-strategy-etf-declares-0_0995-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+[seekingalpha.com](https://seekingalpha.com/news/4565930-yieldmax-xom-option-income-strategy-etf-declares-0_0995-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

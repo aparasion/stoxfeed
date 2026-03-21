@@ -18,4 +18,4 @@ The ECB's outlook for inflation remains stable, with projections indicating a gr
 
 For market professionals, the key takeaway is the ongoing strength of euro area equities and the shift in investor sentiment towards hedging against U.S. dollar exposure. This nuanced understanding of market reactions to geopolitical events is essential for strategic positioning. For a deeper dive into these developments, I recommend exploring the full article.
 
-[Source: ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)
+[ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)

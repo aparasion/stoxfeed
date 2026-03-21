@@ -18,4 +18,4 @@ The company's strong fundamentals, including gross margins near 70% and consiste
 
 For market professionals, Nvidia represents a compelling growth investment, but caution is warranted given the potential for valuation corrections. Dive deeper into this analysis to understand the nuances of Nvidia's future trajectory and investment implications.
 
-[Source: benzinga.com](https://www.benzinga.com/money/nvidia-stock-price-prediction)
+[benzinga.com](https://www.benzinga.com/money/nvidia-stock-price-prediction)
