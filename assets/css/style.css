@@ -581,6 +581,53 @@ hr {
   border-radius: 2px;
   padding: 0 2px;
 }
+.search-result-header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.search-section { margin-bottom: var(--space-5); }
+.search-section-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin: 0 0 var(--space-3);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--border);
+}
+.search-section-count {
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.search-pill {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-pill--source {
+  background: var(--accent-soft, rgba(0,200,83,0.1));
+  color: var(--accent, #00c853);
+}
+.search-pill--technology { background: rgba(59,130,246,0.15); color: #3b82f6; }
+.search-pill--healthcare { background: rgba(239,68,68,0.15); color: #ef4444; }
+.search-pill--energy { background: rgba(245,158,11,0.15); color: #f59e0b; }
+.search-pill--finance { background: rgba(16,185,129,0.15); color: #10b981; }
+.search-pill--crypto { background: rgba(139,92,246,0.15); color: #8b5cf6; }
+.search-pill--status {
+  background: var(--surface, rgba(255,255,255,0.05));
+  color: var(--muted);
+  border: 1px solid var(--border);
+}
 
 /* ── Timeline Feed ─────────────────────────────────────── */
 .timeline-section {
