@@ -18,4 +18,4 @@ The financial markets are closely watching this development as it may influence 
 
 For market professionals, this new regulatory standard could signal a pivotal shift in how AI is integrated into business strategies. Understanding these changes will be crucial for navigating investment decisions in the evolving landscape of technology. I recommend diving deeper into the full article for a comprehensive analysis of these developments.
 
-[fortune.com](https://fortune.com)
+Source: [fortune.com](https://fortune.com)

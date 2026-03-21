@@ -18,4 +18,4 @@ This downturn in hog futures could signal broader implications for the protein m
 
 Market professionals should keep a close eye on these developments, as fluctuations in hog prices can impact related sectors and overall market dynamics. For a deeper dive into the data and trends, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/hogs-slipping-tuesday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/hogs-slipping-tuesday)

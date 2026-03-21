@@ -18,4 +18,4 @@ The Tanbreez project is positioned to meet the growing demand for rare-earth ele
 
 For those interested in the evolving landscape of critical minerals, Critical Metals presents a high-risk, high-reward opportunity worth exploring further. I recommend checking out the full article for a deeper dive into the company's plans and market implications.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/is-critical-metals-stock-a-buy-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/is-critical-metals-stock-a-buy-now/?source=iedfolrf0000001)

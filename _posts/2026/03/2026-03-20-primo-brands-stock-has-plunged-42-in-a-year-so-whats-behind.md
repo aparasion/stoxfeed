@@ -18,4 +18,4 @@ Despite a challenging year for Primo Brands, with shares down 42%, the company i
 
 For investors, this acquisition signals a strategic move towards a defensive stock with improving metrics, making it worth watching as the company works through its challenges. Explore the full story for deeper insights into this evolving situation.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/primo-brands-stock-has-plunged-42-in-a-year-so-what-s-behind-this-investor-s-recent-usd45-million-buy/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/primo-brands-stock-has-plunged-42-in-a-year-so-what-s-behind-this-investor-s-recent-usd45-million-buy/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This decline in lean hog futures reflects broader market pressures, with USDA's 
 
 For professionals tracking commodity trends, the current market signals warrant attention. Dive deeper into the implications of these developments by exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/hogs-face-pressure-friday-0)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/hogs-face-pressure-friday-0)

@@ -18,4 +18,4 @@ The distinction between "Promoters" and "Asset Managers" has become critical. Wh
 
 For investors, the takeaway is clear: only companies that embrace disciplined asset management strategies will thrive in this evolving landscape. To dive deeper into the implications of this shift, I highly recommend reading the full article for a comprehensive analysis.
 
-[coindesk.com](https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive)
+Source: [coindesk.com](https://www.coindesk.com/opinion/2026/03/17/facing-a-crisis-bitcoin-treasury-companies-need-to-pivot-to-survive)

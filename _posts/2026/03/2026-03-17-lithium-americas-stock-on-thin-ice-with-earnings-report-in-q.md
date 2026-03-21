@@ -18,4 +18,4 @@ The implications for the broader market are significant, as Lithium Americas is 
 
 Investors should monitor this earnings report closely, as it could set the tone for the lithium market and influence related stocks in the sector. For a deeper dive into the factors at play and what this means for your investment strategy, I recommend checking out the full article on TheStreet.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUtrUGtmdzRvUFVUdGJXV1ZIX0tpSHV6TmtFX3RJZWFRdFdxdlU2THBJXzlVbWcwUUsxbWN3ZWJMcG1HUk1TZkdFaFFnRGp6ZkhLUnRKZUxPLVhZdE5FcnZRUGpZcmhyaVlsNEZ6bTFxeGdnR0pXVF83UEFHanRHbHlPTUhxb2hHZURycnpobnJ4eVJ6dmtDemNBTmdoTW9PUHlsT2tRVWs?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUtrUGtmdzRvUFVUdGJXV1ZIX0tpSHV6TmtFX3RJZWFRdFdxdlU2THBJXzlVbWcwUUsxbWN3ZWJMcG1HUk1TZkdFaFFnRGp6ZkhLUnRKZUxPLVhZdE5FcnZRUGpZcmhyaVlsNEZ6bTFxeGdnR0pXVF83UEFHanRHbHlPTUhxb2hHZURycnpobnJ4eVJ6dmtDemNBTmdoTW9PUHlsT2tRVWs?oc=5)

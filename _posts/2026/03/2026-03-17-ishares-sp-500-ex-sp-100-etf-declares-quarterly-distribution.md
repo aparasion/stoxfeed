@@ -18,4 +18,4 @@ This dividend declaration is significant for portfolio managers and income-focus
 
 For investors looking to enhance their dividend strategies, this update on XOEF could be a valuable addition to their research. I recommend checking out the full details in the original article for a deeper understanding of the ETF's performance and dividend history.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565470-ishares-sp-500-ex-sp-100-etf-declares-quarterly-distribution-of-00690?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565470-ishares-sp-500-ex-sp-100-etf-declares-quarterly-distribution-of-00690?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

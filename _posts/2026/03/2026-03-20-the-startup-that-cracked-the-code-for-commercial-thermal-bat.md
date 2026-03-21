@@ -18,4 +18,4 @@ A standout in this space is Fourth Power, a startup led by MIT Professor Asegun 
 
 For professionals in the energy and investment sectors, understanding the potential of thermal batteries is crucial as they could reshape the landscape of energy storage and decarbonization efforts. Dive deeper into this transformative technology by exploring the full article.
 
-[oilprice.com](https://oilprice.com/Energy/Energy-General/The-Startup-That-Cracked-the-Code-for-Commercial-Thermal-Batteries.html)
+Source: [oilprice.com](https://oilprice.com/Energy/Energy-General/The-Startup-That-Cracked-the-Code-for-Commercial-Thermal-Batteries.html)

@@ -18,4 +18,4 @@ The initiative is particularly significant as it combines physical activity with
 
 Market professionals should note that such initiatives may influence consumer behavior and spending patterns, potentially impacting sectors reliant on female consumers. For a deeper dive into the EuroSteps initiative and its implications, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html)

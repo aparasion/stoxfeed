@@ -18,4 +18,4 @@ Investors can reinvest RMDs into a taxable brokerage account to continue growing
 
 Ultimately, RMDs can be a valuable financial tool rather than a burden. For a deeper dive into effective strategies for managing RMDs, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/think-you-dont-need-your-rmd-3-smart-ways-to-use-t/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/think-you-dont-need-your-rmd-3-smart-ways-to-use-t/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Definium Therapeutics has seen a remarkable 170% increase in share price over th
 
 For investors, this acquisition highlights a growing confidence in Definium's pipeline and market potential. For a deeper dive into the implications of this investment, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/18/this-usd6-million-bet-adds-a-brain-health-biotech-to-portfolio-dominated-by-clinical-stage-names/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/18/this-usd6-million-bet-adds-a-brain-health-biotech-to-portfolio-dominated-by-clinical-stage-names/?source=iedfolrf0000001)

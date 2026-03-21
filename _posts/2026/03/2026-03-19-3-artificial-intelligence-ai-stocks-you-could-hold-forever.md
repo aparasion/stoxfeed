@@ -18,4 +18,4 @@ Meta Platforms is leveraging AI to revolutionize its social media and advertisin
 
 Meanwhile, Alphabet has diversified its AI involvement, enhancing Google Search and expanding its cloud services, which benefit from increased AI demand. Its investments in AI chips and leadership in autonomous vehicles solidify its status as a long-term hold. For a deeper dive into these market dynamics, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/3-artificial-intelligence-ai-stocks-you-could-hold/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/3-artificial-intelligence-ai-stocks-you-could-hold/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ While the company has initiated leadership changes aimed at revitalizing growth,
 
 For those considering Verizon, it may serve as a reliable income source in the short term, but the combination of low growth prospects, a new CEO, and significant industry competition suggests a cautious approach is warranted. For a deeper dive into Verizon's current position and future strategies, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/verizon-stock-in-2026-what-every-investor-needs-to/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/verizon-stock-in-2026-what-every-investor-needs-to/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The IPO's success reflects growing investor confidence in the digital payment se
 
 For market professionals, PayPay's IPO represents a key development in the fintech space, underscoring the increasing importance of mobile payment solutions. To gain deeper insights into this landmark offering and its implications for the broader market, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnE1b3p0Ymt5NGdlczFyR0YyVmVSZkExWXpoZWNwRDUwRjF0MnZlZFBuampTdWlYd0xtSmU0Ml9taTV5NzdISm5DeU5NRGMyM1BLaVBDMjBxdWFyTFdSUldQdjlBWGp1Tm5HUFd1ZFdwRm1LeGY2c0N1czVndGoydGgzODhyanF3NWNpLUgzVl9oRTB6T0NxeGFjX21ManY1NGhrMEc3aElYZVdmWjA1U2E1eV9wcnpOX1BjQWdXOEdPMlkxR0E?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnE1b3p0Ymt5NGdlczFyR0YyVmVSZkExWXpoZWNwRDUwRjF0MnZlZFBuampTdWlYd0xtSmU0Ml9taTV5NzdISm5DeU5NRGMyM1BLaVBDMjBxdWFyTFdSUldQdjlBWGp1Tm5HUFd1ZFdwRm1LeGY2c0N1czVndGoydGgzODhyanF3NWNpLUgzVl9oRTB6T0NxeGFjX21ManY1NGhrMEc3aElYZVdmWjA1U2E1eV9wcnpOX1BjQWdXOEdPMlkxR0E?oc=5)

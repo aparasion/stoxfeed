@@ -18,4 +18,4 @@ These companies are not just outperformers; they are also positioned for sustain
 
 For those contemplating where to allocate a $10,000 investment, Nvidia and Palantir present compelling opportunities, although maintaining a diversified portfolio remains crucial. For a deeper dive into their performance and potential, I highly recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/the-best-stocks-to-invest-10000-in-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/the-best-stocks-to-invest-10000-in-right-now/?source=iedfolrf0000001)

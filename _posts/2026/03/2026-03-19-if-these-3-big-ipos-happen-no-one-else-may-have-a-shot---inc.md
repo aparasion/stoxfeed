@@ -18,4 +18,4 @@ The successful launch of these IPOs could lead to heightened volatility in the t
 
 For market professionals, the key takeaway is to monitor these IPOs closely, as they may create ripple effects across various sectors and impact stock valuations. I recommend diving deeper into this article for a comprehensive analysis of what these upcoming IPOs could mean for the market landscape.
 
-[news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSklUVE0wVEJVVUhSQXpkc1QtVFJUUnRqN2I2Wnpid1Y4MFJDZkpPejhpXzVWZkVCaV8xaWpxT0ZCY1lFYk9memVlcXBoeThSZjAtbENCdDNwdHVRU19hRW5JUy1kaXVIbUx2T3hVdjk5MFI1MW9MVDB5QnhiZkU2Vm1GWFdnX1BQMW5QMWZHYWl0UWpuOThoUkJUUlY0ODJQZnE3MzdqNW1FY3hnWkh2Rw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSklUVE0wVEJVVUhSQXpkc1QtVFJUUnRqN2I2Wnpid1Y4MFJDZkpPejhpXzVWZkVCaV8xaWpxT0ZCY1lFYk9memVlcXBoeThSZjAtbENCdDNwdHVRU19hRW5JUy1kaXVIbUx2T3hVdjk5MFI1MW9MVDB5QnhiZkU2Vm1GWFdnX1BQMW5QMWZHYWl0UWpuOThoUkJUUlY0ODJQZnE3MzdqNW1FY3hnWkh2Rw?oc=5)

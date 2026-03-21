@@ -18,4 +18,4 @@ In corporate news, Docusign's fiscal first-quarter revenue forecast of $822 mill
 
 For market professionals, the key takeaway is to stay vigilant regarding sector-specific vulnerabilities and opportunities, especially in commodities like copper, where Freeport-McMoRan may present a buying opportunity. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[barrons.com](https://www.barrons.com)
+Source: [barrons.com](https://www.barrons.com)

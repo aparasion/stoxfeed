@@ -18,4 +18,4 @@ This shift is significantly impacting companies like Broadcom and Marvell Techno
 
 For investors looking to capitalize on the custom AI chip boom, both stocks offer compelling opportunities. However, those seeking value might lean towards Marvell, while risk-tolerant investors may favor Broadcom's market leadership. For a deeper dive into this evolving market, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/marvell-vs-broadcom-which-custom-ai-chip-stock/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/marvell-vs-broadcom-which-custom-ai-chip-stock/?source=iedfolrf0000001)

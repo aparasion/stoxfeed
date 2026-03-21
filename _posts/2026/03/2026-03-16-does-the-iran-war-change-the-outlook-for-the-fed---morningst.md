@@ -18,4 +18,4 @@ The implications for the market are significant, as these inflows may indicate a
 
 For professionals navigating this evolving landscape, the article offers valuable insights into fund flows and investment strategies. I highly recommend exploring the full story for a deeper analysis of these trends and their potential impact on your investment decisions.
 
-[morningstar.com](https://www.morningstar.com)
+Source: [morningstar.com](https://www.morningstar.com)

@@ -18,4 +18,4 @@ This move comes as Sotera Health continues to show resilience, posting its 20th 
 
 For investors, Inherent's bold position suggests confidence in Sotera's long-term fundamentals, even amid recent price declines. For a deeper dive into the implications of this transaction and its context within the broader market, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/sotera-health-shares-down-24-year-stock-buy-one-investor-reveals-adding-3-million-more)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/sotera-health-shares-down-24-year-stock-buy-one-investor-reveals-adding-3-million-more)

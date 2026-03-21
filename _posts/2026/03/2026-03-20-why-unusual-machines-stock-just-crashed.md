@@ -18,4 +18,4 @@ This capital raise comes despite Unusual Machines having approximately $140 mill
 
 For market professionals, this situation raises questions about the company’s long-term strategy and the implications of dilution on shareholder value. For a deeper dive into Unusual Machines’ financial maneuvering, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-unusual-machines-stock-just-crashed/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-unusual-machines-stock-just-crashed/?source=iedfolrf0000001)

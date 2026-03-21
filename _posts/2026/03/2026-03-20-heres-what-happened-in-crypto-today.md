@@ -18,4 +18,4 @@ In South Korea, the National Tax Service is seeking a private custodian for seiz
 
 Lastly, the World Gold Council has introduced a framework for tokenized gold, aiming to streamline the issuance and management of digital gold products. This initiative could enhance institutional adoption by standardizing market processes and improving access. For a deeper dive into these developments, I recommend checking out the full article.
 
-[cointelegraph.com](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

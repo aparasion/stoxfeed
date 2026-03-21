@@ -18,4 +18,4 @@ This market pullback is significant as it reflects a broader trend impacting inv
 
 For market professionals, the key takeaway is to assess the potential for volatility in crypto assets and related equities. This could present both risks and opportunities for trading strategies. For a deeper dive into the current market dynamics, I recommend checking out the full article.
 
-[decrypt.co](https://decrypt.co)
+Source: [decrypt.co](https://decrypt.co)

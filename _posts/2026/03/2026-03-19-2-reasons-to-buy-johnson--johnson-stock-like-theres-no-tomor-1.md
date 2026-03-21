@@ -18,4 +18,4 @@ The current market climate, marked by volatility and economic concerns, has seen
 
 For professionals looking to bolster their portfolios, J&J's strong fundamentals and commitment to dividend growth make it an attractive long-term investment. I recommend reading the full article for deeper insights into J&J's strategic advantages.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/2-reasons-to-buy-j-and-j-stock-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/2-reasons-to-buy-j-and-j-stock-right-now/?source=iedfolrf0000001)

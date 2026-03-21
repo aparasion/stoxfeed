@@ -18,4 +18,4 @@ The sale of VIGI, which focuses on non-U.S. companies with a strong track record
 
 For market professionals, this development underscores the need to closely monitor fund allocations and sector movements, particularly in international equities. To gain deeper insights into this transaction and its broader implications, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/perritt-capital-exits-vanguard-international-dividend-appreciation-etf-position-according)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/perritt-capital-exits-vanguard-international-dividend-appreciation-etf-position-according)

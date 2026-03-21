@@ -18,4 +18,4 @@ The Federal Reserve's stance, combined with escalating geopolitical tensions, ha
 
 For investors, this volatility presents both challenges and opportunities. While short-term fluctuations may be unsettling, the potential for long-term growth through strategic acquisitions like New Gold could be a key factor to watch. I recommend checking out the full article for a deeper dive into Coeur's strategy and market positioning.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/why-coeur-mining-stock-crashed-on-wednesday/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/why-coeur-mining-stock-crashed-on-wednesday/?source=iedfolrf0000001)

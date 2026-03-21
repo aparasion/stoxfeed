@@ -18,4 +18,4 @@ The current landscape is particularly challenging for small caps, with rising oi
 
 For those with a long-term investment horizon, a measured allocation to small caps may be prudent. This could provide a hedge against overconcentration in large-cap tech and position investors to capitalize on future growth. I encourage you to read the full article for a deeper analysis of the small-cap landscape and its implications for your investment strategy.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/is-the-vanguard-russell-2000-index-fund-etf-a-buy/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/is-the-vanguard-russell-2000-index-fund-etf-a-buy/?source=iedfolrf0000001)

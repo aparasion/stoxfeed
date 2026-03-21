@@ -18,4 +18,4 @@ The reawakening of this whale is significant for market watchers, as large holde
 
 For market professionals, this development underscores the importance of monitoring whale transactions as potential indicators of market trends. For a deeper dive into the implications of this whale activity, I recommend exploring the full article.
 
-[cointelegraph.com](https://cointelegraph.com/news/bitcoin-wallet-with-2100-btc-wakes-up-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/bitcoin-wallet-with-2100-btc-wakes-up-after-14-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

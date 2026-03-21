@@ -18,4 +18,4 @@ This delay comes amid a broader trend of tech companies reassessing their IPO ti
 
 For market professionals, Canva's approach underscores the importance of timing in the IPO process and the potential benefits of prioritizing sustainable growth over immediate capital access. For a deeper dive into Canva's strategy and the implications for the tech IPO landscape, I recommend exploring the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5NMjNnU0YxV0xCcEI1bmxaeHVCUE9KZ3hrM25Gamg4M2daZTNQb1RHQ0F2RXdMMVFEZ3hLRVE1Qy1KZVprSE5Fdk5WN1lfWVM2LV9ENjd3bnRkQ0d0NUpYQUtXZzdJSHJCdklMMw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5NMjNnU0YxV0xCcEI1bmxaeHVCUE9KZ3hrM25Gamg4M2daZTNQb1RHQ0F2RXdMMVFEZ3hLRVE1Qy1KZVprSE5Fdk5WN1lfWVM2LV9ENjd3bnRkQ0d0NUpYQUtXZzdJSHJCdklMMw?oc=5)

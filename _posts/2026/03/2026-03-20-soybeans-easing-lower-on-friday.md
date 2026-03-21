@@ -18,4 +18,4 @@ This drop in export commitments and shipments, currently at 28.055 MMT and 65% o
 
 For traders and analysts, the current pricing trends and export data underscore the importance of monitoring global supply and demand shifts. For a deeper dive into the latest developments and their implications, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/soybeans-easing-lower-friday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/soybeans-easing-lower-friday)

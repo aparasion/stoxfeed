@@ -18,4 +18,4 @@ In the housing sector, the market remains tight with the median sales price for 
 
 For market professionals, the implications of these developments are clear: investors should closely monitor the interplay between national debt trends and housing market dynamics, as these factors will likely influence broader economic conditions and investment strategies. For a deeper dive into these pressing issues, I recommend checking out the full article.
 
-[foxbusiness.com](https://www.foxbusiness.com)
+Source: [foxbusiness.com](https://www.foxbusiness.com)

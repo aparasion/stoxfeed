@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for pension
 
 For those keen on understanding the broader impact of these developments on private credit and fixed-income management, I recommend diving into the full article for a comprehensive analysis.
 
-[pionline.com](https://www.pionline.com)
+Source: [pionline.com](https://www.pionline.com)

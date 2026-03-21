@@ -18,4 +18,4 @@ This incident has already impacted the energy markets, with Brent crude oil pric
 
 For a deeper understanding of the implications for energy markets and potential price movements, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html)

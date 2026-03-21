@@ -18,4 +18,4 @@ This movement toward IPOs comes at a critical time for the market, where tech st
 
 For market professionals, understanding the strategies these companies employ in their IPO preparations can provide valuable insights into broader market trends. I recommend checking out the full article for a deeper dive into the specifics of these upcoming IPOs and their potential implications.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2MxYkVZMmQ3SmxRdHdIY1E5R3h0R2dtTVBFM0l1Y1BZZlI2bUNZRF94WEgwUlpsaFhMcUg5MEhYeF9BXzNxRlhOX2dDcmFpNXREX1h1dll6WTRiZDgtTXByQk8zUkNoYWZYYks1eHhFTzBiS1V3VWRLdmpvT1RZS1d6aG0tQlNoY2JJ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2MxYkVZMmQ3SmxRdHdIY1E5R3h0R2dtTVBFM0l1Y1BZZlI2bUNZRF94WEgwUlpsaFhMcUg5MEhYeF9BXzNxRlhOX2dDcmFpNXREX1h1dll6WTRiZDgtTXByQk8zUkNoYWZYYks1eHhFTzBiS1V3VWRLdmpvT1RZS1d6aG0tQlNoY2JJ?oc=5)

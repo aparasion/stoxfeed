@@ -18,4 +18,4 @@ This stability in financial markets is significant as it suggests a robust econo
 
 For market professionals, the key takeaway is the ECB's cautious stance on interest rates, with no hikes expected until 2028, alongside a favorable financial conditions index reflecting improved risk sentiment. This environment presents opportunities for strategic asset allocation, particularly in sectors benefiting from geopolitical developments. For a deeper dive into the ECB's insights and market implications, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html)

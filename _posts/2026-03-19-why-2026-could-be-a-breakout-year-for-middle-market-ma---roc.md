@@ -18,4 +18,4 @@ This investment reflects growing interest in alternative asset management, parti
 
 For market professionals, this development underscores the increasing importance of strategic partnerships in the financial sector. As firms like Abacus and Manning & Napier align their resources, it may signal a trend towards consolidation and collaboration in wealth management. For a deeper dive into the implications of this partnership, I recommend exploring the full article.
 
-[rbj.net](https://rbj.net)
+Source: [rbj.net](https://rbj.net)

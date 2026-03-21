@@ -18,4 +18,4 @@ The ongoing conflict in the Middle East, particularly the Iran war, is overshado
 
 For professionals in the market, understanding these dynamics is crucial. The evolving landscape of quarterly reporting and geopolitical tensions could reshape investment strategies significantly. I recommend diving deeper into the full article for a comprehensive analysis of these pressing issues.
 
-[markets.businessinsider.com](https://markets.businessinsider.com)
+Source: [markets.businessinsider.com](https://markets.businessinsider.com)

@@ -18,4 +18,4 @@ This decision is significant for financial markets as it signals the Fed's cauti
 
 Market professionals should note that the Fed's readiness to adapt its policy stance indicates potential volatility in interest-sensitive sectors. For a deeper understanding of these developments and their implications, I recommend exploring the full article.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm)

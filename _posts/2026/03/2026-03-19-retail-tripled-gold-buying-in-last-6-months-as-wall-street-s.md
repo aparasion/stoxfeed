@@ -18,4 +18,4 @@ The dynamic between retail buying and institutional selling has led to heightene
 
 For market professionals, the interplay between retail enthusiasm and institutional caution highlights the need for vigilance in tracking market sentiment and positioning. The full BIS report offers deeper insights into these trends and their implications for both precious metals and broader market dynamics—definitely worth a read.
 
-[cointelegraph.com](https://cointelegraph.com/news/institutions-quietly-selling-gold-but-retail-is-buying-triple-pace-data-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/institutions-quietly-selling-gold-but-retail-is-buying-triple-pace-data-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

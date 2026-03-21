@@ -18,4 +18,4 @@ This dip in share price reflects broader market apprehensions regarding high-gro
 
 For market professionals, this development highlights the importance of scrutinizing earnings guidance and competitive dynamics in high-growth industries. To delve deeper into the specifics of CrowdStrike's earnings report and its implications for the cybersecurity market, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0o2elJaSTdVZDA5eEZaUFpOTnREcVlETXpnNkdIeGNaTGItMU0wZnVSUU9hOFBvQXd4aHlpWHAzWHUtQnpnbWJuZ0RUNUZIYVpuLXU3dXktak85eVNZVF9OT0l4NzBMTUwyNFpQc25CWEhWSk0xZTBUdTJCdGZQeHB5VFJYTWVVNUxKZ1FsOGpOWV8tamxqQlBhVElwbmE3bXhB?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0o2elJaSTdVZDA5eEZaUFpOTnREcVlETXpnNkdIeGNaTGItMU0wZnVSUU9hOFBvQXd4aHlpWHAzWHUtQnpnbWJuZ0RUNUZIYVpuLXU3dXktak85eVNZVF9OT0l4NzBMTUwyNFpQc25CWEhWSk0xZTBUdTJCdGZQeHB5VFJYTWVVNUxKZ1FsOGpOWV8tamxqQlBhVElwbmE3bXhB?oc=5)

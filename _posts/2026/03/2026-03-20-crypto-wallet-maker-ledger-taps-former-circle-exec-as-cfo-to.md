@@ -18,4 +18,4 @@ The expansion reflects a broader trend in the crypto sector, where firms are re-
 
 For market professionals, Ledger's moves highlight the evolving landscape of crypto security and institutional adoption. For a deeper dive into Ledger's strategy and market implications, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets)
+Source: [coindesk.com](https://www.coindesk.com/business/2026/03/20/crypto-wallet-maker-ledger-taps-a-former-circle-exec-as-cfo-to-help-lead-its-push-into-the-public-markets)

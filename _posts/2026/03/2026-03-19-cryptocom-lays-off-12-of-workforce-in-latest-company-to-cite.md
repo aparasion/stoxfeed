@@ -18,4 +18,4 @@ The implications for the cryptocurrency sector are noteworthy. As firms streamli
 
 For market professionals, this development signals a critical shift in operational strategies within the crypto space. For a deeper dive into Crypto.com's AI ambitions and workforce changes, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html)

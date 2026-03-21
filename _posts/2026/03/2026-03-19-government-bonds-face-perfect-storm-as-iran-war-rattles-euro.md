@@ -18,4 +18,4 @@ This shift in monetary policy outlook has led market strategists to anticipate p
 
 For market professionals, the key takeaway is the heightened volatility in European sovereign bonds, prompting a reevaluation of investment strategies. As the situation develops, I encourage you to delve deeper into the full article for a comprehensive analysis of these market dynamics.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html)

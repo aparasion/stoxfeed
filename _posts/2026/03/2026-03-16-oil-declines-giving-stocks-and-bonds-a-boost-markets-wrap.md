@@ -18,4 +18,4 @@ The reduced oil prices are particularly significant for sectors heavily reliant 
 
 As the interplay between oil prices and broader market performance continues, professionals should closely monitor these developments for implications on portfolio strategies and sector allocations. For more in-depth analysis on how these trends are shaping market movements, I recommend checking out the full article on Bloomberg.
 
-[news.google.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUUyMUdCa2lUWGp4QWEwUlJCc00xaDBGd1p4bDAzYnVsemtPdXFrRzhIYXRXcnpvVUNNZjNKdlhka2l1TTNLYkRENWUxbU5LYklWYnJGc21RLW5KUnc0OXhWS2FUNjFnWnQ3SzBiLW1RUFRVUWgybU5aSWZ3OXlORDJqcUZ2S3E5MkZITHc4RHF6azFuZEN4dzk2SzdTUk9POVFMbE42dzRWYkF2S09N?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUUyMUdCa2lUWGp4QWEwUlJCc00xaDBGd1p4bDAzYnVsemtPdXFrRzhIYXRXcnpvVUNNZjNKdlhka2l1TTNLYkRENWUxbU5LYklWYnJGc21RLW5KUnc0OXhWS2FUNjFnWnQ3SzBiLW1RUFRVUWgybU5aSWZ3OXlORDJqcUZ2S3E5MkZITHc4RHF6azFuZEN4dzk2SzdTUk9POVFMbE42dzRWYkF2S09N?oc=5)

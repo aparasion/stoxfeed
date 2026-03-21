@@ -18,4 +18,4 @@ The Strait of Hormuz is crucial for global oil and gas exports, and continued in
 
 For market professionals, the key takeaway is the potential for ongoing supply chain disruptions in energy and commodities, depending on the geopolitical climate in the region. For a deeper understanding of these dynamics, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/france-strait-of-hormuz-ships-attacks-trump-allies-insurance-drones.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/france-strait-of-hormuz-ships-attacks-trump-allies-insurance-drones.html)

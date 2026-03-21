@@ -18,4 +18,4 @@ The impact on SSR Mining is pronounced, given that the company is the third-larg
 
 For those evaluating SSR Mining, the upcoming regulatory developments related to the Copler deal will be crucial. To gain deeper insights into this evolving situation, I recommend checking out the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/why-ssr-mining-stock-slumped-on-wednesday/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/why-ssr-mining-stock-slumped-on-wednesday/?source=iedfolrf0000001)

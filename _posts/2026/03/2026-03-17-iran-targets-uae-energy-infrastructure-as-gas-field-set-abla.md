@@ -18,4 +18,4 @@ These developments have significant implications for global oil markets, as they
 
 For market professionals, understanding the potential for further price volatility is crucial. I recommend exploring the full article for a deeper analysis of these unfolding events and their implications for the energy sector.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html)

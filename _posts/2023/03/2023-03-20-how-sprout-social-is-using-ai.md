@@ -18,4 +18,4 @@ This move comes at a crucial time as companies increasingly seek innovative solu
 
 For market professionals, this development underscores the growing importance of AI in enhancing operational efficiency and customer engagement in the tech sector. For a deeper dive into Sprout Social's AI strategy and its implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2023/03/20/how-sprout-social-is-using-ai/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2023/03/20/how-sprout-social-is-using-ai/?source=iedfolrf0000001)

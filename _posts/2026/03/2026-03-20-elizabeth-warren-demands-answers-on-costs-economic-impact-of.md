@@ -18,4 +18,4 @@ The rising energy prices are likely to have significant ripple effects on inflat
 
 Market professionals should closely monitor developments in energy prices and inflation metrics, as these factors could influence monetary policy decisions moving forward. For a deeper dive into Warren's letter and its potential ramifications, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/elizabeth-warren-demands-answers-on-costs-economic-impact-of-illegal-and-reckless-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/elizabeth-warren-demands-answers-on-costs-economic-impact-of-illegal-and-reckless-war.html)

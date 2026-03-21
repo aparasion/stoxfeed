@@ -18,4 +18,4 @@ Despite a decline in revenue from HK$10.29 billion to HK$7.98 billion, the compa
 
 For market professionals, this turnaround highlights the potential for recovery in the hospitality sector as travel demand rebounds. For a deeper dive into the company's performance and strategic outlook, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/hongkong-and-shanghai-hotels-swings-fy25-profit)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/hongkong-and-shanghai-hotels-swings-fy25-profit)

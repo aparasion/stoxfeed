@@ -18,4 +18,4 @@ The implications of Bankman-Fried's outreach extend beyond personal motives; the
 
 For market professionals, Bankman-Fried's strategic positioning highlights the intersection of politics and financial recovery. His attempts to sway public opinion could affect future regulatory landscapes in crypto. For a deeper dive into this unfolding story, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com/policy/2026/03/21/sam-bankman-fried-tries-to-get-on-donald-trump-s-good-side-by-backing-his-iran-strikes)
+Source: [coindesk.com](https://www.coindesk.com/policy/2026/03/21/sam-bankman-fried-tries-to-get-on-donald-trump-s-good-side-by-backing-his-iran-strikes)

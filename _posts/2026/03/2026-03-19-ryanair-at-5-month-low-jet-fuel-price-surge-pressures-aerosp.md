@@ -18,4 +18,4 @@ The airline's decision to reduce operations at Brussels Charleroi Airport by abo
 
 For market professionals, Ryanair's ability to navigate regulatory challenges and maintain cost leadership amidst rising operational costs is noteworthy. The full article offers deeper insights into these developments and their implications for the airline sector.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/ryanair-at-5-month-low-jet-fuel-price-surge-pressures-aerospace-industry)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/ryanair-at-5-month-low-jet-fuel-price-surge-pressures-aerospace-industry)

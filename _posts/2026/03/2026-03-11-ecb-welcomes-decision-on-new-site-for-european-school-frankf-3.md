@@ -18,4 +18,4 @@ This decision is not just a local matter; it has broader implications for Frankf
 
 For professionals in finance and investment, this development underscores the interconnectedness of education and economic vitality in major financial centers. I recommend exploring the full article for a deeper understanding of the implications for Frankfurt's business landscape.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)

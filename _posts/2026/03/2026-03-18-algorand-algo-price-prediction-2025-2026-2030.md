@@ -18,4 +18,4 @@ However, Algorand faces challenges, including intense competition, regulatory un
 
 For market professionals, understanding Algorand's trajectory is crucial, especially as it seeks partnerships to enhance its ecosystem. I recommend exploring the full article for a deeper dive into the factors shaping ALGO's future.
 
-[benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/algorand-price-prediction)

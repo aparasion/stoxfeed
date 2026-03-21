@@ -18,4 +18,4 @@ Market professionals should note the survey's more dovish outlook on Federal Res
 
 For a deeper dive into the implications of these findings on market dynamics and Fed policy, I highly recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/cnbc-fed-survey-elevated-oil-but-a-rate-cut.html)

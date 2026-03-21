@@ -18,4 +18,4 @@ The Fed's stance reflects a cautious approach to monetary policy as geopolitical
 
 For market professionals, this environment underscores the importance of closely monitoring energy prices and inflation indicators as they navigate investment strategies. For a deeper dive into these developments and their potential impact on your portfolio, I recommend exploring the full article.
 
-[qz.com](https://qz.com)
+Source: [qz.com](https://qz.com)

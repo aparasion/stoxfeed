@@ -18,4 +18,4 @@ The acquisition of Stellantis dealerships enhances Carvana's competitive edge by
 
 For investors, this strategy may signal a pivotal moment in the automotive retail landscape. I encourage you to read the full article for deeper insights into Carvana's evolving business model and its implications for the market.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/why-in-the-world-is-carvana-buying-brick-and-morta/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/why-in-the-world-is-carvana-buying-brick-and-morta/?source=iedfolrf0000001)

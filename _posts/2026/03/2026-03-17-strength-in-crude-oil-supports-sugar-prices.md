@@ -18,4 +18,4 @@ The implications for the sugar market are significant. Despite the recent price 
 
 For market professionals, understanding these dynamics is crucial, especially as India's export capabilities expand. Dive deeper into the full analysis to grasp the broader market implications.
 
-[nasdaq.com](https://www.nasdaq.com/articles/strength-crude-oil-supports-sugar-prices)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/strength-crude-oil-supports-sugar-prices)

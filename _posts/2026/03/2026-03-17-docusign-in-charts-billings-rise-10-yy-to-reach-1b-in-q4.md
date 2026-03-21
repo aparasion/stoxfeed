@@ -18,4 +18,4 @@ The earnings beat is significant for DocuSign, as it underscores the resilience 
 
 For market professionals, the key takeaway is DocuSign's potential as a growth stock in the tech space, especially given its recent performance and outlook. I encourage you to delve deeper into this development by reading the full article for a comprehensive analysis.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565607-docusign-in-charts-billings-rise-10-yy-to-reach-1b-in-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565607-docusign-in-charts-billings-rise-10-yy-to-reach-1b-in-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ Cameco, a leading uranium producer, is capitalizing on the global push for nucle
 
 For market professionals seeking to diversify portfolios, these companies offer a compelling opportunity to gain exposure to essential resources while mitigating risk. I highly recommend exploring the full article for deeper insights into these investment prospects.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/the-2-best-industrial-stocks-to-buy-and-hold-for-d/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/the-2-best-industrial-stocks-to-buy-and-hold-for-d/?source=iedfolrf0000001)

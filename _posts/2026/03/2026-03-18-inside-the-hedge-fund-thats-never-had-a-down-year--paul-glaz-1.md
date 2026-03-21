@@ -18,4 +18,4 @@ As private credit approaches a $2 trillion market, the integration of public and
 
 For market professionals, understanding these developments is crucial as they navigate a changing regulatory and investment environment. I recommend diving deeper into this article to grasp the full implications of these trends on your investment strategies.
 
-[pionline.com](https://www.pionline.com)
+Source: [pionline.com](https://www.pionline.com)

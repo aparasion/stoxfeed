@@ -18,4 +18,4 @@ This shift in Waller's outlook reflects broader market sentiment, where expectat
 
 For market professionals, Waller's comments underscore the delicate balance the Fed must strike between fostering growth and managing inflation. For a deeper dive into these developments and their implications, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html)

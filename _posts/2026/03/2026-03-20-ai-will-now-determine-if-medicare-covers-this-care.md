@@ -18,4 +18,4 @@ This change could have major implications for healthcare access among retirees, 
 
 Financial professionals should closely monitor the outcomes of this pilot program, as its success could signal shifts in Medicare spending and impact healthcare stocks. For a deeper dive into the implications of this program, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/ai-will-now-determine-if-medicare-covers-this-care/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/ai-will-now-determine-if-medicare-covers-this-care/?source=iedfolrf0000001)

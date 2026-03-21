@@ -18,4 +18,4 @@ This development has broader implications for the financial markets, particularl
 
 Investors should monitor how financial institutions respond to this challenge, as new offerings could reshape market dynamics. For a deeper dive into this issue and its ramifications, I recommend checking out the full article.
 
-[pymnts.com](https://www.pymnts.com)
+Source: [pymnts.com](https://www.pymnts.com)

@@ -18,4 +18,4 @@ This case underscores the ongoing challenges within legal frameworks as they ada
 
 For market professionals, this case highlights the intersection of law and digital assets, emphasizing the need for robust security measures in cryptocurrency management. For a deeper dive into the implications of this case, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet)
+Source: [coindesk.com](https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet)

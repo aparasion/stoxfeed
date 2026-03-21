@@ -18,4 +18,4 @@ In this environment, inflation-resistant stocks like AutoZone (NYSE: AZO) and Do
 
 For a deeper dive into these inflation-proof stocks and their market implications, I highly recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/inflation-could-be-coming-back-2-stocks-to-buy-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/inflation-could-be-coming-back-2-stocks-to-buy-now/?source=iedfolrf0000001)

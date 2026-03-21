@@ -18,4 +18,4 @@ Carnival, for instance, is grappling with rising oil costs despite reporting rec
 
 For market professionals, this environment offers a chance to capitalize on undervalued stocks with strong fundamentals. Explore the full article for deeper insights into these opportunities and the broader implications for your investment strategy.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/2026-market-drop-5-stocks-to-buy-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/2026-market-drop-5-stocks-to-buy-right-now/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The focus on data centers aligns with the ongoing digital transformation, where 
 
 For investors seeking to refine their strategies, Gardner’s insights provide a valuable framework for identifying high-potential stocks. I recommend exploring the full article for a deeper understanding of these sectors and actionable investment strategies.
 
-[fool.com](https://www.fool.com)
+Source: [fool.com](https://www.fool.com)

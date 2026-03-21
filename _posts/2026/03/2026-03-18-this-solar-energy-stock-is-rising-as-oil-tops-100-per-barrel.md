@@ -18,4 +18,4 @@ NextEra's regulated utility segment provides a steady income stream, insulated f
 
 For those seeking refuge from rising oil prices and market volatility, NextEra Energy offers a blend of safety and growth potential. I recommend exploring the full article for a deeper dive into this compelling investment opportunity.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/this-solar-energy-stock-is-rising-as-oil-tops-100/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/this-solar-energy-stock-is-rising-as-oil-tops-100/?source=iedfolrf0000001)

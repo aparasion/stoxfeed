@@ -18,4 +18,4 @@ The strong quarterly performance highlights Andersen's operational resilience, w
 
 For market professionals, Andersen's trajectory suggests a stable investment opportunity amid a robust economic backdrop. For a deeper dive into Andersen's performance and future outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/why-andersen-group-stock-crushed-it-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/why-andersen-group-stock-crushed-it-today/?source=iedfolrf0000001)

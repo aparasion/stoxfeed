@@ -20,4 +20,4 @@ For investors looking to capitalize on energy sector momentum, this development 
 
 *StoxFeed tracks this as a market signal: [AI and semiconductor stocks are driving tech sector gains](/signals/#ai-stocks-momentum)*
 
-[247wallst.com](https://247wallst.com)
+Source: [247wallst.com](https://247wallst.com)

@@ -18,4 +18,4 @@ This development is particularly relevant for market professionals as it undersc
 
 For those tracking the intersection of regulatory environments and market movements, the outcome of these discussions could signal important precedents. I recommend reading the full article for a deeper understanding of the implications for Musk and the broader market landscape.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html)

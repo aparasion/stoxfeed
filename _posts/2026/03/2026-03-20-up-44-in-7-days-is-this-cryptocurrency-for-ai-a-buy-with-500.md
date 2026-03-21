@@ -18,4 +18,4 @@ The growth in AI usage creates a favorable demand environment for Bittensor, esp
 
 For a deeper dive into Bittensor's potential and market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/up-44-in-7-days-is-this-cryptocurrency-for-ai-a-bu/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/up-44-in-7-days-is-this-cryptocurrency-for-ai-a-bu/?source=iedfolrf0000001)

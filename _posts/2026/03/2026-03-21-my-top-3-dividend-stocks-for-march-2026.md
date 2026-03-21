@@ -18,4 +18,4 @@ Among the top picks this March are Ares Capital, S&P Global, and American Expres
 
 For professionals seeking reliable income and growth, these dividend stocks warrant close attention. Dive into the full article for a deeper analysis and additional insights on these investment opportunities.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/my-top-3-dividend-stocks-for-march-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/my-top-3-dividend-stocks-for-march-2026/?source=iedfolrf0000001)

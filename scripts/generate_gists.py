@@ -567,7 +567,7 @@ signal_confidence: {signal_confidence}
 
 {gist}
 {signal_ref}
-[{safe_publisher}]({safe_source_url})
+Source: [{safe_publisher}]({safe_source_url})
 """
 
             os.makedirs(post_dir, exist_ok=True)

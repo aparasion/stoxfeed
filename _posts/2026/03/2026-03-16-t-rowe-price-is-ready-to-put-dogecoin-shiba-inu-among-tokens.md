@@ -18,4 +18,4 @@ This move is significant as it reflects a growing trend among traditional asset 
 
 For market professionals, the implications of T. Rowe Price's entry into the crypto space are noteworthy, particularly regarding potential shifts in investor sentiment and asset flows. I recommend checking out the full article for deeper insights into the fund's structure and strategy.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/16/t-rowe-price-a-usd1-8-trillion-asset-manager-is-ready-to-put-dogecoin-and-shiba-inu-in-its-new-crypto-etf)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/16/t-rowe-price-a-usd1-8-trillion-asset-manager-is-ready-to-put-dogecoin-and-shiba-inu-in-its-new-crypto-etf)

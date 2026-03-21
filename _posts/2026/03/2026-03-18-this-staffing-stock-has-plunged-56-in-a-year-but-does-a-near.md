@@ -18,4 +18,4 @@ Despite its stock performance, ManpowerGroup reported a 7% year-over-year revenu
 
 For a deeper dive into this strategic move and its implications for the workforce solutions sector, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/18/this-staffing-stock-has-plunged-56-in-a-year-but-does-a-nearly-usd10-million-buy-signal-a-turnaround-looming/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/18/this-staffing-stock-has-plunged-56-in-a-year-but-does-a-nearly-usd10-million-buy-signal-a-turnaround-looming/?source=iedfolrf0000001)

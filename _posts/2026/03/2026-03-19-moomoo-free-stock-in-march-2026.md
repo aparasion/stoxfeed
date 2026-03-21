@@ -18,4 +18,4 @@ The offer includes tiered stock bonuses based on initial deposits, with $20 in N
 
 For market professionals, this promotion presents an opportunity to leverage Moomoo's tools while potentially enhancing their portfolios with NVDA stock. To learn more about the specifics of the promotion and how it can benefit your trading strategy, check out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/moomoo-free-stock-how-to-get-a-free-share-in-november-2024)
+Source: [benzinga.com](https://www.benzinga.com/money/moomoo-free-stock-how-to-get-a-free-share-in-november-2024)

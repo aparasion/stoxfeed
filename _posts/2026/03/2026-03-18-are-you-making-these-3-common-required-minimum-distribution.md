@@ -18,4 +18,4 @@ The impact of RMDs on taxable income can influence financial strategies, particu
 
 For a deeper understanding of RMDs and how to navigate common pitfalls, I recommend checking out the full article. It offers valuable insights that could enhance your retirement planning strategies.
 
-[nasdaq.com](https://www.nasdaq.com/articles/are-you-making-these-3-common-required-minimum-distribution-rmd-mistakes-0)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/are-you-making-these-3-common-required-minimum-distribution-rmd-mistakes-0)

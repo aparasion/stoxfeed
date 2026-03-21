@@ -18,4 +18,4 @@ This partnership underscores a broader trend of increasing reliance on defense t
 
 For market professionals, Gecko's growth and the Navy's commitment to modernizing defense systems may signal a shift in investment opportunities within the defense sector. I recommend checking out the full article for a deeper understanding of this pivotal development.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html)

@@ -18,4 +18,4 @@ This situation is pivotal for traders and portfolio managers, as it highlights t
 
 For financial professionals, the key takeaway is that Bitcoin is at a crucial inflection point. A break below the established channel could signal a renewed bearish trend, while a breakout above may indicate a potential recovery. For a deeper analysis, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/20/bitcoin-s-price-action-looks-dangerously-similar-to-the-pattern-that-sent-it-crashing-to-usd60-000)

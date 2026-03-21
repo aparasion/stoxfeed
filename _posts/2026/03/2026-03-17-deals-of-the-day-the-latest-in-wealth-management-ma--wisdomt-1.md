@@ -18,4 +18,4 @@ The implications for the financial markets are noteworthy. As iCapital diversifi
 
 For market professionals, understanding these shifts is crucial. iCapital's move could reshape competitive dynamics in wealth management, emphasizing the need for firms to innovate continuously. I recommend reading the full article for deeper insights into this development and its potential impact on the sector.
 
-[familywealthreport.com](https://www.familywealthreport.com)
+Source: [familywealthreport.com](https://www.familywealthreport.com)

@@ -18,4 +18,4 @@ Investors are particularly interested in Micron's guidance on pricing trends and
 
 As Micron prepares to unveil its results, market professionals should keep an eye on the company's commentary regarding demand recovery and its strategic initiatives. For a deeper dive into what to expect from Micron's earnings report, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMEZCb3BHY05senlXWVotbER6d01hTUdHbldXWWN3TnBNTHB2eVdOVnpyUDVFUFk4ajFRdmx4dHNJbWIzd3pzY1ZxN2xjc1htLVZPLXBiQXh4Ql9EUzhyNHhjU2lPU0tCZWFlUi1zMkJqTU5rNWFSa3FFTU9zdXVUZ3pEWUVLcWdKRjlBZHVRNzk0a3NySm54STBJb19xRzlNVTN2SUxhZTFEZk5QMnlTZnloVG9yRUtLallxUWxwWnA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMEZCb3BHY05senlXWVotbER6d01hTUdHbldXWWN3TnBNTHB2eVdOVnpyUDVFUFk4ajFRdmx4dHNJbWIzd3pzY1ZxN2xjc1htLVZPLXBiQXh4Ql9EUzhyNHhjU2lPU0tCZWFlUi1zMkJqTU5rNWFSa3FFTU9zdXVUZ3pEWUVLcWdKRjlBZHVRNzk0a3NySm54STBJb19xRzlNVTN2SUxhZTFEZk5QMnlTZnloVG9yRUtLallxUWxwWnA?oc=5)

@@ -18,4 +18,4 @@ Levine's discussion also touched on the nuances of fundraising, highlighting tha
 
 For market professionals, understanding these dynamics can enhance investment strategies and startup evaluations. For a deeper dive into Levine's entrepreneurial journey and valuable lessons for investors, check out the full conversation at The Motley Fool.
 
-[fool.com](https://www.fool.com/investing/2023/03/25/waze-co-founder-uri-levine-on-entrepreneurship-aut/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2023/03/25/waze-co-founder-uri-levine-on-entrepreneurship-aut/?source=iedfolrf0000001)

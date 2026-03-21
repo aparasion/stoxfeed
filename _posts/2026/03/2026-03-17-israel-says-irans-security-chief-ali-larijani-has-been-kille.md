@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly in the ener
 
 For a deeper understanding of the geopolitical landscape and its potential market ramifications, I recommend exploring the full article for more insights.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/iran-war-ali-larijani-israel-united-states-middle-east-crisis.html)

@@ -18,4 +18,4 @@ Meanwhile, Hershey is also making headlines with a forecasted earnings surge for
 
 For investors, the performance of these consumer staples stocks amid economic uncertainty highlights their resilience and potential for steady returns. To dive deeper into these developments, I recommend checking out the full article for a comprehensive analysis.
 
-[nasdaq.com](https://www.nasdaq.com/articles/top-2-consumer-staples-stocks-buy-right-now-0)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/top-2-consumer-staples-stocks-buy-right-now-0)

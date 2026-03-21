@@ -20,4 +20,4 @@ For those tracking energy stocks and geopolitical developments, this article off
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[nasdaq.com](https://www.nasdaq.com/articles/european-shares-seen-oil-prices-fall-easing-supply-fears)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/european-shares-seen-oil-prices-fall-easing-supply-fears)

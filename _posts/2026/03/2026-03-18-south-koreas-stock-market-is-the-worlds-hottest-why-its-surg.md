@@ -18,4 +18,4 @@ In the commodities space, concerns over Iran have led to a pullback in copper pr
 
 Investors should remain vigilant as market dynamics shift, particularly with the potential for interest rate cuts and sector-specific challenges. For a deeper dive into these developments and their implications for your portfolio, I highly recommend exploring the full article.
 
-[barrons.com](https://www.barrons.com)
+Source: [barrons.com](https://www.barrons.com)

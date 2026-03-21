@@ -18,4 +18,4 @@ The EUFN ETF has demonstrated strong performance, rising 44% over the past year 
 
 Investors should closely monitor the sustainability of the current profitability trends in European banks, as future interest rate movements and credit conditions could significantly impact EUFN's performance. For a deeper dive into the implications of this transaction and the ETF’s outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/19/1607-capital-partners-builds-position-in-ishares-msci-europe-financials-etf-as-bank-earnings-strengthen/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/19/1607-capital-partners-builds-position-in-ishares-msci-europe-financials-etf-as-bank-earnings-strengthen/?source=iedfolrf0000001)

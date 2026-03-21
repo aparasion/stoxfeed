@@ -18,4 +18,4 @@ This shift in focus is benefiting Bitcoin, which has outperformed gold and is ap
 
 For market professionals, monitoring Bitcoin's movement around this resistance level is crucial, as it may signal broader trends in crypto and equity markets. I recommend diving deeper into the full article for a comprehensive analysis of these developments.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/crypto-news-bitcoin-nears-six-week-high-is-the-bull-run-back)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/crypto-news-bitcoin-nears-six-week-high-is-the-bull-run-back)

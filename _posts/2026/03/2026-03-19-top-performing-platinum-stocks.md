@@ -18,4 +18,4 @@ As the market for sustainable energy technologies expands, the use of platinum i
 
 For professionals looking to capitalize on the green energy transition, investing in platinum stocks could be a strategic move. I recommend exploring the full article for a deeper dive into the best platinum stocks and their market implications.
 
-[benzinga.com](https://www.benzinga.com/money/best-platinum-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-platinum-stocks)

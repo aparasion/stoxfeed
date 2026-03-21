@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for Europea
 
 For a deeper dive into HSBC's insights and sector recommendations, I encourage you to read the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565529-recent-equity-rotations-show-dislocation-in-markets-rather-than-stagflation-hsbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565529-recent-equity-rotations-show-dislocation-in-markets-rather-than-stagflation-hsbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

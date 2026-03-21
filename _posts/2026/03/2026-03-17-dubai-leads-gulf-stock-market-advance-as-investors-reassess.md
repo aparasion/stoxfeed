@@ -18,4 +18,4 @@ The rebound in Dubai's stocks is significant for the Gulf Cooperation Council (G
 
 For market professionals, this development underscores the importance of monitoring regional dynamics and sector performance in the Gulf. For a deeper dive into the factors driving this market advance, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlVfUWlTcGp3OUR6ZEdSbEdpMmZ0Sy1LQVBPb3JlS3JsR3NrSC04VkxBUVFSVUtZeldzcEo0SW5OY3lFWm9JeGZTZVJyUDRMRDdfWkpQeGc5TGJTWFFyQUxWLXNvZVhxVWlKMG41OWxLUlh2Z2ViNnVyQkhJcEhxamx2eldRWEZBYWFBWDVkU2VTdnYzbTIwMnRR?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlVfUWlTcGp3OUR6ZEdSbEdpMmZ0Sy1LQVBPb3JlS3JsR3NrSC04VkxBUVFSVUtZeldzcEo0SW5OY3lFWm9JeGZTZVJyUDRMRDdfWkpQeGc5TGJTWFFyQUxWLXNvZVhxVWlKMG41OWxLUlh2Z2ViNnVyQkhJcEhxamx2eldRWEZBYWFBWDVkU2VTdnYzbTIwMnRR?oc=5)

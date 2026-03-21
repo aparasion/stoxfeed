@@ -18,4 +18,4 @@ The implications for Nebius are profound; the company anticipates a revenue back
 
 For market professionals, Nebius presents a compelling growth opportunity with significant upside potential. I recommend exploring the full details of this transformative deal in the original article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/the-good-news-just-keeps-flowing-in-for-nebius-inv/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/the-good-news-just-keeps-flowing-in-for-nebius-inv/?source=iedfolrf0000001)

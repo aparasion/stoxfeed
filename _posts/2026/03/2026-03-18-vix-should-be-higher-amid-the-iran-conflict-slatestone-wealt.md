@@ -18,4 +18,4 @@ Micron's strong results highlight the resilience of its business model in a fluc
 
 For market professionals, Micron's earnings report serves as a crucial indicator of sector health and demand trends. I encourage you to delve deeper into the full article for a comprehensive analysis of these developments.
 
-[cnbc.com](https://www.cnbc.com)
+Source: [cnbc.com](https://www.cnbc.com)

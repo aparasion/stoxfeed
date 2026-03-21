@@ -18,4 +18,4 @@ This crackdown comes at a time when the Financial Action Task Force estimates th
 
 For market professionals, the implications are clear: the evolving regulatory landscape may reshape the operational framework for crypto businesses in Canada. I recommend exploring the full article for a deeper understanding of these developments and their potential impact on the market.
 
-[cointelegraph.com](https://cointelegraph.com/news/canada-crypto-msb-crackdown-50-registrations-revoked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/canada-crypto-msb-crackdown-50-registrations-revoked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

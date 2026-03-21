@@ -18,4 +18,4 @@ For financial markets professionals, these figures underscore the importance of 
 
 As you assess your clients' portfolios, consider the broader implications of these savings trends. Encouraging proactive retirement planning and maximizing 401(k) contributions can lead to better financial outcomes. For a deeper dive into these findings, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/17/the-average-401k-balance-today-may-surprise-you/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/17/the-average-401k-balance-today-may-surprise-you/?source=iedfolrf0000001)

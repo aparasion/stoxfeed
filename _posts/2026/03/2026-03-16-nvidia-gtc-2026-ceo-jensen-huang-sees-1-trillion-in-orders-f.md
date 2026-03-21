@@ -18,4 +18,4 @@ The introduction of the Vera Rubin system, promising tenfold performance improve
 
 For market professionals, Nvidia's advancements signal robust growth potential in AI-driven sectors, making it a key player to watch. I highly recommend exploring the full article for deeper insights into these developments.
 
-[cnbc.com](https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html)

@@ -18,4 +18,4 @@ This perspective comes at a critical time as various sectors are grappling with 
 
 For market professionals, the key takeaway is the potential for recovery in sectors that have been unfairly punished. For a deeper dive into Snider's analysis and the specific stocks he recommends, I encourage you to explore the full article.
 
-[barrons.com](https://www.barrons.com)
+Source: [barrons.com](https://www.barrons.com)

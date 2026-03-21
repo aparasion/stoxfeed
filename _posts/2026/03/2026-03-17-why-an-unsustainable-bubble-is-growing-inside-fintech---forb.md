@@ -18,4 +18,4 @@ The implications for the financial markets are noteworthy, as Aponte's investmen
 
 For market professionals, Aponte's strategic maneuvers highlight the intersection of geopolitical events and commodity shipping, offering insights into future trends. I recommend diving deeper into this compelling story on Forbes to understand the broader market implications.
 
-[forbes.com](https://www.forbes.com)
+Source: [forbes.com](https://www.forbes.com)

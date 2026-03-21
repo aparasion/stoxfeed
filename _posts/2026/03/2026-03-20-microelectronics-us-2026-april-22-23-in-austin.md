@@ -18,4 +18,4 @@ The event's significance lies in its emphasis on actionable insights, featuring 
 
 A key takeaway for market professionals is the opportunity to engage with emerging talent through the Talent Foundry program, addressing the industry's skills gap. For a deeper dive into the event's agenda and exhibitors, I recommend checking out the full article.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/microelectronics-us-2026-april-22-23-in-austin/?utm_source=rss&utm_medium=rss&utm_campaign=microelectronics-us-2026-april-22-23-in-austin)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/microelectronics-us-2026-april-22-23-in-austin/?utm_source=rss&utm_medium=rss&utm_campaign=microelectronics-us-2026-april-22-23-in-austin)

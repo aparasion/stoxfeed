@@ -18,4 +18,4 @@ Investors should consider the distinct characteristics of energy stocks, includi
 
 For a deeper dive into the best energy stocks and investment strategies, I highly recommend checking out the full article. It offers valuable insights that could enhance your portfolio management approach.
 
-[benzinga.com](https://www.benzinga.com/money/best-energy-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-energy-stocks)

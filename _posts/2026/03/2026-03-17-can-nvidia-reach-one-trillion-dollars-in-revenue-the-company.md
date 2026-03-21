@@ -18,4 +18,4 @@ The implications for the financial markets are substantial. With U.S. Big Tech c
 
 Nvidia's strategy extends beyond chip sales, as it develops a comprehensive AI ecosystem that fosters customer loyalty and mitigates the risk of client migration. This ambitious revenue goal, while challenging, could be within reach if capital expenditures from major tech firms remain robust. For a deeper dive into Nvidia's strategy and market positioning, I recommend exploring the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/can-nvidia-reach-one-trillion-dollars-in-revenue-the-company-s-ambitious-goals-in-the-ai-era)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/can-nvidia-reach-one-trillion-dollars-in-revenue-the-company-s-ambitious-goals-in-the-ai-era)

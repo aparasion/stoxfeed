@@ -18,4 +18,4 @@ NextEra Energy (NEE) stands out in this landscape, operating a diverse portfolio
 
 For investors seeking reliable income, NextEra's 2.5% dividend yield and consistent payout history make it a compelling choice in the nuclear sector. I recommend diving deeper into this article to explore NextEra's potential as a long-term dividend investment.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/this-nuclear-dividend-stock-could-turn-1000-into-a/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/this-nuclear-dividend-stock-could-turn-1000-into-a/?source=iedfolrf0000001)

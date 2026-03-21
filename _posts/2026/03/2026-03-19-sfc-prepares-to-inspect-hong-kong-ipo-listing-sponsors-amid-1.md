@@ -18,4 +18,4 @@ This expansion is poised to impact various sectors, particularly banking and fin
 
 For market professionals, this development underscores the importance of monitoring China's digital currency initiatives, as they could influence investment strategies and currency valuations. I recommend diving deeper into the full article for a comprehensive understanding of the implications for the financial markets.
 
-[scmp.com](https://www.scmp.com)
+Source: [scmp.com](https://www.scmp.com)

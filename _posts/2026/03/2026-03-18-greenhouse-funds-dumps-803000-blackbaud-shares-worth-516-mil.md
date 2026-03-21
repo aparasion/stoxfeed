@@ -18,4 +18,4 @@ The sale reflects broader market trends impacting the software-as-a-service (Saa
 
 For investors, Greenhouse's move underscores the potential risks associated with holding onto underperforming tech stocks. To delve deeper into the implications of this transaction, I recommend exploring the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/18/greenhouse-funds-dumps-803-000-blackbaud-shares-worth-usd51-6-million/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/18/greenhouse-funds-dumps-803-000-blackbaud-shares-worth-usd51-6-million/?source=iedfolrf0000001)

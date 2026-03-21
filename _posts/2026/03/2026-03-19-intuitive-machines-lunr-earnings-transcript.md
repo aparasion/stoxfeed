@@ -18,4 +18,4 @@ This strategic consolidation allows Intuitive Machines to diversify its revenue 
 
 For market professionals, the key takeaway is the potential for Intuitive Machines to capitalize on its expanded scale and capabilities, making it a compelling player in the evolving space sector. I recommend diving into the full details of their earnings call for a deeper understanding of their strategic direction and financial outlook.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/intuitive-machines-lunr-earnings-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/intuitive-machines-lunr-earnings-transcript/?source=iedfolrf0000001)

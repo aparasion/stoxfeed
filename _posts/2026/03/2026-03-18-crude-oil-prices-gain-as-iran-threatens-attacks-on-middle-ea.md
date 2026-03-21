@@ -18,4 +18,4 @@ This mixed performance in energy markets highlights the ongoing geopolitical ris
 
 Market professionals should closely monitor these developments, as sustained geopolitical tensions could lead to significant price fluctuations. For a deeper dive into the intricacies of the current energy landscape, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/crude-oil-prices-gain-iran-threatens-attacks-middle-eastern-energy-infrastructure)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/crude-oil-prices-gain-iran-threatens-attacks-middle-eastern-energy-infrastructure)

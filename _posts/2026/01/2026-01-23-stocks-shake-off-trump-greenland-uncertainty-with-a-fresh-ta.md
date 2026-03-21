@@ -18,4 +18,4 @@ This development is significant as it highlights the recurring pattern of Trump'
 
 For market professionals, the TACO (Trump Always Chickens Out) phenomenon suggests that future threats may present buying opportunities. Staying alert to these market movements could enhance your investment strategy. For a deeper dive into this trend, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/01/22/stocks-shake-off-trump-greenland-uncertainty-with/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/01/22/stocks-shake-off-trump-greenland-uncertainty-with/?source=iedfolrf0000001)

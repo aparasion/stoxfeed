@@ -18,4 +18,4 @@ The recent turmoil in precious metals reflects a shift in investor sentiment, as
 
 For a deeper analysis of the factors driving these market movements and their implications for trading strategies, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html)

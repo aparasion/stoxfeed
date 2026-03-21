@@ -18,4 +18,4 @@ Despite these challenges, Oracle reported exceptional growth in its cloud infras
 
 With strong fundamentals and a robust growth trajectory, Oracle presents a compelling buying opportunity for investors looking to capitalize on the AI trend. For a deeper dive into Oracle's potential, I recommend checking out the full article for more insights.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/down-20-is-oracle-a-no-brainer-ai-buy/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/down-20-is-oracle-a-no-brainer-ai-buy/?source=iedfolrf0000001)

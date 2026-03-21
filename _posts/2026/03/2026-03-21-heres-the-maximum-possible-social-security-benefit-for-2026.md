@@ -18,4 +18,4 @@ Understanding these calculations is crucial for financial professionals and reti
 
 For those navigating retirement strategies, grasping these nuances can inform decisions on when to claim benefits and how to optimize earnings. I recommend diving deeper into this article for a comprehensive understanding of maximizing Social Security benefits.
 
-[fool.com](https://www.fool.com/retirement/2026/03/21/heres-the-maximum-possible-social-security-benefit/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/21/heres-the-maximum-possible-social-security-benefit/?source=iedfolrf0000001)

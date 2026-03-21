@@ -18,4 +18,4 @@ The implications for Hecla Mining are significant, as the company is heavily rel
 
 For a deeper dive into Hecla's market position and the factors influencing its stock performance, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/why-hecla-mining-stock-withered-this-week/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/why-hecla-mining-stock-withered-this-week/?source=iedfolrf0000001)

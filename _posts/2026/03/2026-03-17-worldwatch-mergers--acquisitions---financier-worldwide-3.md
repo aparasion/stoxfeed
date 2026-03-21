@@ -18,4 +18,4 @@ This shift in focus comes amid a broader resurgence in dealmaking, particularly 
 
 For market professionals, understanding these dynamics is crucial for navigating investment strategies and risk management. To delve deeper into these developments and their implications, I recommend exploring the full article for a comprehensive analysis.
 
-[financierworldwide.com](https://www.financierworldwide.com)
+Source: [financierworldwide.com](https://www.financierworldwide.com)

@@ -18,4 +18,4 @@ This funding surge could have far-reaching implications for defense contractors 
 
 For those looking to understand the broader implications of this funding request and its impact on market dynamics, I recommend reading the full article for a deeper analysis.
 
-[apnews.com](https://apnews.com)
+Source: [apnews.com](https://apnews.com)

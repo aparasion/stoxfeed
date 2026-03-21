@@ -18,4 +18,4 @@ This distinction is crucial for market professionals evaluating income versus gr
 
 Ultimately, the choice between these ETFs hinges on an investor's strategy—whether to chase higher current yields or to secure steady income growth. For a deeper dive into their performance and implications, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/higher-yield-or-consistent-dividend-growth-vig-vs-fdvv)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/higher-yield-or-consistent-dividend-growth-vig-vs-fdvv)

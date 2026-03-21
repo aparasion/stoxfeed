@@ -18,4 +18,4 @@ The implications for financial markets are substantial. If the military campaign
 
 Investors should closely monitor developments, as the duration and outcome of the operation will likely influence market dynamics and economic forecasts. For a deeper analysis of the potential ramifications and expert insights, I recommend exploring the full article.
 
-[jpmorgan.com](https://www.jpmorgan.com)
+Source: [jpmorgan.com](https://www.jpmorgan.com)

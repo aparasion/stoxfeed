@@ -18,4 +18,4 @@ The implications for financial markets are significant. The sustained tightness 
 
 Market participants should closely monitor these developments, particularly the potential for further escalation in the region and its impact on global supply chains. For a deeper dive into the intricacies of this evolving situation, I recommend checking out the full article.
 
-[oilprice.com](https://oilprice.com/Energy/Energy-General/Oil-Extends-Rally-as-Hormuz-Stays-Closed.html)
+Source: [oilprice.com](https://oilprice.com/Energy/Energy-General/Oil-Extends-Rally-as-Hormuz-Stays-Closed.html)

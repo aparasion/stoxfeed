@@ -18,4 +18,4 @@ This market reaction reflects broader concerns about economic stability, particu
 
 For market professionals, the implications are clear: heightened inflation and energy prices could lead to prolonged volatility. I recommend diving deeper into the full article for a comprehensive analysis of these trends and their potential impact on your strategies.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html)

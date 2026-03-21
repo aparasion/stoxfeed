@@ -18,4 +18,4 @@ Palo Alto Networks is actively expanding its service portfolio through acquisiti
 
 Investors should consider these companies as potential beneficiaries of the evolving cybersecurity landscape, particularly as the demand for robust security solutions increases. For a deeper dive into these developments and their implications, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/3-cybersecurity-stocks-for-age-of-genarative-ai/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/3-cybersecurity-stocks-for-age-of-genarative-ai/?source=iedfolrf0000001)

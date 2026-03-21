@@ -18,4 +18,4 @@ These stocks not only offer the potential for significant appreciation but also 
 
 For professionals looking to capitalize on the AI boom, exploring these lower-priced stocks could yield promising returns. I recommend checking out the full article for a deeper dive into these opportunities and insights on the broader AI market landscape.
 
-[benzinga.com](https://www.benzinga.com/money/artificial-intelligence-stocks-under-10)
+Source: [benzinga.com](https://www.benzinga.com/money/artificial-intelligence-stocks-under-10)

@@ -18,4 +18,4 @@ The implications for the financial markets are significant. If Arweave can secur
 
 For market professionals, understanding Arweave's long-term viability and its role in the evolving landscape of decentralized infrastructure is essential. I encourage you to delve deeper into this analysis for a comprehensive view of Arweave's potential and challenges.
 
-[benzinga.com](https://www.benzinga.com/money/arweave-ar-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/arweave-ar-price-prediction)

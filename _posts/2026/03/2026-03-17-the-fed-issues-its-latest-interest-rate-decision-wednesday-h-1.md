@@ -18,4 +18,4 @@ This decision underscores the Fed's cautious approach amid mixed labor market si
 
 For market professionals, the key takeaway is the Fed's emphasis on inflation management over labor market fluctuations, which could shape future monetary policy. I recommend diving into the full article for a comprehensive understanding of these dynamics.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html)

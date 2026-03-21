@@ -18,4 +18,4 @@ The implications for the stock market are significant, as Nvidia's growth hinges
 
 For market professionals, Nvidia's trajectory offers a compelling case study in the intersection of technology and investment strategy. I encourage you to delve into the full article for a deeper understanding of these developments and their potential impact on the market.
 
-[nasdaq.com](https://www.nasdaq.com/articles/nvidia-stock-going-500)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/nvidia-stock-going-500)

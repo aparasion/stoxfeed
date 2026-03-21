@@ -18,4 +18,4 @@ This uptick in M&A activity is noteworthy as it reflects broader trends in the f
 
 For market professionals, the release of this guide signals an evolving landscape in the insurance industry that could impact stock valuations and investment strategies. I recommend reading the full article to gain deeper insights into the implications of these developments.
 
-[news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDNPSE1aRFhjd3pnOEQxVDdtQWwzRlpKRHFSY3ZtN0k2TkJvcXQ0aDdodmRiWHVsSlVfbW1ieUJoZTF3SXhKcjdGdEx0dHFueGlLMURiRjhaOVE0XzFIUXNybk1KNERFOWl0T21VRjdBNnNWeDAtOFQ2Wll6eGJ1aHFRdUs3Q2xWSTFUdmhJQVpWQW52MGgtNTNEQ29QdWYwVXJRT2FMQ0dIeVZfZWdFQ0tuVnJlT0VadWFFRTNHQ2ZjRFlHRjNmM1pWbmo2QjZ5c1J4ZkhZdzNTQjA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDNPSE1aRFhjd3pnOEQxVDdtQWwzRlpKRHFSY3ZtN0k2TkJvcXQ0aDdodmRiWHVsSlVfbW1ieUJoZTF3SXhKcjdGdEx0dHFueGlLMURiRjhaOVE0XzFIUXNybk1KNERFOWl0T21VRjdBNnNWeDAtOFQ2Wll6eGJ1aHFRdUs3Q2xWSTFUdmhJQVpWQW52MGgtNTNEQ29QdWYwVXJRT2FMQ0dIeVZfZWdFQ0tuVnJlT0VadWFFRTNHQ2ZjRFlHRjNmM1pWbmo2QjZ5c1J4ZkhZdzNTQjA?oc=5)

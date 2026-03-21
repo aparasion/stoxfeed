@@ -18,4 +18,4 @@ The Fed's decision to maintain interest rates, coupled with unexpected wholesale
 
 For market professionals, the interplay between rising energy prices and Fed policy will be crucial to monitor. I recommend diving deeper into this article for a comprehensive analysis of these developments and their implications for your investment strategies.
 
-[nasdaq.com](https://www.nasdaq.com/articles/gold-plunges-dollar-rises-hawkish-fed-fuel-crisis)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/gold-plunges-dollar-rises-hawkish-fed-fuel-crisis)

@@ -16,4 +16,4 @@ CoreWeave (NASDAQ: CRWV), an AI cloud infrastructure provider, is emerging as a 
 
 Despite concerns over profitability—CoreWeave reported a record net loss of $1.2 billion—its substantial contracted revenue backlog of $66.8 billion suggests strong demand for its services. With Microsoft accounting for 67% of its revenue, the dependency raises questions, but the growing customer base and infrastructure investments could make CoreWeave a compelling play in the AI sector. For a deeper dive into CoreWeave’s prospects, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/artificial-intelligence-ai-stock-surprise-crwv/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/artificial-intelligence-ai-stock-surprise-crwv/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ For market professionals, this downturn presents a potential buying opportunity.
 
 For a deeper dive into Novo Nordisk's situation and its implications for investors, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/down-near-its-5-year-low-is-novo-nordisk-stock-too/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/down-near-its-5-year-low-is-novo-nordisk-stock-too/?source=iedfolrf0000001)

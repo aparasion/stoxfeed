@@ -18,4 +18,4 @@ The merger is expected to enhance free cash flow significantly, with Devon's rec
 
 Investors should closely monitor the implications of this merger, particularly regarding the combined entity's scale and contracted revenue streams, which could insulate cash flow from commodity price volatility. For a deeper dive into the details and future outlook, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/this-58-billion-merger-is-creating-the-most-unstop/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/this-58-billion-merger-is-creating-the-most-unstop/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ This data underscores the importance of timing in trading strategies. While Frid
 
 For market professionals, these insights reinforce the value of a long-term investment approach while also highlighting the potential advantages of strategic trading based on historical patterns. Dive deeper into the full analysis for a comprehensive understanding of these trends.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/days-week-best-worst-stock-market-return-history/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/days-week-best-worst-stock-market-return-history/?source=iedfolrf0000001)

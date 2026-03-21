@@ -18,4 +18,4 @@ Market reactions have been mixed, with investors closely monitoring Fed communic
 
 For market professionals, understanding the Fed's evolving stance is crucial. The article provides valuable insights into these economic projections and their potential impact on market dynamics. I highly recommend exploring the full story for a deeper analysis.
 
-[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE94dUZFdVhWNEdnZmV6bnRpWWgyRUpsNHYzWl95TWFpUkVxdUNsdDhVbjBxTVNJRGJaTDF0b0dFWDN1WTFRVnVrTHNUMkxIUThhVEJxTkxhN0VGcjhzYnhDN2pMMkdHbW0yMjF5ei13b1g?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE94dUZFdVhWNEdnZmV6bnRpWWgyRUpsNHYzWl95TWFpUkVxdUNsdDhVbjBxTVNJRGJaTDF0b0dFWDN1WTFRVnVrTHNUMkxIUThhVEJxTkxhN0VGcjhzYnhDN2pMMkdHbW0yMjF5ei13b1g?oc=5)

@@ -18,4 +18,4 @@ The suspension comes as Brent crude prices surged over 6% to exceed $109 per bar
 
 For market professionals, this development underscores the complexities of U.S. energy independence and the ongoing volatility in global oil markets. I recommend reading the full article for deeper insights into the implications of this policy change.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html)

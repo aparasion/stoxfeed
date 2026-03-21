@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly in sectors 
 
 For market professionals, the potential for regulatory clarity and support for AI innovation could shape investment strategies moving forward. I recommend exploring the full article for a deeper understanding of how these developments could affect your portfolio and the broader market landscape.
 
-[cointelegraph.com](https://cointelegraph.com/news/white-house-national-ai-framework-unified-federal-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/white-house-national-ai-framework-unified-federal-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

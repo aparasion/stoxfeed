@@ -18,4 +18,4 @@ The rankings underscore a notable shift in investment strategies as companies ba
 
 For a deeper dive into the rankings and their implications for investment strategies, I highly recommend exploring the full article from Just Capital.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/2026-just-100-rankings-companies-just-capital-list.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/2026-just-100-rankings-companies-just-capital-list.html)

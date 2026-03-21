@@ -18,4 +18,4 @@ This move comes as Meta seeks to reclaim its position in the creator economy, ha
 
 For market professionals, the implications are clear: Meta’s strategy could enhance user engagement and ad revenue, making it a key player in the evolving social media landscape. I recommend checking out the full article for a deeper dive into Meta's ambitious plans.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html)

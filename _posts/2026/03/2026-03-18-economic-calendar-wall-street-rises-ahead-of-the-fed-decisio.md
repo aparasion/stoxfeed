@@ -18,4 +18,4 @@ In addition to the Fed's decision, today's economic calendar includes key data r
 
 For market professionals, today's Fed meeting and the subsequent press conference with Powell are critical for assessing future interest rate trajectories and market volatility. I recommend checking out the full article for a deeper dive into the implications of these economic indicators.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/economic-calendar-wall-street-rises-ahead-of-the-fed-decision)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/economic-calendar-wall-street-rises-ahead-of-the-fed-decision)

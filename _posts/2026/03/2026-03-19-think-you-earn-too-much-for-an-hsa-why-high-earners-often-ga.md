@@ -18,4 +18,4 @@ The triple tax benefits of HSAs—pre-tax contributions, tax-free investment gro
 
 For financial professionals, understanding the strategic value of HSAs can lead to more effective client advisement. Encourage clients to explore HSA options if eligible, as this could be a crucial component of their overall financial strategy. For more insights, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/think-you-earn-too-much-for-an-hsa-why-high-earner/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/think-you-earn-too-much-for-an-hsa-why-high-earner/?source=iedfolrf0000001)

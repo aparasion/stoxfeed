@@ -18,4 +18,4 @@ The implications for the financial markets are profound. With gold's recent perf
 
 For traders and portfolio managers, this situation presents both challenges and opportunities. Understanding the underlying factors driving gold's price movements is crucial for making informed decisions. I recommend diving deeper into this analysis to better grasp the current market landscape—check out the full article for a comprehensive overview.
 
-[tradingview.com](https://www.tradingview.com)
+Source: [tradingview.com](https://www.tradingview.com)

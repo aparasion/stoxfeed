@@ -18,4 +18,4 @@ This decision has led to a mild weakening of the dollar, signaling a dovish stan
 
 For market professionals, the Fed's steady approach amid external pressures suggests a cautious outlook for the dollar and potential volatility in energy-linked assets. For a deeper analysis, I recommend exploring the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/breaking-fed-keeps-interest-rates-unchanged-keeps-projection-cuts)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/breaking-fed-keeps-interest-rates-unchanged-keeps-projection-cuts)

@@ -18,4 +18,4 @@ This progress is significant for SELLAS as a successful outcome from the REGAL t
 
 With 2026 poised to be a critical year for SELLAS, market professionals should monitor the developments closely. For a deeper dive into SELLAS' financials and clinical advancements, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/sellas-fy25-net-loss-narrows-approaching-final-analysis-phase-3-regal-trial-gps-aml)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/sellas-fy25-net-loss-narrows-approaching-final-analysis-phase-3-regal-trial-gps-aml)

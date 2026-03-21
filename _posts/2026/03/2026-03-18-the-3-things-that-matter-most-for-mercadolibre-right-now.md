@@ -18,4 +18,4 @@ The company is also grappling with declining operating margins, down 300 basis p
 
 Investors should closely monitor these developments, particularly the balance between growth and risk in the credit portfolio and the impact of strategic investments on margins. For a deeper dive into MercadoLibre’s current situation and future prospects, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/the-3-things-that-matter-most-for-mercadolibre-rig/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/the-3-things-that-matter-most-for-mercadolibre-rig/?source=iedfolrf0000001)

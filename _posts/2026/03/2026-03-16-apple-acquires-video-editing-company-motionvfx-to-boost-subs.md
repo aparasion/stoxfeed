@@ -18,4 +18,4 @@ This acquisition is significant as it positions Apple to better compete with Ado
 
 For professionals in the financial markets, this acquisition underscores Apple's commitment to enhancing its software portfolio and could signal future growth in its services segment. I recommend exploring the full article for deeper insights into the implications of this acquisition.
 
-[cnbc.com](https://www.cnbc.com/2026/03/16/apple-acquires-video-editing-company-motionvfx-to-boost-subscribers.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/16/apple-acquires-video-editing-company-motionvfx-to-boost-subscribers.html)

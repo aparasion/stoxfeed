@@ -18,4 +18,4 @@ With Chevron's stock up over 26% year-to-date, it presents itself as a reliable 
 
 For a deeper dive into Chevron's strategic advantages and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/what-is-one-of-the-best-energy-stocks-to-hold-for/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/what-is-one-of-the-best-energy-stocks-to-hold-for/?source=iedfolrf0000001)

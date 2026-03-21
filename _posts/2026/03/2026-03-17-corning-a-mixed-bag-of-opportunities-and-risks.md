@@ -18,4 +18,4 @@ This analysis is particularly relevant as Corning navigates a mixed landscape of
 
 For professionals looking to deepen their understanding of Corning's trajectory and its implications for the tech industry, this episode offers valuable perspectives. I highly recommend checking out the full discussion to gain a comprehensive view of Corning's future prospects.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/corning-a-mixed-bag-of-opportunities-and-risks/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/corning-a-mixed-bag-of-opportunities-and-risks/?source=iedfolrf0000001)

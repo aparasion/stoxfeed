@@ -18,4 +18,4 @@ This focus on personalized service and innovative execution methods enables Angl
 
 For market professionals, Angle Advisors exemplifies how specialized advisory firms can drive value in middle-market deals. For a deeper dive into their strategies and recent successes, I recommend exploring the full article.
 
-[angleadvisors.com](https://www.angleadvisors.com)
+Source: [angleadvisors.com](https://www.angleadvisors.com)

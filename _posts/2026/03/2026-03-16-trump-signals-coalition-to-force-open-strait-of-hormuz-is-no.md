@@ -18,4 +18,4 @@ The implications for the oil market are profound, as the ongoing instability in 
 
 Market professionals should closely monitor developments regarding the coalition's formation and any shifts in military readiness, as these factors will significantly influence oil supply dynamics. For a deeper dive into the geopolitical ramifications and market impacts, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html)

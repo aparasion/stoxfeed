@@ -18,4 +18,4 @@ The financial markets should take note of how these changes can influence consum
 
 Professionals should explore proactive strategies to mitigate RMD impacts, such as early withdrawals or gradual Roth conversions, to optimize tax outcomes. For a deeper understanding of RMDs and their implications, I recommend checking out the full article for comprehensive insights.
 
-[fool.com](https://www.fool.com/retirement/2026/03/17/how-rmds-can-trigger-higher-social-security-taxes/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/17/how-rmds-can-trigger-higher-social-security-taxes/?source=iedfolrf0000001)

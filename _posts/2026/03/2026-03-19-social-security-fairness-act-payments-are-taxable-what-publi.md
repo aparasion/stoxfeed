@@ -18,4 +18,4 @@ However, these adjustments come with a potential downside: increased tax liabili
 
 Professionals in finance and tax planning should be aware of these implications for their clients. Understanding how the benefit boosts affect tax obligations is crucial for effective financial planning. For a deeper dive into the specifics, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/social-security-fairness-act-payments-are-taxable/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/social-security-fairness-act-payments-are-taxable/?source=iedfolrf0000001)

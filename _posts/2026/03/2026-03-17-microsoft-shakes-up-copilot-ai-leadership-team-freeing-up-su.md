@@ -18,4 +18,4 @@ This consolidation is significant as it signals Microsoft's commitment to advanc
 
 For market professionals, this development underscores the importance of AI in Microsoft's growth strategy. To understand the full implications of this shift, I recommend diving deeper into the original article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/microsoft-copilot-ai-suleyman.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/microsoft-copilot-ai-suleyman.html)

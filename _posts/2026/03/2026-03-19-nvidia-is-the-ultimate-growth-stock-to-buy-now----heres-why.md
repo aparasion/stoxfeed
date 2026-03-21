@@ -18,4 +18,4 @@ The stock currently trades at 21.8 times forward earnings, slightly above the S&
 
 For a deeper dive into Nvidia's growth prospects and market dynamics, I highly recommend reading the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/nvidia-is-the-ultimate-growth-stock-to-buy-now-her/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/nvidia-is-the-ultimate-growth-stock-to-buy-now-her/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The implications for the financial markets are considerable, as rising fuel cost
 
 For a deeper understanding of these developments and their potential market impacts, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html)

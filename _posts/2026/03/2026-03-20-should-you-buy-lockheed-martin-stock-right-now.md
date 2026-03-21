@@ -18,4 +18,4 @@ The implications for Lockheed Martin (NYSE: LMT) are significant, as this upgrad
 
 For market professionals, this development suggests potential growth in Lockheed's revenue streams, despite current stock valuations appearing high. The company's strong cash generation and projected earnings growth could make it a compelling investment opportunity. I recommend checking out the full article for a deeper dive into the financial implications of Greece's defense spending.
 
-[nasdaq.com](https://www.nasdaq.com/articles/should-you-buy-lockheed-martin-stock-right-now)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/should-you-buy-lockheed-martin-stock-right-now)

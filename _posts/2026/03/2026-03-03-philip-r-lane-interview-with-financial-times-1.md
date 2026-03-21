@@ -18,4 +18,4 @@ This resilience is crucial as the ECB navigates potential inflation risks amid o
 
 For market professionals, the key takeaway is the ECB's cautious yet optimistic stance on growth and inflation, which may influence monetary policy decisions moving forward. For a deeper dive into Lane's insights and the implications for the euro area, I recommend exploring the full interview.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html)

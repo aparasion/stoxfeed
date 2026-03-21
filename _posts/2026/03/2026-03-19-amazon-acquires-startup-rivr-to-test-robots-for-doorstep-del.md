@@ -18,4 +18,4 @@ The move is significant for the financial markets as it aligns with Amazon's bro
 
 For market professionals, the key takeaway is Amazon's continued push into automation and robotics, which could reshape logistics and delivery sectors. For more insights into this strategic acquisition and its implications, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html)

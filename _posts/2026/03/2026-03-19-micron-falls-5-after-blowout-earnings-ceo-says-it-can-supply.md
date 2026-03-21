@@ -18,4 +18,4 @@ The memory supply shortage, driven by surging demand for Nvidia's AI chips, has 
 
 For market professionals, the key takeaway is the divergence between strong earnings and stock performance, which may signal a cautious approach to Micron and similar tech stocks. For a deeper dive into this development and its implications, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html)

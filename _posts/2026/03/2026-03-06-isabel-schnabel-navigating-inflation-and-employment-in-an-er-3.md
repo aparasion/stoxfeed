@@ -18,4 +18,4 @@ Schnabel argued that both single and dual mandates for central banks often yield
 
 The key takeaway for market professionals is the importance of central bank credibility in managing inflation expectations. For a deeper understanding of Schnabel's insights and their implications for monetary policy, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)

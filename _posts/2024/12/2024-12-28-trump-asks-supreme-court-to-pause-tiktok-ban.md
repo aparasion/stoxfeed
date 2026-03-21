@@ -18,4 +18,4 @@ This development could have significant implications for the tech sector and inv
 
 Market professionals should closely monitor the Supreme Court's decision, as it could influence stock performance in the tech sector and broader market sentiment. For a deeper dive into the legal arguments and potential market impacts, I recommend reading the full article.
 
-[marketwatch.com](https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse)
+Source: [marketwatch.com](https://www.marketwatch.com/story/trump-asks-supreme-court-to-pause-tiktok-ban-2b724ae6?mod=mw_rss_marketpulse)

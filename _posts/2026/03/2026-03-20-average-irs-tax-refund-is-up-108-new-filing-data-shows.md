@@ -18,4 +18,4 @@ However, the financial landscape is complicated by soaring gasoline prices, whic
 
 For market professionals, understanding these dynamics is crucial as they may influence consumer behavior and sector performance in the coming months. I recommend exploring the full article for a deeper dive into these developments and their potential market impacts.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/average-irs-tax-refund.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/average-irs-tax-refund.html)

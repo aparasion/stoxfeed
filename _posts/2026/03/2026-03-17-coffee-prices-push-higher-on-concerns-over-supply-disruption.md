@@ -18,4 +18,4 @@ The dynamics of supply and demand are shifting in the coffee market, particularl
 
 For market professionals, the key takeaway is the delicate balance between supply forecasts and geopolitical impacts on shipping costs. This situation underscores the importance of monitoring both production estimates and global trade dynamics. For a deeper dive into these trends, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/coffee-prices-push-higher-concerns-over-supply-disruptions)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/coffee-prices-push-higher-concerns-over-supply-disruptions)

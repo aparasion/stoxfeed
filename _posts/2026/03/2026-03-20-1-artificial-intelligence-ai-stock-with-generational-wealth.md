@@ -18,4 +18,4 @@ The implications for investors are significant, as Nvidia is not only capitalizi
 
 For market professionals, Nvidia presents a compelling opportunity for long-term wealth creation, especially given its forward earnings multiple of 22.5, closely aligned with the S&P 500. For a deeper dive into Nvidia's strategies and market potential, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/1-artificial-intelligence-ai-stock-with-generation/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/1-artificial-intelligence-ai-stock-with-generation/?source=iedfolrf0000001)

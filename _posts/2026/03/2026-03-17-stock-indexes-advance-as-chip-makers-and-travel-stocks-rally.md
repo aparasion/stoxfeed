@@ -18,4 +18,4 @@ However, the backdrop of rising crude oil prices, driven by renewed tensions in 
 
 For market professionals, the interplay between rising oil prices and stock performance could signal a need for strategic adjustments in portfolio allocations. Dive deeper into these developments by exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/stock-indexes-advance-chip-makers-and-travel-stocks-rally)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/stock-indexes-advance-chip-makers-and-travel-stocks-rally)

@@ -18,4 +18,4 @@ This development could have implications for the financial markets, particularly
 
 For market professionals, understanding the intersection of legal challenges and policy shifts is crucial. This situation highlights the ongoing political and legal landscape's potential influence on market dynamics. I recommend checking out the full article for a deeper dive into these allegations and their implications.
 
-[foxbusiness.com](https://www.foxbusiness.com)
+Source: [foxbusiness.com](https://www.foxbusiness.com)

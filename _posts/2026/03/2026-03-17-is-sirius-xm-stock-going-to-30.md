@@ -18,4 +18,4 @@ Investors should note that Sirius XM's price-to-sales (P/S) ratio of 0.9 is well
 
 For a deeper dive into Sirius XM's financial outlook and the implications for investors, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/is-sirius-xm-stock-going-to-30/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/is-sirius-xm-stock-going-to-30/?source=iedfolrf0000001)

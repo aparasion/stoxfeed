@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly as oil 
 
 Market professionals should keep an eye on geopolitical developments and their potential impact on inflation and global growth. For a deeper dive into these dynamics, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/asian-shares-mostly-lower-cautious-trade-0)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/asian-shares-mostly-lower-cautious-trade-0)

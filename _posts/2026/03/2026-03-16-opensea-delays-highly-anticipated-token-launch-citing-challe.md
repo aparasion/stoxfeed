@@ -18,4 +18,4 @@ This delay could have significant implications for the NFT sector, as OpenSea is
 
 For market professionals, the takeaway is clear: keep an eye on OpenSea's developments as they may influence broader trends in NFT trading and crypto market dynamics. For a deeper dive into the details, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions)
+Source: [coindesk.com](https://www.coindesk.com/business/2026/03/16/opensea-delays-highly-anticipated-token-launch-citing-challenging-crypto-market-conditions)

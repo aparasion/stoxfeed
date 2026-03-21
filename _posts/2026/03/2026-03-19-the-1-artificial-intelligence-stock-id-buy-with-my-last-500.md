@@ -18,4 +18,4 @@ Among the AI contenders, Amazon (AMZN) stands out as a compelling investment. Th
 
 With Amazon's stock currently trading at a reasonable 27x forward earnings, down from over 35x, it presents an attractive entry point for investors. For a deeper dive into Amazon's AI strategy and market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/the-1-artificial-intelligence-stock-id-buy-with-my/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/the-1-artificial-intelligence-stock-id-buy-with-my/?source=iedfolrf0000001)

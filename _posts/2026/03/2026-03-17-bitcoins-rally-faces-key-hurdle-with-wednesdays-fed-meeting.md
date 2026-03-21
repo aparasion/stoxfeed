@@ -18,4 +18,4 @@ The implications for the market are substantial. A combination of strong PPI dat
 
 For those navigating the crypto landscape, understanding the Fed's messaging on inflation and oil prices will be crucial. I recommend diving into the full article for a deeper analysis of these developments and their potential impact on your trading strategies.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/17/bitcoin-s-rally-faces-key-hurdle-with-wednesday-s-fed-meeting)

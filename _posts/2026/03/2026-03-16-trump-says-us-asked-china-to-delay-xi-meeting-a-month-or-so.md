@@ -18,4 +18,4 @@ The postponement could have significant implications for financial markets, part
 
 For market professionals, this situation underscores the importance of geopolitical events in shaping market sentiment and investment strategies. I encourage you to read the full article for a deeper understanding of these developments and their potential impact on the markets.
 
-[cnbc.com](https://www.cnbc.com/2026/03/16/trump-china-iran-xi-war-trade.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/16/trump-china-iran-xi-war-trade.html)

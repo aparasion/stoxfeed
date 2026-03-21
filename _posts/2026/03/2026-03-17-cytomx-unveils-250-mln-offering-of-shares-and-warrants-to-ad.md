@@ -18,4 +18,4 @@ The company reported a significant shift in its financials for 2025, with a net 
 
 For professionals tracking biotech funding and stock performance, this offering may signal both opportunity and risk. I recommend checking out the full article for a deeper dive into CytomX's strategic plans and financial outlook.
 
-[nasdaq.com](https://www.nasdaq.com/articles/cytomx-unveils-250-mln-offering-shares-and-warrants-advance-varseta-m-and-other-pipeline)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/cytomx-unveils-250-mln-offering-shares-and-warrants-advance-varseta-m-and-other-pipeline)

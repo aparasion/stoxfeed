@@ -18,4 +18,4 @@ Corporate earnings remain robust, with the S&P 500 expected to see 11.6% growth 
 
 Investors should remain vigilant, as the Fed's next moves could shift unexpectedly. The current market pricing suggests a 0% chance of rate hikes this year, but given the evolving economic landscape, the likelihood may be underestimated.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/forget-rate-cuts-what-if-fed-needs-hike-rates-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/forget-rate-cuts-what-if-fed-needs-hike-rates-2026/?source=iedfolrf0000001)

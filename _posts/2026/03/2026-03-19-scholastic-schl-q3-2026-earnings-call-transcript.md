@@ -18,4 +18,4 @@ Despite a slight revenue decline to $329.1 million, Scholastic's strategic focus
 
 For market professionals, Scholastic's proactive measures in capital management and its growth initiatives in children's publishing and Book Fairs signal a commitment to long-term value creation. I recommend reading the full article for deeper insights into their strategic direction and operational performance.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/scholastic-schl-q3-2026-earnings-call-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/scholastic-schl-q3-2026-earnings-call-transcript/?source=iedfolrf0000001)

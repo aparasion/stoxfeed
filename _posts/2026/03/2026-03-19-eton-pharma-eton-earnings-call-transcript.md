@@ -18,4 +18,4 @@ The launch of Desmota, an FDA-approved liquid formulation for central diabetes i
 
 For market professionals, Eton's trajectory highlights the potential for substantial growth in niche pharmaceutical markets, especially with new product launches and strategic acquisitions. I recommend reading the full article for a deeper dive into Eton's financials and growth strategies.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/eton-pharma-eton-earnings-call-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/19/eton-pharma-eton-earnings-call-transcript/?source=iedfolrf0000001)

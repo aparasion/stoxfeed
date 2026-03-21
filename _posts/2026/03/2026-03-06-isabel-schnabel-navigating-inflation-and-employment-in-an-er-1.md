@@ -18,4 +18,4 @@ Schnabel's remarks highlight that both single and dual mandates for central bank
 
 For market professionals, the key takeaway is the importance of understanding how central bank policies may adapt in response to supply-side constraints and inflation dynamics. This nuanced perspective is crucial for anticipating future monetary policy shifts. I highly recommend exploring the full speech for deeper insights into these pressing economic issues.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260306_1~a4943607d7.en.html)

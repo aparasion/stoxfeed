@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly for sma
 
 Investors should monitor how these geopolitical developments influence sector performance, especially in energy and transportation. For a deeper dive into the details of the plan and its potential market impact, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMid0FVX3lxTFBhYWVHaXhWdEFGSWRCb3NXZWpPSjZDR09TYmMzVk9FelJTSFdWT3pIVjFHU1MyWjhtVjNxMWdfSXljc2RXemJFcXJscTcxRnh5UlY3X2dpWUY4NlNOVFhXUHJOdHlwcTk3Mi1VZk5aNk9SaUpnbXc0?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMid0FVX3lxTFBhYWVHaXhWdEFGSWRCb3NXZWpPSjZDR09TYmMzVk9FelJTSFdWT3pIVjFHU1MyWjhtVjNxMWdfSXljc2RXemJFcXJscTcxRnh5UlY3X2dpWUY4NlNOVFhXUHJOdHlwcTk3Mi1VZk5aNk9SaUpnbXc0?oc=5)

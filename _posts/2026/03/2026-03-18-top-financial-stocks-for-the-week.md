@@ -18,4 +18,4 @@ This development is significant as it underscores the growing importance of cons
 
 Investors should keep an eye on Bread Financial's performance metrics and market strategies, as they could signal broader trends in the financial services sector. For a deeper dive into Bread Financial’s operations and market potential, I recommend exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/top-financial-stocks-for-the-week)
+Source: [benzinga.com](https://www.benzinga.com/money/top-financial-stocks-for-the-week)

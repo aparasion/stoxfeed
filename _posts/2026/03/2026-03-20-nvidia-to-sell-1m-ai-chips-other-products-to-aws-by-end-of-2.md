@@ -18,4 +18,4 @@ This partnership is poised to impact the financial markets by tapping into a bur
 
 For market professionals, this collaboration underscores the increasing reliance on AI technologies in cloud services, presenting potential investment opportunities in both Nvidia and AWS. I recommend checking out the full article for an in-depth analysis of the implications for the tech sector and beyond.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566870-nvidia-to-sell-1m-ai-chips-other-products-to-aws-by-end-of-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566870-nvidia-to-sell-1m-ai-chips-other-products-to-aws-by-end-of-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

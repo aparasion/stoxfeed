@@ -18,4 +18,4 @@ For investors, this development is particularly relevant for Lockheed Martin (NY
 
 For a deeper dive into the implications of Greece's defense spending on Lockheed Martin and the broader defense sector, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/what-is-achilles-shield-how-lockheed-martin/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/what-is-achilles-shield-how-lockheed-martin/?source=iedfolrf0000001)

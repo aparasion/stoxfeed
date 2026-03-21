@@ -18,4 +18,4 @@ The necessity of RMDs can create unexpected tax burdens, especially for those wh
 
 As the year-end deadline approaches, it's crucial for market professionals to ensure their clients are prepared. For a deeper dive into RMD strategies and implications, I recommend checking out the full article for essential insights.
 
-[fool.com](https://www.fool.com/retirement/2026/03/18/what-happens-if-you-miss-your-year-rmd-deadline/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/18/what-happens-if-you-miss-your-year-rmd-deadline/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The significance of ECTC 2026 extends beyond academia; it highlights the critica
 
 For professionals in trading and portfolio management, ECTC 2026 represents an opportunity to gauge emerging trends and technologies that could impact semiconductor stock performance and market dynamics. I highly recommend exploring the full details in the original article to stay ahead in this rapidly evolving field.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu/?utm_source=rss&utm_medium=rss&utm_campaign=2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu/?utm_source=rss&utm_medium=rss&utm_campaign=2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu)

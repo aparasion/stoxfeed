@@ -18,4 +18,4 @@ The contrasting movements in these assets underscore significant market dynamics
 
 Investors should closely monitor these trends, especially the impending Bitcoin sell-off, as it could impact overall market sentiment. For a deeper dive into these developments, I recommend checking out the full article.
 
-[cryptoslate.com](https://cryptoslate.com)
+Source: [cryptoslate.com](https://cryptoslate.com)

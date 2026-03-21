@@ -18,4 +18,4 @@ The European Central Bank (ECB) is also in the spotlight, with inflation concern
 
 For market professionals, these decisions will likely influence currency valuations and sector performances across Europe. I recommend exploring the full article for a deeper dive into the implications of these central bank actions.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/economic-calendar-series-of-central-bank-decisions-in-europe)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/economic-calendar-series-of-central-bank-decisions-in-europe)

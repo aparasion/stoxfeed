@@ -18,4 +18,4 @@ Investor focus is also shifting toward the upcoming Federal Reserve meeting, wit
 
 As optimism persists, professionals should remain vigilant about the potential for sharp corrections if expectations are not met, especially in light of the fragile geopolitical landscape and inflation concerns. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/us-open-geopolitical-optimism-drives-indexes)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/us-open-geopolitical-optimism-drives-indexes)

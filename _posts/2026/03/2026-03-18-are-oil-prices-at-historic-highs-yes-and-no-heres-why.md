@@ -18,4 +18,4 @@ For U.S. oil producers like ExxonMobil and Chevron, these elevated prices transl
 
 The key takeaway is that while oil companies stand to benefit from these price hikes, the broader economic implications could be challenging for other sectors. For a deeper dive into the nuances of current oil pricing and its market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/are-oil-prices-historic-highs-yes-no-heres-why/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/are-oil-prices-historic-highs-yes-no-heres-why/?source=iedfolrf0000001)

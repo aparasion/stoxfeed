@@ -18,4 +18,4 @@ This phenomenon is crucial for financial markets as it underscores the shifting 
 
 For market professionals, understanding these dynamics can inform investment strategies and sector allocations. I encourage you to delve into the full article for a deeper analysis of how these trends could shape economic resilience and influence market behavior.
 
-[stlouisfed.org](https://www.stlouisfed.org)
+Source: [stlouisfed.org](https://www.stlouisfed.org)

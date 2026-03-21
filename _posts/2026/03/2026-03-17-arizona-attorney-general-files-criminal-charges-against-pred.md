@@ -18,4 +18,4 @@ The implications for financial markets are significant. If Kalshi is classified 
 
 Market professionals should closely monitor the developments in this case, as the outcome could set a precedent for how prediction markets are regulated nationwide. For a deeper dive into the legal intricacies and potential market impacts, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/policy/2026/03/17/arizona-attorney-general-charges-kalshi-with-illegal-gambling-election-betting)
+Source: [coindesk.com](https://www.coindesk.com/policy/2026/03/17/arizona-attorney-general-charges-kalshi-with-illegal-gambling-election-betting)

@@ -18,4 +18,4 @@ The spike in Brent crude oil prices, which briefly exceeded $119 a barrel, heigh
 
 For market professionals, the interplay between energy prices and broader economic indicators is crucial. Dive deeper into this analysis to understand the implications for your investment strategies.
 
-[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-brent-crude-s-usd119-spike-rattles-markets/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-brent-crude-s-usd119-spike-rattles-markets/?source=iedfolrf0000001)

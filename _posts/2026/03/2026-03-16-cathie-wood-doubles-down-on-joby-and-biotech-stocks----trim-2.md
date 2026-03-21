@@ -18,4 +18,4 @@ The implications for the financial markets are profound. The decline in gold pri
 
 For those navigating these turbulent waters, understanding the technical analysis behind gold's recent movements is critical. I recommend diving deeper into this analysis to grasp the potential future implications for your trading strategies—check out the full article for a comprehensive overview.
 
-[tradingview.com](https://www.tradingview.com)
+Source: [tradingview.com](https://www.tradingview.com)

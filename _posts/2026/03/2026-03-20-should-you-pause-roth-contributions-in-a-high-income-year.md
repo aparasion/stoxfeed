@@ -18,4 +18,4 @@ This shift in strategy can have significant implications for retirement savings 
 
 For market professionals, understanding these retirement account dynamics is crucial for effective financial planning. To delve deeper into this strategy and its implications, I recommend exploring the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/should-you-pause-roth-contributions-in-a-high-inco/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/should-you-pause-roth-contributions-in-a-high-inco/?source=iedfolrf0000001)

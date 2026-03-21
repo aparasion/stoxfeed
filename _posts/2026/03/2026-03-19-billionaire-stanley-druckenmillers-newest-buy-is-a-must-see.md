@@ -18,4 +18,4 @@ This development is noteworthy for market professionals, as it suggests a growin
 
 For investors, this could signal an opportunity to reassess portfolio allocations in light of potential sector rotation trends. Dive deeper into the implications of Druckenmiller's moves by exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/billionaire-stanley-druckenmiller-new-buy-must-see/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/billionaire-stanley-druckenmiller-new-buy-must-see/?source=iedfolrf0000001)

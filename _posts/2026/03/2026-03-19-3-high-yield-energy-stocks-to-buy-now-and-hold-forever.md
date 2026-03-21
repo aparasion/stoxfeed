@@ -16,4 +16,4 @@ The energy sector, known for its volatility, is currently showcasing robust oppo
 
 These companies are well-positioned to provide long-term dividend income as energy demand continues to rise, especially for cleaner alternatives. For a deeper dive into these investment opportunities, I encourage you to explore the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/3-high-yield-energy-stocks-to-buy-now-and-hold-for/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/3-high-yield-energy-stocks-to-buy-now-and-hold-for/?source=iedfolrf0000001)

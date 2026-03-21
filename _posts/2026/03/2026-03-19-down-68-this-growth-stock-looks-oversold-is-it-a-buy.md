@@ -18,4 +18,4 @@ The earnings report highlighted ongoing challenges, including a 22% drop in oper
 
 For market professionals, Lululemon's current valuation—trading at a price-to-earnings ratio below 14—may present a compelling risk/reward scenario. Investors might consider initiating a small position as the company navigates its challenges and seeks to capitalize on international growth and product innovation. For a deeper dive into Lululemon's situation, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/down-68-this-growth-stock-looks-oversold-is-it-a-b/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/down-68-this-growth-stock-looks-oversold-is-it-a-b/?source=iedfolrf0000001)

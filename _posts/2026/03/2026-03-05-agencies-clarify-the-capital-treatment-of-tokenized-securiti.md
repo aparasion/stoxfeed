@@ -18,4 +18,4 @@ This development is significant for financial markets as it removes ambiguity ar
 
 For market professionals, this clarification is a crucial step in understanding the evolving landscape of tokenized assets. I recommend exploring the full article for a deeper insight into the regulatory implications and risk management considerations.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm)

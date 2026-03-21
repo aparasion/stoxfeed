@@ -18,4 +18,4 @@ This decision comes amid rising global energy and commodity prices due to geopol
 
 For market professionals, the key takeaway is the potential for heightened volatility in GBP/USD and related assets as the BoE navigates these inflationary pressures. For a deeper dive into the implications of this decision, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/breaking-boe-delivers-as-expected-uk-interest-rates-remain-unchanged)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/breaking-boe-delivers-as-expected-uk-interest-rates-remain-unchanged)

@@ -18,4 +18,4 @@ The current market dynamics are largely influenced by shifting expectations rega
 
 Investors should closely monitor support levels for gold and silver, as rebounds could signal potential price recoveries. For a deeper analysis, I recommend checking out the full story.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/silver-slumps-7-5-gold-heads-for-worst-weekly-close-since-1983)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/silver-slumps-7-5-gold-heads-for-worst-weekly-close-since-1983)

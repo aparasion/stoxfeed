@@ -18,4 +18,4 @@ The combination of rising operational costs from increased fuel prices and a cha
 
 For investors, the current landscape poses a dilemma: whether to sell amid a macro-driven sell-off or hold on to fundamentally sound stocks. Explore the full article to gain deeper insights into the sector's dynamics and potential strategies.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/these-5-mining-stocks-tumbling-fed-interest/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/these-5-mining-stocks-tumbling-fed-interest/?source=iedfolrf0000001)

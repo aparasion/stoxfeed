@@ -18,4 +18,4 @@ The implications for financial markets are profound. As nature degradation accel
 
 In light of these developments, financial professionals should consider how nature-related risks could affect credit portfolios and overall market stability. The upcoming NGFS guide promises to provide essential tools for addressing these risks, making it a valuable resource for those in the financial sector. For a deeper dive into these critical issues, I recommend reading the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)

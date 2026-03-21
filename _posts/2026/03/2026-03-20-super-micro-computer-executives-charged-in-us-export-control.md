@@ -18,4 +18,4 @@ This development has significant implications for Supermicro's stock performance
 
 For a deeper understanding of the implications for Supermicro and the tech sector, I recommend reading the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/super-micro-computer-executives-charged-us-export-control-case-stock-falls-overnight)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/super-micro-computer-executives-charged-us-export-control-case-stock-falls-overnight)

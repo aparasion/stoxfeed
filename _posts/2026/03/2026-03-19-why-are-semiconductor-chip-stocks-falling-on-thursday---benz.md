@@ -18,4 +18,4 @@ In a strategic move to enhance growth, Embecta has announced a $200 million part
 
 For market professionals, these developments highlight critical trends in both technology and healthcare sectors, with potential implications for portfolio strategies. I encourage you to explore the full article for deeper insights into these market movements and their broader implications.
 
-[benzinga.com](https://www.benzinga.com)
+Source: [benzinga.com](https://www.benzinga.com)

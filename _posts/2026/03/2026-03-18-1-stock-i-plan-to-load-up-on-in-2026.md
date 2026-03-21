@@ -18,4 +18,4 @@ This diversification not only buffers Walmart against economic downturns but als
 
 For market professionals, Walmart's evolution from a retail giant to a tech-savvy player presents an intriguing investment opportunity. I encourage you to delve into the full article for a deeper analysis of Walmart's strategic initiatives and market positioning.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/1-stock-i-plan-to-load-up-on-in-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/1-stock-i-plan-to-load-up-on-in-2026/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The Phase 1 trial results highlighted that the 7 mg dose of OV329 showed no trea
 
 Investors should closely monitor Ovid's next steps, particularly the upcoming Phase 2 trial for drug-resistant focal onset seizures. For a deeper dive into this development, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/heres-why-ovid-therapeutics-stock-popped-higher-to/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/heres-why-ovid-therapeutics-stock-popped-higher-to/?source=iedfolrf0000001)

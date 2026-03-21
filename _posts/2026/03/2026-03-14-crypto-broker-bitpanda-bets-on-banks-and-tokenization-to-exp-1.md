@@ -18,4 +18,4 @@ This finding is particularly relevant for financial markets as it underscores th
 
 Market professionals should consider the implications of this study on Bitcoin's long-term viability and its potential as a digital asset. For a deeper dive into the study's findings and their market implications, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com)
+Source: [coindesk.com](https://www.coindesk.com)

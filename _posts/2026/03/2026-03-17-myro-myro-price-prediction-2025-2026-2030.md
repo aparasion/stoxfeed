@@ -18,4 +18,4 @@ Despite its potential, current market indicators show a bearish sentiment, with 
 
 For professionals considering exposure to Myro, understanding its speculative nature and potential for high returns is crucial. Dive deeper into this evolving narrative by exploring the full article.
 
-[benzinga.com](https://www.benzinga.com/money/myro-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/myro-price-prediction)

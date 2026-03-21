@@ -18,4 +18,4 @@ For financial professionals, understanding the implications of RMDs is crucial, 
 
 For a deeper dive into RMD strategies and Roth conversion planning, I recommend exploring the full article for valuable insights.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/your-first-rmd-could-trigger-a-tax-chain-reaction/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/your-first-rmd-could-trigger-a-tax-chain-reaction/?source=iedfolrf0000001)

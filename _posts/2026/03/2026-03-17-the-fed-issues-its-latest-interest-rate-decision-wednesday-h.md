@@ -18,4 +18,4 @@ This decision underscores the Fed's cautious approach to inflation and economic 
 
 For market professionals, Powell's comments will be pivotal in shaping expectations around monetary policy. I recommend diving deeper into the article for a comprehensive understanding of the Fed's strategy and the implications for the financial markets.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html)

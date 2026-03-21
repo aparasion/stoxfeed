@@ -18,4 +18,4 @@ In a related note, a report from the Canada Energy Regulator forecasts substanti
 
 Market professionals should closely monitor these trade discussions and energy forecasts, as they may impact sector performance and investment strategies. For a deeper dive into the implications of these developments, I recommend reading the full article on Bloomberg.com.
 
-[bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+Source: [bnnbloomberg.ca](https://www.bnnbloomberg.ca)

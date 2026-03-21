@@ -18,4 +18,4 @@ VNQ offers a lower expense ratio of 0.13% compared to RWR’s 0.25%, making it a
 
 Investors should weigh these factors carefully, as the choice between VNQ and RWR could significantly impact long-term returns and fees. For a deeper dive into their performance and implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/etfs/2026/03/18/rwr-vs-vnq-how-these-popular-real-estate-etfs-stack-up-on-fees-risk-and-performance/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/etfs/2026/03/18/rwr-vs-vnq-how-these-popular-real-estate-etfs-stack-up-on-fees-risk-and-performance/?source=iedfolrf0000001)

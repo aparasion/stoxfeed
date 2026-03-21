@@ -18,4 +18,4 @@ The financial landscape is shifting, with Morgan Stanley forecasting direct-lend
 
 For professionals navigating these turbulent waters, Bravo’s insights underscore the importance of sector specialization in private equity. To delve deeper into his perspectives and the implications for the market, I recommend checking out the full CNBC interview.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/orlando-bravo-pushes-back-on-private-markets-criticism-everybodys-extremely-comfortable.html)

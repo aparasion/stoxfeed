@@ -18,4 +18,4 @@ This development is particularly relevant as asset managers increasingly target 
 
 Market professionals should consider how these changes in enforcement and international partnerships could affect their investment strategies and compliance frameworks. For a deeper dive into these trends and their implications, I recommend exploring the full article.
 
-[pionline.com](https://www.pionline.com)
+Source: [pionline.com](https://www.pionline.com)

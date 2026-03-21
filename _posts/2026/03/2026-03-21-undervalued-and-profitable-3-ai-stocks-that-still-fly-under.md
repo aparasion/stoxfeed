@@ -18,4 +18,4 @@ Equinix, Digital Realty Trust, and Prologis are three data center players worth 
 
 With substantial investments in data center infrastructure anticipated in the coming years, these stocks present an attractive entry point for those looking to capitalize on the expanding AI landscape. For a deeper dive into these opportunities, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/undervalued-and-profitable-x-ai-stocks-that-still/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/undervalued-and-profitable-x-ai-stocks-that-still/?source=iedfolrf0000001)

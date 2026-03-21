@@ -18,4 +18,4 @@ This momentum aligns with broader trends in the semiconductor industry, where AI
 
 For market professionals, the key takeaway is to monitor Micron's price action closely as it tests this resistance level, which could signal either a continuation of its bullish trend or a potential correction. For a deeper dive into Micron's positioning and market dynamics, I recommend exploring the full article.
 
-[tradingview.com](https://www.tradingview.com)
+Source: [tradingview.com](https://www.tradingview.com)

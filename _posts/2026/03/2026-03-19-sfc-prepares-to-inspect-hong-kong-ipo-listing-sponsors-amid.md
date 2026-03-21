@@ -18,4 +18,4 @@ This development is particularly relevant for financial markets as it could infl
 
 Market professionals should closely monitor these evolving dynamics, as they may impact investment strategies in energy and geopolitical risk management. For a deeper dive into this complex situation, I recommend exploring the full article for comprehensive insights.
 
-[scmp.com](https://www.scmp.com)
+Source: [scmp.com](https://www.scmp.com)

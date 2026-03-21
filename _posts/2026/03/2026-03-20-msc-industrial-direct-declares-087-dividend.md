@@ -18,4 +18,4 @@ This consistent dividend policy comes as MSC Industrial reports strong Q1 2026 r
 
 For investors focused on dividend stability and growth potential, MSC Industrial's performance and outlook may signal a favorable investment opportunity. For a deeper dive into their earnings call and future projections, I recommend exploring the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566854-msc-industrial-direct-declares-0_87-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566854-msc-industrial-direct-declares-0_87-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

@@ -18,4 +18,4 @@ The ongoing conflict has particularly impacted sectors heavily reliant on intern
 
 For market professionals, the key takeaway is to stay vigilant regarding geopolitical developments and their potential ripple effects on tech stocks. For a deeper dive into this week's market movers and what to watch next, I recommend checking out the full article.
 
-[investingnews.com](https://investingnews.com)
+Source: [investingnews.com](https://investingnews.com)

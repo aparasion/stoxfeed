@@ -18,4 +18,4 @@ The implications for the financial markets are clear: as PGMs become integral to
 
 Investors should consider the potential upside in platinum stocks as the market adapts to greener technologies. For a deeper dive into the best platinum stocks and their market implications, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/best-platinum-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-platinum-stocks)

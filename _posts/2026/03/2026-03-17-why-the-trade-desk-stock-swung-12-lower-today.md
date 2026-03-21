@@ -18,4 +18,4 @@ This development is significant for the financial markets, as it raises question
 
 For market professionals, the key takeaway is that The Trade Desk's challenges may necessitate a strategic overhaul to regain market position and investor trust. I recommend checking out the full article for a deeper analysis of these developments.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/why-the-trade-desk-swung-12-lower-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/why-the-trade-desk-swung-12-lower-today/?source=iedfolrf0000001)

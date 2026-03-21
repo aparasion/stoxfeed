@@ -18,4 +18,4 @@ This development is crucial for financial markets as it heightens risks in the M
 
 As the situation unfolds, market participants should closely monitor geopolitical developments and their potential impact on regional stability and global markets. For a deeper understanding of the implications, I recommend checking out the full article for more insights.
 
-[bbc.com](https://www.bbc.com)
+Source: [bbc.com](https://www.bbc.com)

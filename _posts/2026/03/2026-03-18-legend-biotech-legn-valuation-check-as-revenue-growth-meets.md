@@ -18,4 +18,4 @@ For financial professionals, this platform could significantly impact stock perf
 
 In a fast-paced market, leveraging such technology could provide a competitive edge. For a deeper understanding of how this platform can enhance your investment strategy, I recommend checking out the full article.
 
-[simplywall.st](https://simplywall.st)
+Source: [simplywall.st](https://simplywall.st)

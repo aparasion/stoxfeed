@@ -18,4 +18,4 @@ The investment is noteworthy as iRhythm specializes in innovative cardiac monito
 
 For market professionals, RTW's commitment to iRhythm signals a strategic bet on the intersection of medical devices and digital health. This development warrants further exploration, especially for those interested in the evolving landscape of cardiac care innovation. I recommend checking out the full article for deeper insights.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/this-specialized-heart-monitor-maker-just-caught-the-eye-of-a-major-healthcare-fund/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/this-specialized-heart-monitor-maker-just-caught-the-eye-of-a-major-healthcare-fund/?source=iedfolrf0000001)

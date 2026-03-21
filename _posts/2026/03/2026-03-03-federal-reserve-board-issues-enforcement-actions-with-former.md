@@ -18,4 +18,4 @@ These actions underscore ongoing regulatory scrutiny in the banking sector, whic
 
 For market professionals, this serves as a reminder of the critical nature of governance in banking operations. Understanding these enforcement trends can aid in assessing sector stability and investment strategies. For a deeper dive into the details of these actions, I recommend checking out the full article.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm)

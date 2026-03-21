@@ -18,4 +18,4 @@ This development is crucial for market professionals as it may affect gold-relat
 
 For those keen on understanding the nuances of gold pricing and its interplay with global trade, Hansen's analysis offers valuable perspectives. I recommend diving into the full article for a comprehensive look at these emerging trends and their implications for your investment strategies.
 
-[investingnews.com](https://investingnews.com)
+Source: [investingnews.com](https://investingnews.com)

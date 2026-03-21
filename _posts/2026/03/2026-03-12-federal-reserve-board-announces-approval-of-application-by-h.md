@@ -18,4 +18,4 @@ This merger is significant as it reflects ongoing consolidation trends in the ba
 
 For a deeper dive into the implications of this merger and what it means for the banking landscape, I recommend checking out the full article.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)

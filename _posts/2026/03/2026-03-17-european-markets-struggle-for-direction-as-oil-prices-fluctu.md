@@ -18,4 +18,4 @@ This environment of uncertainty is heightened as traders anticipate the U.S. Fed
 
 For professionals in the financial markets, the interplay between oil prices, central bank policy, and geopolitical developments will be crucial in shaping investment strategies. I recommend diving into the full article for a deeper understanding of these dynamics.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html)

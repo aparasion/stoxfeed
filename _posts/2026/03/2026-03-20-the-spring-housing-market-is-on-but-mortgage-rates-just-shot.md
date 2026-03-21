@@ -18,4 +18,4 @@ Despite higher rates, the market is leaning towards buyers, with homes lingering
 
 As the market grapples with these challenges, professionals should monitor inventory trends closely, as they are likely to dictate price movements and overall market sentiment. For a deeper dive into these dynamics, I recommend checking out the full article for more insights.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/spring-housing-market-mortgage-rates.html)

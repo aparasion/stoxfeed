@@ -18,4 +18,4 @@ The expansion significantly boosts ADI's manufacturing capacity, particularly in
 
 For market professionals, this development underscores ADI's strategic investment in a critical manufacturing hub, which could enhance its competitive edge and operational agility in an evolving semiconductor landscape. I recommend exploring the full article for deeper insights into ADI's plans and the implications for the semiconductor sector.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/analog-devices-announces-new-thailand-facility/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-announces-new-thailand-facility)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/analog-devices-announces-new-thailand-facility/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-announces-new-thailand-facility)

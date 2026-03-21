@@ -18,4 +18,4 @@ While the immediate impact on automakers with a strong Middle Eastern presence, 
 
 For investors, the key takeaway is that while rising gasoline prices may increase EV research and interest, they are less likely to drive immediate purchasing decisions. This nuanced understanding of consumer behavior in response to geopolitical events is essential for navigating the current market landscape. For a deeper analysis, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/the-iran-conflict-could-capsize-auto-sales-globall/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/the-iran-conflict-could-capsize-auto-sales-globall/?source=iedfolrf0000001)

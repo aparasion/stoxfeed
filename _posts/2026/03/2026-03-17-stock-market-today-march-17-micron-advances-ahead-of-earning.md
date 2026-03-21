@@ -18,4 +18,4 @@ This price movement underscores the growing sentiment in the semiconductor secto
 
 For investors, Micron's upcoming earnings report will be critical, with expectations set at approximately $8.74 EPS on $19.03 billion in revenue. This will be a key indicator of whether the anticipated AI-driven memory cycle is translating into tangible financial results. For a deeper dive into this development, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-micron-advances-ahead-of-earnings-as-tight-hbm-supply-lifts-ai-memory-outlook/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/stock-market-today/2026/03/17/stock-market-today-march-17-micron-advances-ahead-of-earnings-as-tight-hbm-supply-lifts-ai-memory-outlook/?source=iedfolrf0000001)

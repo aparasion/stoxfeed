@@ -18,4 +18,4 @@ The software sector is currently under pressure from AI advancements, with many 
 
 Investors should weigh Oracle's potential for growth against its financial risks. For those considering an investment, it's worth exploring the full analysis to understand the implications for Oracle's future in the evolving AI landscape.
 
-[nasdaq.com](https://www.nasdaq.com/articles/oracle-agrees-ai-challenging-saas-model-heres-why-oracle-thinks-its-disruptor-not)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/oracle-agrees-ai-challenging-saas-model-heres-why-oracle-thinks-its-disruptor-not)

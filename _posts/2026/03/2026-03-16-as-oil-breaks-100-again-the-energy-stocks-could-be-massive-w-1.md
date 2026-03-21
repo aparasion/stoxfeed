@@ -18,4 +18,4 @@ The performance of these stocks highlights the varied dynamics across sectors, w
 
 For a deeper dive into these developments and their implications for your portfolio strategy, I recommend checking out the full article for more insights.
 
-[247wallst.com](https://247wallst.com)
+Source: [247wallst.com](https://247wallst.com)

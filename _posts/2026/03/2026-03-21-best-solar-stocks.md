@@ -18,4 +18,4 @@ The solar sector is currently facing headwinds, particularly after Senator Joe M
 
 For market professionals, understanding the nuances of the solar industry is essential, especially as it remains a critical component of the renewable energy transition. I encourage you to read the full article for a deeper dive into the current state of solar stocks and their potential for future growth.
 
-[benzinga.com](https://www.benzinga.com/money/best-solar-stocks)
+Source: [benzinga.com](https://www.benzinga.com/money/best-solar-stocks)

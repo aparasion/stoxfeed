@@ -18,4 +18,4 @@ This methodology is particularly relevant for portfolio managers and traders loo
 
 For professionals seeking to refine their investment strategies, this combination of technology and traditional analysis presents a significant opportunity. I encourage you to explore the full article for a deeper understanding of how these dynamic signals can transform value investing in modern markets.
 
-[tradingkey.com](https://www.tradingkey.com)
+Source: [tradingkey.com](https://www.tradingkey.com)

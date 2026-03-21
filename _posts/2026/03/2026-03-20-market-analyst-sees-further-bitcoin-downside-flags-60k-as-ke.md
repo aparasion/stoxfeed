@@ -18,4 +18,4 @@ Rastani identifies critical support levels between $59,000 and $46,000, suggesti
 
 For a deeper dive into Rastani's analysis and to uncover potential opportunities in both crypto and stock markets, I highly recommend checking out the full interview.
 
-[cointelegraph.com](https://cointelegraph.com/news/rastani-further-bitcoin-downside-60k-key-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/rastani-further-bitcoin-downside-60k-key-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

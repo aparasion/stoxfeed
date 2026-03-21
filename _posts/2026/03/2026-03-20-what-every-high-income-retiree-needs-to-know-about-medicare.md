@@ -18,4 +18,4 @@ This is particularly relevant for financial professionals advising clients on re
 
 Understanding IRMAA thresholds and their implications is crucial for effective retirement planning. For a deeper dive into this topic and how it may affect your financial strategy, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/what-every-high-income-retiree-needs-to-know-about/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/what-every-high-income-retiree-needs-to-know-about/?source=iedfolrf0000001)

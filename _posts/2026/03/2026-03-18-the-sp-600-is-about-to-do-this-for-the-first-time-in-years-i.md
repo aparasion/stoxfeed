@@ -18,4 +18,4 @@ This shift could narrow the valuation gap between small and large caps, as the i
 
 For those managing portfolios or strategizing investments, this evolving dynamic may present a compelling opportunity. I recommend exploring the full article for deeper insights into this trend and its implications for market positioning.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/sp-600-first-time-in-years-rally-small-caps/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/sp-600-first-time-in-years-rally-small-caps/?source=iedfolrf0000001)

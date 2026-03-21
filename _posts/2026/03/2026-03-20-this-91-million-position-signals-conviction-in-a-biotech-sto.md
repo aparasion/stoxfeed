@@ -18,4 +18,4 @@ The timing of this investment is crucial as Vera Therapeutics approaches a pivot
 
 For investors, this move underscores a strong conviction in Vera’s growth potential amid key clinical milestones. I highly recommend exploring the full article for deeper insights into this strategic investment and its implications for the biotech sector.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/this-usd91-million-position-signals-conviction-in-a-biotech-stock-eyeing-fda-decision-this-year/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/this-usd91-million-position-signals-conviction-in-a-biotech-stock-eyeing-fda-decision-this-year/?source=iedfolrf0000001)

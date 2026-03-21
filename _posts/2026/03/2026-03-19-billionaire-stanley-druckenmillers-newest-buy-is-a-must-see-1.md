@@ -18,4 +18,4 @@ This development is crucial for market professionals as it highlights a possible
 
 For those looking to understand the implications of this shift in strategy, I highly recommend exploring the full article for a deeper analysis of Druckenmiller's moves and their potential impact on the market.
 
-[nasdaq.com](https://www.nasdaq.com/articles/billionaire-stanley-druckenmillers-newest-buy-must-see-if-you-own-shares-wall-streets)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/billionaire-stanley-druckenmillers-newest-buy-must-see-if-you-own-shares-wall-streets)

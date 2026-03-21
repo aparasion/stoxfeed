@@ -18,4 +18,4 @@ The analysis highlights that both companies are experiencing robust growth in th
 
 In summary, Microsoft edges out Alphabet in terms of stability and valuation, making it a more attractive buy for investors right now. For a deeper dive into the analysis, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/better-buy-now-alphabet-vs-microsoft/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/better-buy-now-alphabet-vs-microsoft/?source=iedfolrf0000001)

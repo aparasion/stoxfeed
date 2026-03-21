@@ -18,4 +18,4 @@ The decision to divest from Compass is notable as the company has recently outpe
 
 For investors, the shift in Prentice's strategy highlights the importance of evaluating Compass's growth potential against its profitability challenges, especially in a fluctuating housing market. For a deeper analysis of Compass and insights into other investment opportunities, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/prentice-capital-fully-liquidates-position-compass-according-recent-sec-filing)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/prentice-capital-fully-liquidates-position-compass-according-recent-sec-filing)

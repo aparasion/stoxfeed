@@ -18,4 +18,4 @@ This focus on regulation is crucial for maintaining investor confidence, particu
 
 For professionals navigating the forex market in Switzerland, choosing a broker that meets regulatory standards and aligns with individual trading goals is vital. I recommend checking out the full article for an in-depth look at these brokers and their offerings.
 
-[benzinga.com](https://www.benzinga.com/money/best-swiss-forex-brokers)
+Source: [benzinga.com](https://www.benzinga.com/money/best-swiss-forex-brokers)

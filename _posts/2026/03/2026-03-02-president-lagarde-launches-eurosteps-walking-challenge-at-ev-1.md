@@ -18,4 +18,4 @@ This initiative is significant for financial markets as it underscores the ECB's
 
 For market professionals, the EuroSteps initiative represents an evolving landscape in financial education that could influence broader economic trends. I recommend exploring the full details of this initiative and its implications in the original article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html)

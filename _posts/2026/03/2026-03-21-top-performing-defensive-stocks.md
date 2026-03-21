@@ -18,4 +18,4 @@ Investing in these low-correlation defensive stocks can help mitigate market ris
 
 For those looking to enhance their portfolios with defensive strategies, exploring the full details on these stocks and their performance metrics can provide valuable insights. I recommend checking out the complete article for an in-depth analysis of these defensive picks and their potential role in your investment strategy.
 
-[benzinga.com](https://www.benzinga.com/money/best-defensive-stocks-with-low-correlation-to-spy)
+Source: [benzinga.com](https://www.benzinga.com/money/best-defensive-stocks-with-low-correlation-to-spy)

@@ -18,4 +18,4 @@ Adding to the market's complexity is a significant oil price shock, driven by ge
 
 As volatility peaks, market professionals should reassess their strategies to mitigate risks associated with these dual pressures. For a deeper dive into how these developments are shaping market sentiment and trading strategies, I recommend checking out the full article for comprehensive insights.
 
-[news.google.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVVaNlMwOGR1WHJWSG03cGgxMDZWZEJuLTAzWEFQeWpLU2xjamZwdjd1YTg3bWxhUXZBemFLYXhRWnVjZzhiNGhfVnZJTE5sNUdNWWIyd29NWnY3V0t6S1ZSVDduekRhSDd4cGlPZzZfd3RlV0VJMmJfNElCa2laVC02TXJmdE5adl9JTjNNT3N5YXBFX1B0YUJibVg4dFljd1U1bUhEZlFaVmJkeTZ5eWR2VGIzUQ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVVaNlMwOGR1WHJWSG03cGgxMDZWZEJuLTAzWEFQeWpLU2xjamZwdjd1YTg3bWxhUXZBemFLYXhRWnVjZzhiNGhfVnZJTE5sNUdNWWIyd29NWnY3V0t6S1ZSVDduekRhSDd4cGlPZzZfd3RlV0VJMmJfNElCa2laVC02TXJmdE5adl9JTjNNT3N5YXBFX1B0YUJibVg4dFljd1U1bUhEZlFaVmJkeTZ5eWR2VGIzUQ?oc=5)

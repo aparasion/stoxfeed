@@ -18,4 +18,4 @@ The implications for the financial markets are significant, particularly for Nvi
 
 For market professionals, this deal underscores the importance of strategic partnerships in the tech sector and their potential to reshape competitive landscapes. For a deeper dive into the details of this pivotal agreement, I recommend checking out the full article.
 
-[forbes.com](https://www.forbes.com)
+Source: [forbes.com](https://www.forbes.com)

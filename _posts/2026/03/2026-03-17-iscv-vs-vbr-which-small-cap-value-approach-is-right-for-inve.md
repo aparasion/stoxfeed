@@ -18,4 +18,4 @@ From a performance perspective, ISCV has outpaced VBR over the past year, delive
 
 Ultimately, the choice between VBR and ISCV hinges on individual investment goals, whether prioritizing yield or liquidity. For a deeper dive into their characteristics, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/etfs/2026/03/17/iscv-vs-vbr-which-small-cap-value-approach-is-right-for-investors/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/etfs/2026/03/17/iscv-vs-vbr-which-small-cap-value-approach-is-right-for-investors/?source=iedfolrf0000001)

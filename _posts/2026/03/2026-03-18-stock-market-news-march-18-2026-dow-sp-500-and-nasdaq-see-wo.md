@@ -18,4 +18,4 @@ In other market movements, Five Below's stock surged on an optimistic outlook, a
 
 For market professionals, the takeaway is clear: monitor Powell's statements closely, as they could signal further market turbulence. For a deeper dive into these developments and their implications, I recommend checking out the full article for comprehensive insights.
 
-[marketwatch.com](https://www.marketwatch.com)
+Source: [marketwatch.com](https://www.marketwatch.com)

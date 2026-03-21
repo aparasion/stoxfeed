@@ -18,4 +18,4 @@ Meta, meanwhile, is also heavily investing in AI, with plans to allocate between
 
 For investors, both stocks present compelling opportunities due to their established market positions and relatively low forward price-to-earnings ratios. However, Alphabet's diverse operations may offer a broader range of profit avenues, making it a potentially stronger long-term investment.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/better-ai-stock-alphabet-vs-meta-platforms/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/better-ai-stock-alphabet-vs-meta-platforms/?source=iedfolrf0000001)

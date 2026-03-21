@@ -18,4 +18,4 @@ The implications for the financial markets are significant. Micron's strong perf
 
 For those tracking the semiconductor sector and AI trends, Micron's trajectory presents a compelling opportunity. I highly recommend reading the full article for a deeper dive into these transformative results and their market implications.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/micron-stock-investors-just-got-spectacular-news-f/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/micron-stock-investors-just-got-spectacular-news-f/?source=iedfolrf0000001)

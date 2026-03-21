@@ -20,4 +20,4 @@ Investors should closely monitor how these dynamics unfold, particularly in rela
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[news.google.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDRIYVkxM1NLRU50TGdYTmhsak9FUkoyVVdrcWd5NFlnYzRBU3M0bkpyNmw2NHlvR3dCa0JpcjNzV0VRUDRUVnhsTUpaU0VyQjV5ZC1TMEMxSmtJVUVlMmhlM1hOUTliV1N3dGd2N2JQaFJnSUYxM29uVjg3bzUzTGd2c29aMU1EanNFa0lMemdKSmRwckR2cVJvSjVHdFZHQ1lWV2tuZDk3djNhNmpweWFlTnhpY2xIeWtpYkdLUkQ4bEhDWVdWbDUzbGQ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUDRIYVkxM1NLRU50TGdYTmhsak9FUkoyVVdrcWd5NFlnYzRBU3M0bkpyNmw2NHlvR3dCa0JpcjNzV0VRUDRUVnhsTUpaU0VyQjV5ZC1TMEMxSmtJVUVlMmhlM1hOUTliV1N3dGd2N2JQaFJnSUYxM29uVjg3bzUzTGd2c29aMU1EanNFa0lMemdKSmRwckR2cVJvSjVHdFZHQ1lWV2tuZDk3djNhNmpweWFlTnhpY2xIeWtpYkdLUkQ4bEhDWVdWbDUzbGQ?oc=5)

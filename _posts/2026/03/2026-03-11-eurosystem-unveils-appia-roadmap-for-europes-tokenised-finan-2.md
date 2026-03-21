@@ -18,4 +18,4 @@ This development is significant for financial markets as it signals a shift towa
 
 Market professionals should closely monitor the progress of Appia, as its implications for wholesale financial services and central bank operations could reshape investment strategies and operational frameworks. For a deeper dive into the roadmap and its potential impact, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html)

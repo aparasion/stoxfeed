@@ -18,4 +18,4 @@ In earnings news, Planet Labs exceeded expectations with a fourth-quarter fiscal
 
 For market professionals, the key takeaway is the importance of discerning which companies are adapting successfully to technological shifts while others struggle. This dynamic could influence investment strategies moving forward. I recommend checking out the full article for a deeper dive into these developments and their implications.
 
-[barrons.com](https://www.barrons.com)
+Source: [barrons.com](https://www.barrons.com)

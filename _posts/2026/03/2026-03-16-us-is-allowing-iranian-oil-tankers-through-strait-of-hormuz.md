@@ -18,4 +18,4 @@ This development is significant for financial markets as it could ease some of t
 
 Market professionals should watch for shifts in oil supply dynamics and pricing as the situation evolves. For a deeper dive into the implications of this announcement, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/16/us-is-allowing-iranian-tankers-through-strait-of-hormuz-says-bessent.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/16/us-is-allowing-iranian-tankers-through-strait-of-hormuz-says-bessent.html)

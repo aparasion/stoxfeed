@@ -18,4 +18,4 @@ The implications for the biotech sector are noteworthy, especially for companies
 
 Investors should closely monitor Aldeyra's next steps and AbbVie's strategy regarding reproxalap, as these developments could influence market sentiment and stock performance in the biotech space. For a deeper dive into the details, I recommend checking out the full article.
 
-[fiercebiotech.com](https://www.fiercebiotech.com)
+Source: [fiercebiotech.com](https://www.fiercebiotech.com)

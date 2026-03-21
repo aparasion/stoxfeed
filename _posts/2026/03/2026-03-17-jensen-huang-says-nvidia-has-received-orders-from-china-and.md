@@ -18,4 +18,4 @@ This development is crucial for Nvidia as it attempts to tap back into a lucrati
 
 For market professionals, this signals a potential rebound in Nvidia's revenue streams and highlights the ongoing complexities of international trade in the tech sector. For a deeper dive into Nvidia's strategy and market implications, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-chipmaker-has-received-orders-from-china.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-chipmaker-has-received-orders-from-china.html)

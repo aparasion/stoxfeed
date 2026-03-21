@@ -18,4 +18,4 @@ The introduction of prediction markets is particularly noteworthy, as it could g
 
 For those interested in exploring the full potential of DraftKings and its strategic initiatives, I recommend checking out the complete article for a deeper dive into the company’s outlook and market positioning.
 
-[nasdaq.com](https://www.nasdaq.com/articles/1-small-cap-growth-stock-buy-now-it-soars-100-according-wall-street-analyst)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/1-small-cap-growth-stock-buy-now-it-soars-100-according-wall-street-analyst)

@@ -18,4 +18,4 @@ The integration of Brahma's systems is particularly relevant as the prediction m
 
 For professionals in trading and portfolio management, this acquisition underscores the increasing importance of robust infrastructure in the blockchain space. To delve deeper into the implications of this acquisition, I recommend checking out the full article.
 
-[coindesk.com](https://www.coindesk.com/business/2026/03/18/polymarket-acquires-defi-brahma-to-build-reliable-financial-blockchain-infrastructure)
+Source: [coindesk.com](https://www.coindesk.com/business/2026/03/18/polymarket-acquires-defi-brahma-to-build-reliable-financial-blockchain-infrastructure)

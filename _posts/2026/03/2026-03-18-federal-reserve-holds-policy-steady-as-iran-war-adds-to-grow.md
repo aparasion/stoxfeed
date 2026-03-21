@@ -18,4 +18,4 @@ The Fed's updated economic projections indicate a notable increase in inflation 
 
 Investors should closely monitor Chair Jerome Powell’s upcoming press conference for insights into the Fed's future direction and its implications for market dynamics. For a deeper understanding of these developments, I recommend reading the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/18/federal-reserve-holds-policy-steady-as-it-balances-growth-and-inflation-concerns)

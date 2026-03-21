@@ -18,4 +18,4 @@ These dividend hikes are significant as they signal the companies' confidence in
 
 For investors seeking reliable income-generating opportunities, these companies represent solid options backed by strong fundamentals. I recommend checking out the full article for more detailed insights into their performance and outlook.
 
-[dividendstocks.com](https://www.dividendstocks.com/articles/data-centers-and-defense-3-soaring-stocks-boosting-dividends)
+Source: [dividendstocks.com](https://www.dividendstocks.com/articles/data-centers-and-defense-3-soaring-stocks-boosting-dividends)

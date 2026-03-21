@@ -18,4 +18,4 @@ The revenue miss and profit slide are significant for investors, as they reflect
 
 For market professionals, the key takeaway is the potential volatility in Alibaba's stock as it navigates these challenges. For a deeper dive into the implications of these results, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzd2QThvdXFRTXh4ZHhXckdIeElORzd0Nmo1U0JaQUtabkxWYXE5Mm9mcFBKSTE4bkFjczk0b19HaWVYMmU4cHU5OTdRYVROendNSUZ2Nzc3RExfWGpVZE94OUpSd0YtYmh0TFZCb0FhWmpEMjVoZFpkOXRpR1VzTExjZ3l3bnRBenFMWGNB?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzd2QThvdXFRTXh4ZHhXckdIeElORzd0Nmo1U0JaQUtabkxWYXE5Mm9mcFBKSTE4bkFjczk0b19HaWVYMmU4cHU5OTdRYVROendNSUZ2Nzc3RExfWGpVZE94OUpSd0YtYmh0TFZCb0FhWmpEMjVoZFpkOXRpR1VzTExjZ3l3bnRBenFMWGNB?oc=5)

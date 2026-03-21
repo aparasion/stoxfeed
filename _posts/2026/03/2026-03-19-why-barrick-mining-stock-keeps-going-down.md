@@ -18,4 +18,4 @@ The correlation between Barrick's stock performance and silver prices has become
 
 For professionals looking to navigate the current market dynamics, this situation presents a potential buying opportunity in Barrick stock. I recommend checking out the full article for a deeper analysis of the implications for your portfolio.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/why-barrick-mining-stock-keeps-going-down/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/why-barrick-mining-stock-keeps-going-down/?source=iedfolrf0000001)

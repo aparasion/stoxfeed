@@ -18,4 +18,4 @@ This legislative update is crucial for the financial markets as it expands the m
 
 For market professionals, this rule change presents an opportunity to monitor the evolving landscape of healthcare services for seniors. It’s worth exploring how this development could influence both healthcare stocks and the broader implications for public health spending. For a deeper dive into the details, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/congress-quietly-changes-medicare-coverage-rules/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/congress-quietly-changes-medicare-coverage-rules/?source=iedfolrf0000001)

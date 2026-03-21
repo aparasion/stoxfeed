@@ -16,4 +16,4 @@ The energy sector is poised for significant growth, driven by the integration of
 
 For investors, both companies offer a compelling mix of growth potential and dividend stability, with NextEra planning to increase dividends by 10% through 2026. Given their strong financial positions and competitive advantages, these stocks are likely to outperform the market in the coming years. For a deeper dive into their growth trajectories and market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/2-monster-stocks-to-hold-for-the-next-10-years/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/2-monster-stocks-to-hold-for-the-next-10-years/?source=iedfolrf0000001)

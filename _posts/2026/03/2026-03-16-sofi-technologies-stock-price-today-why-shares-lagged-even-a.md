@@ -18,4 +18,4 @@ The implications for the financial markets are substantial, as the uptick in bit
 
 For market professionals, this development underscores the growing institutional appetite for bitcoin and its influence on related equities. I recommend exploring the full article for a deeper analysis of these trends and their potential impact on your investment strategies.
 
-[ts2.tech](https://ts2.tech)
+Source: [ts2.tech](https://ts2.tech)

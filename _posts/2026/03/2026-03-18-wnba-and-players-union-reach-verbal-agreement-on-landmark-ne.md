@@ -18,4 +18,4 @@ This agreement comes at a crucial time as the WNBA has been experiencing record 
 
 As the league prepares for its 30th season starting May 8, this agreement could reshape the financial dynamics of women's professional sports. For a deeper dive into the implications of this deal, I recommend checking out the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/wnba-players-reach-verbal-cba-deal.html)

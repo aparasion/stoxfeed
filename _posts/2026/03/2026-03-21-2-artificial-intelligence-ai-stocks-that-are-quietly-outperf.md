@@ -18,4 +18,4 @@ Lumentum is capitalizing on the need for high-speed data transfer in AI data cen
 
 Investors should closely monitor Lumentum and Western Digital, as their strong growth trajectories in the AI space suggest significant upside potential. For a deeper dive into the catalysts driving these stocks, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/2-artificial-intelligence-ai-stocks-that-are-quiet/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/2-artificial-intelligence-ai-stocks-that-are-quiet/?source=iedfolrf0000001)

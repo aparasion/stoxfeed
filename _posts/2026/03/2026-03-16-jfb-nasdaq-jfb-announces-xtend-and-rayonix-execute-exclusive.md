@@ -18,4 +18,4 @@ Rising oil prices, currently above $90 a barrel, are a focal point for market pa
 
 For professionals navigating this complex landscape, understanding these dynamics is crucial. I recommend checking out the full article for deeper insights into how these factors may influence your investment strategies.
 
-[markets.businessinsider.com](https://markets.businessinsider.com)
+Source: [markets.businessinsider.com](https://markets.businessinsider.com)

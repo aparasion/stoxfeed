@@ -18,4 +18,4 @@ The implications for financial markets are significant, as these MLPs not only p
 
 For a deeper dive into these MLPs and their market positioning, I recommend checking out the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/3-ultra-high-yield-energy-stocks-paying-5-to-11-th/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/3-ultra-high-yield-energy-stocks-paying-5-to-11-th/?source=iedfolrf0000001)

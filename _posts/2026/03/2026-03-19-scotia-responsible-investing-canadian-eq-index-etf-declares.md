@@ -18,4 +18,4 @@ This dividend declaration reflects the ETF's commitment to providing returns to 
 
 Investors should consider how this dividend aligns with their portfolio strategies and the potential impact on SRIC:CA's valuation in the responsible investing space. For a deeper dive into the ETF's dividend scorecard and growth potential, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566419-scotia-responsible-investing-canadian-eq-index-etf-declares-cad-0103-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566419-scotia-responsible-investing-canadian-eq-index-etf-declares-cad-0103-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

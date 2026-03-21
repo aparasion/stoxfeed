@@ -18,4 +18,4 @@ Despite these challenges, Apple’s performance in China remains robust. Sales o
 
 For market professionals, Apple's ability to leverage its iPhone ecosystem while addressing regulatory demands is crucial. As the company pivots towards AI revenue streams, its stronghold in China could be pivotal for future growth. For further insights, I recommend diving into the full article for a comprehensive analysis.
 
-[cnbc.com](https://www.cnbc.com/2026/03/20/tim-cooks-china-visit-reinforces-countrys-importance-to-apple-.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/20/tim-cooks-china-visit-reinforces-countrys-importance-to-apple-.html)

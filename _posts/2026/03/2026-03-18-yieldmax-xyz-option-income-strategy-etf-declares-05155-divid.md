@@ -18,4 +18,4 @@ For market professionals, this dividend announcement is significant as it unders
 
 Investors should consider how this dividend aligns with their income strategies and the overall performance of the ETF. For a deeper dive into the implications of this announcement and the ETF's performance metrics, I recommend checking out the full article for more insights.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565931-yieldmax-xyz-option-income-strategy-etf-declares-0_5155-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565931-yieldmax-xyz-option-income-strategy-etf-declares-0_5155-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

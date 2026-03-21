@@ -18,4 +18,4 @@ The TCW Flexible Income ETF, with a market cap of $1.87 billion, offers a dynami
 
 For market professionals, the key takeaway is the ETF’s ability to adapt to changing market conditions, providing a potential avenue for enhanced returns in a volatile interest rate environment. To delve deeper into the implications of this investment, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/19/family-manage-llc-initiates-15-58-million-position-in-tcw-flexible-income-etf-according-to-recent-sec-filing/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/19/family-manage-llc-initiates-15-58-million-position-in-tcw-flexible-income-etf-according-to-recent-sec-filing/?source=iedfolrf0000001)

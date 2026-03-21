@@ -18,4 +18,4 @@ The analyst's upgrade is particularly relevant given Edgewise's recent release o
 
 For market professionals, this development highlights Edgewise's potential for growth and the importance of ongoing clinical results in shaping investor sentiment. I recommend checking out the full article for a deeper dive into these dynamics.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/why-edgewise-therapeutics-stock-topped-the-market/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/why-edgewise-therapeutics-stock-topped-the-market/?source=iedfolrf0000001)

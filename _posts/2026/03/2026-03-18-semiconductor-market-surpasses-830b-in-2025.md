@@ -18,4 +18,4 @@ The DRAM segment has emerged as a standout performer, with revenue soaring from 
 
 As the semiconductor industry continues to expand, there's potential for total revenue to exceed $1 trillion if AI demand persists into 2026. For a deeper dive into these trends and their implications, I highly recommend exploring the full article.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/semiconductor-market-surpasses-830b-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-surpasses-830b-in-2025)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/semiconductor-market-surpasses-830b-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-surpasses-830b-in-2025)

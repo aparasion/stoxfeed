@@ -18,4 +18,4 @@ This investigation is significant for the financial markets as it raises questio
 
 For market professionals, this situation underscores the importance of regulatory oversight in the automotive sector and its potential ramifications on stock valuations. I recommend diving into the full article for a deeper understanding of the implications for Tesla and the broader EV market.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/tesla-nhtsa-full-self-driving-fsd-reduced-visibility.html)

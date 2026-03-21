@@ -18,4 +18,4 @@ The market's reaction underscores a growing anxiety among investors regarding th
 
 For professionals navigating this volatile landscape, understanding the interplay between inflation expectations and asset performance is crucial. I recommend diving deeper into this article for a comprehensive analysis of the implications for both traditional and digital assets.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/18/bitcoin-sinks-below-usd71-000-stocks-close-at-session-lows-as-2026-rate-cut-hopes-fade-further)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/18/bitcoin-sinks-below-usd71-000-stocks-close-at-session-lows-as-2026-rate-cut-hopes-fade-further)

@@ -18,4 +18,4 @@ This move is crucial as it could reshape how crypto assets are traded and regula
 
 Market professionals should closely monitor how this regulatory clarity evolves, as it could lead to increased institutional investment and a more structured market environment. For a deeper dive into the implications of this guidance, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com)
+Source: [coindesk.com](https://www.coindesk.com)

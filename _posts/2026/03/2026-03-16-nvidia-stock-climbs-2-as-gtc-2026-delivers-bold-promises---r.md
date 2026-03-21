@@ -18,4 +18,4 @@ This uptick in stock performance reflects investor confidence in Nvidia's strate
 
 For market professionals, Nvidia's proactive approach in expanding its product offerings underscores its leadership in the tech space. The implications for portfolio strategies are significant, as the company remains a key player in the evolving landscape of AI and graphics technology. I recommend exploring the full details in the original article to understand the broader market impact.
 
-[news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5nR0xlbmF4YUZ5aW9CZzBxa0R5ZDFYRmRaUF9mdzRVZjVWdUo5S3BZRVk4TC0xQk1nWUZzemdFLV9DdzlvajNHTFB4Y2hzclBBU3otRENnNkktekdHZjdoczBUQTFYekNIWTVaaHdTZml2d1RYS0Jpa253c1M?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5nR0xlbmF4YUZ5aW9CZzBxa0R5ZDFYRmRaUF9mdzRVZjVWdUo5S3BZRVk4TC0xQk1nWUZzemdFLV9DdzlvajNHTFB4Y2hzclBBU3otRENnNkktekdHZjdoczBUQTFYekNIWTVaaHdTZml2d1RYS0Jpa253c1M?oc=5)

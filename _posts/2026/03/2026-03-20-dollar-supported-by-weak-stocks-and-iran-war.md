@@ -18,4 +18,4 @@ The euro is under pressure, down 0.45%, influenced by a significant decline in G
 
 For market professionals, the interplay of geopolitical tensions and central bank policies is critical to monitor, particularly as the ECB signals potential tightening. For a deeper dive into these developments, I recommend checking out the full article for comprehensive insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/dollar-supported-weak-stocks-and-iran-war)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/dollar-supported-weak-stocks-and-iran-war)

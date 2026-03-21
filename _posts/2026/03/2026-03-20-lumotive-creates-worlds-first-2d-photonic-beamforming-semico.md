@@ -18,4 +18,4 @@ The implications for financial markets are substantial, particularly in sectors 
 
 Investors should keep a close eye on Lumotive and similar firms, as this innovation could redefine optical systems in the AI era. For a deeper dive into this groundbreaking development, I recommend exploring the full article.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor)

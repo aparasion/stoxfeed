@@ -18,4 +18,4 @@ The financial services sector overall has been outperforming the broader market,
 
 Investors should consider the growth trajectories of these companies as potential opportunities for portfolio enhancement. For a deeper dive into these developments, I recommend checking out the full article.
 
-[benzinga.com](https://www.benzinga.com/money/top-financial-stocks-for-the-week)
+Source: [benzinga.com](https://www.benzinga.com/money/top-financial-stocks-for-the-week)

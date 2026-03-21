@@ -18,4 +18,4 @@ This robust earnings growth highlights Couche-Tard's resilience in a competitive
 
 For a deeper dive into Couche-Tard's financial results and what they mean for the market, I recommend checking out the full article for further insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/alimentation-couche-tard-inc-bottom-line-rises-q3)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/alimentation-couche-tard-inc-bottom-line-rises-q3)

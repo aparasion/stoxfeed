@@ -18,4 +18,4 @@ Defense stocks, surprisingly, are underperforming despite the ongoing conflict, 
 
 As central banks prepare for key meetings, the Reserve Bank of Australia has already raised rates in response to inflationary pressures from the conflict. Market participants are now speculating that the Bank of England may adopt a more dovish stance than anticipated, especially in light of deteriorating economic indicators. For a deeper analysis of these developments and their implications for your investment strategy, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/oil-prices-spike-again-as-supply-gets-targeted)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/oil-prices-spike-again-as-supply-gets-targeted)

@@ -18,4 +18,4 @@ This development has implications for the broader labor market and consumer spen
 
 For market professionals, understanding these trends is crucial, as they may influence consumer behavior and investment opportunities in related industries. I recommend exploring the full article for deeper insights into how these dynamics could shape economic resilience and growth.
 
-[stlouisfed.org](https://www.stlouisfed.org)
+Source: [stlouisfed.org](https://www.stlouisfed.org)

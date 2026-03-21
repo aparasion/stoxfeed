@@ -18,4 +18,4 @@ This shift is crucial for the financial markets as it reflects the ongoing volat
 
 Market professionals should note that the next difficulty adjustment is anticipated on April 3, which could further impact miner profitability and the overall health of the Bitcoin network. As miners adapt to these changes, their strategies may influence Bitcoin's market dynamics and investor sentiment.
 
-[cointelegraph.com](https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

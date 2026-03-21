@@ -18,4 +18,4 @@ Pennsylvania offers surprising options, with Philadelphia ranking sixth national
 
 For financial professionals, understanding these retirement trends can inform investment strategies in real estate and healthcare sectors. Explore the full report for deeper insights into how these trends may impact market dynamics and investment opportunities.
 
-[fool.com](https://www.fool.com/retirement/2026/03/19/3-best-states-to-retire-in-the-us-in-2026/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/19/3-best-states-to-retire-in-the-us-in-2026/?source=iedfolrf0000001)

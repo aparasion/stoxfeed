@@ -18,4 +18,4 @@ The implications for the financial markets are profound. As oil supply chains fa
 
 The situation underscores the volatility in global energy markets and the need for traders and analysts to closely monitor shipping routes and geopolitical developments. For a deeper dive into the evolving dynamics of this critical maritime chokepoint, I recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html)

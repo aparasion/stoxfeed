@@ -18,4 +18,4 @@ The easing of crash fears is significant for financial markets, as it reflects a
 
 For market professionals, this development highlights the importance of monitoring both macroeconomic trends and geopolitical events. Understanding how these factors interplay can inform investment strategies. For a deeper dive into the nuances of this situation, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1pXVnlxc1AyeGg1blVhLUY4Tjk4Q3pHVFRVaU43QWR2bHo4OFJ2ekdUNkFBLW5aOXhyaXVEblNLYUFsR3c3eGs1bkg3WUJvYmJWN0hhRHlqQS1oY3ZvZUk4WVlMZUhnRnNDN2IzNGFiYkhIQ29RSm1UTWgyQ2tZWFZOTmh1ckFVeUdvWS1uSFQ4ZWRVWG1Sejgyc2hmVmM3WFl2VkFXRQ?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1pXVnlxc1AyeGg1blVhLUY4Tjk4Q3pHVFRVaU43QWR2bHo4OFJ2ekdUNkFBLW5aOXhyaXVEblNLYUFsR3c3eGs1bkg3WUJvYmJWN0hhRHlqQS1oY3ZvZUk4WVlMZUhnRnNDN2IzNGFiYkhIQ29RSm1UTWgyQ2tZWFZOTmh1ckFVeUdvWS1uSFQ4ZWRVWG1Sejgyc2hmVmM3WFl2VkFXRQ?oc=5)

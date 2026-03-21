@@ -18,4 +18,4 @@ For financial markets professionals, the announcement is significant as it refle
 
 Investors should consider the implications of this dividend announcement on BSR's overall performance and market positioning. For a deeper dive into BSR's financial outlook and growth trajectory, I recommend checking out the full article for comprehensive insights.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565489-bsr-real-estate-investment-trust-declares-cad-0_0467-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565489-bsr-real-estate-investment-trust-declares-cad-0_0467-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

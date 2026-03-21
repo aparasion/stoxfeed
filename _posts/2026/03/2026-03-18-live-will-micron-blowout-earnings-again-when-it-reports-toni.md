@@ -18,4 +18,4 @@ This uptick in stock prices reflects positive sentiment across the technology an
 
 For traders and portfolio managers, these developments highlight potential opportunities for investment in these sectors. For a deeper dive into the factors driving these gains, I recommend checking out the full article.
 
-[247wallst.com](https://247wallst.com)
+Source: [247wallst.com](https://247wallst.com)

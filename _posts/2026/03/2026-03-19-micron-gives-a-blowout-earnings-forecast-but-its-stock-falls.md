@@ -18,4 +18,4 @@ Additionally, global oil prices have surged to $110 a barrel amid geopolitical t
 
 For market professionals, the implications are clear: volatility is likely to persist, and sectors tied to consumer discretionary spending may face headwinds. I encourage you to explore the full article for a deeper analysis of these trends and their potential impact on your investment strategies.
 
-[marketwatch.com](https://www.marketwatch.com)
+Source: [marketwatch.com](https://www.marketwatch.com)

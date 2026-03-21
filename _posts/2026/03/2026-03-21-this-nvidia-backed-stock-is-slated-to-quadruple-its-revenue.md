@@ -18,4 +18,4 @@ CoreWeave's revenue is projected to soar, with a staggering 110% year-over-year 
 
 For those willing to embrace the risk of waiting for profitability, CoreWeave could be a compelling investment opportunity. For a deeper dive into this dynamic situation, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/this-nvidia-backed-stock-is-slated-to-quadruple-it/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/this-nvidia-backed-stock-is-slated-to-quadruple-it/?source=iedfolrf0000001)

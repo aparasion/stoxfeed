@@ -18,4 +18,4 @@ The company has secured strategic partnerships with industry giants like General
 
 For market professionals, EnergyX represents a compelling investment opportunity in a critical sector. I encourage you to delve deeper into this story to understand the potential implications for your portfolio.
 
-[benzinga.com](https://www.benzinga.com/money/energyx-extraction-pm-gg)
+Source: [benzinga.com](https://www.benzinga.com/money/energyx-extraction-pm-gg)

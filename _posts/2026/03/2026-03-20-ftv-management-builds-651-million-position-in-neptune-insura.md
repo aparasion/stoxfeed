@@ -18,4 +18,4 @@ Neptune Insurance Holdings specializes in technology-driven solutions for flood 
 
 For investors, the key takeaway is the potential for Neptune to expand its policy volume while navigating the complexities of partner capacity and market demand. This unique model presents both opportunities and challenges, making it essential for stakeholders to monitor its performance closely. For a deeper dive into Neptune's strategy and market implications, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/ftv-management-builds-usd651-million-position-in-neptune-insurance-holdings-according-to-recent-sec-filing/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/ftv-management-builds-usd651-million-position-in-neptune-insurance-holdings-according-to-recent-sec-filing/?source=iedfolrf0000001)

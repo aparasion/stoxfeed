@@ -18,4 +18,4 @@ This development is significant for investors focused on sustainable investing, 
 
 Investors should consider how this dividend aligns with their portfolio strategies and the implications for the ESG investment landscape. For a deeper dive into this announcement and its potential impact, I recommend checking out the full article.
 
-[seekingalpha.com](https://seekingalpha.com/news/4565472-ishares-esg-screened-sp-500-etf-declares-quarterly-distribution-of-01207?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4565472-ishares-esg-screened-sp-500-etf-declares-quarterly-distribution-of-01207?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

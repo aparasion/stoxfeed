@@ -18,4 +18,4 @@ For investors seeking alternative exposure to the live music sector, Ryman Hospi
 
 Explore the full article to gain deeper insights into how these two companies are navigating the evolving landscape of live entertainment.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/a-39-billion-empire-and-a-5-dividend-from-nashvill/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/a-39-billion-empire-and-a-5-dividend-from-nashvill/?source=iedfolrf0000001)

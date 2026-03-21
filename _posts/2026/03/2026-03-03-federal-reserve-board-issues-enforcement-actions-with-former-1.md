@@ -18,4 +18,4 @@ These actions underscore ongoing regulatory scrutiny in the banking sector, whic
 
 For financial professionals, these developments may signal a tightening regulatory environment, potentially influencing compliance costs and operational strategies within the sector. For a deeper dive into the implications of these enforcement actions, I recommend checking out the full article for further insights.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm)

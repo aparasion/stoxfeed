@@ -18,4 +18,4 @@ This rebate could influence the housing market by potentially increasing demand 
 
 Investors and market professionals should monitor how this rebate affects housing starts and sales in the coming months, as it could signal shifts in consumer behavior and market dynamics. For a deeper dive into the implications of this policy, I recommend checking out the full article.
 
-[bnnbloomberg.ca](https://www.bnnbloomberg.ca)
+Source: [bnnbloomberg.ca](https://www.bnnbloomberg.ca)

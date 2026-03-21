@@ -18,4 +18,4 @@ This move is likely to have positive implications for the local economy and the 
 
 For a deeper understanding of how this decision could influence Frankfurt's economic landscape and its implications for local stakeholders, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html)

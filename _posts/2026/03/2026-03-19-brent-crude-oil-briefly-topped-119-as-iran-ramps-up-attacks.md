@@ -18,4 +18,4 @@ The missile attacks on QatarEnergy's Ras Laffan Industrial City have severely di
 
 As tensions escalate, energy prices are likely to remain volatile. For a deeper understanding of the implications for oil markets and major players, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/brent-crude-oil-briefly-topped-119-as-iran-ramps-u/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/brent-crude-oil-briefly-topped-119-as-iran-ramps-u/?source=iedfolrf0000001)

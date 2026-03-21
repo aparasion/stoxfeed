@@ -18,4 +18,4 @@ This price hike underscores the competitive landscape in AI, where Microsoft fac
 
 For more insights and details on Microsoft's latest developments, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/microsofts-new-99-copilot-tier-ai-monetization/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/microsofts-new-99-copilot-tier-ai-monetization/?source=iedfolrf0000001)

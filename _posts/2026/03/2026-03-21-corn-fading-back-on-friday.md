@@ -18,4 +18,4 @@ This data highlights a robust demand for U.S. corn, which could influence market
 
 For traders and analysts, the key takeaway is the strength in export commitments against a backdrop of falling prices, suggesting a complex market environment ahead. For a deeper dive into these trends, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/corn-fading-back-friday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/corn-fading-back-friday)

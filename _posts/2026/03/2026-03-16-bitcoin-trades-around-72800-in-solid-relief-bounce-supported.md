@@ -18,4 +18,4 @@ The influx of capital into Bitcoin ETFs highlights a growing acceptance of digit
 
 For market professionals, the key takeaway is the potential for continued volatility and growth in the cryptocurrency sector, driven by institutional adoption. To delve deeper into the implications of these ETF inflows and their impact on Bitcoin's trajectory, I recommend reading the full article for a comprehensive analysis.
 
-[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BbWFRTGVXZWJQV3daQW9XejY1Z1VrdVRwR0ZWTy1ELTM2SEE0SDd0SXN3eVgtX2lQcHpPLWFNUS04SEtxWW1WTFhIQWFFNlQwQ1pBbVgxZnpYY1hCVkRmV3Z2SWRnTTBJZ3NrTk9NT3M?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9BbWFRTGVXZWJQV3daQW9XejY1Z1VrdVRwR0ZWTy1ELTM2SEE0SDd0SXN3eVgtX2lQcHpPLWFNUS04SEtxWW1WTFhIQWFFNlQwQ1pBbVgxZnpYY1hCVkRmV3Z2SWRnTTBJZ3NrTk9NT3M?oc=5)

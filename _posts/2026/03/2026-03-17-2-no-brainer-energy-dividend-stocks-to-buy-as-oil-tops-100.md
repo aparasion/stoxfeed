@@ -18,4 +18,4 @@ The financial metrics are compelling: Exxon boasts a robust dividend coverage ra
 
 For a deeper dive into the implications of these developments on the energy market and dividend sustainability, I highly recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/16/2-no-brainer-energy-dividend-stocks-to-buy-as-oil/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/16/2-no-brainer-energy-dividend-stocks-to-buy-as-oil/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ The Santa Ynez Pipeline has been inactive since a 2015 oil spill, but Sable Offs
 
 For investors, Sable Offshore presents a high-risk opportunity given its reliance on the Santa Ynez system. Those interested in the implications for oil supply and pricing dynamics should delve into the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/the-trump-administration-ordered-a-previously-shut/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/the-trump-administration-ordered-a-previously-shut/?source=iedfolrf0000001)

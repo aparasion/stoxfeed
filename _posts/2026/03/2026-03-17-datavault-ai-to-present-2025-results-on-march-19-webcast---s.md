@@ -18,4 +18,4 @@ This development is significant for market professionals as it provides a compet
 
 For traders looking to stay ahead of market trends and capitalize on real-time insights, Stock Titan presents an innovative solution. I recommend checking out the full article to explore all the features and benefits this platform offers.
 
-[stocktitan.net](https://www.stocktitan.net)
+Source: [stocktitan.net](https://www.stocktitan.net)

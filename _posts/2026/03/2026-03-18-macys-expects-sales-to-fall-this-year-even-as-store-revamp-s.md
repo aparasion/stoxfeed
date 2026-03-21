@@ -18,4 +18,4 @@ The retailer's performance indicates a mixed bag for investors. While comparable
 
 For market professionals, Macy's ongoing turnaround strategy, which includes significant investments in its remaining stores, is critical to monitor. The company's recent performance and strategic pivots could influence its stock trajectory, making it worthwhile to delve deeper into the full article for comprehensive insights.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html)

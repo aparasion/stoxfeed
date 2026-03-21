@@ -18,4 +18,4 @@ This surge in tech and automotive stocks is significant as it reflects strong in
 
 For professionals in the financial markets, the implications of Nvidia's announcements and the resulting sector performance are crucial. This development underscores the interconnectedness of tech advancements and automotive innovation. I recommend exploring the full article for deeper insights into these market movements and their potential ramifications.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/asia-pacific-markets-today-nikkei-225-kospi-hang-seng-index.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/asia-pacific-markets-today-nikkei-225-kospi-hang-seng-index.html)

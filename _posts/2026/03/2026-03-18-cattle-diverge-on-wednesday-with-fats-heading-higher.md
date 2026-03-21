@@ -18,4 +18,4 @@ The decline in wholesale boxed beef prices, with Choice boxes down $1.56 to $401
 
 For market professionals, the interplay between futures gains and declining cash trade signals a cautious outlook. For a deeper dive into these trends and their implications for the beef market, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/cattle-diverge-wednesday-fats-heading-higher)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/cattle-diverge-wednesday-fats-heading-higher)

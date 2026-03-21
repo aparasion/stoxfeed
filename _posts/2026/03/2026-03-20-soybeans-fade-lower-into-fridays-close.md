@@ -18,4 +18,4 @@ This decline comes amid disappointing export sales data, with commitments at 36.
 
 For market professionals, the current trends in soybean futures and export commitments suggest a cautious approach to positioning in the agricultural commodities space. I recommend checking out the full article for deeper insights and analysis.
 
-[nasdaq.com](https://www.nasdaq.com/articles/soybeans-fade-lower-fridays-close)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/soybeans-fade-lower-fridays-close)

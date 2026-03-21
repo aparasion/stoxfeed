@@ -18,4 +18,4 @@ This partnership underscores the growing momentum in the autonomous vehicle sect
 
 For market professionals, this investment highlights the strategic shift towards electric and autonomous vehicles, emphasizing the potential for substantial returns as technology advances. I recommend diving deeper into the full story for a comprehensive understanding of the implications for both companies and the broader EV market.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html)

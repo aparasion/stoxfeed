@@ -18,4 +18,4 @@ This development is crucial for the financial markets as it highlights the poten
 
 For a deeper dive into the implications of these findings and their potential impact on Rhythm’s stock trajectory, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/rhythms-emanate-trial-misses-endpoint-shows-bmi-reductions)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/rhythms-emanate-trial-misses-endpoint-shows-bmi-reductions)

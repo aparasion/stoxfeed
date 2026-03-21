@@ -18,4 +18,4 @@ Oil prices remain a focal point, with Brent holding above $100 per barrel, benef
 
 Market professionals should watch the developments surrounding UniCredit's bid for Commerzbank, as it could signal significant consolidation in European banking. For a deeper dive into these dynamics, I recommend checking out the full article.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/market-wrap-europe-attempts-rebound-amid-hopes-of-restoring-traffic-in-hormuz)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/market-wrap-europe-attempts-rebound-amid-hopes-of-restoring-traffic-in-hormuz)

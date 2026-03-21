@@ -18,4 +18,4 @@ While both companies have demonstrated significant sales growth, with Kratos ave
 
 For investors, the key takeaway is that while market sentiment may be swayed by Red Cat's performance, Kratos's established profitability and growth trajectory provide a stronger foundation. For a deeper dive into these developments, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/why-kratos-defense-stock-dropped-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/why-kratos-defense-stock-dropped-today/?source=iedfolrf0000001)

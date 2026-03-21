@@ -18,4 +18,4 @@ The market is now grappling with recession risks, as declining copper prices are
 
 For market professionals, the key takeaway is the potential for gold to rebound if inflation concerns shift focus back to rising debts and deficits. For a deeper dive into these dynamics and their implications for your investment strategy, I highly recommend exploring the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html)

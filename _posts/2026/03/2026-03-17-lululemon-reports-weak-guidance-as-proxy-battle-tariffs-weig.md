@@ -18,4 +18,4 @@ This guidance reflects broader challenges in the retail sector, particularly as 
 
 For market professionals, Lululemon's struggles underscore the importance of monitoring macroeconomic factors and competitive pressures in the retail space. The full article offers deeper insights into the company's strategic adjustments and market positioning—definitely worth a read for those tracking athleisure trends.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/lululemon-lulu-earnings-q4-2025.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/lululemon-lulu-earnings-q4-2025.html)

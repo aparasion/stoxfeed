@@ -18,4 +18,4 @@ Understanding these daily fluctuations is crucial for portfolio management and t
 
 For those looking to refine their investment strategies, exploring these daily movers and analyst recommendations can offer actionable insights. I encourage you to delve into the full article for a comprehensive overview of today’s market dynamics and to uncover potential opportunities.
 
-[ca.finance.yahoo.com](https://ca.finance.yahoo.com)
+Source: [ca.finance.yahoo.com](https://ca.finance.yahoo.com)

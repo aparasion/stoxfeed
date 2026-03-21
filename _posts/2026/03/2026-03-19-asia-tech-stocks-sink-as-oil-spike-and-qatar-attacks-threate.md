@@ -18,4 +18,4 @@ The implications for the financial markets are significant, with analysts warnin
 
 For professionals in the trading and portfolio management sectors, this situation underscores the importance of monitoring geopolitical developments and their potential ripple effects on supply chains. I recommend reading the full article for a deeper understanding of these dynamics and their impact on the tech sector.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/tech-stocks-qatar-attack-semiconductor-supply-chain-lng-helium.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/tech-stocks-qatar-attack-semiconductor-supply-chain-lng-helium.html)

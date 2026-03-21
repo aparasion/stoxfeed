@@ -18,4 +18,4 @@ This meeting is particularly significant as it follows a series of rate hikes ai
 
 For professionals in trading and portfolio management, understanding the Fed's stance is crucial for positioning strategies. This upcoming meeting could set the tone for market movements in the first quarter. I recommend checking out the full article for a deeper dive into what to expect and how to navigate the implications.
 
-[news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmNiRy1wTFZWMllQdm5zQ3JMc28xQS0xNmxqaUY5VVFEbEx6b1k0d2ZRRHBjSnVyY2syRU15OWt4aF9rYkJKXzlDcFk0N044YVExdFU3V2x6bFA5UmVwbTltVDNPdnBNU2VuZlZTdlduYjNmSWtfYUpxNjVKd2pIMlpEVXBVLWlZcW5neW1mSXVZOGR3TklVZEVyTWM4aGFwUllCdTIxaldEeVJGLW5EVA?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmNiRy1wTFZWMllQdm5zQ3JMc28xQS0xNmxqaUY5VVFEbEx6b1k0d2ZRRHBjSnVyY2syRU15OWt4aF9rYkJKXzlDcFk0N044YVExdFU3V2x6bFA5UmVwbTltVDNPdnBNU2VuZlZTdlduYjNmSWtfYUpxNjVKd2pIMlpEVXBVLWlZcW5neW1mSXVZOGR3TklVZEVyTWM4aGFwUllCdTIxaldEeVJGLW5EVA?oc=5)

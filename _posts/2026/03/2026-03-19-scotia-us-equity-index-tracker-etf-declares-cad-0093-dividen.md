@@ -18,4 +18,4 @@ The declaration of this dividend may influence investor sentiment, particularly 
 
 For those looking to enhance their portfolios with dividend-paying assets, this update on Scotia US Equity Index Tracker ETF is noteworthy. I recommend checking out the full article for a deeper dive into the ETF's performance metrics and dividend history.
 
-[seekingalpha.com](https://seekingalpha.com/news/4566427-scotia-us-equity-index-tracker-etf-declares-cad-0093-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4566427-scotia-us-equity-index-tracker-etf-declares-cad-0093-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

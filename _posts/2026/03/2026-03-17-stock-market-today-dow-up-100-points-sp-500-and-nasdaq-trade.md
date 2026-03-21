@@ -18,4 +18,4 @@ The implications for financial markets are significant, particularly for compani
 
 As the situation evolves, market professionals should closely monitor the developments and their potential effects on supply chain dynamics and sector performance. For a deeper dive into the current state of U.S. ports and the implications for global trade, I recommend checking out the full article.
 
-[marketwatch.com](https://www.marketwatch.com)
+Source: [marketwatch.com](https://www.marketwatch.com)

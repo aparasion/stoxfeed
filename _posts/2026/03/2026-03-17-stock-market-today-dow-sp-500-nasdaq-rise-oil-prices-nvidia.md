@@ -18,4 +18,4 @@ In particular, Freeport-McMoRan's stock may present a buying opportunity followi
 
 For market professionals, the implications of these developments underscore the importance of monitoring sector-specific trends and earnings forecasts. To delve deeper into these insights and their potential impact on your investment strategy, I recommend checking out the full article.
 
-[barrons.com](https://www.barrons.com)
+Source: [barrons.com](https://www.barrons.com)

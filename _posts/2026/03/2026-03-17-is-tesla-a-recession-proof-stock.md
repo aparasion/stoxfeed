@@ -16,4 +16,4 @@ Tesla (TSLA +1.16%) may not fit the mold of a recession-proof company, yet it po
 
 Despite these strengths, Tesla's stock remains vulnerable to market volatility, particularly given its high price-to-earnings ratio of 475. Investors should recognize that while Tesla's core business is tied to vehicle sales, its long-term strategy—focused on autonomous driving, robotics, and energy solutions—could diversify revenue streams and reduce economic sensitivity over time. For a deeper dive into Tesla's potential resilience and strategic direction, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/16/is-tesla-a-recession-proof-stock/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/16/is-tesla-a-recession-proof-stock/?source=iedfolrf0000001)

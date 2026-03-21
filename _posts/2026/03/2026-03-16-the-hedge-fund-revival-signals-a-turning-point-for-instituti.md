@@ -18,4 +18,4 @@ Morningstar's research indicates that many retirees may be overly cautious, pote
 
 In a related development, the Fort Lauderdale Police & Firefighters’ Retirement System has terminated two domestic equity managers over performance issues, signaling a shift in investment strategy that may resonate across similar funds. For a deeper dive into these trends and their implications for the market, I recommend checking out the full article.
 
-[pionline.com](https://www.pionline.com)
+Source: [pionline.com](https://www.pionline.com)

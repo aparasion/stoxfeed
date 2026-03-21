@@ -18,4 +18,4 @@ This development has implications for the broader economy, particularly as it re
 
 For a deeper understanding of how these dynamics shape the economy and labor market, I recommend exploring the full article. It offers valuable insights into the intersection of social media and economic resilience.
 
-[stlouisfed.org](https://www.stlouisfed.org)
+Source: [stlouisfed.org](https://www.stlouisfed.org)

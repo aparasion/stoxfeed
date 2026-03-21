@@ -18,4 +18,4 @@ However, rising crude oil prices, driven by renewed tensions in the Middle East,
 
 For a deeper dive into today’s market dynamics and sector performances, I recommend checking out the full article for comprehensive insights.
 
-[nasdaq.com](https://www.nasdaq.com/articles/stocks-climb-strength-chip-and-travel-stocks)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/stocks-climb-strength-chip-and-travel-stocks)

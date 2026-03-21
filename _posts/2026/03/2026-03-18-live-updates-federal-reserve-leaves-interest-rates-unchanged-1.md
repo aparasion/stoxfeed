@@ -18,4 +18,4 @@ The interplay between military actions and market reactions is critical for inve
 
 For market professionals, understanding the nuances of international relations and their potential effects on commodity prices is essential. I recommend diving deeper into this developing story for insights that could inform your investment strategies.
 
-[nytimes.com](https://www.nytimes.com)
+Source: [nytimes.com](https://www.nytimes.com)

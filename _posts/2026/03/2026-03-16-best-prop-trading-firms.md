@@ -18,4 +18,4 @@ This information is crucial for market professionals as it directly impacts trad
 
 For those looking to enhance their trading operations, this comprehensive guide is a must-read. I highly recommend exploring the full article for an in-depth understanding of each firm's offerings and how they can align with your trading objectives.
 
-[benzinga.com](https://www.benzinga.com/money/best-prop-trading-firms)
+Source: [benzinga.com](https://www.benzinga.com/money/best-prop-trading-firms)

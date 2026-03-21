@@ -18,4 +18,4 @@ Both firms operate in the midstream segment, generating reliable cash flows by c
 
 Investing in EPD or ENB allows investors to maintain exposure to the energy sector without the risks associated with oil price volatility. As history suggests that oil prices will eventually decline, these stocks may become even more appealing. For a deeper dive into their business models and current market positioning, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/16/2-energy-stocks-to-consider-instead-of-crude-oil/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/16/2-energy-stocks-to-consider-instead-of-crude-oil/?source=iedfolrf0000001)

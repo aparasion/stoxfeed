@@ -18,4 +18,4 @@ The financial implications are noteworthy, as Abeona's total revenue for 2025 re
 
 Investors should monitor Abeona's progress in scaling ZevaSkin treatments and expanding QTCs, which could significantly impact future revenue growth. For a deeper dive into Abeona's operational updates and financial results, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/abeona-abeo-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/earnings/call-transcripts/2026/03/17/abeona-abeo-q4-2025-earnings-call-transcript/?source=iedfolrf0000001)

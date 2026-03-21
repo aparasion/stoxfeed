@@ -18,4 +18,4 @@ From a financial perspective, PepsiCo currently offers a more attractive value p
 
 Investors should weigh their priorities: Coca-Cola for safety and efficiency, or PepsiCo for diversification and higher returns. For a deeper analysis on their performance and strategic differences, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/coca-cola-vs-pepsico-which-one-will-make-you-riche/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/coca-cola-vs-pepsico-which-one-will-make-you-riche/?source=iedfolrf0000001)

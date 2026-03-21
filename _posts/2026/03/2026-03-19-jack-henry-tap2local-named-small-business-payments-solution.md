@@ -18,4 +18,4 @@ These enhancements are designed to empower traders and analysts by providing com
 
 For professionals looking to refine their trading strategies, these features represent a significant upgrade. I recommend checking out the full article to explore how these tools can enhance your market analysis and trading decisions.
 
-[finviz.com](https://finviz.com)
+Source: [finviz.com](https://finviz.com)

@@ -16,4 +16,4 @@ The Vanguard Small-Cap Value ETF (VBR) is emerging as a compelling buy-the-dip c
 
 The ETF's structure, with a median market capitalization of $9.8 billion, offers a buffer against the inherent risks of smaller stocks, appealing to long-term investors. With a low expense ratio of just 0.05%, VBR stands out as a cost-effective option for portfolio diversification. For those considering small-cap and value stock investments, this ETF warrants close attention. For a deeper dive into its performance and potential, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/1-vanguard-etf-i-keep-buying-every-time-the-market/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/1-vanguard-etf-i-keep-buying-every-time-the-market/?source=iedfolrf0000001)

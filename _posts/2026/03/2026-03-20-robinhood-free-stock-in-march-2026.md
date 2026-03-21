@@ -18,4 +18,4 @@ The implications for the financial markets are significant. By lowering barriers
 
 For market professionals, Robinhood’s model underscores the growing trend of democratizing finance, making it essential to monitor how these developments affect market dynamics. I highly recommend checking out the full article for a deeper understanding of Robinhood’s offerings and their potential impact on the trading landscape.
 
-[benzinga.com](https://www.benzinga.com/money/robinhood-free-stock-november-2024)
+Source: [benzinga.com](https://www.benzinga.com/money/robinhood-free-stock-november-2024)

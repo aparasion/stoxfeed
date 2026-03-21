@@ -20,4 +20,4 @@ For a deeper understanding of how these developments could affect market dynamic
 
 *StoxFeed tracks this as a market signal: [Oil prices are responding to OPEC decisions and geopolitical tensions](/signals/#oil-price-trajectory)*
 
-[nytimes.com](https://www.nytimes.com)
+Source: [nytimes.com](https://www.nytimes.com)

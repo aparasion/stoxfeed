@@ -18,4 +18,4 @@ The conflict's implications for global energy markets are significant, as disrup
 
 Market professionals should closely monitor developments in this volatile situation, as the ongoing conflict could have lasting impacts on energy supply and pricing. For a deeper dive into the unfolding events and their implications, I recommend reading the full article.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/iran-israel-us-war-energy-facilities-south-pars-global-reactions.html)

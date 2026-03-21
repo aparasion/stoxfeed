@@ -18,4 +18,4 @@ This downturn comes as investors grapple with the implications of geopolitical t
 
 For those tracking aerospace and defense equities, Heico’s historical resilience during downturns and potential catalysts, such as the unblocking of the Strait of Hormuz, make it a compelling case study. I recommend diving into the full article for a deeper understanding of the market dynamics at play.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/heico-shares-at-8-mont-low-amid-hormuz-strait-disruption)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/heico-shares-at-8-mont-low-amid-hormuz-strait-disruption)

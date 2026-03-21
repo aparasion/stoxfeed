@@ -18,4 +18,4 @@ CoreWeave is carving out a niche in AI infrastructure, boasting a 300% revenue i
 
 Investors should keep a close eye on these two companies as they navigate a volatile market landscape. For a deeper dive into their growth potential and market dynamics, I highly recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/2-growth-stocks-that-could-go-parabolic/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/2-growth-stocks-that-could-go-parabolic/?source=iedfolrf0000001)

@@ -18,4 +18,4 @@ Organon has faced considerable challenges, with its stock price plummeting about
 
 For investors, Sio's move into Organon suggests a value-oriented strategy in a sector facing headwinds. The company's commitment to maintaining operational performance could position it for a rebound, making this a compelling story for those looking to delve deeper into the dynamics at play. I recommend exploring the full article for a comprehensive analysis of this development.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/does-this-usd25-million-bet-on-a-stock-down-61-signal-turnaround-potential-at-usd6/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/does-this-usd25-million-bet-on-a-stock-down-61-signal-turnaround-potential-at-usd6/?source=iedfolrf0000001)

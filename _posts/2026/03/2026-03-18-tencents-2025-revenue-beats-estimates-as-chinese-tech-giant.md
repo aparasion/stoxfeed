@@ -18,4 +18,4 @@ The implications for the financial markets are significant. As Tencent continues
 
 For market professionals, Tencent's robust earnings and strategic direction underscore the importance of AI in driving future growth. I recommend exploring the full article for a deeper understanding of Tencent's financial performance and strategic initiatives.
 
-[cnbc.com](https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html)

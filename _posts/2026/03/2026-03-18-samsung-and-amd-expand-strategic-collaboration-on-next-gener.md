@@ -18,4 +18,4 @@ This collaboration is significant for the tech sector, as it addresses the growi
 
 For market professionals, this MOU signals a pivotal shift in AI infrastructure development, potentially influencing stock performance in both companies and the broader semiconductor sector. I recommend reading the full article for a deeper understanding of the implications and technical details of this strategic collaboration.
 
-[semiconductor-digest.com](https://www.semiconductor-digest.com/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions)
+Source: [semiconductor-digest.com](https://www.semiconductor-digest.com/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions)

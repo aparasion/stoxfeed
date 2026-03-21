@@ -18,4 +18,4 @@ For investors, the current environment presents both risks and opportunities. Oi
 
 Ultimately, these oil stocks offer a dual advantage: they stand to gain from higher prices while maintaining robust fundamentals that support growth even in a declining price environment. For a deeper dive into the implications of these developments, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/21/oil-is-down-today-up-tomorrow-heres-why-im-not-wor/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/21/oil-is-down-today-up-tomorrow-heres-why-im-not-wor/?source=iedfolrf0000001)

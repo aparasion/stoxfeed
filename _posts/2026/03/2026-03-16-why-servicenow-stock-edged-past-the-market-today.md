@@ -18,4 +18,4 @@ This upgrade is significant as it highlights ServiceNow's resilience amid a broa
 
 For market professionals, this development suggests that ServiceNow may be an attractive opportunity for investors looking to capitalize on growth in the software space. I recommend checking out the full article for a deeper dive into these insights.
 
-[fool.com](https://www.fool.com/investing/2026/03/16/why-servicenow-stock-edged-past-the-market-today/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/16/why-servicenow-stock-edged-past-the-market-today/?source=iedfolrf0000001)

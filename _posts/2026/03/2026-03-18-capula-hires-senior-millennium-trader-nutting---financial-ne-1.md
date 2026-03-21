@@ -18,4 +18,4 @@ In the investment banking sector, a UK lender is focusing on enhancing its back 
 
 For market professionals, these developments underscore the ongoing evolution in financial services and the critical importance of talent acquisition and operational strategy. To delve deeper into these stories and their implications for the market, I recommend checking out the full article.
 
-[fnlondon.com](https://www.fnlondon.com)
+Source: [fnlondon.com](https://www.fnlondon.com)

@@ -18,4 +18,4 @@ This interplay between Social Security adjustments and Medicare cost increases i
 
 Market professionals should closely monitor these developments, as they could influence sectors reliant on consumer spending, particularly healthcare and retail. For a deeper dive into the specifics and implications, I recommend reading the full article.
 
-[fool.com](https://www.fool.com/retirement/2026/03/20/the-2026-social-security-cola-gave-retirees-56-a-m/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/retirement/2026/03/20/the-2026-social-security-cola-gave-retirees-56-a-m/?source=iedfolrf0000001)

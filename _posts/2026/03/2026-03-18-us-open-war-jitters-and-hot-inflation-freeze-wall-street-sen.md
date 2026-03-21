@@ -18,4 +18,4 @@ As Wall Street grapples with these developments, the S&P 500 has retreated appro
 
 For professionals in trading and portfolio management, the interplay between geopolitical risks and macroeconomic indicators could create both challenges and opportunities. Understanding these dynamics will be crucial as the market navigates potential volatility. I recommend diving deeper into the full story for a comprehensive analysis of these developments.
 
-[xtb.com](https://www.xtb.com/en/market-analysis/us-open-war-jitters-and-hot-inflation-freeze-wall-street-sentiment)
+Source: [xtb.com](https://www.xtb.com/en/market-analysis/us-open-war-jitters-and-hot-inflation-freeze-wall-street-sentiment)

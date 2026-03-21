@@ -18,4 +18,4 @@ This discussion is particularly relevant for financial markets, as the degradati
 
 The takeaway for market professionals is clear: as regulatory bodies increasingly focus on nature-related financial risks, firms must adapt their strategies accordingly to mitigate potential impacts on their balance sheets. For a deeper dive into this pressing issue, I recommend exploring the full article.
 
-[ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)
+Source: [ecb.europa.eu](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html)

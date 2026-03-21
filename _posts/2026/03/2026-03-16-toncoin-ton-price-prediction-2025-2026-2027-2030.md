@@ -18,4 +18,4 @@ The cryptocurrency has demonstrated significant growth potential, with a recent 
 
 For market professionals, the optimistic projections for Toncoin present a compelling case for inclusion in investment strategies. To dive deeper into the analysis and forecasts surrounding TON, I recommend checking out the full article for valuable insights.
 
-[benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/toncoin-ton-price-prediction)

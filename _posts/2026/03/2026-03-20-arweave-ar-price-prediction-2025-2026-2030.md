@@ -18,4 +18,4 @@ The implications for the financial markets are significant, as Arweave's perform
 
 For market professionals, Arweave represents both an opportunity and a challenge. Its innovative approach to data permanence aligns with the core principles of decentralization, but it must navigate cost pressures and competition to realize its full potential. I recommend exploring the full article for a deeper dive into Arweave's market outlook and strategic positioning.
 
-[benzinga.com](https://www.benzinga.com/money/arweave-ar-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/arweave-ar-price-prediction)

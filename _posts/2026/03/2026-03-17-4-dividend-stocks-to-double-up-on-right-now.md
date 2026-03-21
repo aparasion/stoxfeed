@@ -18,4 +18,4 @@ NextEra Energy (NEE) continues its impressive track record with a 10% dividend h
 
 These stocks not only offer high yields but also robust growth prospects, making them attractive options for income-focused investors. For a deeper dive into these opportunities, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/17/4-dividend-stocks-to-double-up-on-right-now/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/17/4-dividend-stocks-to-double-up-on-right-now/?source=iedfolrf0000001)

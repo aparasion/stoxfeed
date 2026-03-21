@@ -18,4 +18,4 @@ The article emphasizes that while stocks under $5 can be risky, they may also pr
 
 For professionals looking to enhance their portfolios with affordable assets, the article serves as a valuable resource. I recommend checking out the full piece on Benzinga for insights into identifying and managing these investment opportunities effectively.
 
-[benzinga.com](https://www.benzinga.com/money/top-stocks-under-5)
+Source: [benzinga.com](https://www.benzinga.com/money/top-stocks-under-5)

@@ -18,4 +18,4 @@ The conference comes at a pivotal moment for the energy markets, as Brent crude 
 
 For professionals in the financial markets, this conference is a critical opportunity to gain insights into emerging trends and investment strategies within the energy sector. I recommend checking out the full article for more details on the presenting companies and the implications for market participants.
 
-[oilandgas360.com](https://www.oilandgas360.com)
+Source: [oilandgas360.com](https://www.oilandgas360.com)

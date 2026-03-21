@@ -18,4 +18,4 @@ For financial markets, this development may impact investor sentiment and sector
 
 Investors should closely monitor how this wage growth slowdown influences monetary policy decisions by the Bank of England and its implications for interest rates. For a deeper analysis of this trend and its potential impact on the markets, I recommend checking out the full article.
 
-[uk.finance.yahoo.com](https://uk.finance.yahoo.com)
+Source: [uk.finance.yahoo.com](https://uk.finance.yahoo.com)

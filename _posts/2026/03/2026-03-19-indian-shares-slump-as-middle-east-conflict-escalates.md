@@ -18,4 +18,4 @@ The broader market sentiment was negatively impacted as major stocks like Mahind
 
 For market professionals, this sharp decline underscores the volatility stemming from external economic signals and geopolitical instability. For a deeper analysis of these developments, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/indian-shares-slump-middle-east-conflict-escalates)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/indian-shares-slump-middle-east-conflict-escalates)

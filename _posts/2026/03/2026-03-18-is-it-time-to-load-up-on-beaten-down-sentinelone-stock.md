@@ -18,4 +18,4 @@ The stock's current valuation appears attractive, trading at a forward price-to-
 
 For market professionals considering entry points, the combination of strong fundamentals and a favorable valuation makes SentinelOne worth a closer look. I recommend diving into the full article for a comprehensive analysis of its growth potential.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/is-it-time-to-load-up-on-beaten-down-sentinelone/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/is-it-time-to-load-up-on-beaten-down-sentinelone/?source=iedfolrf0000001)

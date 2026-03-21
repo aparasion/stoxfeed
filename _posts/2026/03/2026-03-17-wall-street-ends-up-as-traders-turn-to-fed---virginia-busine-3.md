@@ -18,4 +18,4 @@ In the midst of this volatility, significant developments include a $2.5 million
 
 For market professionals, the interplay between rising crude prices and central bank strategies could signal shifts in sector performance and investment strategies. I recommend checking out the full article for a deeper dive into these developments and their implications.
 
-[virginiabusiness.com](https://virginiabusiness.com)
+Source: [virginiabusiness.com](https://virginiabusiness.com)

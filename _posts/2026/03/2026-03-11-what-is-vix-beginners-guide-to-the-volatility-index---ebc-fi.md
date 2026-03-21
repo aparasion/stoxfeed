@@ -18,4 +18,4 @@ This focus on regulatory compliance and client asset safety positions EBC as a l
 
 For those interested in a deeper dive into EBC's innovative strategies and regulatory framework, I recommend exploring the full article to understand how these factors could influence market dynamics and trading practices.
 
-[ebc.com](https://www.ebc.com)
+Source: [ebc.com](https://www.ebc.com)

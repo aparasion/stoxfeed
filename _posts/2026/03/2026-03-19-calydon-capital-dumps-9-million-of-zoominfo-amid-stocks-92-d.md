@@ -18,4 +18,4 @@ This move is particularly telling, as Calydon has historically favored long-term
 
 For those interested in the nuances of this transaction and its implications for the broader market, I recommend checking out the full article for deeper insights.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/19/calydon-capital-dumps-usd9-million-of-zoominfo-amid-stock-s-92-decline-since-2021/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/19/calydon-capital-dumps-usd9-million-of-zoominfo-amid-stock-s-92-decline-since-2021/?source=iedfolrf0000001)

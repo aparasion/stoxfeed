@@ -18,4 +18,4 @@ Tyra Biosciences focuses on developing targeted oncology therapies, with its lea
 
 For investors, Boone's strategic entry into Tyra underscores the potential for significant returns in the biotech sector, particularly for companies with a clear focus and innovative pipeline. To dive deeper into this development, I recommend checking out the full article for a comprehensive analysis.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/this-biotech-stock-has-surged-250-in-a-year-as-one-investor-discloses-usd10-million-new-position/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/this-biotech-stock-has-surged-250-in-a-year-as-one-investor-discloses-usd10-million-new-position/?source=iedfolrf0000001)

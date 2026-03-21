@@ -18,4 +18,4 @@ For financial professionals, VONG's strong historical returns highlight the pote
 
 To delve deeper into the potential of VONG and its implications for long-term investment strategies, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/20/could-investing-10000-in-vong-make-you-a-million/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/20/could-investing-10000-in-vong-make-you-a-million/?source=iedfolrf0000001)

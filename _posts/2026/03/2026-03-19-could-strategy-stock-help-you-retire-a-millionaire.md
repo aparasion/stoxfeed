@@ -18,4 +18,4 @@ This shift in focus has implications for both stock performance and investor sen
 
 For investors looking for high-risk, high-reward opportunities, Strategy could be a compelling option. Explore the full story to understand the nuances of this unique investment approach.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/could-strategy-stock-help-you-retire-a-millionaire/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/could-strategy-stock-help-you-retire-a-millionaire/?source=iedfolrf0000001)

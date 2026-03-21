@@ -18,4 +18,4 @@ These developments highlight a mixed outlook for the pork market, as the decreas
 
 For market professionals, the current trends in lean hog futures and export activity could signal shifting dynamics in the pork sector. For a deeper dive into these market movements, I recommend exploring the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/hogs-posting-sharp-losses-thursday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/hogs-posting-sharp-losses-thursday)

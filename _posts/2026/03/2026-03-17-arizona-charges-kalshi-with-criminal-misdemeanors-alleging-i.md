@@ -18,4 +18,4 @@ The implications for financial markets are significant, as Kalshi's operations c
 
 For market professionals, the situation underscores the importance of understanding regulatory risks in emerging financial platforms. I recommend reading the full article for a deeper dive into the legal battles and their potential market ramifications.
 
-[cnbc.com](https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html)

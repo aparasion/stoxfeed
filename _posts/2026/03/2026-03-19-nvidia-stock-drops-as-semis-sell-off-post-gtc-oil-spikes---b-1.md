@@ -18,4 +18,4 @@ This downturn comes amid rising oil prices, which have implications for inflatio
 
 Market professionals should closely monitor NVIDIA's response to these challenges, as well as the broader semiconductor landscape, to gauge potential recovery trajectories. For a deeper dive into the factors influencing these market movements, I recommend checking out the full article for comprehensive insights.
 
-[news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUk1uQ3UtSUJlWUV6WE5reVB1ZHM5ZnZyUU12ZXRQVmU0OFN0cWEzSjk4ckNxMWFIN1BvbEdQYmlyVjJEc01GQlpCVWptLUladTE3bHdGWkkyQVFLWVZzRDNZdmoyZVIyTS1Gbw?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5mUk1uQ3UtSUJlWUV6WE5reVB1ZHM5ZnZyUU12ZXRQVmU0OFN0cWEzSjk4ckNxMWFIN1BvbEdQYmlyVjJEc01GQlpCVWptLUladTE3bHdGWkkyQVFLWVZzRDNZdmoyZVIyTS1Gbw?oc=5)

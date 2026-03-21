@@ -18,4 +18,4 @@ The shift away from coal not only reflects changing energy dynamics but also sig
 
 Investors should pivot their focus toward renewable technologies and battery storage systems, as the coal industry's decline presents a unique opportunity in the evolving energy landscape. For a deeper dive into this critical shift, I recommend exploring the full article.
 
-[fool.com](https://www.fool.com/investing/2026/03/19/its-time-to-position-your-portfolio-for-the-end-of/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/19/its-time-to-position-your-portfolio-for-the-end-of/?source=iedfolrf0000001)

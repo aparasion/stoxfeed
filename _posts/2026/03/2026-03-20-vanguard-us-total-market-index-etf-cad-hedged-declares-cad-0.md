@@ -18,4 +18,4 @@ This announcement is significant for investors focused on dividend income, parti
 
 For those tracking dividend stocks or assessing portfolio allocations, this development highlights the importance of dividend sustainability in investment decisions. I encourage you to read the full article for a deeper dive into the ETF's performance metrics and dividend history.
 
-[seekingalpha.com](https://seekingalpha.com/news/4567077-vanguard-us-total-market-index-etf-cad-hedged-declares-cad-0_2447-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)
+Source: [seekingalpha.com](https://seekingalpha.com/news/4567077-vanguard-us-total-market-index-etf-cad-hedged-declares-cad-0_2447-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news)

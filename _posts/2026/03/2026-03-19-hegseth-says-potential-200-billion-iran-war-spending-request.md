@@ -18,4 +18,4 @@ This significant budget request could have far-reaching implications for defense
 
 For market professionals, this development signals the potential for volatility in defense sector stocks and broader economic implications tied to military spending. I recommend exploring the full article for a deeper understanding of the financial ramifications and strategic considerations.
 
-[cnbc.com](https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html)
+Source: [cnbc.com](https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html)

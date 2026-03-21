@@ -18,4 +18,4 @@ This escalation in geopolitical tensions is likely to exacerbate the ongoing ene
 
 Market professionals should closely monitor developments in the Middle East, as further instability could lead to sustained high energy prices and broader economic implications. For a deeper understanding of these dynamics, I recommend exploring the full article.
 
-[bbc.com](https://www.bbc.com)
+Source: [bbc.com](https://www.bbc.com)

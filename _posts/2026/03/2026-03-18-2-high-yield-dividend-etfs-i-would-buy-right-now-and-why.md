@@ -18,4 +18,4 @@ Key players like the State Street SPDR S&P Dividend ETF and the Invesco S&P 500 
 
 For professionals considering dividend stocks, these ETFs present unique strategies that diverge from traditional options, potentially enhancing portfolio diversification. I recommend diving deeper into the full article for a comprehensive analysis of these funds and their implications for your investment strategy.
 
-[fool.com](https://www.fool.com/investing/2026/03/18/2-high-yield-dividend-etfs-would-buy-right-now-why/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/investing/2026/03/18/2-high-yield-dividend-etfs-would-buy-right-now-why/?source=iedfolrf0000001)

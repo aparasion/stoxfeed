@@ -18,4 +18,4 @@ This event raises concerns for the automotive sector, particularly given the ong
 
 For a deeper understanding of the implications for the automotive industry and related stocks, I recommend reading the full article for comprehensive insights.
 
-[chosun.com](https://www.chosun.com)
+Source: [chosun.com](https://www.chosun.com)

@@ -18,4 +18,4 @@ This decline is impacting broader market sentiment, particularly within the tech
 
 For market professionals, this trend signals a critical moment for portfolio strategy, as the tech sector's performance may influence overall market dynamics. For a deeper dive into the implications of this downturn and its potential effects on your investment strategies, I recommend checking out the full article.
 
-[news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdDl2QXRDbGRFbURWZXU5aEdyOEljdnhXNXJXb2FKdXlfUmMtMnlBNjlESGt3UTZUQ21LX1Zob1hrTTVxSnBqTVRGcWtPYWhqTWdBZzlxWUVpU3hoWGJSekN1cTJfZ01CeUFpWmNReE8?oc=5)

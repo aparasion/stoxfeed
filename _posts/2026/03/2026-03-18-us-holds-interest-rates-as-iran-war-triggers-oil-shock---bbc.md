@@ -18,4 +18,4 @@ The potential for increased geopolitical risk could lead to heightened volatilit
 
 For a deeper dive into the implications of this situation on the energy market and related stocks, I recommend checking out the full article for comprehensive insights.
 
-[bbc.com](https://www.bbc.com)
+Source: [bbc.com](https://www.bbc.com)

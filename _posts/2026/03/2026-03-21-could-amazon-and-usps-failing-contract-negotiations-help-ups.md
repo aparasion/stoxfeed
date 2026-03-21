@@ -18,4 +18,4 @@ The implications for the financial markets are significant. Should Amazon be com
 
 For market professionals, this situation underscores the evolving dynamics in the logistics sector and the pressures facing Amazon. For a deeper dive into the potential ramifications of this development, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/could-amazon-and-usps-failing-contract-negotiations-help-ups-and-fedex)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/could-amazon-and-usps-failing-contract-negotiations-help-ups-and-fedex)

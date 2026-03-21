@@ -18,4 +18,4 @@ This investment comes at a time when LKQ has faced significant challenges, with 
 
 For investors, this move by Petrus Trust highlights a strategic bet on LKQ's potential to leverage steady aftermarket demand and pricing power, even as margin pressures loom. For a deeper dive into LKQ's performance and outlook, I recommend checking out the full article.
 
-[fool.com](https://www.fool.com/coverage/filings/2026/03/20/automotive-parts-stock-down-31-draws-usd16-million-bet-as-earnings-fall-50-year-over-year/?source=iedfolrf0000001)
+Source: [fool.com](https://www.fool.com/coverage/filings/2026/03/20/automotive-parts-stock-down-31-draws-usd16-million-bet-as-earnings-fall-50-year-over-year/?source=iedfolrf0000001)

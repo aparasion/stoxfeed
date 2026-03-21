@@ -18,4 +18,4 @@ The growing open interest suggests a stronger structural support for XRP, contra
 
 For a deeper analysis of XRP's market dynamics and implications for traders, I recommend exploring the full article.
 
-[coindesk.com](https://www.coindesk.com/markets/2026/03/17/xrp-flips-bnb-as-open-interest-builds-back-toward-pre-crash-levels)
+Source: [coindesk.com](https://www.coindesk.com/markets/2026/03/17/xrp-flips-bnb-as-open-interest-builds-back-toward-pre-crash-levels)

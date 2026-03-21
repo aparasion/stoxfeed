@@ -18,4 +18,4 @@ The article stresses the importance of identifying undervalued companies or thos
 
 For market professionals, the takeaway is clear: while stocks under $5 can enhance portfolio diversity and yield impressive returns, they require diligent research and a disciplined investment strategy. For further insights and stock picks, I recommend checking out the full article on Benzinga.
 
-[benzinga.com](https://www.benzinga.com/money/top-stocks-under-5)
+Source: [benzinga.com](https://www.benzinga.com/money/top-stocks-under-5)

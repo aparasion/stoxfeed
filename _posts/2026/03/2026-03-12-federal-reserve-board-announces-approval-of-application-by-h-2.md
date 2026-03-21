@@ -18,4 +18,4 @@ This development is significant for the banking sector, as it underscores ongoin
 
 For those interested in the implications of this merger on regional banking dynamics and potential stock performance, I recommend checking out the full article for a deeper dive into the details.
 
-[federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)
+Source: [federalreserve.gov](https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm)

@@ -18,4 +18,4 @@ The increase in dividends is expected to bolster investor sentiment and may attr
 
 For investors, this development underscores the importance of cash flow management and shareholder returns in the current environment. To delve deeper into the implications of this dividend hike and its potential impact on Devon's stock trajectory, I recommend checking out the full article for a comprehensive analysis.
 
-[news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDluRjNOYXl6N1ZJYjJKdU1MZVlqMUZCaG92WTVtemhaOF93cW5ZLVNvWUV1T1VsQkx1VEtCaHF5aVFoS2I5MWptTHdaLUlJRzRDM2JLMEowZGszS3BZLVF4a3JWSEFoYTdpZGZzZFcyQ0ZOS0syekZ5a3l2WFBMWlVXZVVTQ2lUa1Y4M2Vfc1hicW9FSVRvVg?oc=5)
+Source: [news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDluRjNOYXl6N1ZJYjJKdU1MZVlqMUZCaG92WTVtemhaOF93cW5ZLVNvWUV1T1VsQkx1VEtCaHF5aVFoS2I5MWptTHdaLUlJRzRDM2JLMEowZGszS3BZLVF4a3JWSEFoYTdpZGZzZFcyQ0ZOS0syekZ5a3l2WFBMWlVXZVVTQ2lUa1Y4M2Vfc1hicW9FSVRvVg?oc=5)

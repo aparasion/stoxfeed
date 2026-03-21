@@ -18,4 +18,4 @@ The implications for financial markets are significant. If oil prices remain ele
 
 For market professionals, the evolving situation in the Middle East could trigger a “rude awakening” as the economic repercussions unfold. I recommend diving deeper into Puckrin's insights and the broader implications by reading the full article.
 
-[cointelegraph.com](https://cointelegraph.com/news/traders-taco-trade-rude-awakening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+Source: [cointelegraph.com](https://cointelegraph.com/news/traders-taco-trade-rude-awakening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)

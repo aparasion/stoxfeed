@@ -18,4 +18,4 @@ The outlook for Rivian's stock remains cautious, with predictions indicating a p
 
 For those tracking Rivian's journey in the EV market, the article offers a detailed analysis of the company's prospects and challenges. I recommend diving into the full story for a comprehensive understanding of what lies ahead for Rivian.
 
-[benzinga.com](https://www.benzinga.com/money/rivian-stock-price-prediction)
+Source: [benzinga.com](https://www.benzinga.com/money/rivian-stock-price-prediction)

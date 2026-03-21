@@ -18,4 +18,4 @@ This fluctuation in hog prices and slaughter numbers may signal shifts in supply
 
 For traders and analysts, the current trends in lean hog futures and pricing could influence strategies in the livestock sector. For a deeper dive into these developments and their implications, I recommend checking out the full article.
 
-[nasdaq.com](https://www.nasdaq.com/articles/hogs-close-mixed-wednesday)
+Source: [nasdaq.com](https://www.nasdaq.com/articles/hogs-close-mixed-wednesday)
