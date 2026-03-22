@@ -20,12 +20,6 @@
     <iframe name="newsletter-submit-frame" class="newsletter-submit-frame" title="Newsletter subscription response"></iframe>
   </div>
 
-  <div class="sidebar-widget sidebar-banner">
-    <span class="sidebar-label">Sponsored</span>
-    <div class="banner-placeholder">
-    </div>
-  </div>
-
   
   <div class="sidebar-widget sidebar-featured">
     <h4 class="sidebar-title">The Long Game</h4>
@@ -162,12 +156,6 @@
   {% endfor %}
   {% endif %}
 
-  <div class="sidebar-widget sidebar-banner">
-    <span class="sidebar-label">Sponsored</span>
-    <div class="banner-placeholder banner-tall">
-      <span>Ad Space</span>
-    </div>
-  </div>
 
   {% assign all_monthly = site.posts | where_exp: "post", "post.categories contains 'monthly-summary'" %}
   {% assign monthly_count = all_monthly | size %}
