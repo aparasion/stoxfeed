@@ -481,7 +481,7 @@ hr {
 }
 
 [data-theme="light-gray"] .source-logo-img:hover {
-  filter: grayscale(0%) brightness(1);
+  filter: grayscale(100%) sepia(1) hue-rotate(95deg) saturate(4) brightness(0.18);
   opacity: 1;
 }
 
