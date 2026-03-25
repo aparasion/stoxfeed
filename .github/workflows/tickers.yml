@@ -30,11 +30,14 @@ jobs:
       - name: Fetch gold & precious metals data
         run: python scripts/fetch_gold.py
 
+      - name: Fetch energy market data
+        run: python scripts/fetch_energy.py
+
       - name: Commit updated market data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/tickers.json _data/gold.json
+          git add _data/tickers.json _data/gold.json _data/energy.json
           if git diff --cached --quiet; then
             echo "No market data changes to commit"
           else
