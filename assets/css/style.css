@@ -2894,6 +2894,7 @@ a.internal-link:hover {
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   padding: var(--space-8) var(--space-6) var(--space-5);
+  margin-top: var(--space-5);
   margin-bottom: var(--space-5);
 }
 
@@ -3546,4 +3547,87 @@ a.internal-link:hover {
     flex-direction: column;
     gap: var(--space-1);
   }
+}
+
+/* ── Sidebar: Energy Intelligence promo widget ────────── */
+.sidebar-energy-promo {
+  display: block;
+  text-decoration: none;
+  background: linear-gradient(135deg, #0f2318 0%, #0d1f2d 60%, #141f14 100%);
+  border: 1px solid rgba(234, 88, 12, 0.35);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  cursor: pointer;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.sidebar-energy-promo::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at top left, rgba(234, 88, 12, 0.12) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.sidebar-energy-promo:hover {
+  border-color: rgba(234, 88, 12, 0.65);
+  box-shadow: 0 4px 24px rgba(234, 88, 12, 0.18);
+  transform: translateY(-2px);
+}
+
+.sep-icons {
+  display: flex;
+  gap: var(--space-2);
+  font-size: 1.25rem;
+  margin-bottom: var(--space-2);
+  line-height: 1;
+}
+
+.sep-label {
+  font-size: 0.7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #fb923c;
+  margin-bottom: var(--space-1);
+}
+
+.sep-desc {
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.45;
+  margin: 0 0 var(--space-3);
+}
+
+.sep-cta {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #fb923c;
+  letter-spacing: 0.02em;
+  transition: letter-spacing 0.2s ease;
+}
+
+.sidebar-energy-promo:hover .sep-cta {
+  letter-spacing: 0.06em;
+}
+
+[data-theme="light-gray"] .sidebar-energy-promo {
+  background: linear-gradient(135deg, #fff7ed 0%, #fef3e8 60%, #fff8f0 100%);
+  border-color: rgba(234, 88, 12, 0.28);
+}
+
+[data-theme="light-gray"] .sidebar-energy-promo:hover {
+  border-color: rgba(234, 88, 12, 0.55);
+  box-shadow: 0 4px 24px rgba(234, 88, 12, 0.12);
+}
+
+[data-theme="light-gray"] .sep-label {
+  color: #c2410c;
+}
+
+[data-theme="light-gray"] .sep-cta {
+  color: #c2410c;
 }
