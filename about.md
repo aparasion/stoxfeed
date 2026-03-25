@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 
 ## About StoxFeed
