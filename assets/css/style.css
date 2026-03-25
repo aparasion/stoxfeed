@@ -2883,3 +2883,667 @@ a.internal-link:hover {
   width: 14px;
   height: 14px;
 }
+
+/* ================================================================
+   ENERGY INTELLIGENCE DASHBOARD
+   ================================================================ */
+
+/* ── Hero ──────────────────────────────────────────────── */
+.energy-hero {
+  background: var(--gradient-hero);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-8) var(--space-6) var(--space-5);
+  margin-bottom: var(--space-5);
+}
+
+.energy-hero h1 {
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  margin: 0 0 var(--space-2);
+  letter-spacing: -0.03em;
+}
+
+.energy-hero-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+  border-radius: 100px;
+  padding: 3px 12px;
+  margin-bottom: var(--space-3);
+}
+
+.energy-hero-sub {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 var(--space-5);
+  max-width: 600px;
+}
+
+.energy-kpi-bar {
+  display: flex;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--border);
+}
+
+.energy-kpi {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 100px;
+}
+
+.energy-kpi-label {
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.energy-kpi-val {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.energy-kpi-change {
+  font-size: 0.72rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.energy-up { color: var(--accent); }
+.energy-down { color: #ef4444; }
+.energy-muted { color: var(--muted); font-weight: 600; font-size: 0.68rem; }
+
+/* ── Module Navigation (tabs) ─────────────────────────── */
+.energy-module-nav {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin-bottom: var(--space-5);
+  padding: 4px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+.energy-tab {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: none;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.energy-tab:hover {
+  color: var(--text);
+  background: color-mix(in srgb, var(--border) 60%, transparent);
+}
+
+.energy-tab.active {
+  color: var(--text);
+  background: var(--surface);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+
+/* ── Modules ──────────────────────────────────────────── */
+.energy-module { margin-bottom: var(--space-6); }
+.energy-module--hidden { display: none !important; }
+
+.energy-section-header {
+  margin-bottom: var(--space-5);
+}
+
+.energy-section-header h2 {
+  font-size: 1.4rem;
+  margin: 0 0 var(--space-2);
+}
+
+.energy-section-header p {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin: 0;
+}
+
+/* ── Cards ────────────────────────────────────────────── */
+.energy-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+
+.energy-card--placeholder {
+  opacity: 0.7;
+  border-style: dashed;
+}
+
+.energy-card-title {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin: 0 0 var(--space-3);
+}
+
+/* ── Summary Card ─────────────────────────────────────── */
+.energy-summary-card {
+  border-left: 3px solid var(--accent);
+}
+
+.energy-summary-text {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--text);
+  margin: 0 0 var(--space-3);
+}
+
+.energy-updated {
+  font-size: 0.6rem;
+  color: var(--muted);
+  opacity: 0.7;
+}
+
+/* ── Signals ──────────────────────────────────────────── */
+.energy-signals-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.energy-signal {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  border-radius: var(--radius-sm);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+}
+
+.energy-signal-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-top: 5px;
+  flex-shrink: 0;
+}
+
+.energy-signal--bullish .energy-signal-dot { background: var(--accent); }
+.energy-signal--bearish .energy-signal-dot { background: #ef4444; }
+.energy-signal--neutral .energy-signal-dot { background: #f59e0b; }
+.energy-signal--warning .energy-signal-dot { background: #f97316; }
+
+.energy-signal strong {
+  display: block;
+  font-size: 0.82rem;
+  margin-bottom: 2px;
+}
+
+.energy-signal-text {
+  font-size: 0.78rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+/* ── Events ───────────────────────────────────────────── */
+.energy-events {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.energy-event {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+}
+
+.energy-event-date {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--muted);
+  min-width: 48px;
+  padding-top: 2px;
+}
+
+.energy-event-body { flex: 1; }
+
+.energy-event-body strong {
+  display: block;
+  font-size: 0.82rem;
+  margin-bottom: 2px;
+}
+
+.energy-event-body p {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 4px 0 0;
+  line-height: 1.4;
+}
+
+.energy-event-badge {
+  display: inline-block;
+  font-size: 0.55rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 1px 8px;
+  border-radius: 100px;
+  margin-bottom: 4px;
+}
+
+.energy-event-badge--neutral { background: rgba(245,158,11,0.15); color: #f59e0b; }
+.energy-event-badge--watch { background: rgba(59,130,246,0.15); color: #3b82f6; }
+.energy-event-badge--bullish { background: rgba(52,198,101,0.15); color: var(--accent); }
+.energy-event-badge--bearish { background: rgba(239,68,68,0.15); color: #ef4444; }
+
+/* ── Sparkline Grid ───────────────────────────────────── */
+.energy-spark-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--space-4);
+  margin-bottom: var(--space-4);
+}
+
+.energy-spark-card {
+  padding: var(--space-4);
+}
+
+.energy-spark-header {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.energy-spark-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.energy-spark-price {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.energy-sparkline {
+  display: block;
+  width: 100%;
+  height: 80px;
+  border-radius: var(--radius-sm);
+  background: color-mix(in srgb, var(--border) 20%, transparent);
+}
+
+/* ── Commodity Grid ───────────────────────────────────── */
+.energy-commodity-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-4);
+  margin-bottom: var(--space-4);
+}
+
+.energy-commodity-card {
+  text-align: center;
+  padding: var(--space-4);
+}
+
+.energy-commodity-name {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 2px;
+}
+
+.energy-commodity-symbol {
+  display: block;
+  font-size: 0.62rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: var(--space-2);
+}
+
+.energy-commodity-price-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: var(--space-1);
+  margin-bottom: 4px;
+}
+
+.energy-commodity-price {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.energy-commodity-unit {
+  font-size: 0.65rem;
+  color: var(--muted);
+}
+
+/* ── Context Grids ────────────────────────────────────── */
+.energy-context-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: var(--space-3);
+}
+
+.energy-context-grid--2col {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.energy-context-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--space-2);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-sm);
+  border: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+}
+
+.energy-context-label {
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.energy-context-val {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.energy-context-note {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: var(--space-3) 0 0;
+  line-height: 1.5;
+}
+
+/* ── Dual Grid ────────────────────────────────────────── */
+.energy-dual-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-4);
+  margin-bottom: var(--space-4);
+}
+
+/* ── Risk List ────────────────────────────────────────── */
+.energy-risk-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.energy-risk-list li {
+  font-size: 0.82rem;
+  line-height: 1.5;
+  padding: var(--space-2) 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+  color: var(--muted);
+}
+
+.energy-risk-list li:last-child { border-bottom: none; }
+
+.energy-risk-list li strong {
+  color: var(--text);
+}
+
+/* ── Equities Table ───────────────────────────────────── */
+.energy-equities-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.energy-equities-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.energy-equities-table th {
+  text-align: left;
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 2px solid var(--border);
+  white-space: nowrap;
+}
+
+.energy-equities-table th.num,
+.energy-equities-table td.num {
+  text-align: right;
+}
+
+.energy-equities-table td {
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+  color: var(--muted);
+}
+
+.energy-equities-table tr:hover td {
+  background: color-mix(in srgb, var(--border) 30%, transparent);
+}
+
+.energy-eq-sym {
+  font-weight: 700;
+  color: var(--text) !important;
+}
+
+.energy-cat-badge {
+  display: inline-block;
+  font-size: 0.55rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 1px 8px;
+  border-radius: 100px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.energy-cat-badge--etf { color: #3b82f6; border-color: rgba(59,130,246,0.3); background: rgba(59,130,246,0.1); }
+.energy-cat-badge--major { color: #ef4444; border-color: rgba(239,68,68,0.3); background: rgba(239,68,68,0.1); }
+.energy-cat-badge--gas { color: #f59e0b; border-color: rgba(245,158,11,0.3); background: rgba(245,158,11,0.1); }
+.energy-cat-badge--renewable { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 30%, transparent); background: var(--accent-soft); }
+.energy-cat-badge--oilfield { color: #8b5cf6; border-color: rgba(139,92,246,0.3); background: rgba(139,92,246,0.1); }
+
+/* ── Heatmap ──────────────────────────────────────────── */
+.energy-heatmap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  gap: 4px;
+}
+
+.energy-heatmap-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-2) var(--space-1);
+  border-radius: var(--radius-sm);
+  text-align: center;
+  min-height: 52px;
+}
+
+.hm-sym { font-size: 0.72rem; font-weight: 700; }
+.hm-pct { font-size: 0.65rem; font-weight: 600; }
+
+.hm-strong-up { background: rgba(52,198,101,0.2); color: var(--accent); }
+.hm-up { background: rgba(52,198,101,0.1); color: var(--accent); }
+.hm-down { background: rgba(239,68,68,0.1); color: #ef4444; }
+.hm-strong-down { background: rgba(239,68,68,0.2); color: #ef4444; }
+
+/* ── News Feed ────────────────────────────────────────── */
+.energy-news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.energy-news-item {
+  display: flex;
+  gap: var(--space-3);
+  padding: var(--space-3) var(--space-4);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--space-2);
+  transition: border-color 0.2s ease;
+}
+
+.energy-news-item:hover {
+  border-color: color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+.energy-news-date {
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--muted);
+  min-width: 48px;
+  padding-top: 2px;
+}
+
+.energy-news-body h3 {
+  font-size: 0.88rem;
+  font-weight: 700;
+  margin: 0 0 4px;
+  line-height: 1.3;
+}
+
+.energy-news-body h3 a {
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.energy-news-body h3 a:hover {
+  color: var(--accent);
+}
+
+.energy-news-body p {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.energy-empty {
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-style: italic;
+}
+
+/* ── Signal Tracker ───────────────────────────────────── */
+.energy-signal-tracker-item {
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+}
+
+.energy-signal-tracker-item:last-child { border-bottom: none; }
+
+.energy-signal-tracker-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-bottom: 4px;
+}
+
+.energy-signal-tracker-header strong {
+  font-size: 0.85rem;
+}
+
+.energy-signal-tracker-item p {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0 0 4px;
+  line-height: 1.4;
+}
+
+.energy-signal-evidence {
+  font-size: 0.65rem;
+  color: var(--muted);
+  opacity: 0.7;
+}
+
+/* ── Responsive ───────────────────────────────────────── */
+@media (max-width: 640px) {
+  .energy-hero {
+    padding: var(--space-5) var(--space-4) var(--space-4);
+  }
+
+  .energy-kpi-bar {
+    gap: var(--space-3);
+  }
+
+  .energy-kpi {
+    min-width: 80px;
+  }
+
+  .energy-module-nav {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .energy-tab {
+    font-size: 0.68rem;
+    padding: 6px 12px;
+  }
+
+  .energy-spark-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .energy-commodity-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .energy-dual-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .energy-heatmap {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .energy-news-item {
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+}
