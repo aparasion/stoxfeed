@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-25T21:42:34Z",
+  "updated_at": "2026-03-25T21:57:26Z",
   "spot": {
     "price": 4503.3,
-    "change_pct": 2.3
+    "change_pct": -1.08
   },
   "silver_price": 71.44,
   "gold_silver_ratio": 63.0,

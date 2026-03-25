@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T21:42:40Z",
+  "updated_at": "2026-03-25T21:57:28Z",
   "market_summary": "WTI crude gained 45.3% to $91.29/bbl. Brent at $98.05/bbl (+45.2%). Henry Hub nat-gas fell 8.6% to $2.940/MMBtu. Energy sector (XLE) underperformed at -0.44%.",
   "signals": [
     {
@@ -131,8 +131,8 @@
     },
     "heating_oil": {
       "price": 3.835,
-      "prev_close": 4.013,
-      "change_pct": -4.45,
+      "prev_close": 3.811,
+      "change_pct": 0.64,
       "symbol": "HO=F",
       "name": "Heating Oil",
       "unit": "$/gal",
@@ -140,8 +140,8 @@
     },
     "gasoline": {
       "price": 2.888,
-      "prev_close": 2.99,
-      "change_pct": -3.43,
+      "prev_close": 2.879,
+      "change_pct": 0.31,
       "symbol": "RB=F",
       "name": "Gasoline RBOB",
       "unit": "$/gal",
