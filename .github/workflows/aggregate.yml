@@ -1,4 +1,8 @@
-name: Daily News Gists
+permissions:
+  pages: write
+  id-token: write
+  
+  name: Daily News Gists
 
 on:
   schedule:
