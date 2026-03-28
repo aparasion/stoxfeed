@@ -646,30 +646,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   })();
 
-  // ── The Long Game article reading progress ───────────────
-  (function () {
-    var progressBar = document.getElementById("article-reading-progress-bar");
-    var articleBody = document.querySelector(".article-content");
-    if (!progressBar || !articleBody) return;
-
-    var clamp = function (value, min, max) {
-      return Math.min(Math.max(value, min), max);
-    };
-
-    var updateReadingProgress = function () {
-      var articleTop = articleBody.getBoundingClientRect().top + window.scrollY;
-      var articleHeight = articleBody.offsetHeight;
-      var maxScroll = articleTop + articleHeight - window.innerHeight;
-      var rawProgress = maxScroll <= articleTop ? 1 : (window.scrollY - articleTop) / (maxScroll - articleTop);
-      var progress = clamp(rawProgress, 0, 1);
-      progressBar.style.transform = "scaleX(" + progress + ")";
-    };
-
-    updateReadingProgress();
-    window.addEventListener("scroll", updateReadingProgress, { passive: true });
-    window.addEventListener("resize", updateReadingProgress);
-  })();
-
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
     var toggleScrollButton = function () {
