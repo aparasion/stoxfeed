@@ -1015,13 +1015,14 @@ hr {
 
 /* ── Market Banner (in-feed promo) ─────────────────────── */
 .market-banner {
-  background: linear-gradient(135deg, #0d3b21 0%, #185c32 55%, #102d1a 100%);
-  border: 1px solid rgba(52, 198, 101, 0.22);
+  background: linear-gradient(135deg, #1a7a3c 0%, #34C665 50%, #1faa50 100%);
+  border: 1px solid rgba(52, 198, 101, 0.6);
   border-radius: var(--radius-md);
-  padding: 1.25rem 1.5rem;
+  padding: 0.55rem 1.5rem;
   margin-bottom: var(--space-5);
   position: relative;
   overflow: hidden;
+  box-shadow: 0 0 24px rgba(52, 198, 101, 0.35), 0 0 8px rgba(52, 198, 101, 0.2);
 }
 
 .market-banner::after {
@@ -1032,28 +1033,33 @@ hr {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background: rgba(52, 198, 101, 0.08);
+  background: rgba(255, 255, 255, 0.08);
   pointer-events: none;
 }
 
 .market-banner-body {
   position: relative;
   z-index: 1;
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  flex-wrap: wrap;
 }
 
 .market-banner-headline {
-  font-size: 0.95rem;
+  font-size: 0.82rem;
   font-weight: 700;
   color: #ffffff;
-  margin: 0 0 0.3rem;
+  margin: 0;
   letter-spacing: -0.01em;
-  line-height: 1.35;
+  line-height: 1;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
 }
 
 .market-banner-tagline {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 500;
-  color: rgba(255, 255, 255, 0.55);
+  color: rgba(255, 255, 255, 0.75);
   margin: 0;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -2096,12 +2102,8 @@ a.internal-link:hover {
   }
 
   .market-banner {
-    padding: 1rem 1.1rem;
+    padding: 0.45rem 1rem;
     margin-bottom: var(--space-4);
-  }
-
-  .market-banner-headline {
-    font-size: 0.875rem;
   }
 
   .post-grid {
