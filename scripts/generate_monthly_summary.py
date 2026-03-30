@@ -284,7 +284,7 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=3500,
+        max_tokens=2000,
         temperature=0.4,
     )
     monthly_content = response.choices[0].message.content.strip()
