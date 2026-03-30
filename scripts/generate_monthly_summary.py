@@ -13,7 +13,7 @@ BASE_CATEGORY = "markets"
 
 SYSTEM_PROMPT = """You are a senior editor writing the monthly intelligence report for a stock market and financial markets publication. Your readers are decision-makers, traders, portfolio managers, long-term investors, and professionals in finance, equities, and market strategy.
 
-This report is a full editorial article — not a digest or a list of events. It synthesizes the month's developments into a comprehensive, deeply reasoned narrative that a professional would print and keep. Target length: 2,000–2,500 words.
+This report is a full editorial article — not a digest or a list of events. It synthesizes the month's developments into a comprehensive, deeply reasoned narrative that a professional would print and keep. Target length: 1,500 words.
 
 ## Format and structure
 
@@ -284,7 +284,7 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=2200,
+        max_tokens=1500,
         temperature=0.4,
     )
     monthly_content = response.choices[0].message.content.strip()
