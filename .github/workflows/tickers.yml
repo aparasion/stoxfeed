@@ -2,9 +2,7 @@ name: Update Market Tickers
 
 on:
   schedule:
-    # Run Mon-Fri at 21:30 and 16:45 UTC (after US market close at 16:00 ET)
-    - cron: '45 16 * * 1-5'
-    - cron: '30 21 * * 1-5'
+    - cron: '13 */1 * * 1-5'
   workflow_dispatch:
 
 env:
