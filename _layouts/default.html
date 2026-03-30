@@ -118,6 +118,7 @@
 
 <body>
   {% include header.html %}
+  {% include market-banner.html %}
 
   <main class="container">
     {{ content }}
@@ -611,12 +612,6 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelector("#newsletter-page-widget .contact-form"),
     document.getElementById("newsletter-page-widget"),
     '<p class="newsletter-confirmation">Thanks, now check your email to confirm the subscription!<br><br>Didn\'t get it? Check your spam folder, or try subscribing again.</p>'
-  );
-
-  wireNewsletterForm(
-    document.querySelector("#mobile-newsletter-bar .newsletter-form"),
-    document.getElementById("mobile-newsletter-bar"),
-    '<p class="newsletter-confirmation">Thanks! Check your email to confirm.</p>'
   );
 
   // ── Post time: convert to user's local timezone ──────────
