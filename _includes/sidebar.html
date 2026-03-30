@@ -130,7 +130,7 @@
       {% endfor %}
     </div>
 
-    <span class="ticker-updated">{{ site.data.gold.updated_at | date: "%b %d, %H:%M UTC" }}</span>
+    <span class="ticker-updated">Updated {{ site.data.gold.updated_at | date: "%b %d, %H:%M UTC" }}</span>
   </div>
   {% endif %}
 
@@ -154,7 +154,7 @@
       </div>
       {% endfor %}
     </div>
-    <span class="ticker-updated">{{ site.data.tickers.updated_at | date: "%b %d, %H:%M UTC" }}</span>
+    <span class="ticker-updated">Updated {{ site.data.tickers.updated_at | date: "%b %d, %H:%M UTC" }}</span>
   </div>
   {% endfor %}
   {% endif %}
