@@ -1013,67 +1013,50 @@ hr {
   display: none;
 }
 
-/* ── Market Banner ──────────────────────────────────────── */
+/* ── Market Banner (in-feed promo) ─────────────────────── */
 .market-banner {
-  background: var(--bg-secondary);
-  border-bottom: 1px solid var(--border);
-  padding: 0.55rem var(--page-gutter);
+  background: linear-gradient(135deg, #0d3b21 0%, #185c32 55%, #102d1a 100%);
+  border: 1px solid rgba(52, 198, 101, 0.22);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: var(--space-5);
   position: relative;
   overflow: hidden;
 }
 
-.market-banner::before {
+.market-banner::after {
   content: '';
   position: absolute;
-  inset: 0;
-  background: linear-gradient(90deg, rgba(52, 198, 101, 0.06) 0%, transparent 50%);
+  top: -48px;
+  right: -48px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: rgba(52, 198, 101, 0.08);
   pointer-events: none;
 }
 
-.market-banner-inner {
-  max-width: var(--site-max-width);
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.6rem;
+.market-banner-body {
+  position: relative;
+  z-index: 1;
 }
 
-.market-banner-dot {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--accent);
-  flex-shrink: 0;
-  animation: banner-pulse 2.4s ease-in-out infinite;
+.market-banner-headline {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0 0 0.3rem;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
 }
 
-@keyframes banner-pulse {
-  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(52, 198, 101, 0.5); }
-  60%       { opacity: 0.85; box-shadow: 0 0 0 5px rgba(52, 198, 101, 0); }
-}
-
-.market-banner-text {
-  font-size: 0.775rem;
-  color: var(--muted);
-  letter-spacing: 0.012em;
-  line-height: 1;
+.market-banner-tagline {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.55);
   margin: 0;
-}
-
-.market-banner-text strong {
-  color: var(--text);
-  font-weight: 600;
-}
-
-.market-banner-sep {
-  margin: 0 0.45rem;
-  opacity: 0.35;
-}
-
-/* Mobile market banner (inside sidebar, replaces newsletter bar) */
-.market-banner-mobile {
-  display: none;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 /* ── Animations ─────────────────────────────────────────── */
@@ -2113,45 +2096,12 @@ a.internal-link:hover {
   }
 
   .market-banner {
-    display: none;
+    padding: 1rem 1.1rem;
+    margin-bottom: var(--space-4);
   }
 
-  .market-banner-mobile {
-    display: flex;
-    align-items: flex-start;
-    gap: var(--space-3);
-    order: -1;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-left: 3px solid var(--accent);
-    border-radius: var(--radius-md);
-    padding: var(--space-3) var(--space-4);
-    margin-bottom: var(--space-1);
-  }
-
-  .market-banner-mobile .market-banner-dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--accent);
-    flex-shrink: 0;
-    margin-top: 0.35rem;
-    animation: banner-pulse 2.4s ease-in-out infinite;
-  }
-
-  .market-banner-mobile-text {
-    font-size: 0.775rem;
-    color: var(--muted);
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  .market-banner-mobile-text strong {
-    display: block;
-    color: var(--text);
-    font-weight: 600;
-    font-size: 0.8rem;
-    margin-bottom: 0.15rem;
+  .market-banner-headline {
+    font-size: 0.875rem;
   }
 
   .post-grid {

@@ -9,6 +9,8 @@ nav_order: 1
 <div class="feed-layout">
   <main class="feed-main">
 
+{% include market-banner.html %}
+
 {% comment %}
   Collect the last 2 unique days that have published content.
 {% endcomment %}
