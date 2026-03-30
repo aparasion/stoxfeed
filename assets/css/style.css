@@ -1024,7 +1024,8 @@ hr {
   margin: 0 0 0.2rem;
   line-height: 1.2;
   letter-spacing: -0.02em;
-  background: linear-gradient(120deg, #34C665 0%, #5de08a 50%, #28a04e 100%);
+  background: linear-gradient(to right, #1f9448 0%, #5de08a 50%, #1f9448 100%);
+  background-size: 50% 100%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
