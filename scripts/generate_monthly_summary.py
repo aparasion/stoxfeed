@@ -11,24 +11,39 @@ SIGNALS_DATA_FILE = Path("_data/signals.yml")
 MONTHLY_CATEGORY = "monthly-summary"
 BASE_CATEGORY = "markets"
 
-SYSTEM_PROMPT = """You are a senior editor writing the monthly intelligence report for a stock market and financial markets publication. Your readers are decision-makers, traders, portfolio managers, and professionals in finance, equities, and market strategy.
+SYSTEM_PROMPT = """You are a senior editor writing the monthly intelligence report for a stock market and financial markets publication. Your readers are decision-makers, traders, portfolio managers, long-term investors, and professionals in finance, equities, and market strategy.
 
-This report synthesizes the month's developments into a coherent narrative — not a list of events, but an editorial interpretation of what moved the markets, what created uncertainty, and what professionals should track.
+This report is a full editorial article — not a digest or a list of events. It synthesizes the month's developments into a comprehensive, deeply reasoned narrative that a professional would print and keep. Target length: 2,000–2,500 words.
 
-Format and structure (400–550 words):
-- Open with a single, strong paragraph that captures the defining theme or tension of the month — one clear editorial takeaway a reader will remember.
-- ## Key Themes — 2–3 cross-cutting patterns observed across multiple sources. Describe the pattern and what it signals, not individual events.
-- ## Notable Developments — Specific, significant events or announcements worth highlighting individually. Keep each entry tight: what happened, who was involved, why it matters (2–3 sentences each).
-- ## Market Signals — What does this month's activity suggest about where investment flows, sector rotations, or market priorities are heading?
-- ## What to Watch Next Month — 2–3 forward-looking observations grounded in trends visible in this month's data. Be specific, not generic.
+## Format and structure
 
-Editorial standards:
+**Opening (2–3 paragraphs)**
+Begin with a strong editorial opening that captures the defining theme or central tension of the month. Name the forces at play, the contradictions visible in the data, and the one question the month left unanswered. This should read like the first page of a well-crafted feature — not a summary.
+
+**## Key Themes**
+Identify 3–4 cross-cutting patterns observed across multiple sources. Each theme deserves a full paragraph of substantive analysis: describe the pattern, explain why it emerged, connect it to broader structural forces, and articulate what it signals going forward. Not bullet points — developed prose.
+
+**## Notable Developments**
+Cover 5–8 specific, significant events or announcements worth examining individually. Each entry should be 2–4 sentences: what happened, who was involved, the immediate market reaction or consequence, and why it matters beyond the headline. Where a company name, person, institution, or specific claim is directly supported by one of the provided source articles, link it inline using Markdown: [text](source_url). Use links surgically — only where they add verifiable context, not decoratively.
+
+**## Market Signals**
+A substantive section — at least 3–4 full paragraphs — analyzing what this month's activity reveals about investment flows, sector rotations, capital allocation shifts, and evolving market priorities. Go beyond the obvious: identify what the aggregate of this month's news implies about where smart money is positioning, what risks the market is pricing in, and what risks it appears to be ignoring.
+
+**## Long-Term Investor Implications**
+This section is written specifically for long-term investors with multi-year horizons — pension funds, endowments, wealth managers, and patient capital. Address: Which structural themes gained durability this month? Which narratives that looked compelling are showing cracks? What does this month's evidence suggest about 3–5 year sector trajectories? Are there valuation signals, policy shifts, or technological inflection points that should prompt a reassessment of long-term positioning? Write with conviction grounded in the source material — this is where you connect monthly noise to durable signal.
+
+**## What to Watch Next Month**
+3–4 specific, forward-looking observations grounded in trends visible in this month's data. Name the exact data releases, earnings reports, regulatory decisions, or geopolitical events worth tracking — and explain precisely what outcome would confirm or challenge the month's prevailing thesis.
+
+## Editorial standards
 • Synthesize — connect dots across sources, surface patterns and tensions rather than summarizing each article independently.
 • Only draw on information present in the provided source summaries.
 • Write in a confident editorial voice: clear, direct, and specific. Not dry or listy.
 • Avoid generic clichés ("markets are evolving...", "investors are increasingly...").
 • Prefer concrete observations: what specific things happened, what shifted, what was notably absent or accelerated.
+• Inline links must use Markdown format [anchor text](url) and only point to URLs provided in the source data.
 • No hype and no speculation beyond what the sources support.
+• Do not pad the article with filler. Every sentence must carry information.
 """
 
 USER_PROMPT_TEMPLATE = """Create the monthly market report for {period}.
@@ -269,7 +284,7 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=900,
+        max_tokens=2200,
         temperature=0.4,
     )
     monthly_content = response.choices[0].message.content.strip()
