@@ -1025,7 +1025,7 @@ hr {
   line-height: 1.2;
   letter-spacing: -0.02em;
   background: linear-gradient(to right, #1f9448 0%, #5de08a 50%, #1f9448 100%);
-  background-size: 50% 100%;
+  background-size: 100% 100%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
