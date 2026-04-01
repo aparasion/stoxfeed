@@ -48,8 +48,14 @@ This section is written specifically for long-term investors with multi-year hor
 
 USER_PROMPT_TEMPLATE = """Create the monthly market report for {period}.
 
+Use only the source entries provided below. Some source entries may be omitted when the monthly input set is very large.
+
 {article_summaries}
 """
+
+MAX_ARTICLES_IN_PROMPT = 200
+MAX_SUMMARY_CHARS = 700
+MAX_PROMPT_CHARS = 120_000
 
 
 def yaml_escape(text: str) -> str:
@@ -127,13 +133,30 @@ def collect_month_articles(period: str) -> list[dict]:
 def build_article_prompt_rows(articles: list[dict]) -> str:
     chunks = []
     for idx, article in enumerate(articles, start=1):
+        summary = (article["summary"] or "").strip()
+        if len(summary) > MAX_SUMMARY_CHARS:
+            summary = f"{summary[:MAX_SUMMARY_CHARS].rstrip()}…"
         chunks.append(
             f"{idx}. Title: {article['title']}\n"
             f"Publisher: {article['publisher'] or 'Unknown'}\n"
             f"Source: {article['source_url'] or 'N/A'}\n"
-            f"Summary: {article['summary']}\n"
+            f"Summary: {summary}\n"
         )
     return "\n".join(chunks)
+
+
+def select_articles_for_prompt(articles: list[dict]) -> tuple[list[dict], int]:
+    selected = articles[:MAX_ARTICLES_IN_PROMPT]
+    omitted = max(0, len(articles) - len(selected))
+
+    while selected:
+        preview = build_article_prompt_rows(selected)
+        if len(preview) <= MAX_PROMPT_CHARS:
+            return selected, omitted
+        selected = selected[:-1]
+        omitted += 1
+
+    return [], len(articles)
 
 
 def parse_inline_list(value: str) -> list[str]:
@@ -274,9 +297,19 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
         print(f"No articles found for {period}.")
         return None
 
+    selected_articles, omitted_articles = select_articles_for_prompt(articles)
+    if not selected_articles:
+        print(f"Unable to build prompt for {period}: no articles fit within prompt size limits.")
+        return None
+
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    article_summaries = build_article_prompt_rows(articles)
+    article_summaries = build_article_prompt_rows(selected_articles)
     user_prompt = USER_PROMPT_TEMPLATE.format(period=period, article_summaries=article_summaries)
+    if omitted_articles:
+        print(
+            f"Prompt size guard applied: using {len(selected_articles)} of {len(articles)} "
+            f"articles for AI generation ({omitted_articles} omitted)."
+        )
 
     response = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -284,7 +317,7 @@ def generate_monthly_summary(period: str, force: bool = False) -> Path | None:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=1500,
+        max_tokens=1200,
         temperature=0.4,
     )
     monthly_content = response.choices[0].message.content.strip()
