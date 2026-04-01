@@ -29,21 +29,21 @@ As geopolitical risks mount, institutional investors are reassessing their portf
 
 ## Notable Developments
 
-1. **Federal Reserve Meeting Anticipation**: The Fed's upcoming meeting is generating significant interest as analysts adjust their forecasts for interest rate cuts in 2026. The geopolitical landscape, particularly the Iran war, is complicating the Fed's decision-making process, with inflationary pressures remaining a critical concern. [Source](https://www.marketplace.org).
+1. **Federal Reserve Meeting Anticipation**: The Fed's upcoming meeting is generating significant interest as analysts adjust their forecasts for interest rate cuts in 2026. The geopolitical landscape, particularly the Iran war, is complicating the Fed's decision-making process, with inflationary pressures remaining a critical concern. [Related coverage](/articles/2026/03/15/looming-fed-meeting-shifts-bets-for-2026-interest-rate-cuts-1.html).
 
-2. **Nvidia's GTC Conference**: Nvidia's CEO Jensen Huang announced ambitious plans for AI technologies at the GTC 2026 event, including a projected $1 trillion in orders for new chip technologies. This announcement has bolstered investor confidence in the tech sector, with Nvidia's stock rising in response. [Source](https://www.cnbc.com).
+2. **Nvidia's GTC Conference**: Nvidia's CEO Jensen Huang announced ambitious plans for AI technologies at the GTC 2026 event, including a projected $1 trillion in orders for new chip technologies. This announcement has bolstered investor confidence in the tech sector, with Nvidia's stock rising in response. [Related coverage](/articles/2026/03/21/openclaws-chatgpt-moment-sparks-concern-that-ai-models-are-b.html).
 
-3. **Oil Price Surge**: Oil prices have surged above $100 per barrel amid escalating tensions in the Middle East. This rise has implications for inflation and economic growth, prompting concerns about potential supply chain disruptions. [Source](https://www.cnbc.com).
+3. **Oil Price Surge**: Oil prices have surged above $100 per barrel amid escalating tensions in the Middle East. This rise has implications for inflation and economic growth, prompting concerns about potential supply chain disruptions. [Related coverage](/articles/2026/03/24/asia-pacific-markets-pare-gains-as-oil-rebounds-on-iran-war.html).
 
-4. **SEC Proposal on Reporting Requirements**: The SEC is preparing to propose the elimination of mandatory quarterly reporting for public companies, a move that could significantly alter corporate transparency and investor relations. [Source](https://www.pymnts.com).
+4. **SEC Proposal on Reporting Requirements**: The SEC is preparing to propose the elimination of mandatory quarterly reporting for public companies, a move that could significantly alter corporate transparency and investor relations. [Related coverage](/articles/2026/03/16/jfb-nasdaq-jfb-announces-xtend-and-rayonix-execute-exclusive-1.html).
 
-5. **Bitcoin's Resurgence**: Bitcoin has seen a notable rally, recently surpassing $74,000, driven by strong inflows into exchange-traded funds (ETFs). This resurgence reflects growing investor interest in cryptocurrencies as a hedge against traditional market volatility. [Source](https://www.coindesk.com).
+5. **Bitcoin's Resurgence**: Bitcoin has seen a notable rally, recently surpassing $74,000, driven by strong inflows into exchange-traded funds (ETFs). This resurgence reflects growing investor interest in cryptocurrencies as a hedge against traditional market volatility. [Related coverage](/articles/2026/03/22/stock-market-crash-the-best-cryptocurrencies-to-buy-right-no.html).
 
-6. **Kroger's Financial Results**: Kroger released its fourth-quarter and full-year 2025 results, showcasing strong performance that could influence retail sector dynamics as consumer spending patterns evolve. [Source](https://news.google.com).
+6. **Kroger's Financial Results**: Kroger released its fourth-quarter and full-year 2025 results, showcasing strong performance that could influence retail sector dynamics as consumer spending patterns evolve. [Related coverage](/articles/2026/03/05/kroger-reports-fourth-quarter-and-full-year-2025-results-and.html).
 
-7. **Home BancShares Acquisition Approval**: The Federal Reserve approved Home BancShares' application to acquire Mountain Commerce Bancorp, marking a strategic expansion in the banking sector. [Source](https://www.federalreserve.gov).
+7. **Home BancShares Acquisition Approval**: The Federal Reserve approved Home BancShares' application to acquire Mountain Commerce Bancorp, marking a strategic expansion in the banking sector. [Related coverage](/articles/2026/03/12/federal-reserve-board-announces-approval-of-application-by-h-3.html).
 
-8. **Global M&A Activity**: Portugal's M&A activity surged to €606 million in 2026, indicating a robust recovery in the country's financial landscape as companies seek growth opportunities amidst changing market dynamics. [Source](https://news.google.com).
+8. **Global M&A Activity**: Portugal's M&A activity surged to €606 million in 2026, indicating a robust recovery in the country's financial landscape as companies seek growth opportunities amidst changing market dynamics. [Related coverage](/articles/2026/03/16/portugals-ma-deal-value-reaches-606m-in-2026---iberian-lawye.html).
 
 ## Market Signals
 
