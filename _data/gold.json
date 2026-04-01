@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-01T19:20:15Z",
+  "updated_at": "2026-04-01T21:00:11Z",
   "spot": {
-    "price": 4784.0,
-    "change_pct": 2.25
+    "price": 4787.9,
+    "change_pct": 2.34
   },
-  "silver_price": 75.29,
-  "gold_silver_ratio": 63.5,
+  "silver_price": 75.3,
+  "gold_silver_ratio": 63.6,
   "gld_52w_high": 509.7,
   "gld_52w_low": 272.58,
   "gld_history": [
@@ -31,55 +31,55 @@
     414.7,
     414.58,
     430.29,
-    437.28
+    437.82
   ],
   "etfs": [
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
       "desc": "Largest gold ETF (~$70B AUM); tracks London gold price fix",
-      "price": 437.28,
-      "change_pct": 1.62,
+      "price": 437.82,
+      "change_pct": 1.75,
       "prev_close": 430.29
     },
     {
       "symbol": "IAU",
       "name": "iShares Gold Trust",
       "desc": "Physical gold ETF with 0.25% expense ratio; second largest by AUM",
-      "price": 89.58,
-      "change_pct": 1.62,
+      "price": 89.68,
+      "change_pct": 1.72,
       "prev_close": 88.16
     },
     {
       "symbol": "GLDM",
       "name": "SPDR Gold MiniShares",
       "desc": "Lowest-cost large gold ETF at 0.10% expense ratio",
-      "price": 94.2,
-      "change_pct": 1.63,
+      "price": 94.3,
+      "change_pct": 1.74,
       "prev_close": 92.69
     },
     {
       "symbol": "SGOL",
       "name": "Aberdeen Physical Gold ETF",
       "desc": "Physical gold stored in Swiss and UK vaults",
-      "price": 45.34,
-      "change_pct": 1.61,
+      "price": 45.4,
+      "change_pct": 1.75,
       "prev_close": 44.62
     },
     {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "desc": "Tracks large gold mining companies, not physical gold",
-      "price": 95.85,
-      "change_pct": 4.45,
+      "price": 96.01,
+      "change_pct": 4.62,
       "prev_close": 91.77
     },
     {
       "symbol": "GDXJ",
       "name": "VanEck Junior Gold Miners",
       "desc": "Smaller mining stocks; higher risk/reward than major miners",
-      "price": 125.11,
-      "change_pct": 4.22,
+      "price": 125.25,
+      "change_pct": 4.34,
       "prev_close": 120.04
     }
   ]
