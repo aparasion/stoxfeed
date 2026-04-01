@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T14:03:17Z",
+  "updated_at": "2026-04-01T15:39:45Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -7,57 +7,57 @@
         {
           "symbol": "SPY",
           "name": "SPDR S&P 500 ETF",
-          "price": 655.05,
-          "change_pct": 0.72,
+          "price": 656.96,
+          "change_pct": 1.02,
           "prev_close": 650.34
         },
         {
           "symbol": "QQQ",
           "name": "Invesco Nasdaq 100 ETF",
-          "price": 583.25,
-          "change_pct": 1.03,
+          "price": 586.04,
+          "change_pct": 1.52,
           "prev_close": 577.29
         },
         {
           "symbol": "DIA",
           "name": "SPDR Dow Jones ETF",
-          "price": 466.32,
-          "change_pct": 0.68,
+          "price": 467.57,
+          "change_pct": 0.95,
           "prev_close": 463.19
         },
         {
           "symbol": "IWM",
           "name": "iShares Russell 2000 ETF",
-          "price": 250.96,
-          "change_pct": 1.19,
+          "price": 251.84,
+          "change_pct": 1.55,
           "prev_close": 248.0
         },
         {
           "symbol": "VIX",
           "name": "CBOE Volatility Index",
-          "price": 25.3,
-          "change_pct": 0.2,
+          "price": 23.88,
+          "change_pct": -5.43,
           "prev_close": 25.25
         },
         {
           "symbol": "XLF",
           "name": "Financial Select Sector ETF",
-          "price": 49.52,
-          "change_pct": 0.31,
+          "price": 49.71,
+          "change_pct": 0.69,
           "prev_close": 49.37
         },
         {
           "symbol": "XLE",
           "name": "Energy Select Sector ETF",
-          "price": 59.41,
-          "change_pct": -3.01,
+          "price": 58.92,
+          "change_pct": -3.81,
           "prev_close": 61.26
         },
         {
           "symbol": "XLK",
           "name": "Technology Select Sector ETF",
-          "price": 134.89,
-          "change_pct": 1.5,
+          "price": 135.69,
+          "change_pct": 2.1,
           "prev_close": 132.9
         }
       ]
@@ -68,50 +68,50 @@
         {
           "symbol": "AAPL",
           "name": "Apple",
-          "price": 254.82,
-          "change_pct": 0.41,
+          "price": 254.09,
+          "change_pct": 0.12,
           "prev_close": 253.79
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft",
-          "price": 371.24,
-          "change_pct": 0.29,
+          "price": 371.85,
+          "change_pct": 0.45,
           "prev_close": 370.17
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet",
-          "price": 296.12,
-          "change_pct": 2.98,
+          "price": 296.89,
+          "change_pct": 3.24,
           "prev_close": 287.56
         },
         {
           "symbol": "AMZN",
           "name": "Amazon",
-          "price": 209.95,
-          "change_pct": 0.79,
+          "price": 212.39,
+          "change_pct": 1.96,
           "prev_close": 208.31
         },
         {
           "symbol": "META",
           "name": "Meta",
-          "price": 578.39,
-          "change_pct": 1.1,
+          "price": 582.58,
+          "change_pct": 1.83,
           "prev_close": 572.13
         },
         {
           "symbol": "NVDA",
           "name": "NVIDIA",
-          "price": 175.82,
-          "change_pct": 0.79,
+          "price": 176.75,
+          "change_pct": 1.32,
           "prev_close": 174.44
         },
         {
           "symbol": "TSLA",
           "name": "Tesla",
-          "price": 375.55,
-          "change_pct": 1.02,
+          "price": 381.65,
+          "change_pct": 2.66,
           "prev_close": 371.75
         }
       ]
