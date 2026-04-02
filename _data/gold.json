@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-04-02T19:13:57Z",
+  "updated_at": "2026-04-02T20:52:12Z",
   "spot": {
-    "price": 4699.4,
-    "change_pct": -2.36
+    "price": 4695.7,
+    "change_pct": -2.44
   },
-  "silver_price": 72.89,
-  "gold_silver_ratio": 64.5,
+  "silver_price": 73.01,
+  "gold_silver_ratio": 64.3,
   "gld_52w_high": 509.7,
   "gld_52w_low": 272.58,
   "gld_history": [
-    490.0,
     468.14,
     471.8,
     466.13,
@@ -47,8 +46,8 @@
       "symbol": "IAU",
       "name": "iShares Gold Trust",
       "desc": "Physical gold ETF with 0.25% expense ratio; second largest by AUM",
-      "price": 87.96,
-      "change_pct": -1.92,
+      "price": 87.94,
+      "change_pct": -1.94,
       "prev_close": 89.68
     },
     {
@@ -63,24 +62,24 @@
       "symbol": "SGOL",
       "name": "Aberdeen Physical Gold ETF",
       "desc": "Physical gold stored in Swiss and UK vaults",
-      "price": 44.52,
-      "change_pct": -1.94,
+      "price": 44.51,
+      "change_pct": -1.96,
       "prev_close": 45.4
     },
     {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "desc": "Tracks large gold mining companies, not physical gold",
-      "price": 94.8,
-      "change_pct": -1.26,
+      "price": 94.59,
+      "change_pct": -1.48,
       "prev_close": 96.01
     },
     {
       "symbol": "GDXJ",
       "name": "VanEck Junior Gold Miners",
       "desc": "Smaller mining stocks; higher risk/reward than major miners",
-      "price": 122.67,
-      "change_pct": -2.06,
+      "price": 122.19,
+      "change_pct": -2.44,
       "prev_close": 125.25
     }
   ]
