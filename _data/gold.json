@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-02T15:14:35Z",
+  "updated_at": "2026-04-02T17:08:26Z",
   "spot": {
-    "price": 4703.3,
-    "change_pct": -2.28
+    "price": 4689.1,
+    "change_pct": -2.58
   },
-  "silver_price": 72.59,
-  "gold_silver_ratio": 64.8,
+  "silver_price": 72.47,
+  "gold_silver_ratio": 64.7,
   "gld_52w_high": 509.7,
   "gld_52w_low": 272.58,
   "gld_history": [
@@ -32,55 +32,55 @@
     414.58,
     430.29,
     437.82,
-    429.05
+    428.19
   ],
   "etfs": [
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
       "desc": "Largest gold ETF (~$70B AUM); tracks London gold price fix",
-      "price": 429.05,
-      "change_pct": -2.0,
+      "price": 428.24,
+      "change_pct": -2.19,
       "prev_close": 437.82
     },
     {
       "symbol": "IAU",
       "name": "iShares Gold Trust",
       "desc": "Physical gold ETF with 0.25% expense ratio; second largest by AUM",
-      "price": 87.87,
-      "change_pct": -2.02,
+      "price": 87.76,
+      "change_pct": -2.14,
       "prev_close": 89.68
     },
     {
       "symbol": "GLDM",
       "name": "SPDR Gold MiniShares",
       "desc": "Lowest-cost large gold ETF at 0.10% expense ratio",
-      "price": 92.39,
-      "change_pct": -2.03,
+      "price": 92.27,
+      "change_pct": -2.15,
       "prev_close": 94.3
     },
     {
       "symbol": "SGOL",
       "name": "Aberdeen Physical Gold ETF",
       "desc": "Physical gold stored in Swiss and UK vaults",
-      "price": 44.48,
-      "change_pct": -2.03,
+      "price": 44.41,
+      "change_pct": -2.18,
       "prev_close": 45.4
     },
     {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "desc": "Tracks large gold mining companies, not physical gold",
-      "price": 94.69,
-      "change_pct": -1.37,
+      "price": 94.67,
+      "change_pct": -1.4,
       "prev_close": 96.01
     },
     {
       "symbol": "GDXJ",
       "name": "VanEck Junior Gold Miners",
       "desc": "Smaller mining stocks; higher risk/reward than major miners",
-      "price": 122.62,
-      "change_pct": -2.1,
+      "price": 122.36,
+      "change_pct": -2.31,
       "prev_close": 125.25
     }
   ]
