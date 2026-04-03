@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T03:26:25Z",
+  "updated_at": "2026-04-03T05:48:20Z",
   "market_summary": "WTI crude gained 69.0% to $112.06/bbl. Brent at $109.05/bbl (+52.5%). Henry Hub nat-gas fell 6.0% to $2.807/MMBtu. Energy sector (XLE) outperformed at +0.47%.",
   "signals": [
     {
@@ -42,7 +42,7 @@
         102.88,
         101.38,
         100.12,
-        112.06
+        111.54
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -82,7 +82,7 @@
         112.78,
         118.35,
         101.16,
-        109.05
+        109.03
       ],
       "symbol": "BZ=F",
       "name": "Brent Crude",
@@ -122,7 +122,7 @@
         2.887,
         2.884,
         2.819,
-        2.807
+        2.8
       ],
       "symbol": "NG=F",
       "name": "Natural Gas",
