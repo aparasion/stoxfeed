@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T21:02:02Z",
+  "updated_at": "2026-04-07T21:56:08Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -92,6 +92,13 @@
           "price": 213.77,
           "change_pct": 0.46,
           "prev_close": 212.79
+        },
+        {
+          "symbol": "META",
+          "name": "Meta",
+          "price": 575.05,
+          "change_pct": 0.35,
+          "prev_close": 573.02
         },
         {
           "symbol": "NVDA",
