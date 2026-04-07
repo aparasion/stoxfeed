@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-07T03:29:14Z",
-  "market_summary": "WTI crude gained 75.7% to $115.32/bbl. Brent at $111.30/bbl (+57.3%). Henry Hub nat-gas fell 4.3% to $2.790/MMBtu. Energy sector (XLE) outperformed at +0.73%.",
+  "updated_at": "2026-04-07T05:54:52Z",
+  "market_summary": "WTI crude gained 76.6% to $115.52/bbl. Brent at $111.41/bbl (+57.2%). Henry Hub nat-gas fell 5.5% to $2.805/MMBtu. Energy sector (XLE) outperformed at +0.73%.",
   "signals": [
     {
       "label": "Oil Spike Alert",
@@ -10,11 +10,10 @@
   ],
   "commodities": {
     "wti": {
-      "price": 115.32,
-      "prev_close": 65.63,
-      "change_pct": 75.71,
+      "price": 115.52,
+      "prev_close": 65.42,
+      "change_pct": 76.58,
       "history": [
-        65.63,
         65.42,
         65.21,
         67.02,
@@ -43,7 +42,7 @@
         100.12,
         111.54,
         112.41,
-        115.32
+        115.52
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -51,11 +50,10 @@
       "sector": "oil"
     },
     "brent": {
-      "price": 111.3,
-      "prev_close": 70.77,
-      "change_pct": 57.27,
+      "price": 111.41,
+      "prev_close": 70.85,
+      "change_pct": 57.25,
       "history": [
-        70.77,
         70.85,
         70.75,
         72.48,
@@ -84,7 +82,7 @@
         101.16,
         109.03,
         109.77,
-        111.3
+        111.41
       ],
       "symbol": "BZ=F",
       "name": "Brent Crude",
@@ -92,11 +90,10 @@
       "sector": "oil"
     },
     "henry_hub": {
-      "price": 2.79,
-      "prev_close": 2.915,
-      "change_pct": -4.29,
+      "price": 2.805,
+      "prev_close": 2.969,
+      "change_pct": -5.52,
       "history": [
-        2.915,
         2.969,
         2.827,
         2.859,
@@ -125,7 +122,7 @@
         2.819,
         2.8,
         2.811,
-        2.79
+        2.805
       ],
       "symbol": "NG=F",
       "name": "Natural Gas",
@@ -133,18 +130,18 @@
       "sector": "gas"
     },
     "heating_oil": {
-      "price": 4.444,
+      "price": 4.452,
       "prev_close": 4.328,
-      "change_pct": 2.68,
+      "change_pct": 2.85,
       "symbol": "HO=F",
       "name": "Heating Oil",
       "unit": "$/gal",
       "sector": "oil"
     },
     "gasoline": {
-      "price": 3.196,
+      "price": 3.193,
       "prev_close": 3.159,
-      "change_pct": 1.16,
+      "change_pct": 1.06,
       "symbol": "RB=F",
       "name": "Gasoline RBOB",
       "unit": "$/gal",
@@ -178,14 +175,6 @@
         "price": 163.37,
         "change_pct": 1.67,
         "prev_close": 160.69
-      },
-      {
-        "symbol": "CVX",
-        "name": "Chevron",
-        "category": "major",
-        "price": 198.86,
-        "change_pct": -0.06,
-        "prev_close": 198.97
       },
       {
         "symbol": "SHEL",
@@ -306,14 +295,6 @@
         "price": 163.37,
         "change_pct": 1.67,
         "prev_close": 160.69
-      },
-      {
-        "symbol": "CVX",
-        "name": "Chevron",
-        "category": "major",
-        "price": 198.86,
-        "change_pct": -0.06,
-        "prev_close": 198.97
       },
       {
         "symbol": "SHEL",
