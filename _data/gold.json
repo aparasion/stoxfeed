@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-09T03:26:51Z",
+  "updated_at": "2026-04-09T05:56:58Z",
   "spot": {
-    "price": 4731.8,
-    "change_pct": -0.95
+    "price": 4742.4,
+    "change_pct": -0.73
   },
-  "silver_price": 73.76,
-  "gold_silver_ratio": 64.2,
+  "silver_price": 74.02,
+  "gold_silver_ratio": 64.1,
   "gld_52w_high": 509.7,
   "gld_52w_low": 281.04,
   "gld_history": [
@@ -29,8 +29,7 @@
     437.82,
     429.41,
     427.65,
-    431.81,
-    434.53
+    431.81
   ],
   "etfs": [
     {
