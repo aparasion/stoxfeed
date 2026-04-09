@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T07:53:50Z",
+  "updated_at": "2026-04-09T09:39:17Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -35,8 +35,8 @@
         {
           "symbol": "VIX",
           "name": "CBOE Volatility Index",
-          "price": 21.36,
-          "change_pct": 1.52,
+          "price": 21.39,
+          "change_pct": 1.66,
           "prev_close": 21.04
         },
         {
