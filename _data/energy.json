@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-10T23:51:01Z",
-  "market_summary": "WTI crude gained 34.3% to $95.63/bbl. Brent at $94.45/bbl (+21.5%). Henry Hub nat-gas fell 10.4% to $2.653/MMBtu. Energy sector (XLE) underperformed at -0.68%.",
+  "updated_at": "2026-04-13T03:50:58Z",
+  "market_summary": "WTI crude gained 47.5% to $105.07/bbl. Brent at $102.36/bbl (+31.7%). Henry Hub nat-gas fell 9.7% to $2.673/MMBtu. Energy sector (XLE) underperformed at -0.68%.",
   "signals": [
     {
       "label": "Oil Spike Alert",
@@ -10,9 +10,9 @@
   ],
   "commodities": {
     "wti": {
-      "price": 95.63,
+      "price": 105.07,
       "prev_close": 71.23,
-      "change_pct": 34.26,
+      "change_pct": 47.51,
       "history": [
         71.23,
         74.56,
@@ -42,7 +42,8 @@
         112.95,
         94.41,
         97.87,
-        95.63
+        96.57,
+        105.07
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -50,9 +51,9 @@
       "sector": "oil"
     },
     "brent": {
-      "price": 94.45,
+      "price": 102.36,
       "prev_close": 77.74,
-      "change_pct": 21.49,
+      "change_pct": 31.67,
       "history": [
         77.74,
         81.4,
@@ -82,7 +83,8 @@
         109.27,
         94.75,
         95.92,
-        94.45
+        95.2,
+        102.36
       ],
       "symbol": "BZ=F",
       "name": "Brent Crude",
@@ -90,9 +92,9 @@
       "sector": "oil"
     },
     "henry_hub": {
-      "price": 2.653,
+      "price": 2.673,
       "prev_close": 2.96,
-      "change_pct": -10.37,
+      "change_pct": -9.7,
       "history": [
         2.96,
         3.054,
@@ -122,7 +124,8 @@
         2.87,
         2.724,
         2.67,
-        2.653
+        2.648,
+        2.673
       ],
       "symbol": "NG=F",
       "name": "Natural Gas",
@@ -130,18 +133,18 @@
       "sector": "gas"
     },
     "heating_oil": {
-      "price": 3.742,
-      "prev_close": 3.937,
-      "change_pct": -4.95,
+      "price": 4.082,
+      "prev_close": 3.762,
+      "change_pct": 8.52,
       "symbol": "HO=F",
       "name": "Heating Oil",
       "unit": "$/gal",
       "sector": "oil"
     },
     "gasoline": {
-      "price": 2.937,
-      "prev_close": 2.927,
-      "change_pct": 0.33,
+      "price": 3.087,
+      "prev_close": 2.955,
+      "change_pct": 4.47,
       "symbol": "RB=F",
       "name": "Gasoline RBOB",
       "unit": "$/gal",
