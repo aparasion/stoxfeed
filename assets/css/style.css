@@ -165,6 +165,11 @@ hr {
   backdrop-filter: blur(20px) saturate(180%);
   -webkit-backdrop-filter: blur(20px) saturate(180%);
   border-bottom: 1px solid var(--border);
+  transition: box-shadow 0.3s ease;
+}
+
+.site-header.scrolled {
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
 }
 
 .header-shell {
@@ -176,6 +181,21 @@ hr {
   align-items: center;
   justify-content: space-between;
   height: 64px;
+  transition: height 0.3s ease;
+}
+
+.site-header.scrolled .header-shell {
+  height: 46px;
+}
+
+.site-header.scrolled .logo-image {
+  width: 28px;
+  transition: width 0.3s ease;
+}
+
+.site-header.scrolled .logo-text {
+  font-size: 1rem;
+  transition: font-size 0.3s ease;
 }
 
 /* Logo — left aligned */
@@ -191,6 +211,7 @@ hr {
   width: 40px;
   height: auto;
   display: block;
+  transition: width 0.3s ease;
 }
 
 /* Show dark logo by default (dark theme), hide light logo */
@@ -204,6 +225,7 @@ hr {
   font-size: 1.2rem;
   font-weight: 800;
   letter-spacing: -0.03em;
+  transition: font-size 0.3s ease;
 }
 
 .brand-stox { color: var(--brand-stox); }
@@ -2102,6 +2124,10 @@ a.internal-link:hover {
 
   .header-shell {
     height: 56px;
+  }
+
+  .site-header.scrolled .header-shell {
+    height: 40px;
   }
 
   .site-nav {

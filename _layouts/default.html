@@ -640,6 +640,16 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   })();
 
+  // ── Shrinking sticky header on scroll ───────────────────
+  var siteHeader = document.querySelector(".site-header");
+  if (siteHeader) {
+    var toggleShrinkHeader = function () {
+      siteHeader.classList.toggle("scrolled", window.scrollY > 50);
+    };
+    window.addEventListener("scroll", toggleShrinkHeader, { passive: true });
+    toggleShrinkHeader();
+  }
+
   // ── Scroll-to-top button ─────────────────────────────────
   if (scrollTopButton) {
     var toggleScrollButton = function () {
