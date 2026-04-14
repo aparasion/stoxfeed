@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-13T23:57:01Z",
+  "updated_at": "2026-04-14T03:38:49Z",
   "spot": {
-    "price": 4783.3,
-    "change_pct": 0.33
+    "price": 4789.5,
+    "change_pct": 0.46
   },
-  "silver_price": 76.04,
-  "gold_silver_ratio": 62.9,
+  "silver_price": 76.76,
+  "gold_silver_ratio": 62.4,
   "gld_52w_high": 509.7,
   "gld_52w_low": 291.78,
   "gld_history": [
