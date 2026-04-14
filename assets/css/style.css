@@ -181,21 +181,6 @@ hr {
   align-items: center;
   justify-content: space-between;
   height: 64px;
-  transition: height 0.3s ease;
-}
-
-.site-header.scrolled .header-shell {
-  height: 46px;
-}
-
-.site-header.scrolled .logo-image {
-  width: 28px;
-  transition: width 0.3s ease;
-}
-
-.site-header.scrolled .logo-text {
-  font-size: 1rem;
-  transition: font-size 0.3s ease;
 }
 
 /* Logo — left aligned */
@@ -2126,9 +2111,6 @@ a.internal-link:hover {
     height: 56px;
   }
 
-  .site-header.scrolled .header-shell {
-    height: 40px;
-  }
 
   .site-nav {
     position: relative;
