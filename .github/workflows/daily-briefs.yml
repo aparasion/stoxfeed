@@ -73,6 +73,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Add daily brief - $(date +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
             echo "new_brief=true" >> "$GITHUB_OUTPUT"
           else

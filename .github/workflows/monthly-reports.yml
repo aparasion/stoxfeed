@@ -72,6 +72,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Add monthly report - $(date +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           else
             echo "No monthly report changes to commit"
