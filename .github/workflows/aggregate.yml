@@ -46,6 +46,7 @@ jobs:
           git add _posts/ seen.json _data/signals.yml
           if ! git diff --cached --quiet; then
             git commit -m "Update AI news gists - $(date +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           else
             echo "No changes to commit"
