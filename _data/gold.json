@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-04-16T18:18:11Z",
+  "updated_at": "2026-04-16T20:06:35Z",
   "spot": {
-    "price": 4811.5,
-    "change_pct": -0.25
+    "price": 4815.2,
+    "change_pct": -0.17
   },
-  "silver_price": 78.52,
-  "gold_silver_ratio": 61.3,
+  "silver_price": 78.81,
+  "gold_silver_ratio": 61.1,
   "gld_52w_high": 509.7,
   "gld_52w_low": 291.78,
   "gld_history": [
-    460.43,
     459.27,
     444.74,
     426.41,
@@ -31,55 +30,55 @@
     435.36,
     445.09,
     440.46,
-    439.83
+    440.12
   ],
   "etfs": [
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
       "desc": "Largest gold ETF (~$70B AUM); tracks London gold price fix",
-      "price": 439.83,
-      "change_pct": -0.14,
+      "price": 440.12,
+      "change_pct": -0.08,
       "prev_close": 440.46
     },
     {
       "symbol": "IAU",
       "name": "iShares Gold Trust",
       "desc": "Physical gold ETF with 0.25% expense ratio; second largest by AUM",
-      "price": 90.11,
-      "change_pct": -0.14,
+      "price": 90.18,
+      "change_pct": -0.07,
       "prev_close": 90.24
     },
     {
       "symbol": "GLDM",
       "name": "SPDR Gold MiniShares",
       "desc": "Lowest-cost large gold ETF at 0.10% expense ratio",
-      "price": 94.77,
-      "change_pct": -0.15,
+      "price": 94.84,
+      "change_pct": -0.07,
       "prev_close": 94.91
     },
     {
       "symbol": "SGOL",
       "name": "Aberdeen Physical Gold ETF",
       "desc": "Physical gold stored in Swiss and UK vaults",
-      "price": 45.61,
-      "change_pct": -0.15,
+      "price": 45.65,
+      "change_pct": -0.08,
       "prev_close": 45.68
     },
     {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "desc": "Tracks large gold mining companies, not physical gold",
-      "price": 97.92,
-      "change_pct": 0.15,
+      "price": 97.64,
+      "change_pct": -0.13,
       "prev_close": 97.77
     },
     {
       "symbol": "GDXJ",
       "name": "VanEck Junior Gold Miners",
       "desc": "Smaller mining stocks; higher risk/reward than major miners",
-      "price": 129.76,
-      "change_pct": 0.29,
+      "price": 129.43,
+      "change_pct": 0.03,
       "prev_close": 129.38
     }
   ]
