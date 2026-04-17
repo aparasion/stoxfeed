@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-17T12:03:48Z",
+  "updated_at": "2026-04-17T13:58:45Z",
   "spot": {
-    "price": 4825.4,
-    "change_pct": 0.36
+    "price": 4884.2,
+    "change_pct": 1.58
   },
-  "silver_price": 79.73,
-  "gold_silver_ratio": 60.5,
+  "silver_price": 81.86,
+  "gold_silver_ratio": 59.7,
   "gld_52w_high": 509.7,
   "gld_52w_low": 291.78,
   "gld_history": [
@@ -30,56 +30,57 @@
     435.36,
     445.09,
     440.46,
-    440.08
+    440.08,
+    447.86
   ],
   "etfs": [
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
       "desc": "Largest gold ETF (~$70B AUM); tracks London gold price fix",
-      "price": 440.08,
-      "change_pct": -0.09,
-      "prev_close": 440.46
+      "price": 447.86,
+      "change_pct": 1.76,
+      "prev_close": 440.12
     },
     {
       "symbol": "IAU",
       "name": "iShares Gold Trust",
       "desc": "Physical gold ETF with 0.25% expense ratio; second largest by AUM",
-      "price": 90.16,
-      "change_pct": -0.09,
-      "prev_close": 90.24
+      "price": 91.75,
+      "change_pct": 1.75,
+      "prev_close": 90.18
     },
     {
       "symbol": "GLDM",
       "name": "SPDR Gold MiniShares",
       "desc": "Lowest-cost large gold ETF at 0.10% expense ratio",
-      "price": 94.84,
-      "change_pct": -0.07,
-      "prev_close": 94.91
+      "price": 96.49,
+      "change_pct": 1.74,
+      "prev_close": 94.84
     },
     {
       "symbol": "SGOL",
       "name": "Aberdeen Physical Gold ETF",
       "desc": "Physical gold stored in Swiss and UK vaults",
-      "price": 45.65,
-      "change_pct": -0.07,
-      "prev_close": 45.68
+      "price": 46.44,
+      "change_pct": 1.75,
+      "prev_close": 45.65
     },
     {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "desc": "Tracks large gold mining companies, not physical gold",
-      "price": 97.66,
-      "change_pct": -0.11,
-      "prev_close": 97.77
+      "price": 100.91,
+      "change_pct": 3.35,
+      "prev_close": 97.64
     },
     {
       "symbol": "GDXJ",
       "name": "VanEck Junior Gold Miners",
       "desc": "Smaller mining stocks; higher risk/reward than major miners",
-      "price": 129.43,
-      "change_pct": 0.04,
-      "prev_close": 129.38
+      "price": 134.72,
+      "change_pct": 4.09,
+      "prev_close": 129.43
     }
   ]
 }
