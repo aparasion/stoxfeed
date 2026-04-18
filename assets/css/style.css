@@ -1818,6 +1818,10 @@ article.post h1 {
   line-height: 1.5;
 }
 
+.footer-social {
+  margin-top: 1rem;
+}
+
 .footer-nav-title {
   font-size: 0.75rem;
   font-weight: 700;
