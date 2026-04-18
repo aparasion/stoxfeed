@@ -2,13 +2,9 @@
 layout: page
 title: Contact
 permalink: /contact/
-nav: true
+nav: false
 nav_order: 8
 ---
-
-Have a tip, insight, correction, or contribution idea?
-
-Send a message below.
 
 <form action="https://formspree.io/f/xgoljzky"
       method="POST"
