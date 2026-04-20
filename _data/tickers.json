@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T09:18:47Z",
+  "updated_at": "2026-04-20T11:42:18Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -10,13 +10,6 @@
           "price": 710.14,
           "change_pct": 1.21,
           "prev_close": 701.66
-        },
-        {
-          "symbol": "QQQ",
-          "name": "Invesco Nasdaq 100 ETF",
-          "price": 648.85,
-          "change_pct": 1.31,
-          "prev_close": 640.47
         },
         {
           "symbol": "DIA",
@@ -35,9 +28,9 @@
         {
           "symbol": "VIX",
           "name": "CBOE Volatility Index",
-          "price": 17.48,
-          "change_pct": -2.56,
-          "prev_close": 17.94
+          "price": 19.47,
+          "change_pct": 11.38,
+          "prev_close": 17.48
         },
         {
           "symbol": "XLF",
@@ -59,60 +52,6 @@
           "price": 154.35,
           "change_pct": 1.53,
           "prev_close": 152.02
-        }
-      ]
-    },
-    {
-      "label": "Big Tech",
-      "tickers": [
-        {
-          "symbol": "AAPL",
-          "name": "Apple",
-          "price": 270.23,
-          "change_pct": 2.59,
-          "prev_close": 263.4
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft",
-          "price": 422.79,
-          "change_pct": 0.6,
-          "prev_close": 420.26
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "Alphabet",
-          "price": 341.68,
-          "change_pct": 1.68,
-          "prev_close": 336.02
-        },
-        {
-          "symbol": "AMZN",
-          "name": "Amazon",
-          "price": 250.56,
-          "change_pct": 0.34,
-          "prev_close": 249.7
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "price": 688.55,
-          "change_pct": 1.73,
-          "prev_close": 676.87
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "price": 201.68,
-          "change_pct": 1.68,
-          "prev_close": 198.35
-        },
-        {
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "price": 400.62,
-          "change_pct": 3.01,
-          "prev_close": 388.9
         }
       ]
     }
