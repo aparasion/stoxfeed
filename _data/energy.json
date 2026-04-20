@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T03:51:56Z",
-  "market_summary": "WTI crude slipped 12.8% to $82.59/bbl. Brent at $90.38/bbl (-8.7%). Henry Hub nat-gas fell 14.3% to $2.674/MMBtu. Energy sector (XLE) underperformed at -2.76%.",
+  "updated_at": "2026-04-20T06:27:16Z",
+  "market_summary": "WTI crude slipped 1.0% to $82.59/bbl. Brent at $90.38/bbl (+2.9%). Henry Hub nat-gas fell 11.5% to $2.674/MMBtu. Energy sector (XLE) underperformed at -2.76%.",
   "signals": [
     {
       "label": "Oil Range-Bound",
@@ -11,10 +11,9 @@
   "commodities": {
     "wti": {
       "price": 82.59,
-      "prev_close": 94.77,
-      "change_pct": -12.85,
+      "prev_close": 83.45,
+      "change_pct": -1.03,
       "history": [
-        94.77,
         83.45,
         87.25,
         95.73,
@@ -42,7 +41,7 @@
         91.28,
         91.29,
         94.69,
-        82.59
+        83.85
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -51,10 +50,9 @@
     },
     "brent": {
       "price": 90.38,
-      "prev_close": 98.96,
-      "change_pct": -8.67,
+      "prev_close": 87.8,
+      "change_pct": 2.94,
       "history": [
-        98.96,
         87.8,
         91.98,
         100.46,
@@ -91,10 +89,9 @@
     },
     "henry_hub": {
       "price": 2.674,
-      "prev_close": 3.12,
-      "change_pct": -14.29,
+      "prev_close": 3.02,
+      "change_pct": -11.46,
       "history": [
-        3.12,
         3.02,
         3.209,
         3.233,
