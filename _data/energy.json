@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T06:13:40Z",
-  "market_summary": "WTI crude slipped 1.0% to $86.35/bbl. Brent at $94.70/bbl (+3.0%). Henry Hub nat-gas fell 17.2% to $2.658/MMBtu. Energy sector (XLE) outperformed at +0.09%.",
+  "updated_at": "2026-04-21T09:02:35Z",
+  "market_summary": "WTI crude slipped 0.9% to $86.46/bbl. Brent at $90.09/bbl (-2.0%). Henry Hub nat-gas fell 17.0% to $2.663/MMBtu. Energy sector (XLE) outperformed at +0.09%.",
   "signals": [
     {
       "label": "Oil Range-Bound",
@@ -10,9 +10,9 @@
   ],
   "commodities": {
     "wti": {
-      "price": 86.35,
+      "price": 86.46,
       "prev_close": 87.25,
-      "change_pct": -1.03,
+      "change_pct": -0.91,
       "history": [
         87.25,
         95.73,
@@ -42,7 +42,7 @@
         94.69,
         83.85,
         89.61,
-        86.35
+        86.46
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -50,9 +50,9 @@
       "sector": "oil"
     },
     "brent": {
-      "price": 94.7,
+      "price": 90.09,
       "prev_close": 91.98,
-      "change_pct": 2.96,
+      "change_pct": -2.05,
       "history": [
         91.98,
         100.46,
@@ -82,7 +82,7 @@
         99.39,
         90.38,
         95.48,
-        94.7
+        90.09
       ],
       "symbol": "BZ=F",
       "name": "Brent Crude",
@@ -90,9 +90,9 @@
       "sector": "oil"
     },
     "henry_hub": {
-      "price": 2.658,
+      "price": 2.663,
       "prev_close": 3.209,
-      "change_pct": -17.17,
+      "change_pct": -17.01,
       "history": [
         3.209,
         3.233,
@@ -122,7 +122,7 @@
         2.647,
         2.674,
         2.689,
-        2.658
+        2.663
       ],
       "symbol": "NG=F",
       "name": "Natural Gas",
@@ -130,18 +130,18 @@
       "sector": "gas"
     },
     "heating_oil": {
-      "price": 3.409,
+      "price": 3.433,
       "prev_close": 3.439,
-      "change_pct": -0.89,
+      "change_pct": -0.19,
       "symbol": "HO=F",
       "name": "Heating Oil",
       "unit": "$/gal",
       "sector": "oil"
     },
     "gasoline": {
-      "price": 3.024,
+      "price": 3.032,
       "prev_close": 3.036,
-      "change_pct": -0.37,
+      "change_pct": -0.11,
       "symbol": "RB=F",
       "name": "Gasoline RBOB",
       "unit": "$/gal",
@@ -243,30 +243,6 @@
         "price": 92.01,
         "change_pct": 0.03,
         "prev_close": 91.98
-      },
-      {
-        "symbol": "ENPH",
-        "name": "Enphase Energy",
-        "category": "renewable",
-        "price": 33.88,
-        "change_pct": 4.31,
-        "prev_close": 32.48
-      },
-      {
-        "symbol": "FSLR",
-        "name": "First Solar",
-        "category": "renewable",
-        "price": 192.49,
-        "change_pct": 1.08,
-        "prev_close": 190.44
-      },
-      {
-        "symbol": "TSLA",
-        "name": "Tesla",
-        "category": "renewable",
-        "price": 392.5,
-        "change_pct": -2.03,
-        "prev_close": 400.62
       }
     ],
     "oilfield": [
@@ -375,30 +351,6 @@
         "price": 92.01,
         "change_pct": 0.03,
         "prev_close": 91.98
-      },
-      {
-        "symbol": "ENPH",
-        "name": "Enphase Energy",
-        "category": "renewable",
-        "price": 33.88,
-        "change_pct": 4.31,
-        "prev_close": 32.48
-      },
-      {
-        "symbol": "FSLR",
-        "name": "First Solar",
-        "category": "renewable",
-        "price": 192.49,
-        "change_pct": 1.08,
-        "prev_close": 190.44
-      },
-      {
-        "symbol": "TSLA",
-        "name": "Tesla",
-        "category": "renewable",
-        "price": 392.5,
-        "change_pct": -2.03,
-        "prev_close": 400.62
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T06:13:38Z",
+  "updated_at": "2026-04-21T09:02:31Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -10,13 +10,6 @@
           "price": 708.72,
           "change_pct": -0.2,
           "prev_close": 710.14
-        },
-        {
-          "symbol": "QQQ",
-          "name": "Invesco Nasdaq 100 ETF",
-          "price": 646.79,
-          "change_pct": -0.32,
-          "prev_close": 648.85
         },
         {
           "symbol": "DIA",
@@ -35,9 +28,9 @@
         {
           "symbol": "VIX",
           "name": "CBOE Volatility Index",
-          "price": 18.87,
-          "change_pct": 7.95,
-          "prev_close": 17.48
+          "price": 19.04,
+          "change_pct": 0.9,
+          "prev_close": 18.87
         },
         {
           "symbol": "XLF",
@@ -71,48 +64,6 @@
           "price": 273.05,
           "change_pct": 1.04,
           "prev_close": 270.23
-        },
-        {
-          "symbol": "MSFT",
-          "name": "Microsoft",
-          "price": 418.07,
-          "change_pct": -1.12,
-          "prev_close": 422.79
-        },
-        {
-          "symbol": "GOOGL",
-          "name": "Alphabet",
-          "price": 337.42,
-          "change_pct": -1.25,
-          "prev_close": 341.68
-        },
-        {
-          "symbol": "AMZN",
-          "name": "Amazon",
-          "price": 248.28,
-          "change_pct": -0.91,
-          "prev_close": 250.56
-        },
-        {
-          "symbol": "META",
-          "name": "Meta",
-          "price": 670.91,
-          "change_pct": -2.56,
-          "prev_close": 688.55
-        },
-        {
-          "symbol": "NVDA",
-          "name": "NVIDIA",
-          "price": 202.06,
-          "change_pct": 0.19,
-          "prev_close": 201.68
-        },
-        {
-          "symbol": "TSLA",
-          "name": "Tesla",
-          "price": 392.5,
-          "change_pct": -2.03,
-          "prev_close": 400.62
         }
       ]
     }
