@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T15:40:56Z",
-  "market_summary": "WTI crude slipped 3.7% to $92.22/bbl. Brent at $101.38/bbl (+0.9%). Henry Hub nat-gas fell 15.0% to $2.749/MMBtu. Energy sector (XLE) outperformed at +0.94%.",
+  "updated_at": "2026-04-22T17:14:49Z",
+  "market_summary": "WTI crude slipped 2.8% to $93.07/bbl. Brent at $101.81/bbl (+1.3%). Henry Hub nat-gas fell 15.7% to $2.726/MMBtu. Energy sector (XLE) outperformed at +0.88%.",
   "signals": [
     {
       "label": "Oil Spike Alert",
@@ -10,9 +10,9 @@
   ],
   "commodities": {
     "wti": {
-      "price": 92.22,
+      "price": 93.07,
       "prev_close": 95.73,
-      "change_pct": -3.67,
+      "change_pct": -2.78,
       "history": [
         95.73,
         98.71,
@@ -42,7 +42,7 @@
         83.85,
         89.61,
         92.13,
-        92.22
+        93.07
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -50,9 +50,9 @@
       "sector": "oil"
     },
     "brent": {
-      "price": 101.38,
+      "price": 101.81,
       "prev_close": 100.46,
-      "change_pct": 0.92,
+      "change_pct": 1.34,
       "history": [
         100.46,
         103.14,
@@ -82,7 +82,7 @@
         90.38,
         95.48,
         98.48,
-        101.38
+        101.81
       ],
       "symbol": "BZ=F",
       "name": "Brent Crude",
@@ -90,9 +90,9 @@
       "sector": "oil"
     },
     "henry_hub": {
-      "price": 2.749,
+      "price": 2.726,
       "prev_close": 3.233,
-      "change_pct": -14.97,
+      "change_pct": -15.68,
       "history": [
         3.233,
         3.131,
@@ -122,7 +122,7 @@
         2.674,
         2.689,
         2.697,
-        2.749
+        2.726
       ],
       "symbol": "NG=F",
       "name": "Natural Gas",
@@ -130,18 +130,18 @@
       "sector": "gas"
     },
     "heating_oil": {
-      "price": 3.789,
+      "price": 3.8,
       "prev_close": 3.636,
-      "change_pct": 4.2,
+      "change_pct": 4.51,
       "symbol": "HO=F",
       "name": "Heating Oil",
       "unit": "$/gal",
       "sector": "oil"
     },
     "gasoline": {
-      "price": 3.228,
+      "price": 3.232,
       "prev_close": 3.128,
-      "change_pct": 3.2,
+      "change_pct": 3.33,
       "symbol": "RB=F",
       "name": "Gasoline RBOB",
       "unit": "$/gal",
@@ -154,16 +154,16 @@
         "symbol": "XLE",
         "name": "Energy Select Sector ETF",
         "category": "etf",
-        "price": 56.395,
-        "change_pct": 0.94,
+        "price": 56.36,
+        "change_pct": 0.88,
         "prev_close": 55.87
       },
       {
         "symbol": "VDE",
         "name": "Vanguard Energy ETF",
         "category": "etf",
-        "price": 160.23,
-        "change_pct": 0.97,
+        "price": 160.1,
+        "change_pct": 0.89,
         "prev_close": 158.69
       }
     ],
@@ -172,40 +172,40 @@
         "symbol": "XOM",
         "name": "ExxonMobil",
         "category": "major",
-        "price": 148.73,
-        "change_pct": 0.25,
+        "price": 148.62,
+        "change_pct": 0.18,
         "prev_close": 148.36
       },
       {
         "symbol": "CVX",
         "name": "Chevron",
         "category": "major",
-        "price": 187.42,
-        "change_pct": 0.77,
+        "price": 187.07,
+        "change_pct": 0.59,
         "prev_close": 185.98
       },
       {
         "symbol": "SHEL",
         "name": "Shell plc",
         "category": "major",
-        "price": 89.07,
-        "change_pct": 0.46,
+        "price": 89.36,
+        "change_pct": 0.79,
         "prev_close": 88.66
       },
       {
         "symbol": "BP",
         "name": "BP plc",
         "category": "major",
-        "price": 46.345,
-        "change_pct": 0.95,
+        "price": 46.365,
+        "change_pct": 0.99,
         "prev_close": 45.91
       },
       {
         "symbol": "COP",
         "name": "ConocoPhillips",
         "category": "major",
-        "price": 122.31,
-        "change_pct": 1.7,
+        "price": 122.49,
+        "change_pct": 1.85,
         "prev_close": 120.26
       }
     ],
@@ -214,24 +214,24 @@
         "symbol": "EQT",
         "name": "EQT Corp (Nat. Gas)",
         "category": "gas",
-        "price": 58.385,
-        "change_pct": 2.47,
+        "price": 58.589,
+        "change_pct": 2.82,
         "prev_close": 56.98
       },
       {
         "symbol": "LNG",
         "name": "Cheniere Energy (LNG)",
         "category": "gas",
-        "price": 256.5,
-        "change_pct": -0.5,
+        "price": 256.76,
+        "change_pct": -0.4,
         "prev_close": 257.78
       },
       {
         "symbol": "RRC",
         "name": "Range Resources",
         "category": "gas",
-        "price": 42.535,
-        "change_pct": 2.08,
+        "price": 43.24,
+        "change_pct": 3.77,
         "prev_close": 41.67
       }
     ],
@@ -240,32 +240,32 @@
         "symbol": "NEE",
         "name": "NextEra Energy",
         "category": "renewable",
-        "price": 91.37,
-        "change_pct": 0.85,
+        "price": 90.99,
+        "change_pct": 0.43,
         "prev_close": 90.6
       },
       {
         "symbol": "ENPH",
         "name": "Enphase Energy",
         "category": "renewable",
-        "price": 35.05,
-        "change_pct": 4.25,
+        "price": 34.955,
+        "change_pct": 3.97,
         "prev_close": 33.62
       },
       {
         "symbol": "FSLR",
         "name": "First Solar",
         "category": "renewable",
-        "price": 188.79,
-        "change_pct": 1.17,
+        "price": 188.81,
+        "change_pct": 1.18,
         "prev_close": 186.61
       },
       {
         "symbol": "TSLA",
         "name": "Tesla",
         "category": "renewable",
-        "price": 390.243,
-        "change_pct": 0.99,
+        "price": 390.07,
+        "change_pct": 0.94,
         "prev_close": 386.42
       }
     ],
@@ -274,8 +274,8 @@
         "symbol": "SLB",
         "name": "SLB (Schlumberger)",
         "category": "oilfield",
-        "price": 54.535,
-        "change_pct": 3.34,
+        "price": 54.25,
+        "change_pct": 2.8,
         "prev_close": 52.77
       }
     ],
@@ -284,120 +284,120 @@
         "symbol": "XLE",
         "name": "Energy Select Sector ETF",
         "category": "etf",
-        "price": 56.395,
-        "change_pct": 0.94,
+        "price": 56.36,
+        "change_pct": 0.88,
         "prev_close": 55.87
       },
       {
         "symbol": "VDE",
         "name": "Vanguard Energy ETF",
         "category": "etf",
-        "price": 160.23,
-        "change_pct": 0.97,
+        "price": 160.1,
+        "change_pct": 0.89,
         "prev_close": 158.69
       },
       {
         "symbol": "XOM",
         "name": "ExxonMobil",
         "category": "major",
-        "price": 148.73,
-        "change_pct": 0.25,
+        "price": 148.62,
+        "change_pct": 0.18,
         "prev_close": 148.36
       },
       {
         "symbol": "CVX",
         "name": "Chevron",
         "category": "major",
-        "price": 187.42,
-        "change_pct": 0.77,
+        "price": 187.07,
+        "change_pct": 0.59,
         "prev_close": 185.98
       },
       {
         "symbol": "SHEL",
         "name": "Shell plc",
         "category": "major",
-        "price": 89.07,
-        "change_pct": 0.46,
+        "price": 89.36,
+        "change_pct": 0.79,
         "prev_close": 88.66
       },
       {
         "symbol": "BP",
         "name": "BP plc",
         "category": "major",
-        "price": 46.345,
-        "change_pct": 0.95,
+        "price": 46.365,
+        "change_pct": 0.99,
         "prev_close": 45.91
       },
       {
         "symbol": "COP",
         "name": "ConocoPhillips",
         "category": "major",
-        "price": 122.31,
-        "change_pct": 1.7,
+        "price": 122.49,
+        "change_pct": 1.85,
         "prev_close": 120.26
       },
       {
         "symbol": "SLB",
         "name": "SLB (Schlumberger)",
         "category": "oilfield",
-        "price": 54.535,
-        "change_pct": 3.34,
+        "price": 54.25,
+        "change_pct": 2.8,
         "prev_close": 52.77
       },
       {
         "symbol": "EQT",
         "name": "EQT Corp (Nat. Gas)",
         "category": "gas",
-        "price": 58.385,
-        "change_pct": 2.47,
+        "price": 58.589,
+        "change_pct": 2.82,
         "prev_close": 56.98
       },
       {
         "symbol": "LNG",
         "name": "Cheniere Energy (LNG)",
         "category": "gas",
-        "price": 256.5,
-        "change_pct": -0.5,
+        "price": 256.76,
+        "change_pct": -0.4,
         "prev_close": 257.78
       },
       {
         "symbol": "RRC",
         "name": "Range Resources",
         "category": "gas",
-        "price": 42.535,
-        "change_pct": 2.08,
+        "price": 43.24,
+        "change_pct": 3.77,
         "prev_close": 41.67
       },
       {
         "symbol": "NEE",
         "name": "NextEra Energy",
         "category": "renewable",
-        "price": 91.37,
-        "change_pct": 0.85,
+        "price": 90.99,
+        "change_pct": 0.43,
         "prev_close": 90.6
       },
       {
         "symbol": "ENPH",
         "name": "Enphase Energy",
         "category": "renewable",
-        "price": 35.05,
-        "change_pct": 4.25,
+        "price": 34.955,
+        "change_pct": 3.97,
         "prev_close": 33.62
       },
       {
         "symbol": "FSLR",
         "name": "First Solar",
         "category": "renewable",
-        "price": 188.79,
-        "change_pct": 1.17,
+        "price": 188.81,
+        "change_pct": 1.18,
         "prev_close": 186.61
       },
       {
         "symbol": "TSLA",
         "name": "Tesla",
         "category": "renewable",
-        "price": 390.243,
-        "change_pct": 0.99,
+        "price": 390.07,
+        "change_pct": 0.94,
         "prev_close": 386.42
       }
     ]
