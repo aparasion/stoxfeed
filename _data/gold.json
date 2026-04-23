@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-23T17:47:52Z",
+  "updated_at": "2026-04-23T19:40:59Z",
   "spot": {
-    "price": 4719.5,
-    "change_pct": -0.7
+    "price": 4716.5,
+    "change_pct": -0.77
   },
-  "silver_price": 75.36,
-  "gold_silver_ratio": 62.6,
+  "silver_price": 75.78,
+  "gold_silver_ratio": 62.2,
   "gld_52w_high": 509.7,
   "gld_52w_low": 291.78,
   "gld_history": [
@@ -31,55 +31,55 @@
     442.09,
     429.57,
     435.26,
-    429.74
+    430.89
   ],
   "etfs": [
     {
       "symbol": "GLD",
       "name": "SPDR Gold Shares",
       "desc": "Largest gold ETF (~$70B AUM); tracks London gold price fix",
-      "price": 429.72,
-      "change_pct": -1.27,
+      "price": 430.92,
+      "change_pct": -1.0,
       "prev_close": 435.26
     },
     {
       "symbol": "IAU",
       "name": "iShares Gold Trust",
       "desc": "Physical gold ETF with 0.25% expense ratio; second largest by AUM",
-      "price": 88.05,
-      "change_pct": -1.28,
+      "price": 88.3,
+      "change_pct": -1.0,
       "prev_close": 89.19
     },
     {
       "symbol": "GLDM",
       "name": "SPDR Gold MiniShares",
       "desc": "Lowest-cost large gold ETF at 0.10% expense ratio",
-      "price": 92.61,
-      "change_pct": -1.28,
+      "price": 92.86,
+      "change_pct": -1.01,
       "prev_close": 93.81
     },
     {
       "symbol": "SGOL",
       "name": "Aberdeen Physical Gold ETF",
       "desc": "Physical gold stored in Swiss and UK vaults",
-      "price": 44.56,
-      "change_pct": -1.28,
+      "price": 44.7,
+      "change_pct": -0.99,
       "prev_close": 45.14
     },
     {
       "symbol": "GDX",
       "name": "VanEck Gold Miners ETF",
       "desc": "Tracks large gold mining companies, not physical gold",
-      "price": 90.72,
-      "change_pct": -3.98,
+      "price": 91.77,
+      "change_pct": -2.87,
       "prev_close": 94.48
     },
     {
       "symbol": "GDXJ",
       "name": "VanEck Junior Gold Miners",
       "desc": "Smaller mining stocks; higher risk/reward than major miners",
-      "price": 119.83,
-      "change_pct": -4.7,
+      "price": 121.56,
+      "change_pct": -3.32,
       "prev_close": 125.73
     }
   ]
