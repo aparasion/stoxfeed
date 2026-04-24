@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T21:06:02Z",
-  "market_summary": "WTI crude gained 1.5% to $94.87/bbl. Brent at $99.85/bbl (-0.4%). Henry Hub nat-gas fell 11.1% to $2.689/MMBtu. Energy sector (XLE) underperformed at -0.19%.",
+  "updated_at": "2026-04-24T22:02:24Z",
+  "market_summary": "WTI crude gained 1.5% to $94.88/bbl. Brent at $99.78/bbl (-0.4%). Henry Hub nat-gas fell 11.1% to $2.689/MMBtu. Energy sector (XLE) underperformed at -0.19%.",
   "signals": [
     {
       "label": "Oil Spike Alert",
@@ -10,9 +10,9 @@
   ],
   "commodities": {
     "wti": {
-      "price": 94.87,
+      "price": 94.88,
       "prev_close": 93.5,
-      "change_pct": 1.47,
+      "change_pct": 1.48,
       "history": [
         93.5,
         96.21,
@@ -42,7 +42,7 @@
         92.13,
         92.96,
         95.85,
-        94.87
+        94.88
       ],
       "symbol": "CL=F",
       "name": "WTI Crude",
@@ -50,9 +50,9 @@
       "sector": "oil"
     },
     "brent": {
-      "price": 99.85,
+      "price": 99.78,
       "prev_close": 100.21,
-      "change_pct": -0.36,
+      "change_pct": -0.43,
       "history": [
         100.21,
         103.42,
@@ -82,7 +82,7 @@
         98.48,
         101.91,
         105.07,
-        99.85
+        99.78
       ],
       "symbol": "BZ=F",
       "name": "Brent Crude",
@@ -139,9 +139,9 @@
       "sector": "oil"
     },
     "gasoline": {
-      "price": 3.346,
+      "price": 3.347,
       "prev_close": 3.334,
-      "change_pct": 0.35,
+      "change_pct": 0.39,
       "symbol": "RB=F",
       "name": "Gasoline RBOB",
       "unit": "$/gal",
