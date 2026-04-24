@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:03:24Z",
+  "updated_at": "2026-04-24T21:05:58Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -7,15 +7,15 @@
         {
           "symbol": "SPY",
           "name": "SPDR S&P 500 ETF",
-          "price": 713.98,
-          "change_pct": 0.78,
+          "price": 713.94,
+          "change_pct": 0.77,
           "prev_close": 708.45
         },
         {
           "symbol": "QQQ",
           "name": "Invesco Nasdaq 100 ETF",
-          "price": 664.02,
-          "change_pct": 1.93,
+          "price": 663.88,
+          "change_pct": 1.91,
           "prev_close": 651.42
         },
         {
@@ -28,22 +28,22 @@
         {
           "symbol": "IWM",
           "name": "iShares Russell 2000 ETF",
-          "price": 276.64,
+          "price": 276.65,
           "change_pct": 0.41,
           "prev_close": 275.52
         },
         {
           "symbol": "VIX",
           "name": "CBOE Volatility Index",
-          "price": 18.63,
-          "change_pct": -3.52,
+          "price": 18.71,
+          "change_pct": -3.11,
           "prev_close": 19.31
         },
         {
           "symbol": "XLF",
           "name": "Financial Select Sector ETF",
-          "price": 51.45,
-          "change_pct": -0.68,
+          "price": 51.42,
+          "change_pct": -0.73,
           "prev_close": 51.8
         },
         {
@@ -56,8 +56,8 @@
         {
           "symbol": "XLK",
           "name": "Technology Select Sector ETF",
-          "price": 160.26,
-          "change_pct": 2.84,
+          "price": 160.22,
+          "change_pct": 2.81,
           "prev_close": 155.84
         }
       ]
@@ -75,7 +75,7 @@
         {
           "symbol": "MSFT",
           "name": "Microsoft",
-          "price": 424.6,
+          "price": 424.62,
           "change_pct": 2.13,
           "prev_close": 415.75
         },
@@ -96,14 +96,14 @@
         {
           "symbol": "META",
           "name": "Meta",
-          "price": 675.05,
+          "price": 675.03,
           "change_pct": 2.41,
           "prev_close": 659.15
         },
         {
           "symbol": "NVDA",
           "name": "NVIDIA",
-          "price": 208.26,
+          "price": 208.27,
           "change_pct": 4.32,
           "prev_close": 199.64
         },
