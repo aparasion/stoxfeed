@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T20:18:34Z",
+  "updated_at": "2026-04-27T22:06:52Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -7,8 +7,8 @@
         {
           "symbol": "SPY",
           "name": "SPDR S&P 500 ETF",
-          "price": 715.1,
-          "change_pct": 0.16,
+          "price": 715.17,
+          "change_pct": 0.17,
           "prev_close": 713.94
         },
         {
@@ -28,29 +28,29 @@
         {
           "symbol": "IWM",
           "name": "iShares Russell 2000 ETF",
-          "price": 277.06,
-          "change_pct": 0.15,
+          "price": 277.14,
+          "change_pct": 0.18,
           "prev_close": 276.65
         },
         {
           "symbol": "VIX",
           "name": "CBOE Volatility Index",
-          "price": 18.13,
-          "change_pct": -3.1,
+          "price": 18.02,
+          "change_pct": -3.69,
           "prev_close": 18.71
         },
         {
           "symbol": "XLF",
           "name": "Financial Select Sector ETF",
-          "price": 51.8,
-          "change_pct": 0.73,
+          "price": 51.81,
+          "change_pct": 0.76,
           "prev_close": 51.42
         },
         {
           "symbol": "XLE",
           "name": "Energy Select Sector ETF",
-          "price": 56.79,
-          "change_pct": -0.14,
+          "price": 56.77,
+          "change_pct": -0.18,
           "prev_close": 56.87
         },
         {
