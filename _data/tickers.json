@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T23:55:29Z",
+  "updated_at": "2026-04-27T03:59:43Z",
   "groups": [
     {
       "label": "Market Pulse",
@@ -14,9 +14,9 @@
         {
           "symbol": "QQQ",
           "name": "Invesco Nasdaq 100 ETF",
-          "price": 663.88,
-          "change_pct": 1.91,
-          "prev_close": 651.42
+          "price": 664.02,
+          "change_pct": 1.96,
+          "prev_close": 651.28
         },
         {
           "symbol": "DIA",
@@ -75,9 +75,9 @@
         {
           "symbol": "MSFT",
           "name": "Microsoft",
-          "price": 424.62,
-          "change_pct": 2.13,
-          "prev_close": 415.75
+          "price": 424.6,
+          "change_pct": 2.12,
+          "prev_close": 415.77
         },
         {
           "symbol": "GOOGL",
@@ -96,16 +96,16 @@
         {
           "symbol": "META",
           "name": "Meta",
-          "price": 675.03,
-          "change_pct": 2.41,
-          "prev_close": 659.15
+          "price": 675.05,
+          "change_pct": 2.42,
+          "prev_close": 659.13
         },
         {
           "symbol": "NVDA",
           "name": "NVIDIA",
-          "price": 208.27,
-          "change_pct": 4.32,
-          "prev_close": 199.64
+          "price": 208.26,
+          "change_pct": 4.31,
+          "prev_close": 199.65
         },
         {
           "symbol": "TSLA",
