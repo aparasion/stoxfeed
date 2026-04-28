@@ -5,7 +5,7 @@ lang: "en"
 author: "StoxFeed"
 og_locale: "en_US"
 twitter_username: "stoxfeed"
-social_image: "/assets/images/stoxfeed-logo.png"
+social_image: "/assets/images/socialcard.jpg"
 permalink: /articles/:year/:month/:day/:title.html
 
 collections:

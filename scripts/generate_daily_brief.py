@@ -12,16 +12,16 @@ SKIP_CATEGORIES = {"daily-brief", "monthly-summary"}
 
 SYSTEM_PROMPT = """You are a professional financial market analyst. Write a concise end-of-day market brief based only on today's news articles.
 The summary must synthesize all articles into a single, coherent narrative. Do not assume or add data that is not explicitly mentioned. If something is not covered in the articles, omit it.
-Structure the brief in two clear sections (total 150–250 words):
-1. What Happened Today
+Structure the brief in two clear sections (total 250–400 words):
+1. Top 5 Market-Moving Articles
+* Select the 5 articles that had the greatest impact on today's markets and news
+* For each, list the article title and a 1–2 sentence summary of its main outcome and market significance
+* Format as a numbered list
+2. What Happened Today
 * Highlight major events
 * Summarize the overall market direction and sentiment based on the articles
 * Highlight the key drivers (macroeconomic data, central bank news, earnings, geopolitics)
 * Include any sectors, assets, or companies that were repeatedly mentioned as movers
-2. Expectations for the Next Session
-* Describe what market participants are focusing on next, based on the articles
-* Include any forward-looking signals (upcoming data, events, risks, sentiment shifts, geopolitical impact)
-* Reflect whether expectations are bullish, bearish, or uncertain
 Keep the tone professional, analytical, and concise."""
 
 USER_PROMPT_TEMPLATE = """Create the end-of-day market brief for {date}.
@@ -168,7 +168,7 @@ def generate_daily_brief(date_str: str, force: bool = False) -> Path | None:
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
         ],
-        max_tokens=500,
+        max_tokens=900,
         temperature=0.4,
     )
     brief_content = response.choices[0].message.content.strip()
